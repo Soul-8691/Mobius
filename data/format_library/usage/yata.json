@@ -1,0 +1,12861 @@
+{
+	"decks_processed": 78,
+	"deck_types": {
+		"Tomato Control": {
+			"count": 29,
+			"main": [
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 87,
+					"copies": {
+						"3": 29
+					}
+				},
+				{
+					"name": "Mystic Tomato",
+					"count": 80,
+					"copies": {
+						"1": 2,
+						"2": 3,
+						"3": 24
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 55,
+					"copies": {
+						"1": 5,
+						"2": 19,
+						"3": 4
+					}
+				},
+				{
+					"name": "Gravekeeper's Spy",
+					"count": 37,
+					"copies": {
+						"2": 11,
+						"3": 5
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 30,
+					"copies": {
+						"1": 18,
+						"2": 6
+					}
+				},
+				{
+					"name": "Fiber Jar",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Sangan",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Witch of the Black Forest",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Graceful Charity",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Mirage of Nightmare",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Snatch Steal",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "The Forceful Sentry",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Call of the Haunted",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Ring of Destruction",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 28,
+					"copies": {
+						"1": 28
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 27,
+					"copies": {
+						"1": 27
+					}
+				},
+				{
+					"name": "Sinister Serpent",
+					"count": 26,
+					"copies": {
+						"1": 26
+					}
+				},
+				{
+					"name": "Delinquent Duo",
+					"count": 26,
+					"copies": {
+						"1": 26
+					}
+				},
+				{
+					"name": "Gemini Elf",
+					"count": 25,
+					"copies": {
+						"1": 6,
+						"2": 5,
+						"3": 3
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 25,
+					"copies": {
+						"1": 25
+					}
+				},
+				{
+					"name": "Don Zaloog",
+					"count": 24,
+					"copies": {
+						"1": 14,
+						"2": 5
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 24,
+					"copies": {
+						"1": 18,
+						"2": 3
+					}
+				},
+				{
+					"name": "Injection Fairy Lily",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Painful Choice",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Jar of Greed",
+					"count": 17,
+					"copies": {
+						"1": 7,
+						"2": 5
+					}
+				},
+				{
+					"name": "Bazoo the Soul-Eater",
+					"count": 17,
+					"copies": {
+						"1": 13,
+						"2": 2
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 14,
+					"copies": {
+						"1": 14
+					}
+				},
+				{
+					"name": "Premature Burial",
+					"count": 13,
+					"copies": {
+						"1": 13
+					}
+				},
+				{
+					"name": "Newdoria",
+					"count": 13,
+					"copies": {
+						"1": 13
+					}
+				},
+				{
+					"name": "Yata-Garasu",
+					"count": 13,
+					"copies": {
+						"1": 13
+					}
+				},
+				{
+					"name": "Chain Energy",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Morphing Jar",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Magic Cylinder",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Cyber Jar",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Gravekeeper's Guard",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "4-Starred Ladybug of Doom",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Time Seal",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Raigeki Break",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Ceasefire",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Ruler Ha Des",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Lesser Fiend",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Creature Swap",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Zombyra the Dark",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Scapegoat",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Dust Tornado",
+					"count": 36,
+					"copies": {
+						"1": 6,
+						"2": 15
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 35,
+					"copies": {
+						"1": 17,
+						"2": 9
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 23,
+					"copies": {
+						"1": 23
+					}
+				},
+				{
+					"name": "Zombyra the Dark",
+					"count": 16,
+					"copies": {
+						"1": 14,
+						"2": 1
+					}
+				},
+				{
+					"name": "Gemini Elf",
+					"count": 15,
+					"copies": {
+						"1": 9,
+						"2": 3
+					}
+				},
+				{
+					"name": "Asura Priest",
+					"count": 15,
+					"copies": {
+						"1": 15
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 15,
+					"copies": {
+						"1": 15
+					}
+				},
+				{
+					"name": "Gravekeeper's Spy",
+					"count": 15,
+					"copies": {
+						"1": 2,
+						"2": 5,
+						"3": 1
+					}
+				},
+				{
+					"name": "Scapegoat",
+					"count": 14,
+					"copies": {
+						"1": 6,
+						"2": 4
+					}
+				},
+				{
+					"name": "Yata-Garasu",
+					"count": 12,
+					"copies": {
+						"1": 12
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 12,
+					"copies": {
+						"1": 9,
+						"3": 1
+					}
+				},
+				{
+					"name": "Ceasefire",
+					"count": 12,
+					"copies": {
+						"1": 12
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 11,
+					"copies": {
+						"1": 7,
+						"2": 2
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 10,
+					"copies": {
+						"1": 8,
+						"2": 1
+					}
+				},
+				{
+					"name": "Cure Mermaid",
+					"count": 10,
+					"copies": {
+						"1": 8,
+						"2": 1
+					}
+				},
+				{
+					"name": "King Tiger Wanghu",
+					"count": 10,
+					"copies": {
+						"1": 3,
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Creature Swap",
+					"count": 10,
+					"copies": {
+						"1": 6,
+						"2": 2
+					}
+				},
+				{
+					"name": "Solemn Wishes",
+					"count": 9,
+					"copies": {
+						"1": 3,
+						"2": 3
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 9,
+					"copies": {
+						"1": 6,
+						"3": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 9,
+					"copies": {
+						"2": 3,
+						"3": 1
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 8,
+					"copies": {
+						"1": 4,
+						"2": 2
+					}
+				},
+				{
+					"name": "Don Zaloog",
+					"count": 7,
+					"copies": {
+						"1": 3,
+						"2": 2
+					}
+				},
+				{
+					"name": "Metamorphosis",
+					"count": 7,
+					"copies": {
+						"1": 2,
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Time Seal",
+					"count": 7,
+					"copies": {
+						"1": 1,
+						"2": 3
+					}
+				},
+				{
+					"name": "Dark Ruler Ha Des",
+					"count": 7,
+					"copies": {
+						"1": 5,
+						"2": 1
+					}
+				},
+				{
+					"name": "Reinforcement of the Army",
+					"count": 6,
+					"copies": {
+						"1": 4,
+						"2": 1
+					}
+				},
+				{
+					"name": "Magic Cylinder",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Cannon Soldier",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Morphing Jar",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Upstart Goblin",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Newdoria",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Goblin Attack Force",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Airknight Parshath",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Drop Off",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Seven Tools of the Bandit",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Gravekeeper's Spear Soldier",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Delinquent Duo",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Injection Fairy Lily",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Bazoo the Soul-Eater",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Painful Choice",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Guardian Sphinx",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Cyber Jar",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Raigeki Break",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Dice Jar",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Gravekeeper's Guard",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Jar of Greed",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Masked Sorcerer",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Marauding Captain",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sasuke Samurai",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mystic Tomato",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Graverobber",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gravekeeper's Chief",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "4-Starred Ladybug of Doom",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "White Magical Hat",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Spear Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Thousand-Eyes Restrict",
+					"count": 66,
+					"copies": {
+						"1": 6,
+						"3": 20
+					}
+				},
+				{
+					"name": "Dark Balter the Terrible",
+					"count": 44,
+					"copies": {
+						"1": 10,
+						"2": 2,
+						"3": 10
+					}
+				},
+				{
+					"name": "Ryu Senshi",
+					"count": 44,
+					"copies": {
+						"1": 10,
+						"2": 2,
+						"3": 10
+					}
+				},
+				{
+					"name": "Fiend Skull Dragon",
+					"count": 35,
+					"copies": {
+						"1": 11,
+						"3": 8
+					}
+				},
+				{
+					"name": "Black Skull Dragon",
+					"count": 24,
+					"copies": {
+						"1": 9,
+						"3": 5
+					}
+				},
+				{
+					"name": "The Last Warrior from Another Planet",
+					"count": 23,
+					"copies": {
+						"1": 11,
+						"3": 4
+					}
+				},
+				{
+					"name": "Reaper on the Nightmare",
+					"count": 23,
+					"copies": {
+						"1": 9,
+						"2": 1,
+						"3": 4
+					}
+				},
+				{
+					"name": "Gaia the Dragon Champion",
+					"count": 21,
+					"copies": {
+						"1": 6,
+						"3": 5
+					}
+				},
+				{
+					"name": "Dragoness the Wicked Knight",
+					"count": 17,
+					"copies": {
+						"1": 11,
+						"3": 2
+					}
+				},
+				{
+					"name": "Darkfire Dragon",
+					"count": 10,
+					"copies": {
+						"1": 10
+					}
+				},
+				{
+					"name": "Twin-Headed Thunder Dragon",
+					"count": 10,
+					"copies": {
+						"1": 7,
+						"3": 1
+					}
+				},
+				{
+					"name": "Musician King",
+					"count": 10,
+					"copies": {
+						"1": 7,
+						"3": 1
+					}
+				},
+				{
+					"name": "Flame Swordsman",
+					"count": 8,
+					"copies": {
+						"1": 2,
+						"3": 2
+					}
+				},
+				{
+					"name": "St. Joan",
+					"count": 8,
+					"copies": {
+						"1": 2,
+						"3": 2
+					}
+				},
+				{
+					"name": "Empress Judge",
+					"count": 8,
+					"copies": {
+						"1": 5,
+						"3": 1
+					}
+				},
+				{
+					"name": "Fusionist",
+					"count": 7,
+					"copies": {
+						"1": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Roaring Ocean Snake",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Karbonala Warrior",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Giltia the D. Knight",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Labyrinth Tank",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Thousand Dragon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Flame Ghost",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Flower Wolf",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Skull Knight",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Bickuribox",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Charubin the Fire Knight",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Cyber Saurus",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Super Robolady",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Super Roboyarou",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 87,
+					"copies": {
+						"3": 29
+					}
+				},
+				{
+					"name": "Mystic Tomato",
+					"count": 81,
+					"copies": {
+						"1": 2,
+						"2": 2,
+						"3": 25
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 67,
+					"copies": {
+						"1": 2,
+						"2": 16,
+						"3": 11
+					}
+				},
+				{
+					"name": "Gravekeeper's Spy",
+					"count": 52,
+					"copies": {
+						"2": 14,
+						"3": 8
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 49,
+					"copies": {
+						"1": 7,
+						"2": 21
+					}
+				},
+				{
+					"name": "Gemini Elf",
+					"count": 40,
+					"copies": {
+						"1": 12,
+						"2": 8,
+						"3": 4
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 38,
+					"copies": {
+						"1": 20,
+						"2": 9
+					}
+				},
+				{
+					"name": "Dust Tornado",
+					"count": 36,
+					"copies": {
+						"1": 6,
+						"2": 15
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 32,
+					"copies": {
+						"1": 20,
+						"2": 6
+					}
+				},
+				{
+					"name": "Don Zaloog",
+					"count": 31,
+					"copies": {
+						"1": 14,
+						"2": 7,
+						"3": 1
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Fiber Jar",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Sangan",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Witch of the Black Forest",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Delinquent Duo",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Graceful Charity",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Mirage of Nightmare",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Snatch Steal",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "The Forceful Sentry",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Call of the Haunted",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Ring of Destruction",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 27,
+					"copies": {
+						"1": 27
+					}
+				},
+				{
+					"name": "Sinister Serpent",
+					"count": 26,
+					"copies": {
+						"1": 26
+					}
+				},
+				{
+					"name": "Injection Fairy Lily",
+					"count": 25,
+					"copies": {
+						"1": 25
+					}
+				},
+				{
+					"name": "Painful Choice",
+					"count": 25,
+					"copies": {
+						"1": 25
+					}
+				},
+				{
+					"name": "Yata-Garasu",
+					"count": 25,
+					"copies": {
+						"1": 25
+					}
+				},
+				{
+					"name": "Bazoo the Soul-Eater",
+					"count": 20,
+					"copies": {
+						"1": 16,
+						"2": 2
+					}
+				},
+				{
+					"name": "Jar of Greed",
+					"count": 19,
+					"copies": {
+						"1": 5,
+						"2": 7
+					}
+				},
+				{
+					"name": "Zombyra the Dark",
+					"count": 17,
+					"copies": {
+						"1": 15,
+						"2": 1
+					}
+				},
+				{
+					"name": "Newdoria",
+					"count": 17,
+					"copies": {
+						"1": 17
+					}
+				},
+				{
+					"name": "Asura Priest",
+					"count": 15,
+					"copies": {
+						"1": 15
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 15,
+					"copies": {
+						"1": 15
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 15,
+					"copies": {
+						"1": 9,
+						"3": 2
+					}
+				},
+				{
+					"name": "Scapegoat",
+					"count": 15,
+					"copies": {
+						"1": 7,
+						"2": 4
+					}
+				},
+				{
+					"name": "Premature Burial",
+					"count": 13,
+					"copies": {
+						"1": 13
+					}
+				},
+				{
+					"name": "Ceasefire",
+					"count": 13,
+					"copies": {
+						"1": 13
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 11,
+					"copies": {
+						"1": 7,
+						"2": 2
+					}
+				},
+				{
+					"name": "Creature Swap",
+					"count": 11,
+					"copies": {
+						"1": 7,
+						"2": 2
+					}
+				},
+				{
+					"name": "Magic Cylinder",
+					"count": 10,
+					"copies": {
+						"1": 10
+					}
+				},
+				{
+					"name": "Cure Mermaid",
+					"count": 10,
+					"copies": {
+						"1": 8,
+						"2": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 10,
+					"copies": {
+						"2": 2,
+						"3": 2
+					}
+				},
+				{
+					"name": "King Tiger Wanghu",
+					"count": 10,
+					"copies": {
+						"1": 3,
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Solemn Wishes",
+					"count": 9,
+					"copies": {
+						"1": 3,
+						"2": 3
+					}
+				},
+				{
+					"name": "Time Seal",
+					"count": 9,
+					"copies": {
+						"1": 3,
+						"2": 3
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 9,
+					"copies": {
+						"1": 6,
+						"3": 1
+					}
+				},
+				{
+					"name": "Chain Energy",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Morphing Jar",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Dark Ruler Ha Des",
+					"count": 8,
+					"copies": {
+						"1": 4,
+						"2": 2
+					}
+				},
+				{
+					"name": "Metamorphosis",
+					"count": 7,
+					"copies": {
+						"1": 2,
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Reinforcement of the Army",
+					"count": 6,
+					"copies": {
+						"1": 4,
+						"2": 1
+					}
+				},
+				{
+					"name": "Cannon Soldier",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Cyber Jar",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Upstart Goblin",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Raigeki Break",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Gravekeeper's Guard",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Goblin Attack Force",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Airknight Parshath",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Drop Off",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Seven Tools of the Bandit",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Gravekeeper's Spear Soldier",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "4-Starred Ladybug of Doom",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Guardian Sphinx",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Dice Jar",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Masked Sorcerer",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Marauding Captain",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sasuke Samurai",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Graverobber",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gravekeeper's Chief",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "White Magical Hat",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Lesser Fiend",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Spear Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Warrior Tomato Control": {
+			"count": 22,
+			"main": [
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 65,
+					"copies": {
+						"2": 1,
+						"3": 21
+					}
+				},
+				{
+					"name": "Mystic Tomato",
+					"count": 64,
+					"copies": {
+						"2": 2,
+						"3": 20
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 40,
+					"copies": {
+						"1": 5,
+						"2": 13,
+						"3": 3
+					}
+				},
+				{
+					"name": "Don Zaloog",
+					"count": 36,
+					"copies": {
+						"1": 8,
+						"2": 14
+					}
+				},
+				{
+					"name": "Reinforcement of the Army",
+					"count": 26,
+					"copies": {
+						"1": 18,
+						"2": 4
+					}
+				},
+				{
+					"name": "Gemini Elf",
+					"count": 25,
+					"copies": {
+						"1": 3,
+						"2": 11
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Sangan",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 22,
+					"copies": {
+						"1": 20,
+						"2": 1
+					}
+				},
+				{
+					"name": "Witch of the Black Forest",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Graceful Charity",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "The Forceful Sentry",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Call of the Haunted",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Ring of Destruction",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Injection Fairy Lily",
+					"count": 21,
+					"copies": {
+						"1": 21
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 21,
+					"copies": {
+						"1": 21
+					}
+				},
+				{
+					"name": "Sinister Serpent",
+					"count": 21,
+					"copies": {
+						"1": 21
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 21,
+					"copies": {
+						"1": 21
+					}
+				},
+				{
+					"name": "Mirage of Nightmare",
+					"count": 21,
+					"copies": {
+						"1": 21
+					}
+				},
+				{
+					"name": "Snatch Steal",
+					"count": 21,
+					"copies": {
+						"1": 21
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 21,
+					"copies": {
+						"1": 21
+					}
+				},
+				{
+					"name": "Fiber Jar",
+					"count": 20,
+					"copies": {
+						"1": 20
+					}
+				},
+				{
+					"name": "Zombyra the Dark",
+					"count": 20,
+					"copies": {
+						"1": 18,
+						"2": 1
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 20,
+					"copies": {
+						"1": 20
+					}
+				},
+				{
+					"name": "Delinquent Duo",
+					"count": 20,
+					"copies": {
+						"1": 20
+					}
+				},
+				{
+					"name": "Painful Choice",
+					"count": 16,
+					"copies": {
+						"1": 16
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 13,
+					"copies": {
+						"1": 9,
+						"2": 2
+					}
+				},
+				{
+					"name": "Yata-Garasu",
+					"count": 13,
+					"copies": {
+						"1": 13
+					}
+				},
+				{
+					"name": "Gravekeeper's Spy",
+					"count": 10,
+					"copies": {
+						"2": 5
+					}
+				},
+				{
+					"name": "Jar of Greed",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "Premature Burial",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Bazoo the Soul-Eater",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Creature Swap",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Scapegoat",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Electric Snake",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Goblin Attack Force",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "King Tiger Wanghu",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Magic Cylinder",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Newdoria",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Nobleman of Crossout",
+					"count": 30,
+					"copies": {
+						"1": 10,
+						"2": 10
+					}
+				},
+				{
+					"name": "Electric Snake",
+					"count": 22,
+					"copies": {
+						"1": 2,
+						"2": 1,
+						"3": 6
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 21,
+					"copies": {
+						"1": 21
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 20,
+					"copies": {
+						"1": 2,
+						"3": 6
+					}
+				},
+				{
+					"name": "King Tiger Wanghu",
+					"count": 19,
+					"copies": {
+						"2": 8,
+						"3": 1
+					}
+				},
+				{
+					"name": "Dust Tornado",
+					"count": 18,
+					"copies": {
+						"1": 5,
+						"2": 5,
+						"3": 1
+					}
+				},
+				{
+					"name": "Zombyra the Dark",
+					"count": 18,
+					"copies": {
+						"1": 4,
+						"2": 7
+					}
+				},
+				{
+					"name": "Scapegoat",
+					"count": 13,
+					"copies": {
+						"1": 13
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 11,
+					"copies": {
+						"1": 7,
+						"2": 2
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 11,
+					"copies": {
+						"1": 7,
+						"2": 2
+					}
+				},
+				{
+					"name": "Ceasefire",
+					"count": 11,
+					"copies": {
+						"1": 11
+					}
+				},
+				{
+					"name": "Gravekeeper's Spy",
+					"count": 10,
+					"copies": {
+						"2": 5
+					}
+				},
+				{
+					"name": "Gemini Elf",
+					"count": 9,
+					"copies": {
+						"1": 7,
+						"2": 1
+					}
+				},
+				{
+					"name": "4-Starred Ladybug of Doom",
+					"count": 9,
+					"copies": {
+						"1": 3,
+						"2": 3
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 9,
+					"copies": {
+						"1": 9
+					}
+				},
+				{
+					"name": "Dark Ruler Ha Des",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Yata-Garasu",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Sasuke Samurai",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Bazoo the Soul-Eater",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Painful Choice",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Morphing Jar",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Time Seal",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Trap Dustshoot",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Raigeki Break",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Cyber Jar",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Reinforcement of the Army",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Premature Burial",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Asura Priest",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Delinquent Duo",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Airknight Parshath",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Seven Tools of the Bandit",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Fiber Jar",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Cold Wave",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Creature Swap",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Marauding Captain",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Morphing Jar #2",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Metamorphosis",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Solemn Wishes",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sinister Serpent",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Guardian Sphinx",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Injection Fairy Lily",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Jar of Greed",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Magic Cylinder",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Don Zaloog",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mirage of Nightmare",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dice Jar",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Snatch Steal",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Thousand-Eyes Restrict",
+					"count": 49,
+					"copies": {
+						"1": 4,
+						"3": 15
+					}
+				},
+				{
+					"name": "Ryu Senshi",
+					"count": 40,
+					"copies": {
+						"1": 6,
+						"2": 8,
+						"3": 6
+					}
+				},
+				{
+					"name": "Reaper on the Nightmare",
+					"count": 37,
+					"copies": {
+						"1": 6,
+						"2": 8,
+						"3": 5
+					}
+				},
+				{
+					"name": "Dark Balter the Terrible",
+					"count": 35,
+					"copies": {
+						"1": 6,
+						"2": 7,
+						"3": 5
+					}
+				},
+				{
+					"name": "Fiend Skull Dragon",
+					"count": 35,
+					"copies": {
+						"1": 6,
+						"2": 7,
+						"3": 5
+					}
+				},
+				{
+					"name": "The Last Warrior from Another Planet",
+					"count": 20,
+					"copies": {
+						"1": 6,
+						"2": 7
+					}
+				},
+				{
+					"name": "Black Skull Dragon",
+					"count": 15,
+					"copies": {
+						"1": 12,
+						"3": 1
+					}
+				},
+				{
+					"name": "St. Joan",
+					"count": 14,
+					"copies": {
+						"1": 11,
+						"3": 1
+					}
+				},
+				{
+					"name": "Gaia the Dragon Champion",
+					"count": 10,
+					"copies": {
+						"1": 4,
+						"3": 2
+					}
+				},
+				{
+					"name": "Dragoness the Wicked Knight",
+					"count": 8,
+					"copies": {
+						"1": 6,
+						"2": 1
+					}
+				},
+				{
+					"name": "Bickuribox",
+					"count": 7,
+					"copies": {
+						"1": 4,
+						"3": 1
+					}
+				},
+				{
+					"name": "Flame Swordsman",
+					"count": 7,
+					"copies": {
+						"1": 4,
+						"3": 1
+					}
+				},
+				{
+					"name": "Twin-Headed Thunder Dragon",
+					"count": 5,
+					"copies": {
+						"1": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Darkfire Dragon",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Charubin the Fire Knight",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Cyber Saurus",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Empress Judge",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Labyrinth Tank",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Thousand Dragon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Karbonala Warrior",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Roaring Ocean Snake",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Metal Dragon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Super Robolady",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Super Roboyarou",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Musician King",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 66,
+					"copies": {
+						"3": 22
+					}
+				},
+				{
+					"name": "Mystic Tomato",
+					"count": 64,
+					"copies": {
+						"2": 2,
+						"3": 20
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 44,
+					"copies": {
+						"1": 3,
+						"2": 16,
+						"3": 3
+					}
+				},
+				{
+					"name": "Zombyra the Dark",
+					"count": 38,
+					"copies": {
+						"1": 10,
+						"2": 2,
+						"3": 8
+					}
+				},
+				{
+					"name": "Don Zaloog",
+					"count": 37,
+					"copies": {
+						"1": 7,
+						"2": 15
+					}
+				},
+				{
+					"name": "Gemini Elf",
+					"count": 34,
+					"copies": {
+						"1": 6,
+						"2": 11,
+						"3": 2
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 34,
+					"copies": {
+						"1": 10,
+						"2": 12
+					}
+				},
+				{
+					"name": "Reinforcement of the Army",
+					"count": 29,
+					"copies": {
+						"1": 15,
+						"2": 7
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 25,
+					"copies": {
+						"1": 19,
+						"2": 3
+					}
+				},
+				{
+					"name": "Electric Snake",
+					"count": 24,
+					"copies": {
+						"1": 2,
+						"2": 2,
+						"3": 6
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Fiber Jar",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Injection Fairy Lily",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Sangan",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Sinister Serpent",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Witch of the Black Forest",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Delinquent Duo",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Graceful Charity",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Mirage of Nightmare",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Snatch Steal",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "The Forceful Sentry",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Call of the Haunted",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Ring of Destruction",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 22,
+					"copies": {
+						"1": 8,
+						"2": 7
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "King Tiger Wanghu",
+					"count": 21,
+					"copies": {
+						"2": 9,
+						"3": 1
+					}
+				},
+				{
+					"name": "Gravekeeper's Spy",
+					"count": 20,
+					"copies": {
+						"2": 10
+					}
+				},
+				{
+					"name": "Painful Choice",
+					"count": 20,
+					"copies": {
+						"1": 20
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 20,
+					"copies": {
+						"1": 2,
+						"3": 6
+					}
+				},
+				{
+					"name": "Yata-Garasu",
+					"count": 19,
+					"copies": {
+						"1": 19
+					}
+				},
+				{
+					"name": "Dust Tornado",
+					"count": 18,
+					"copies": {
+						"1": 5,
+						"2": 5,
+						"3": 1
+					}
+				},
+				{
+					"name": "Scapegoat",
+					"count": 16,
+					"copies": {
+						"1": 13,
+						"3": 1
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 12,
+					"copies": {
+						"1": 6,
+						"2": 3
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 11,
+					"copies": {
+						"1": 7,
+						"2": 2
+					}
+				},
+				{
+					"name": "Ceasefire",
+					"count": 11,
+					"copies": {
+						"1": 11
+					}
+				},
+				{
+					"name": "Bazoo the Soul-Eater",
+					"count": 9,
+					"copies": {
+						"1": 9
+					}
+				},
+				{
+					"name": "4-Starred Ladybug of Doom",
+					"count": 9,
+					"copies": {
+						"1": 3,
+						"2": 3
+					}
+				},
+				{
+					"name": "Premature Burial",
+					"count": 9,
+					"copies": {
+						"1": 9
+					}
+				},
+				{
+					"name": "Dark Ruler Ha Des",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Jar of Greed",
+					"count": 7,
+					"copies": {
+						"1": 3,
+						"2": 2
+					}
+				},
+				{
+					"name": "Sasuke Samurai",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Creature Swap",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Morphing Jar",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Time Seal",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Trap Dustshoot",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Raigeki Break",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Cyber Jar",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Asura Priest",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Magic Cylinder",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Airknight Parshath",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Goblin Attack Force",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Seven Tools of the Bandit",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Cold Wave",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Marauding Captain",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Morphing Jar #2",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Metamorphosis",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Solemn Wishes",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Newdoria",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Guardian Sphinx",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dice Jar",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Gearfried": {
+			"count": 8,
+			"main": [
+				{
+					"name": "Gearfried the Iron Knight",
+					"count": 24,
+					"copies": {
+						"3": 8
+					}
+				},
+				{
+					"name": "Blast with Chain",
+					"count": 24,
+					"copies": {
+						"3": 8
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 23,
+					"copies": {
+						"2": 1,
+						"3": 7
+					}
+				},
+				{
+					"name": "Gemini Elf",
+					"count": 18,
+					"copies": {
+						"1": 1,
+						"2": 1,
+						"3": 5
+					}
+				},
+				{
+					"name": "Reinforcement of the Army",
+					"count": 16,
+					"copies": {
+						"2": 8
+					}
+				},
+				{
+					"name": "Don Zaloog",
+					"count": 12,
+					"copies": {
+						"1": 2,
+						"2": 5
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Witch of the Black Forest",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Delinquent Duo",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Graceful Charity",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Snatch Steal",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "The Forceful Sentry",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Call of the Haunted",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Ring of Destruction",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Dust Tornado",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Mirage of Nightmare",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Injection Fairy Lily",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Zombyra the Dark",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Sangan",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Goblin Attack Force",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "King Tiger Wanghu",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Yata-Garasu",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Sinister Serpent",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Ceasefire",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Magic Drain",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Trap Dustshoot",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mirror Wall",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Gravekeeper's Spy",
+					"count": 22,
+					"copies": {
+						"2": 2,
+						"3": 6
+					}
+				},
+				{
+					"name": "King Tiger Wanghu",
+					"count": 16,
+					"copies": {
+						"1": 2,
+						"2": 1,
+						"3": 4
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 13,
+					"copies": {
+						"2": 5,
+						"3": 1
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 9,
+					"copies": {
+						"1": 7,
+						"2": 1
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Zombyra the Dark",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Electric Snake",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Dust Tornado",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Trap Dustshoot",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Cyber Jar",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Fiber Jar",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "4-Starred Ladybug of Doom",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Ruler Ha Des",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Yata-Garasu",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gemini Elf",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mask of Darkness",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sangan",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Painful Choice",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Time Seal",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Morphing Jar",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Barrel Behind the Door",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Thousand-Eyes Restrict",
+					"count": 16,
+					"copies": {
+						"2": 2,
+						"3": 4
+					}
+				},
+				{
+					"name": "Ryu Senshi",
+					"count": 11,
+					"copies": {
+						"2": 1,
+						"3": 3
+					}
+				},
+				{
+					"name": "Dark Balter the Terrible",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Fiend Skull Dragon",
+					"count": 7,
+					"copies": {
+						"1": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Gaia the Dragon Champion",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Thousand Dragon",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Twin-Headed Thunder Dragon",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "The Last Warrior from Another Planet",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Bickuribox",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Labyrinth Tank",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "St. Joan",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Flame Swordsman",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Black Skull Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Darkfire Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dragoness the Wicked Knight",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Empress Judge",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Reaper on the Nightmare",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Gearfried the Iron Knight",
+					"count": 24,
+					"copies": {
+						"3": 8
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 24,
+					"copies": {
+						"3": 8
+					}
+				},
+				{
+					"name": "Blast with Chain",
+					"count": 24,
+					"copies": {
+						"3": 8
+					}
+				},
+				{
+					"name": "Gravekeeper's Spy",
+					"count": 22,
+					"copies": {
+						"2": 2,
+						"3": 6
+					}
+				},
+				{
+					"name": "Gemini Elf",
+					"count": 19,
+					"copies": {
+						"2": 2,
+						"3": 5
+					}
+				},
+				{
+					"name": "King Tiger Wanghu",
+					"count": 19,
+					"copies": {
+						"1": 2,
+						"2": 1,
+						"3": 5
+					}
+				},
+				{
+					"name": "Reinforcement of the Army",
+					"count": 16,
+					"copies": {
+						"2": 8
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 16,
+					"copies": {
+						"2": 8
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 15,
+					"copies": {
+						"2": 3,
+						"3": 3
+					}
+				},
+				{
+					"name": "Don Zaloog",
+					"count": 12,
+					"copies": {
+						"1": 2,
+						"2": 5
+					}
+				},
+				{
+					"name": "Zombyra the Dark",
+					"count": 11,
+					"copies": {
+						"1": 5,
+						"2": 3
+					}
+				},
+				{
+					"name": "Dust Tornado",
+					"count": 11,
+					"copies": {
+						"1": 3,
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Witch of the Black Forest",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Delinquent Duo",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Graceful Charity",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Snatch Steal",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "The Forceful Sentry",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Call of the Haunted",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Ring of Destruction",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 7,
+					"copies": {
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Mirage of Nightmare",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Injection Fairy Lily",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Sangan",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 5,
+					"copies": {
+						"1": 3,
+						"2": 1
+					}
+				},
+				{
+					"name": "Yata-Garasu",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Electric Snake",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Trap Dustshoot",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Goblin Attack Force",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cyber Jar",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Fiber Jar",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Sinister Serpent",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Ceasefire",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "4-Starred Ladybug of Doom",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Magic Drain",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dark Ruler Ha Des",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mask of Darkness",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Painful Choice",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Time Seal",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Morphing Jar",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Barrel Behind the Door",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mirror Wall",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Goat Control": {
+			"count": 4,
+			"main": [
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Metamorphosis",
+					"count": 7,
+					"copies": {
+						"1": 1,
+						"2": 3
+					}
+				},
+				{
+					"name": "Scapegoat",
+					"count": 7,
+					"copies": {
+						"1": 2,
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 6,
+					"copies": {
+						"1": 3,
+						"3": 1
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Giant Rat",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Injection Fairy Lily",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Pyramid Turtle",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Sangan",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Sinister Serpent",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Witch of the Black Forest",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Delinquent Duo",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Graceful Charity",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Mirage of Nightmare",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Snatch Steal",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "The Forceful Sentry",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Ring of Destruction",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Mystic Tomato",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Creature Swap",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Yata-Garasu",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Gravekeeper's Spy",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fiber Jar",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Patrician of Darkness",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Painful Choice",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Call of the Haunted",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Gemini Elf",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Don Zaloog",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Dark Ruler Ha Des",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Bazoo the Soul-Eater",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Zombyra the Dark",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Reinforcement of the Army",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Dust Tornado",
+					"count": 9,
+					"copies": {
+						"2": 3,
+						"3": 1
+					}
+				},
+				{
+					"name": "Creature Swap",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Zombyra the Dark",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Amazoness Archer",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Asura Priest",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Dark Ruler Ha Des",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Book of Life",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Premature Burial",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Scapegoat",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "King Tiger Wanghu",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Gravekeeper's Spy",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Cure Mermaid",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ceasefire",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Airknight Parshath",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Newdoria",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Metamorphosis",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Reinforcement of the Army",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Magic Cylinder",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Thousand-Eyes Restrict",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Dark Balter the Terrible",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "Fiend Skull Dragon",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "Reaper on the Nightmare",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "Ryu Senshi",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "The Last Warrior from Another Planet",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Black Skull Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Super Robolady",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Super Roboyarou",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Darkfire Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Dragoness the Wicked Knight",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Flame Ghost",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Giltia the D. Knight",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Punished Eagle",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "St. Joan",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Twin-Headed Thunder Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Scapegoat",
+					"count": 9,
+					"copies": {
+						"2": 3,
+						"3": 1
+					}
+				},
+				{
+					"name": "Dust Tornado",
+					"count": 9,
+					"copies": {
+						"2": 3,
+						"3": 1
+					}
+				},
+				{
+					"name": "Metamorphosis",
+					"count": 8,
+					"copies": {
+						"2": 4
+					}
+				},
+				{
+					"name": "Creature Swap",
+					"count": 8,
+					"copies": {
+						"2": 4
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 7,
+					"copies": {
+						"1": 2,
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 7,
+					"copies": {
+						"1": 2,
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "Zombyra the Dark",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Gravekeeper's Spy",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Giant Rat",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Injection Fairy Lily",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Pyramid Turtle",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Sangan",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Sinister Serpent",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Witch of the Black Forest",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Delinquent Duo",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Graceful Charity",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Mirage of Nightmare",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Snatch Steal",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "The Forceful Sentry",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Ring of Destruction",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Dark Ruler Ha Des",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Mystic Tomato",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Yata-Garasu",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Fiber Jar",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Patrician of Darkness",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Painful Choice",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Call of the Haunted",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Amazoness Archer",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Asura Priest",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Book of Life",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Premature Burial",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "King Tiger Wanghu",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Gemini Elf",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Don Zaloog",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Reinforcement of the Army",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Cure Mermaid",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ceasefire",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Bazoo the Soul-Eater",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Airknight Parshath",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Newdoria",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Magic Cylinder",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Germ Burn": {
+			"count": 4,
+			"main": [
+				{
+					"name": "Giant Germ",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Nightmare Wheel",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Mystic Tomato",
+					"count": 10,
+					"copies": {
+						"2": 2,
+						"3": 2
+					}
+				},
+				{
+					"name": "Chain Energy",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Creature Swap",
+					"count": 8,
+					"copies": {
+						"2": 4
+					}
+				},
+				{
+					"name": "Scapegoat",
+					"count": 7,
+					"copies": {
+						"1": 1,
+						"2": 3
+					}
+				},
+				{
+					"name": "Fiber Jar",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Injection Fairy Lily",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Morphing Jar",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Sangan",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Witch of the Black Forest",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Graceful Charity",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Mirage of Nightmare",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "The Forceful Sentry",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Magic Cylinder",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Ring of Destruction",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Cannon Soldier",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Cyber Jar",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Snatch Steal",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Call of the Haunted",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Spear Dragon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Princess of Tsurugi",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ceasefire",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Solemn Wishes",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "Nimble Momonga",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 5,
+					"copies": {
+						"1": 3,
+						"2": 1
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Magic Jammer",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Lava Golem",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Princess of Tsurugi",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Gemini Elf",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Dark Snake Syndrome",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Gravekeeper's Spy",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Just Desserts",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Asura Priest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ceasefire",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Giant Trunade",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dust Tornado",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Zombyra the Dark",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Delinquent Duo",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Scapegoat",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Snatch Steal",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Thousand-Eyes Restrict",
+					"count": 6,
+					"copies": {
+						"1": 1,
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Gaia the Dragon Champion",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Dark Balter the Terrible",
+					"count": 5,
+					"copies": {
+						"1": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Ryu Senshi",
+					"count": 5,
+					"copies": {
+						"1": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Fiend Skull Dragon",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Super Robolady",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Super Roboyarou",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Darkfire Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Dragoness the Wicked Knight",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "The Last Warrior from Another Planet",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Twin-Headed Thunder Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Reaper on the Nightmare",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Skull Knight",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Warrior of Tradition",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Bickuribox",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Black Skull Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Cyber Saurus",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Flower Wolf",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Metal Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Roaring Ocean Snake",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "St. Joan",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Giant Germ",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Nightmare Wheel",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Mystic Tomato",
+					"count": 10,
+					"copies": {
+						"2": 2,
+						"3": 2
+					}
+				},
+				{
+					"name": "Chain Energy",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Creature Swap",
+					"count": 8,
+					"copies": {
+						"2": 4
+					}
+				},
+				{
+					"name": "Scapegoat",
+					"count": 8,
+					"copies": {
+						"2": 4
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "Solemn Wishes",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "Nimble Momonga",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Fiber Jar",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Injection Fairy Lily",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Morphing Jar",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Sangan",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Witch of the Black Forest",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Graceful Charity",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Mirage of Nightmare",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Snatch Steal",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "The Forceful Sentry",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Magic Cylinder",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Ring of Destruction",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Cannon Soldier",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Cyber Jar",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Princess of Tsurugi",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Magic Jammer",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Lava Golem",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Ceasefire",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Call of the Haunted",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Gemini Elf",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Dark Snake Syndrome",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Spear Dragon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Gravekeeper's Spy",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Just Desserts",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Asura Priest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Giant Trunade",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dust Tornado",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Zombyra the Dark",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Delinquent Duo",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Reasoning Gate Turbo": {
+			"count": 3,
+			"main": [
+				{
+					"name": "Limiter Removal",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Reasoning",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Mechanicalchaser",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Barrel Dragon",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Metamorphosis",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Scapegoat",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Cannon Soldier",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Dark Ruler Ha Des",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Sangan",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Sinister Serpent",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Witch of the Black Forest",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Graceful Charity",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Mirage of Nightmare",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Premature Burial",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Snatch Steal",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Call of the Haunted",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Raigeki Break",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Ring of Destruction",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Painful Choice",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Airknight Parshath",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Torrential Tribute",
+					"count": 6,
+					"copies": {
+						"1": 1,
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Delinquent Duo",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "The Forceful Sentry",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Barrel Behind the Door",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Injection Fairy Lily",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Scapegoat",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Raigeki Break",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Last Will",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Airknight Parshath",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "United We Stand",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Tyrant Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Metamorphosis",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Giant Trunade",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dust Tornado",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Thousand-Eyes Restrict",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Dark Balter the Terrible",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Ryu Senshi",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "The Last Warrior from Another Planet",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Darkfire Dragon",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Fiend Skull Dragon",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Flame Ghost",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Reaper on the Nightmare",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Super Robolady",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Super Roboyarou",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Limiter Removal",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Reasoning",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Scapegoat",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Metamorphosis",
+					"count": 7,
+					"copies": {
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 7,
+					"copies": {
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Mechanicalchaser",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Barrel Dragon",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Raigeki Break",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Cannon Soldier",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Dark Ruler Ha Des",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Sangan",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Sinister Serpent",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Witch of the Black Forest",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Graceful Charity",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Mirage of Nightmare",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Premature Burial",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Snatch Steal",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Call of the Haunted",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Ring of Destruction",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Airknight Parshath",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Delinquent Duo",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "The Forceful Sentry",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Barrel Behind the Door",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Painful Choice",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Injection Fairy Lily",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Last Will",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "United We Stand",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Tyrant Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Giant Trunade",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dust Tornado",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Gravekeeper": {
+			"count": 3,
+			"main": [
+				{
+					"name": "Gravekeeper's Spy",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Necrovalley",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Mystic Tomato",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Gravekeeper's Assailant",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Gravekeeper's Spear Soldier",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 5,
+					"copies": {
+						"1": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Sangan",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Witch of the Black Forest",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Yata-Garasu",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Delinquent Duo",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Graceful Charity",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Mirage of Nightmare",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Royal Tribute",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Snatch Steal",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "The Forceful Sentry",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Ring of Destruction",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Rite of Spirit",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Gravekeeper's Guard",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Don Zaloog",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Morphing Jar",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Sinister Serpent",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Nobleman of Crossout",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Kuriboh",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Painful Choice",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Gravekeeper's Assailant",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Gravekeeper's Spear Soldier",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "King Tiger Wanghu",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Asura Priest",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Fiber Jar",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Newdoria",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Zombyra the Dark",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Seven Tools of the Bandit",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Trap Dustshoot",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Gemini Elf",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Injection Fairy Lily",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ceasefire",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Bickuribox",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Black Skull Dragon",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Dark Balter the Terrible",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Darkfire Dragon",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Dragoness the Wicked Knight",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Fiend Skull Dragon",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Ryu Senshi",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "The Last Warrior from Another Planet",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Thousand-Eyes Restrict",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Twin-Headed Thunder Dragon",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Cyber Saurus",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Flower Wolf",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Metal Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Roaring Ocean Snake",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "St. Joan",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Labyrinth Tank",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Musician King",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Reaper on the Nightmare",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Super Robolady",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Super Roboyarou",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Gravekeeper's Spy",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Gravekeeper's Assailant",
+					"count": 7,
+					"copies": {
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Gravekeeper's Spear Soldier",
+					"count": 7,
+					"copies": {
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 7,
+					"copies": {
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Necrovalley",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Mystic Tomato",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Kuriboh",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Sangan",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Witch of the Black Forest",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Yata-Garasu",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Delinquent Duo",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Graceful Charity",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Mirage of Nightmare",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Royal Tribute",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Snatch Steal",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "The Forceful Sentry",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Ring of Destruction",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Rite of Spirit",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Painful Choice",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Gravekeeper's Guard",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "King Tiger Wanghu",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Don Zaloog",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Morphing Jar",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Asura Priest",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Fiber Jar",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Newdoria",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Zombyra the Dark",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Seven Tools of the Bandit",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Trap Dustshoot",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Sinister Serpent",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gemini Elf",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Injection Fairy Lily",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ceasefire",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Hand Control": {
+			"count": 3,
+			"main": [
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Drop Off",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Mystic Tomato",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Gemini Elf",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Don Zaloog",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Fiber Jar",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Sangan",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Sinister Serpent",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Witch of the Black Forest",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Yata-Garasu",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Delinquent Duo",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Graceful Charity",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Snatch Steal",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "The Forceful Sentry",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Call of the Haunted",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Ring of Destruction",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Nimble Momonga",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Premature Burial",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Mirage of Nightmare",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Spear Dragon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Goblin Attack Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Guardian Sphinx",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Magic Cylinder",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Electric Snake",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Airknight Parshath",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Painful Choice",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Scapegoat",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "White Magical Hat",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Trap Dustshoot",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Trap of Board Eraser",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Gemini Elf",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mirage of Nightmare",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Cyber Jar",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Kuriboh",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Premature Burial",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ceasefire",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Coffin",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Forced Requisition",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Dark Balter the Terrible",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fiend Skull Dragon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Giltia the D. Knight",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ryu Senshi",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Thousand-Eyes Restrict",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Drop Off",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 7,
+					"copies": {
+						"1": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Gemini Elf",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mystic Tomato",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Electric Snake",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Don Zaloog",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Fiber Jar",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Sangan",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Sinister Serpent",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Witch of the Black Forest",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Yata-Garasu",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Delinquent Duo",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Graceful Charity",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Premature Burial",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Snatch Steal",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "The Forceful Sentry",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Call of the Haunted",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Ring of Destruction",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Mirage of Nightmare",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Nimble Momonga",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Airknight Parshath",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Painful Choice",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Scapegoat",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "White Magical Hat",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Spear Dragon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Trap Dustshoot",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Trap of Board Eraser",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Goblin Attack Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Guardian Sphinx",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Magic Cylinder",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Cyber Jar",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Kuriboh",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ceasefire",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Coffin",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Forced Requisition",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Rat Toolbox": {
+			"count": 1,
+			"main": [
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Giant Rat",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Pyramid Turtle",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Amazoness Archer",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Asura Priest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fiber Jar",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Injection Fairy Lily",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sangan",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Witch of the Black Forest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Delinquent Duo",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Graceful Charity",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mirage of Nightmare",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Painful Choice",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Scapegoat",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Snatch Steal",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "The Forceful Sentry",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Call of the Haunted",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dust Tornado",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Jar of Greed",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ring of Destruction",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Nimble Momonga",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "King Tiger Wanghu",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Creature Swap",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dust Tornado",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Airknight Parshath",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Zombyra the Dark",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Scapegoat",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Dark Balter the Terrible",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fiend Skull Dragon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ryu Senshi",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Thousand-Eyes Restrict",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Darkfire Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dragoness the Wicked Knight",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Reaper on the Nightmare",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dust Tornado",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Nimble Momonga",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Giant Rat",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Pyramid Turtle",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Scapegoat",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "King Tiger Wanghu",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Creature Swap",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Amazoness Archer",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Asura Priest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fiber Jar",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Injection Fairy Lily",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sangan",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Witch of the Black Forest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Delinquent Duo",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Graceful Charity",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mirage of Nightmare",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Painful Choice",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Snatch Steal",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "The Forceful Sentry",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Call of the Haunted",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Jar of Greed",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ring of Destruction",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Airknight Parshath",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Zombyra the Dark",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Warrior Control": {
+			"count": 1,
+			"main": [
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Don Zaloog",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Zombyra the Dark",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Reinforcement of the Army",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Jar of Greed",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fiber Jar",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Injection Fairy Lily",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sangan",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sinister Serpent",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Witch of the Black Forest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Delinquent Duo",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Graceful Charity",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mirage of Nightmare",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Painful Choice",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Premature Burial",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Snatch Steal",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "The Forceful Sentry",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Call of the Haunted",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ring of Destruction",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Gravekeeper's Spy",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Gemini Elf",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "4-Starred Ladybug of Doom",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Morphing Jar",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Zombyra the Dark",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Black Skull Dragon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Flame Swordsman",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Gaia the Dragon Champion",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ryu Senshi",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "St. Joan",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Zombyra the Dark",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Gravekeeper's Spy",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Don Zaloog",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Spirit Reaper",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Reinforcement of the Army",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Jar of Greed",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Nobleman of Crossout",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Exiled Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fiber Jar",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Injection Fairy Lily",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Jinzo",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sangan",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sinister Serpent",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Witch of the Black Forest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Confiscation",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Delinquent Duo",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Graceful Charity",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mirage of Nightmare",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Painful Choice",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Premature Burial",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Snatch Steal",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "The Forceful Sentry",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Call of the Haunted",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ring of Destruction",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gemini Elf",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "4-Starred Ladybug of Doom",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Morphing Jar",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		}
+	},
+	"main": [
+		{
+			"name": "Mystical Space Typhoon",
+			"count": 231,
+			"copies": {
+				"2": 3,
+				"3": 75
+			}
+		},
+		{
+			"name": "Mystic Tomato",
+			"count": 170,
+			"copies": {
+				"1": 3,
+				"2": 7,
+				"3": 51
+			}
+		},
+		{
+			"name": "Torrential Tribute",
+			"count": 110,
+			"copies": {
+				"1": 22,
+				"2": 32,
+				"3": 8
+			}
+		},
+		{
+			"name": "Don Zaloog",
+			"count": 82,
+			"copies": {
+				"1": 28,
+				"2": 27
+			}
+		},
+		{
+			"name": "Witch of the Black Forest",
+			"count": 78,
+			"copies": {
+				"1": 78
+			}
+		},
+		{
+			"name": "Dark Hole",
+			"count": 78,
+			"copies": {
+				"1": 78
+			}
+		},
+		{
+			"name": "Graceful Charity",
+			"count": 78,
+			"copies": {
+				"1": 78
+			}
+		},
+		{
+			"name": "Pot of Greed",
+			"count": 78,
+			"copies": {
+				"1": 78
+			}
+		},
+		{
+			"name": "Raigeki",
+			"count": 78,
+			"copies": {
+				"1": 78
+			}
+		},
+		{
+			"name": "Ring of Destruction",
+			"count": 78,
+			"copies": {
+				"1": 78
+			}
+		},
+		{
+			"name": "Imperial Order",
+			"count": 77,
+			"copies": {
+				"1": 77
+			}
+		},
+		{
+			"name": "Harpie's Feather Duster",
+			"count": 76,
+			"copies": {
+				"1": 76
+			}
+		},
+		{
+			"name": "Snatch Steal",
+			"count": 76,
+			"copies": {
+				"1": 76
+			}
+		},
+		{
+			"name": "Mirror Force",
+			"count": 76,
+			"copies": {
+				"1": 76
+			}
+		},
+		{
+			"name": "Gemini Elf",
+			"count": 75,
+			"copies": {
+				"1": 12,
+				"2": 18,
+				"3": 9
+			}
+		},
+		{
+			"name": "Mirage of Nightmare",
+			"count": 75,
+			"copies": {
+				"1": 75
+			}
+		},
+		{
+			"name": "The Forceful Sentry",
+			"count": 75,
+			"copies": {
+				"1": 75
+			}
+		},
+		{
+			"name": "Sangan",
+			"count": 74,
+			"copies": {
+				"1": 74
+			}
+		},
+		{
+			"name": "Monster Reborn",
+			"count": 74,
+			"copies": {
+				"1": 74
+			}
+		},
+		{
+			"name": "Change of Heart",
+			"count": 71,
+			"copies": {
+				"1": 71
+			}
+		},
+		{
+			"name": "Call of the Haunted",
+			"count": 71,
+			"copies": {
+				"1": 71
+			}
+		},
+		{
+			"name": "Spirit Reaper",
+			"count": 69,
+			"copies": {
+				"1": 44,
+				"2": 11,
+				"3": 1
+			}
+		},
+		{
+			"name": "Exiled Force",
+			"count": 67,
+			"copies": {
+				"1": 67
+			}
+		},
+		{
+			"name": "Confiscation",
+			"count": 67,
+			"copies": {
+				"1": 67
+			}
+		},
+		{
+			"name": "Delinquent Duo",
+			"count": 66,
+			"copies": {
+				"1": 66
+			}
+		},
+		{
+			"name": "Sinister Serpent",
+			"count": 61,
+			"copies": {
+				"1": 61
+			}
+		},
+		{
+			"name": "Fiber Jar",
+			"count": 60,
+			"copies": {
+				"1": 60
+			}
+		},
+		{
+			"name": "Injection Fairy Lily",
+			"count": 60,
+			"copies": {
+				"1": 60
+			}
+		},
+		{
+			"name": "Jinzo",
+			"count": 60,
+			"copies": {
+				"1": 60
+			}
+		},
+		{
+			"name": "Gravekeeper's Spy",
+			"count": 59,
+			"copies": {
+				"2": 16,
+				"3": 9
+			}
+		},
+		{
+			"name": "Magician of Faith",
+			"count": 49,
+			"copies": {
+				"1": 34,
+				"2": 6,
+				"3": 1
+			}
+		},
+		{
+			"name": "Reinforcement of the Army",
+			"count": 45,
+			"copies": {
+				"1": 19,
+				"2": 13
+			}
+		},
+		{
+			"name": "Painful Choice",
+			"count": 44,
+			"copies": {
+				"1": 44
+			}
+		},
+		{
+			"name": "Yata-Garasu",
+			"count": 38,
+			"copies": {
+				"1": 38
+			}
+		},
+		{
+			"name": "Nobleman of Crossout",
+			"count": 34,
+			"copies": {
+				"1": 34
+			}
+		},
+		{
+			"name": "Zombyra the Dark",
+			"count": 31,
+			"copies": {
+				"1": 27,
+				"2": 2
+			}
+		},
+		{
+			"name": "Jar of Greed",
+			"count": 26,
+			"copies": {
+				"1": 10,
+				"2": 8
+			}
+		},
+		{
+			"name": "Premature Burial",
+			"count": 25,
+			"copies": {
+				"1": 25
+			}
+		},
+		{
+			"name": "Scapegoat",
+			"count": 25,
+			"copies": {
+				"1": 6,
+				"2": 8,
+				"3": 1
+			}
+		},
+		{
+			"name": "Gearfried the Iron Knight",
+			"count": 24,
+			"copies": {
+				"3": 8
+			}
+		},
+		{
+			"name": "Blast with Chain",
+			"count": 24,
+			"copies": {
+				"3": 8
+			}
+		},
+		{
+			"name": "Bazoo the Soul-Eater",
+			"count": 22,
+			"copies": {
+				"1": 18,
+				"2": 2
+			}
+		},
+		{
+			"name": "Chain Energy",
+			"count": 18,
+			"copies": {
+				"3": 6
+			}
+		},
+		{
+			"name": "Creature Swap",
+			"count": 16,
+			"copies": {
+				"1": 2,
+				"2": 7
+			}
+		},
+		{
+			"name": "Newdoria",
+			"count": 14,
+			"copies": {
+				"1": 14
+			}
+		},
+		{
+			"name": "Metamorphosis",
+			"count": 13,
+			"copies": {
+				"1": 1,
+				"2": 6
+			}
+		},
+		{
+			"name": "Giant Germ",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Nightmare Wheel",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Morphing Jar",
+			"count": 10,
+			"copies": {
+				"1": 10
+			}
+		},
+		{
+			"name": "Heavy Storm",
+			"count": 10,
+			"copies": {
+				"1": 10
+			}
+		},
+		{
+			"name": "Magic Cylinder",
+			"count": 10,
+			"copies": {
+				"1": 10
+			}
+		},
+		{
+			"name": "Limiter Removal",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Reasoning",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Kycoo the Ghost Destroyer",
+			"count": 9,
+			"copies": {
+				"1": 7,
+				"2": 1
+			}
+		},
+		{
+			"name": "Dust Tornado",
+			"count": 9,
+			"copies": {
+				"1": 1,
+				"2": 1,
+				"3": 2
+			}
+		},
+		{
+			"name": "Drop Off",
+			"count": 8,
+			"copies": {
+				"2": 1,
+				"3": 2
+			}
+		},
+		{
+			"name": "Mechanicalchaser",
+			"count": 6,
+			"copies": {
+				"2": 3
+			}
+		},
+		{
+			"name": "Barrel Dragon",
+			"count": 6,
+			"copies": {
+				"2": 3
+			}
+		},
+		{
+			"name": "Cannon Soldier",
+			"count": 6,
+			"copies": {
+				"1": 6
+			}
+		},
+		{
+			"name": "Dark Ruler Ha Des",
+			"count": 6,
+			"copies": {
+				"1": 4,
+				"2": 1
+			}
+		},
+		{
+			"name": "Giant Rat",
+			"count": 6,
+			"copies": {
+				"2": 3
+			}
+		},
+		{
+			"name": "Pyramid Turtle",
+			"count": 6,
+			"copies": {
+				"2": 3
+			}
+		},
+		{
+			"name": "Goblin Attack Force",
+			"count": 6,
+			"copies": {
+				"1": 3,
+				"3": 1
+			}
+		},
+		{
+			"name": "Necrovalley",
+			"count": 6,
+			"copies": {
+				"2": 3
+			}
+		},
+		{
+			"name": "Raigeki Break",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Cyber Jar",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "King Tiger Wanghu",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Gravekeeper's Assailant",
+			"count": 5,
+			"copies": {
+				"1": 1,
+				"2": 2
+			}
+		},
+		{
+			"name": "Gravekeeper's Spear Soldier",
+			"count": 5,
+			"copies": {
+				"1": 1,
+				"2": 2
+			}
+		},
+		{
+			"name": "Solemn Judgment",
+			"count": 5,
+			"copies": {
+				"1": 1,
+				"2": 2
+			}
+		},
+		{
+			"name": "Gravekeeper's Guard",
+			"count": 4,
+			"copies": {
+				"1": 2,
+				"2": 1
+			}
+		},
+		{
+			"name": "Ceasefire",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Spear Dragon",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Royal Tribute",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Terraforming",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Rite of Spirit",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Nimble Momonga",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Patrician of Darkness",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Airknight Parshath",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Electric Snake",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Fissure",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "4-Starred Ladybug of Doom",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Time Seal",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Trap Hole",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Book of Moon",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Magic Drain",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Amazoness Archer",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Asura Priest",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Princess of Tsurugi",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Trap Dustshoot",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Lesser Fiend",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mirror Wall",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Guardian Sphinx",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	],
+	"side": [
+		{
+			"name": "Nobleman of Crossout",
+			"count": 96,
+			"copies": {
+				"1": 42,
+				"2": 27
+			}
+		},
+		{
+			"name": "Dust Tornado",
+			"count": 70,
+			"copies": {
+				"1": 16,
+				"2": 24,
+				"3": 2
+			}
+		},
+		{
+			"name": "Heavy Storm",
+			"count": 60,
+			"copies": {
+				"1": 60
+			}
+		},
+		{
+			"name": "Torrential Tribute",
+			"count": 55,
+			"copies": {
+				"1": 20,
+				"2": 10,
+				"3": 5
+			}
+		},
+		{
+			"name": "Gravekeeper's Spy",
+			"count": 54,
+			"copies": {
+				"1": 2,
+				"2": 14,
+				"3": 8
+			}
+		},
+		{
+			"name": "King Tiger Wanghu",
+			"count": 51,
+			"copies": {
+				"1": 5,
+				"2": 14,
+				"3": 6
+			}
+		},
+		{
+			"name": "Zombyra the Dark",
+			"count": 47,
+			"copies": {
+				"1": 28,
+				"2": 8,
+				"3": 1
+			}
+		},
+		{
+			"name": "Book of Moon",
+			"count": 43,
+			"copies": {
+				"1": 16,
+				"3": 9
+			}
+		},
+		{
+			"name": "Fissure",
+			"count": 37,
+			"copies": {
+				"1": 29,
+				"2": 4
+			}
+		},
+		{
+			"name": "Scapegoat",
+			"count": 35,
+			"copies": {
+				"1": 27,
+				"2": 4
+			}
+		},
+		{
+			"name": "Electric Snake",
+			"count": 32,
+			"copies": {
+				"1": 2,
+				"2": 3,
+				"3": 8
+			}
+		},
+		{
+			"name": "Gemini Elf",
+			"count": 30,
+			"copies": {
+				"1": 22,
+				"2": 4
+			}
+		},
+		{
+			"name": "Kycoo the Ghost Destroyer",
+			"count": 29,
+			"copies": {
+				"1": 19,
+				"2": 5
+			}
+		},
+		{
+			"name": "Ceasefire",
+			"count": 27,
+			"copies": {
+				"1": 27
+			}
+		},
+		{
+			"name": "Asura Priest",
+			"count": 22,
+			"copies": {
+				"1": 22
+			}
+		},
+		{
+			"name": "Magician of Faith",
+			"count": 21,
+			"copies": {
+				"1": 17,
+				"2": 2
+			}
+		},
+		{
+			"name": "Yata-Garasu",
+			"count": 19,
+			"copies": {
+				"1": 19
+			}
+		},
+		{
+			"name": "Spirit Reaper",
+			"count": 18,
+			"copies": {
+				"1": 18
+			}
+		},
+		{
+			"name": "Dark Ruler Ha Des",
+			"count": 18,
+			"copies": {
+				"1": 16,
+				"2": 1
+			}
+		},
+		{
+			"name": "Creature Swap",
+			"count": 18,
+			"copies": {
+				"1": 6,
+				"2": 6
+			}
+		},
+		{
+			"name": "Solemn Wishes",
+			"count": 16,
+			"copies": {
+				"1": 4,
+				"2": 6
+			}
+		},
+		{
+			"name": "Jinzo",
+			"count": 16,
+			"copies": {
+				"1": 16
+			}
+		},
+		{
+			"name": "4-Starred Ladybug of Doom",
+			"count": 13,
+			"copies": {
+				"1": 5,
+				"2": 4
+			}
+		},
+		{
+			"name": "Painful Choice",
+			"count": 13,
+			"copies": {
+				"1": 13
+			}
+		},
+		{
+			"name": "Time Seal",
+			"count": 12,
+			"copies": {
+				"1": 2,
+				"2": 5
+			}
+		},
+		{
+			"name": "Trap Hole",
+			"count": 12,
+			"copies": {
+				"1": 10,
+				"2": 1
+			}
+		},
+		{
+			"name": "Solemn Judgment",
+			"count": 12,
+			"copies": {
+				"1": 3,
+				"2": 3,
+				"3": 1
+			}
+		},
+		{
+			"name": "Airknight Parshath",
+			"count": 11,
+			"copies": {
+				"1": 11
+			}
+		},
+		{
+			"name": "Cure Mermaid",
+			"count": 11,
+			"copies": {
+				"1": 9,
+				"2": 1
+			}
+		},
+		{
+			"name": "Trap Dustshoot",
+			"count": 11,
+			"copies": {
+				"1": 7,
+				"2": 2
+			}
+		},
+		{
+			"name": "Morphing Jar",
+			"count": 10,
+			"copies": {
+				"1": 10
+			}
+		},
+		{
+			"name": "Reinforcement of the Army",
+			"count": 10,
+			"copies": {
+				"1": 8,
+				"2": 1
+			}
+		},
+		{
+			"name": "Metamorphosis",
+			"count": 10,
+			"copies": {
+				"1": 5,
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Delinquent Duo",
+			"count": 9,
+			"copies": {
+				"1": 9
+			}
+		},
+		{
+			"name": "Nimble Momonga",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Exiled Force",
+			"count": 8,
+			"copies": {
+				"1": 8
+			}
+		},
+		{
+			"name": "Cyber Jar",
+			"count": 8,
+			"copies": {
+				"1": 8
+			}
+		},
+		{
+			"name": "Don Zaloog",
+			"count": 8,
+			"copies": {
+				"1": 4,
+				"2": 2
+			}
+		},
+		{
+			"name": "Magic Cylinder",
+			"count": 8,
+			"copies": {
+				"1": 8
+			}
+		},
+		{
+			"name": "Bazoo the Soul-Eater",
+			"count": 8,
+			"copies": {
+				"1": 8
+			}
+		},
+		{
+			"name": "Confiscation",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Injection Fairy Lily",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Raigeki Break",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Newdoria",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Sasuke Samurai",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Seven Tools of the Bandit",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Change of Heart",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Premature Burial",
+			"count": 6,
+			"copies": {
+				"1": 6
+			}
+		},
+		{
+			"name": "Fiber Jar",
+			"count": 6,
+			"copies": {
+				"1": 6
+			}
+		},
+		{
+			"name": "Cannon Soldier",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Swords of Revealing Light",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Gravekeeper's Spear Soldier",
+			"count": 5,
+			"copies": {
+				"1": 3,
+				"2": 1
+			}
+		},
+		{
+			"name": "Kuriboh",
+			"count": 5,
+			"copies": {
+				"1": 1,
+				"2": 2
+			}
+		},
+		{
+			"name": "Upstart Goblin",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Barrel Behind the Door",
+			"count": 4,
+			"copies": {
+				"1": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Goblin Attack Force",
+			"count": 4,
+			"copies": {
+				"1": 2,
+				"2": 1
+			}
+		},
+		{
+			"name": "Guardian Sphinx",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "The Forceful Sentry",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Marauding Captain",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Drop Off",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Dice Jar",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Jar of Greed",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Magic Jammer",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "White Magical Hat",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Card Destruction",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Waboku",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Amazoness Archer",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Book of Life",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Gravekeeper's Guard",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Mirror Force",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Giant Trunade",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Last Will",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Lava Golem",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Princess of Tsurugi",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Mystical Space Typhoon",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Gravekeeper's Assailant",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Harpie's Feather Duster",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Dark Snake Syndrome",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Snatch Steal",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Just Desserts",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Cold Wave",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Mirage of Nightmare",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Monster Reborn",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Masked Sorcerer",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Morphing Jar #2",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Trap of Board Eraser",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "United We Stand",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Tyrant Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mystic Tomato",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Graverobber",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Gravekeeper's Chief",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sinister Serpent",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mask of Darkness",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sangan",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Spear Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Dark Coffin",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Forced Requisition",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	],
+	"extra": [
+		{
+			"name": "Thousand-Eyes Restrict",
+			"count": 167,
+			"copies": {
+				"1": 14,
+				"2": 3,
+				"3": 49
+			}
+		},
+		{
+			"name": "Ryu Senshi",
+			"count": 124,
+			"copies": {
+				"1": 23,
+				"2": 16,
+				"3": 23
+			}
+		},
+		{
+			"name": "Dark Balter the Terrible",
+			"count": 113,
+			"copies": {
+				"1": 23,
+				"2": 15,
+				"3": 20
+			}
+		},
+		{
+			"name": "Fiend Skull Dragon",
+			"count": 99,
+			"copies": {
+				"1": 28,
+				"2": 10,
+				"3": 17
+			}
+		},
+		{
+			"name": "Reaper on the Nightmare",
+			"count": 73,
+			"copies": {
+				"1": 24,
+				"2": 11,
+				"3": 9
+			}
+		},
+		{
+			"name": "The Last Warrior from Another Planet",
+			"count": 62,
+			"copies": {
+				"1": 27,
+				"2": 10,
+				"3": 5
+			}
+		},
+		{
+			"name": "Black Skull Dragon",
+			"count": 49,
+			"copies": {
+				"1": 28,
+				"3": 7
+			}
+		},
+		{
+			"name": "Gaia the Dragon Champion",
+			"count": 46,
+			"copies": {
+				"1": 10,
+				"3": 12
+			}
+		},
+		{
+			"name": "Dragoness the Wicked Knight",
+			"count": 34,
+			"copies": {
+				"1": 26,
+				"2": 1,
+				"3": 2
+			}
+		},
+		{
+			"name": "St. Joan",
+			"count": 33,
+			"copies": {
+				"1": 18,
+				"3": 5
+			}
+		},
+		{
+			"name": "Darkfire Dragon",
+			"count": 26,
+			"copies": {
+				"1": 24,
+				"2": 1
+			}
+		},
+		{
+			"name": "Twin-Headed Thunder Dragon",
+			"count": 26,
+			"copies": {
+				"1": 17,
+				"3": 3
+			}
+		},
+		{
+			"name": "Flame Swordsman",
+			"count": 21,
+			"copies": {
+				"1": 6,
+				"3": 5
+			}
+		},
+		{
+			"name": "Bickuribox",
+			"count": 16,
+			"copies": {
+				"1": 10,
+				"3": 2
+			}
+		},
+		{
+			"name": "Empress Judge",
+			"count": 13,
+			"copies": {
+				"1": 10,
+				"3": 1
+			}
+		},
+		{
+			"name": "Musician King",
+			"count": 12,
+			"copies": {
+				"1": 9,
+				"3": 1
+			}
+		},
+		{
+			"name": "Thousand Dragon",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Labyrinth Tank",
+			"count": 11,
+			"copies": {
+				"1": 5,
+				"3": 2
+			}
+		},
+		{
+			"name": "Roaring Ocean Snake",
+			"count": 11,
+			"copies": {
+				"1": 11
+			}
+		},
+		{
+			"name": "Super Robolady",
+			"count": 11,
+			"copies": {
+				"1": 9,
+				"2": 1
+			}
+		},
+		{
+			"name": "Super Roboyarou",
+			"count": 11,
+			"copies": {
+				"1": 9,
+				"2": 1
+			}
+		},
+		{
+			"name": "Giltia the D. Knight",
+			"count": 11,
+			"copies": {
+				"1": 2,
+				"3": 3
+			}
+		},
+		{
+			"name": "Cyber Saurus",
+			"count": 9,
+			"copies": {
+				"1": 9
+			}
+		},
+		{
+			"name": "Karbonala Warrior",
+			"count": 9,
+			"copies": {
+				"1": 7,
+				"2": 1
+			}
+		},
+		{
+			"name": "Flame Ghost",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Fusionist",
+			"count": 7,
+			"copies": {
+				"1": 1,
+				"3": 2
+			}
+		},
+		{
+			"name": "Charubin the Fire Knight",
+			"count": 6,
+			"copies": {
+				"1": 6
+			}
+		},
+		{
+			"name": "Flower Wolf",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Metal Dragon",
+			"count": 5,
+			"copies": {
+				"1": 3,
+				"2": 1
+			}
+		},
+		{
+			"name": "Skull Knight",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Punished Eagle",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Warrior of Tradition",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	],
+	"total": [
+		{
+			"name": "Mystical Space Typhoon",
+			"count": 233,
+			"copies": {
+				"2": 1,
+				"3": 77
+			}
+		},
+		{
+			"name": "Mystic Tomato",
+			"count": 171,
+			"copies": {
+				"1": 3,
+				"2": 6,
+				"3": 52
+			}
+		},
+		{
+			"name": "Torrential Tribute",
+			"count": 165,
+			"copies": {
+				"1": 10,
+				"2": 43,
+				"3": 23
+			}
+		},
+		{
+			"name": "Nobleman of Crossout",
+			"count": 130,
+			"copies": {
+				"1": 24,
+				"2": 53
+			}
+		},
+		{
+			"name": "Gravekeeper's Spy",
+			"count": 113,
+			"copies": {
+				"2": 28,
+				"3": 19
+			}
+		},
+		{
+			"name": "Gemini Elf",
+			"count": 105,
+			"copies": {
+				"1": 24,
+				"2": 21,
+				"3": 13
+			}
+		},
+		{
+			"name": "Don Zaloog",
+			"count": 90,
+			"copies": {
+				"1": 27,
+				"2": 30,
+				"3": 1
+			}
+		},
+		{
+			"name": "Spirit Reaper",
+			"count": 87,
+			"copies": {
+				"1": 50,
+				"2": 17,
+				"3": 1
+			}
+		},
+		{
+			"name": "Dust Tornado",
+			"count": 79,
+			"copies": {
+				"1": 16,
+				"2": 24,
+				"3": 5
+			}
+		},
+		{
+			"name": "Witch of the Black Forest",
+			"count": 78,
+			"copies": {
+				"1": 78
+			}
+		},
+		{
+			"name": "Change of Heart",
+			"count": 78,
+			"copies": {
+				"1": 78
+			}
+		},
+		{
+			"name": "Dark Hole",
+			"count": 78,
+			"copies": {
+				"1": 78
+			}
+		},
+		{
+			"name": "Graceful Charity",
+			"count": 78,
+			"copies": {
+				"1": 78
+			}
+		},
+		{
+			"name": "Harpie's Feather Duster",
+			"count": 78,
+			"copies": {
+				"1": 78
+			}
+		},
+		{
+			"name": "Pot of Greed",
+			"count": 78,
+			"copies": {
+				"1": 78
+			}
+		},
+		{
+			"name": "Raigeki",
+			"count": 78,
+			"copies": {
+				"1": 78
+			}
+		},
+		{
+			"name": "Snatch Steal",
+			"count": 78,
+			"copies": {
+				"1": 78
+			}
+		},
+		{
+			"name": "The Forceful Sentry",
+			"count": 78,
+			"copies": {
+				"1": 78
+			}
+		},
+		{
+			"name": "Mirror Force",
+			"count": 78,
+			"copies": {
+				"1": 78
+			}
+		},
+		{
+			"name": "Ring of Destruction",
+			"count": 78,
+			"copies": {
+				"1": 78
+			}
+		},
+		{
+			"name": "Zombyra the Dark",
+			"count": 78,
+			"copies": {
+				"1": 34,
+				"2": 7,
+				"3": 10
+			}
+		},
+		{
+			"name": "Mirage of Nightmare",
+			"count": 77,
+			"copies": {
+				"1": 77
+			}
+		},
+		{
+			"name": "Imperial Order",
+			"count": 77,
+			"copies": {
+				"1": 77
+			}
+		},
+		{
+			"name": "Jinzo",
+			"count": 76,
+			"copies": {
+				"1": 76
+			}
+		},
+		{
+			"name": "Monster Reborn",
+			"count": 76,
+			"copies": {
+				"1": 76
+			}
+		},
+		{
+			"name": "Exiled Force",
+			"count": 75,
+			"copies": {
+				"1": 75
+			}
+		},
+		{
+			"name": "Sangan",
+			"count": 75,
+			"copies": {
+				"1": 75
+			}
+		},
+		{
+			"name": "Delinquent Duo",
+			"count": 75,
+			"copies": {
+				"1": 75
+			}
+		},
+		{
+			"name": "Confiscation",
+			"count": 74,
+			"copies": {
+				"1": 74
+			}
+		},
+		{
+			"name": "Call of the Haunted",
+			"count": 71,
+			"copies": {
+				"1": 71
+			}
+		},
+		{
+			"name": "Magician of Faith",
+			"count": 70,
+			"copies": {
+				"1": 37,
+				"2": 15,
+				"3": 1
+			}
+		},
+		{
+			"name": "Heavy Storm",
+			"count": 70,
+			"copies": {
+				"1": 70
+			}
+		},
+		{
+			"name": "Injection Fairy Lily",
+			"count": 67,
+			"copies": {
+				"1": 67
+			}
+		},
+		{
+			"name": "Fiber Jar",
+			"count": 66,
+			"copies": {
+				"1": 66
+			}
+		},
+		{
+			"name": "Sinister Serpent",
+			"count": 62,
+			"copies": {
+				"1": 62
+			}
+		},
+		{
+			"name": "Scapegoat",
+			"count": 60,
+			"copies": {
+				"1": 22,
+				"2": 13,
+				"3": 4
+			}
+		},
+		{
+			"name": "Painful Choice",
+			"count": 57,
+			"copies": {
+				"1": 57
+			}
+		},
+		{
+			"name": "Yata-Garasu",
+			"count": 57,
+			"copies": {
+				"1": 57
+			}
+		},
+		{
+			"name": "King Tiger Wanghu",
+			"count": 56,
+			"copies": {
+				"1": 5,
+				"2": 15,
+				"3": 7
+			}
+		},
+		{
+			"name": "Reinforcement of the Army",
+			"count": 55,
+			"copies": {
+				"1": 21,
+				"2": 17
+			}
+		},
+		{
+			"name": "Book of Moon",
+			"count": 45,
+			"copies": {
+				"1": 18,
+				"3": 9
+			}
+		},
+		{
+			"name": "Fissure",
+			"count": 39,
+			"copies": {
+				"1": 28,
+				"2": 4,
+				"3": 1
+			}
+		},
+		{
+			"name": "Kycoo the Ghost Destroyer",
+			"count": 38,
+			"copies": {
+				"1": 20,
+				"2": 6,
+				"3": 2
+			}
+		},
+		{
+			"name": "Creature Swap",
+			"count": 34,
+			"copies": {
+				"1": 8,
+				"2": 13
+			}
+		},
+		{
+			"name": "Electric Snake",
+			"count": 34,
+			"copies": {
+				"1": 2,
+				"2": 4,
+				"3": 8
+			}
+		},
+		{
+			"name": "Premature Burial",
+			"count": 31,
+			"copies": {
+				"1": 31
+			}
+		},
+		{
+			"name": "Ceasefire",
+			"count": 31,
+			"copies": {
+				"1": 31
+			}
+		},
+		{
+			"name": "Bazoo the Soul-Eater",
+			"count": 30,
+			"copies": {
+				"1": 26,
+				"2": 2
+			}
+		},
+		{
+			"name": "Jar of Greed",
+			"count": 29,
+			"copies": {
+				"1": 9,
+				"2": 10
+			}
+		},
+		{
+			"name": "Dark Ruler Ha Des",
+			"count": 24,
+			"copies": {
+				"1": 18,
+				"2": 3
+			}
+		},
+		{
+			"name": "Gearfried the Iron Knight",
+			"count": 24,
+			"copies": {
+				"3": 8
+			}
+		},
+		{
+			"name": "Blast with Chain",
+			"count": 24,
+			"copies": {
+				"3": 8
+			}
+		},
+		{
+			"name": "Asura Priest",
+			"count": 23,
+			"copies": {
+				"1": 23
+			}
+		},
+		{
+			"name": "Metamorphosis",
+			"count": 23,
+			"copies": {
+				"1": 3,
+				"2": 7,
+				"3": 2
+			}
+		},
+		{
+			"name": "Newdoria",
+			"count": 21,
+			"copies": {
+				"1": 21
+			}
+		},
+		{
+			"name": "Morphing Jar",
+			"count": 20,
+			"copies": {
+				"1": 20
+			}
+		},
+		{
+			"name": "Magic Cylinder",
+			"count": 18,
+			"copies": {
+				"1": 18
+			}
+		},
+		{
+			"name": "Chain Energy",
+			"count": 18,
+			"copies": {
+				"3": 6
+			}
+		},
+		{
+			"name": "Solemn Judgment",
+			"count": 17,
+			"copies": {
+				"1": 3,
+				"2": 4,
+				"3": 2
+			}
+		},
+		{
+			"name": "Solemn Wishes",
+			"count": 16,
+			"copies": {
+				"1": 4,
+				"2": 6
+			}
+		},
+		{
+			"name": "4-Starred Ladybug of Doom",
+			"count": 15,
+			"copies": {
+				"1": 5,
+				"2": 5
+			}
+		},
+		{
+			"name": "Time Seal",
+			"count": 14,
+			"copies": {
+				"1": 4,
+				"2": 5
+			}
+		},
+		{
+			"name": "Trap Hole",
+			"count": 14,
+			"copies": {
+				"1": 8,
+				"2": 3
+			}
+		},
+		{
+			"name": "Airknight Parshath",
+			"count": 13,
+			"copies": {
+				"1": 13
+			}
+		},
+		{
+			"name": "Cyber Jar",
+			"count": 13,
+			"copies": {
+				"1": 13
+			}
+		},
+		{
+			"name": "Raigeki Break",
+			"count": 12,
+			"copies": {
+				"1": 6,
+				"2": 3
+			}
+		},
+		{
+			"name": "Giant Germ",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Nightmare Wheel",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Trap Dustshoot",
+			"count": 12,
+			"copies": {
+				"1": 6,
+				"2": 3
+			}
+		},
+		{
+			"name": "Nimble Momonga",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Cannon Soldier",
+			"count": 11,
+			"copies": {
+				"1": 11
+			}
+		},
+		{
+			"name": "Drop Off",
+			"count": 11,
+			"copies": {
+				"1": 1,
+				"2": 2,
+				"3": 2
+			}
+		},
+		{
+			"name": "Cure Mermaid",
+			"count": 11,
+			"copies": {
+				"1": 9,
+				"2": 1
+			}
+		},
+		{
+			"name": "Gravekeeper's Spear Soldier",
+			"count": 10,
+			"copies": {
+				"1": 3,
+				"2": 2,
+				"3": 1
+			}
+		},
+		{
+			"name": "Goblin Attack Force",
+			"count": 10,
+			"copies": {
+				"1": 5,
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Limiter Removal",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Reasoning",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Sasuke Samurai",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Seven Tools of the Bandit",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Gravekeeper's Assailant",
+			"count": 7,
+			"copies": {
+				"2": 2,
+				"3": 1
+			}
+		},
+		{
+			"name": "Mechanicalchaser",
+			"count": 6,
+			"copies": {
+				"2": 3
+			}
+		},
+		{
+			"name": "Barrel Dragon",
+			"count": 6,
+			"copies": {
+				"2": 3
+			}
+		},
+		{
+			"name": "Giant Rat",
+			"count": 6,
+			"copies": {
+				"2": 3
+			}
+		},
+		{
+			"name": "Pyramid Turtle",
+			"count": 6,
+			"copies": {
+				"2": 3
+			}
+		},
+		{
+			"name": "Gravekeeper's Guard",
+			"count": 6,
+			"copies": {
+				"1": 4,
+				"2": 1
+			}
+		},
+		{
+			"name": "Necrovalley",
+			"count": 6,
+			"copies": {
+				"2": 3
+			}
+		},
+		{
+			"name": "Swords of Revealing Light",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Guardian Sphinx",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Spear Dragon",
+			"count": 5,
+			"copies": {
+				"1": 1,
+				"2": 2
+			}
+		},
+		{
+			"name": "Kuriboh",
+			"count": 5,
+			"copies": {
+				"1": 1,
+				"2": 2
+			}
+		},
+		{
+			"name": "Upstart Goblin",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Barrel Behind the Door",
+			"count": 4,
+			"copies": {
+				"1": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Marauding Captain",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Dice Jar",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Amazoness Archer",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Princess of Tsurugi",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Magic Jammer",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Royal Tribute",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Terraforming",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Rite of Spirit",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "White Magical Hat",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Card Destruction",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Waboku",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Patrician of Darkness",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Book of Life",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Giant Trunade",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Last Will",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Lava Golem",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Dark Snake Syndrome",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Just Desserts",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Cold Wave",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Masked Sorcerer",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Morphing Jar #2",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Magic Drain",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Trap of Board Eraser",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "United We Stand",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Tyrant Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Graverobber",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Gravekeeper's Chief",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mask of Darkness",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Lesser Fiend",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mirror Wall",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Dark Coffin",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Forced Requisition",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	]
+}

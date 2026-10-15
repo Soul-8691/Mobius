@@ -1,0 +1,713 @@
+{
+  "Rescue Cat": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "D.D. Crow": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Ryko, Lightsworn Hunter": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Super-Nimble Mega Hamster": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Skull Meister": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Droll & Lock Bird": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Chaos Hunter": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Rescue Rabbit": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Ghost Ogre & Snow Rabbit": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Blue-Eyes Alternative White Dragon": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Silent Swordsman": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Silent Magician": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Fantastical Dragon Phantazmay": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Magicians' Souls": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Ghost Mourner & Moonlit Chill": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Aluber the Jester of Despia": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Blue-Eyes Jet Dragon": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Purrely (card)": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Sauravis, the Ancient and Ascended": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Illusion of Chaos": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Red-Eyes Dark Dragoon": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Masquerade the Blazing Dragon": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Guardian Chimera": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Garura, Wings of Resonant Life": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Rindbrumm the Striking Dragon": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Trishula, Dragon of the Ice Barrier": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "T.G. Hyper Librarian": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "PSY-Framelord Omega": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Crystal Wing Synchro Dragon": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Blue-Eyes Spirit Dragon": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Coral Dragon": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Psychic End Punisher": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Abyss Dweller": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Traptrix Rafflesia": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "The Phantom Knights of Break Sword": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Number 38: Hope Harbinger Dragon Titanic Galaxy": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Number 60: Dugares the Timeless": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Exosisters Magnifica": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Hieratic Seal of the Heavenly Spheres": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Apollousa, Bow of the Goddess": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Unchained Soul of Rage": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "I:P Masquerena": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Borrelend Dragon": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Accesscode Talker": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Underworld Goddess of the Closed World": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Mind Control": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Polymerization": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Mystical Space Typhoon": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Foolish Burial": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Book of Moon": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Enemy Controller": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Gold Sarcophagus": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Emergency Teleport": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Book of Eclipse": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Charge of the Light Brigade": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Preparation of Rites": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Pot of Duality": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Forbidden Lance": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Xyz Encore": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Twin Twisters": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Cosmic Cyclone": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Bingo Machine, Go!!!": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Crossout Designator": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Abomination's Prison": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Fusion Deployment": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Exosister Pax": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Primitive Planet Reichphobia": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Sol and Luna": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Primeval Planet Perlereino": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Ultimate Slayer": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "My Friend Purrely": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Purrely Pretty Memory": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Pressured Planet Wraitsoth": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Peaceful Planet Calarium": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Solemn Judgment": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Anti-Spell Fragrance": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Skill Drain": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Solemn Warning": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Solemn Strike": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ]
+}

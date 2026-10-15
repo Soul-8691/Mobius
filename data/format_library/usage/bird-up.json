@@ -1,0 +1,1996 @@
+{
+	"decks_processed": 3,
+	"deck_types": {
+		"Swordsoul Tenyi": {
+			"count": 2,
+			"main": [
+				{
+					"name": "Incredible Ecclesia, the Virtuous",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Swordsoul Strategist Longyuan",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Swordsoul of Mo Ye",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Tenyi Spirit - Ashuna",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Tenyi Spirit - Vishuda",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Pot of Desires",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Swordsoul Emergence",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Swordsoul of Taia",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Tenyi Spirit - Adhara",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Vessel for the Dragon Cycle",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Swordsoul Blackout",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "PSY-Framegear Gamma",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Archnemeses Protos",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Tenyi Spirit - Shthana",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "PSY-Frame Driver",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Swordsoul Sacred Summit",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "PSY-Framegear Gamma",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Token Collector",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "PSY-Frame Driver",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Archnemeses Protos",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Red Reboot",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Monk of the Tenyi",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Baxia, Brightness of the Yang Zing",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Swordsoul Grandmaster - Chixiao",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Baronne de Fleur",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Chaofeng, Phantom of the Yang Zing",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Draco Berserker of the Tenyi",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Swordsoul Supreme Sovereign - Chengying",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Yazi, Evil of the Yang Zing",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Shaman of the Tenyi",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gallant Granite",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Adamancipator Risen - Dragite",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Crimson Blader",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ruddy Rose Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Incredible Ecclesia, the Virtuous",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Swordsoul Strategist Longyuan",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Swordsoul of Mo Ye",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Tenyi Spirit - Ashuna",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Tenyi Spirit - Vishuda",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Pot of Desires",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Swordsoul Emergence",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "PSY-Framegear Gamma",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Swordsoul of Taia",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Tenyi Spirit - Adhara",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Vessel for the Dragon Cycle",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Swordsoul Blackout",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Token Collector",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Archnemeses Protos",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "PSY-Frame Driver",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Tenyi Spirit - Shthana",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Swordsoul Sacred Summit",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Red Reboot",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Sky Striker": {
+			"count": 1,
+			"main": [
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Sky Striker Ace - Raye",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fusion Destiny",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Sky Striker Mecha - Widow Anchor",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "There Can Be Only One",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Sky Striker Ace - Roze",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Pot of Prosperity",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Sky Striker Mecha - Shark Cannon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Celestial",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Dasher",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Reinforcement of the Army",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sky Striker Airspace - Area Zero",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sky Striker Maneuver - Afterburners!",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sky Striker Mecha - Hornet Drones",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sky Striker Mecha Modules - Multirole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sky Striker Mobilize - Engage!",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Droll & Lock Bird",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Artifact Sanctum",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Artifact Lancea",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Token Collector",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Artifact Scythe",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sky Striker Maneuver - Afterburners!",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Sky Striker Ace - Kagari",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Sky Striker Ace - Shizuku",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Sky Striker Ace - Hayate",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Destroyer Phoenix Enforcer",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Accesscode Talker",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Crystron Halqifibrax",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Predaplant Verte Anaconda",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Selene, Queen of the Master Magicians",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sky Striker Ace - Kaina",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sky Striker Ace - Zeke",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Sky Striker Ace - Raye",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fusion Destiny",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Sky Striker Mecha - Widow Anchor",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "There Can Be Only One",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Artifact Sanctum",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Sky Striker Ace - Roze",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Pot of Prosperity",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Sky Striker Maneuver - Afterburners!",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Sky Striker Mecha - Shark Cannon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Artifact Lancea",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Token Collector",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Celestial",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Dasher",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Reinforcement of the Army",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sky Striker Airspace - Area Zero",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sky Striker Mecha - Hornet Drones",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sky Striker Mecha Modules - Multirole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sky Striker Mobilize - Engage!",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Artifact Scythe",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		}
+	},
+	"main": [
+		{
+			"name": "Infinite Impermanence",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Ash Blossom & Joyous Spring",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Effect Veiler",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Incredible Ecclesia, the Virtuous",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Swordsoul Strategist Longyuan",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Swordsoul of Mo Ye",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Tenyi Spirit - Ashuna",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Tenyi Spirit - Vishuda",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Pot of Desires",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Swordsoul Emergence",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Swordsoul of Taia",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Tenyi Spirit - Adhara",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Nibiru, the Primal Being",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Sky Striker Ace - Raye",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Fusion Destiny",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Sky Striker Mecha - Widow Anchor",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "There Can Be Only One",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Vessel for the Dragon Cycle",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Swordsoul Blackout",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Droll & Lock Bird",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "PSY-Framegear Gamma",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Sky Striker Ace - Roze",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Pot of Prosperity",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Sky Striker Mecha - Shark Cannon",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Triple Tactics Talent",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Destiny HERO - Celestial",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Destiny HERO - Dasher",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Forbidden Droplet",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Reinforcement of the Army",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sky Striker Airspace - Area Zero",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sky Striker Maneuver - Afterburners!",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sky Striker Mecha - Hornet Drones",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sky Striker Mecha Modules - Multirole",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sky Striker Mobilize - Engage!",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Terraforming",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Archnemeses Protos",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Tenyi Spirit - Shthana",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Imperial Order",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "PSY-Frame Driver",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Called by the Grave",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Swordsoul Sacred Summit",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	],
+	"side": [
+		{
+			"name": "Droll & Lock Bird",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Token Collector",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Nibiru, the Primal Being",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Cosmic Cyclone",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Artifact Sanctum",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "PSY-Framegear Gamma",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Triple Tactics Talent",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Forbidden Droplet",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Dimensional Barrier",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Artifact Lancea",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Twin Twisters",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Artifact Scythe",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sky Striker Maneuver - Afterburners!",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "PSY-Frame Driver",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Archnemeses Protos",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Harpie's Feather Duster",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Imperial Order",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Red Reboot",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	],
+	"extra": [
+		{
+			"name": "Monk of the Tenyi",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Baxia, Brightness of the Yang Zing",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Swordsoul Grandmaster - Chixiao",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Sky Striker Ace - Kagari",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Sky Striker Ace - Shizuku",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Sky Striker Ace - Hayate",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Baronne de Fleur",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Chaofeng, Phantom of the Yang Zing",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Draco Berserker of the Tenyi",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Swordsoul Supreme Sovereign - Chengying",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Yazi, Evil of the Yang Zing",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Shaman of the Tenyi",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Destiny HERO - Destroyer Phoenix Enforcer",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Accesscode Talker",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Crystron Halqifibrax",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Predaplant Verte Anaconda",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Selene, Queen of the Master Magicians",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sky Striker Ace - Kaina",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sky Striker Ace - Zeke",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Gallant Granite",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Adamancipator Risen - Dragite",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Crimson Blader",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Ruddy Rose Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	],
+	"total": [
+		{
+			"name": "Infinite Impermanence",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Droll & Lock Bird",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Nibiru, the Primal Being",
+			"count": 8,
+			"copies": {
+				"2": 1,
+				"3": 2
+			}
+		},
+		{
+			"name": "Ash Blossom & Joyous Spring",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Effect Veiler",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Incredible Ecclesia, the Virtuous",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Swordsoul Strategist Longyuan",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Swordsoul of Mo Ye",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Tenyi Spirit - Ashuna",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Tenyi Spirit - Vishuda",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Pot of Desires",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Swordsoul Emergence",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "PSY-Framegear Gamma",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Token Collector",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Triple Tactics Talent",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Forbidden Droplet",
+			"count": 4,
+			"copies": {
+				"1": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Swordsoul of Taia",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Tenyi Spirit - Adhara",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Sky Striker Ace - Raye",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Fusion Destiny",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Sky Striker Mecha - Widow Anchor",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "There Can Be Only One",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Cosmic Cyclone",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Artifact Sanctum",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Vessel for the Dragon Cycle",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Swordsoul Blackout",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Dimensional Barrier",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Sky Striker Ace - Roze",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Pot of Prosperity",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Sky Striker Maneuver - Afterburners!",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Sky Striker Mecha - Shark Cannon",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Artifact Lancea",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Archnemeses Protos",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Imperial Order",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "PSY-Frame Driver",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Twin Twisters",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Destiny HERO - Celestial",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Destiny HERO - Dasher",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Reinforcement of the Army",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sky Striker Airspace - Area Zero",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sky Striker Mecha - Hornet Drones",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sky Striker Mecha Modules - Multirole",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sky Striker Mobilize - Engage!",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Terraforming",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Artifact Scythe",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Tenyi Spirit - Shthana",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Called by the Grave",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Swordsoul Sacred Summit",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Harpie's Feather Duster",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Red Reboot",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	]
+}

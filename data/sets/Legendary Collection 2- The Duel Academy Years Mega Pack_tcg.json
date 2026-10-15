@@ -1,0 +1,789 @@
+{
+  "Elemental HERO Avian": [
+    "C",
+    "ScR"
+  ],
+  "Elemental HERO Burstinatrix": [
+    "C",
+    "ScR"
+  ],
+  "Elemental HERO Clayman": [
+    "C"
+  ],
+  "Elemental HERO Sparkman": [
+    "C",
+    "ScR"
+  ],
+  "Elemental HERO Neos": [
+    "C"
+  ],
+  "Winged Kuriboh": [
+    "C"
+  ],
+  "Winged Kuriboh LV10": [
+    "C"
+  ],
+  "Wroughtweiler": [
+    "C"
+  ],
+  "Elemental HERO Bubbleman": [
+    "C"
+  ],
+  "Elemental HERO Bladedge": [
+    "C"
+  ],
+  "Elemental HERO Wildheart": [
+    "C"
+  ],
+  "Elemental HERO Necroshade": [
+    "R"
+  ],
+  "Hero Kid": [
+    "C"
+  ],
+  "Neo-Spacian Aqua Dolphin": [
+    "C"
+  ],
+  "Neo-Spacian Flare Scarab": [
+    "C"
+  ],
+  "Neo-Spacian Dark Panther": [
+    "C"
+  ],
+  "Card Trooper": [
+    "C"
+  ],
+  "Neo-Spacian Air Hummingbird": [
+    "C"
+  ],
+  "Neo-Spacian Grand Mole": [
+    "C"
+  ],
+  "Neo-Spacian Glow Moss": [
+    "C"
+  ],
+  "Elemental HERO Stratos": [
+    "C"
+  ],
+  "Elemental HERO Ocean": [
+    "R"
+  ],
+  "Elemental HERO Captain Gold": [
+    "C"
+  ],
+  "Necro Gardna": [
+    "ScR"
+  ],
+  "Elemental HERO Neos Alius": [
+    "ScR"
+  ],
+  "Evil HERO Malicious Edge": [
+    "ScR"
+  ],
+  "Evil HERO Infernal Gainer": [
+    "C"
+  ],
+  "Evil HERO Infernal Prodigy": [
+    "R"
+  ],
+  "Card Ejector": [
+    "SR"
+  ],
+  "Elemental HERO Prisma": [
+    "C"
+  ],
+  "Elemental HERO Woodsman": [
+    "SR"
+  ],
+  "Elemental HERO Knospe": [
+    "R"
+  ],
+  "Elemental HERO Poison Rose": [
+    "R"
+  ],
+  "Elemental HERO Heat": [
+    "C"
+  ],
+  "Elemental HERO Lady Heat": [
+    "C"
+  ],
+  "Elemental HERO Voltic": [
+    "C"
+  ],
+  "Neos Wiseman": [
+    "UR"
+  ],
+  "Gallis the Star Beast": [
+    "ScR"
+  ],
+  "Dandylion": [
+    "ScR"
+  ],
+  "Winged Kuriboh LV9": [
+    "ScR"
+  ],
+  "Card Blocker": [
+    "UR"
+  ],
+  "Elemental HERO Flame Wingman": [
+    "ScR"
+  ],
+  "Elemental HERO Thunder Giant": [
+    "C"
+  ],
+  "Elemental HERO Rampart Blaster": [
+    "SR"
+  ],
+  "Elemental HERO Tempest": [
+    "SR"
+  ],
+  "Elemental HERO Wildedge": [
+    "C"
+  ],
+  "Elemental HERO Shining Flare Wingman": [
+    "ScR"
+  ],
+  "Elemental HERO Steam Healer": [
+    "R"
+  ],
+  "Elemental HERO Electrum": [
+    "UR"
+  ],
+  "Elemental HERO Mudballman": [
+    "SR"
+  ],
+  "Elemental HERO Mariner": [
+    "C"
+  ],
+  "Elemental HERO Wild Wingman": [
+    "C"
+  ],
+  "Elemental HERO Necroid Shaman": [
+    "C"
+  ],
+  "Elemental HERO Aqua Neos": [
+    "SR"
+  ],
+  "Elemental HERO Flare Neos": [
+    "C"
+  ],
+  "Elemental HERO Dark Neos": [
+    "ScR"
+  ],
+  "Elemental HERO Grand Neos": [
+    "SR"
+  ],
+  "Elemental HERO Glow Neos": [
+    "R"
+  ],
+  "Elemental HERO Marine Neos": [
+    "C"
+  ],
+  "Elemental HERO Darkbright": [
+    "SR"
+  ],
+  "Elemental HERO Magma Neos": [
+    "SR"
+  ],
+  "Elemental HERO Chaos Neos": [
+    "UR"
+  ],
+  "Elemental HERO Plasma Vice": [
+    "C"
+  ],
+  "Evil HERO Inferno Wing": [
+    "SR"
+  ],
+  "Evil HERO Lightning Golem": [
+    "SR"
+  ],
+  "Evil HERO Dark Gaia": [
+    "SR"
+  ],
+  "Evil HERO Wild Cyclone": [
+    "SR"
+  ],
+  "Evil HERO Infernal Sniper": [
+    "UR"
+  ],
+  "Evil HERO Malicious Fiend": [
+    "SR"
+  ],
+  "Elemental HERO Storm Neos": [
+    "C"
+  ],
+  "Rainbow Neos": [
+    "SR"
+  ],
+  "Elemental HERO Terra Firma": [
+    "SR"
+  ],
+  "Elemental HERO Inferno": [
+    "SR"
+  ],
+  "Elemental HERO Divine Neos": [
+    "UR"
+  ],
+  "Miracle Fusion": [
+    "UR"
+  ],
+  "Transcendent Wings": [
+    "C"
+  ],
+  "Bubble Shuffle": [
+    "R"
+  ],
+  "Spark Blaster": [
+    "C"
+  ],
+  "Skyscraper": [
+    "C"
+  ],
+  "Feather Shot": [
+    "R"
+  ],
+  "Burst Return": [
+    "R"
+  ],
+  "Hero Heart": [
+    "C"
+  ],
+  "Cyclone Boomerang": [
+    "C"
+  ],
+  "The Flute of Summoning Kuriboh": [
+    "UR"
+  ],
+  "H - Heated Heart": [
+    "C"
+  ],
+  "E - Emergency Call": [
+    "C"
+  ],
+  "R - Righteous Justice": [
+    "C"
+  ],
+  "O - Oversoul": [
+    "C"
+  ],
+  "Hero Flash!!": [
+    "R"
+  ],
+  "Fake Hero": [
+    "R"
+  ],
+  "Neo Space": [
+    "R"
+  ],
+  "Instant Fusion": [
+    "UR"
+  ],
+  "Neos Force": [
+    "C"
+  ],
+  "Skyscraper 2 - Hero City": [
+    "ScR"
+  ],
+  "Fifth Hope": [
+    "ScR"
+  ],
+  "Dark Fusion": [
+    "UR"
+  ],
+  "Dark Calling": [
+    "R"
+  ],
+  "Super Polymerization": [
+    "ScR"
+  ],
+  "Instant Neo Space": [
+    "C"
+  ],
+  "Hero Mask": [
+    "C"
+  ],
+  "Space Gift": [
+    "C"
+  ],
+  "Rose Bud": [
+    "R"
+  ],
+  "HERO's Bond": [
+    "C"
+  ],
+  "Hero Signal": [
+    "C"
+  ],
+  "Hero Barrier": [
+    "C"
+  ],
+  "Feather Wind": [
+    "C"
+  ],
+  "Hero Ring": [
+    "SR"
+  ],
+  "Clay Charge": [
+    "C"
+  ],
+  "Miracle Kids": [
+    "C"
+  ],
+  "Edge Hammer": [
+    "C"
+  ],
+  "Kid Guard": [
+    "UR"
+  ],
+  "Elemental Recharge": [
+    "C"
+  ],
+  "Change of Hero - Reflector Ray": [
+    "C"
+  ],
+  "Hero Spirit": [
+    "C"
+  ],
+  "Hero Counterattack": [
+    "C"
+  ],
+  "Mirror Gate": [
+    "UR"
+  ],
+  "Hero Blast": [
+    "C"
+  ],
+  "Terra Firma Gravity": [
+    "R"
+  ],
+  "Destiny HERO - Doom Lord": [
+    "C"
+  ],
+  "Destiny HERO - Captain Tenacious": [
+    "C"
+  ],
+  "Destiny HERO - Diamond Dude": [
+    "SR"
+  ],
+  "Destiny HERO - Dreadmaster": [
+    "SR"
+  ],
+  "Destiny HERO - Double Dude": [
+    "C"
+  ],
+  "Destiny HERO - Defender": [
+    "R"
+  ],
+  "Destiny HERO - Dogma": [
+    "SR"
+  ],
+  "Destiny HERO - Blade Master": [
+    "C"
+  ],
+  "Destiny HERO - Fear Monger": [
+    "C"
+  ],
+  "Destiny HERO - Dasher": [
+    "C"
+  ],
+  "Destiny HERO - Malicious": [
+    "C"
+  ],
+  "Destiny HERO - Disk Commander": [
+    "ScR"
+  ],
+  "Destiny HERO - Plasma": [
+    "SR"
+  ],
+  "Destiny HERO - Dunker": [
+    "C"
+  ],
+  "Destiny HERO - Departed": [
+    "C"
+  ],
+  "Destiny HERO - Dread Servant": [
+    "C"
+  ],
+  "Elemental HERO Phoenix Enforcer": [
+    "SR"
+  ],
+  "Elemental HERO Shining Phoenix Enforcer": [
+    "ScR"
+  ],
+  "Destiny End Dragoon": [
+    "SR"
+  ],
+  "Clock Tower Prison": [
+    "C"
+  ],
+  "D - Spirit": [
+    "C"
+  ],
+  "Cyclone Blade": [
+    "C"
+  ],
+  "Dark City": [
+    "C"
+  ],
+  "Destiny Draw": [
+    "ScR"
+  ],
+  "Over Destiny": [
+    "R"
+  ],
+  "D - Formation": [
+    "C"
+  ],
+  "Destiny Signal": [
+    "C"
+  ],
+  "D - Time": [
+    "R"
+  ],
+  "D - Shield": [
+    "C"
+  ],
+  "Destiny Mirage": [
+    "R"
+  ],
+  "D - Chain": [
+    "C"
+  ],
+  "D - Counter": [
+    "C"
+  ],
+  "D - Fortune": [
+    "C"
+  ],
+  "Crystal Beast Ruby Carbuncle": [
+    "C"
+  ],
+  "Crystal Beast Amethyst Cat": [
+    "C"
+  ],
+  "Crystal Beast Emerald Tortoise": [
+    "C"
+  ],
+  "Crystal Beast Topaz Tiger": [
+    "C"
+  ],
+  "Crystal Beast Amber Mammoth": [
+    "C"
+  ],
+  "Crystal Beast Cobalt Eagle": [
+    "C"
+  ],
+  "Crystal Beast Sapphire Pegasus": [
+    "SR"
+  ],
+  "Rainbow Dragon": [
+    "UR"
+  ],
+  "Crystal Beacon": [
+    "R"
+  ],
+  "Rare Value": [
+    "SR"
+  ],
+  "Crystal Blessing": [
+    "R"
+  ],
+  "Crystal Abundance": [
+    "R"
+  ],
+  "Crystal Promise": [
+    "R"
+  ],
+  "Ancient City - Rainbow Ruins": [
+    "C"
+  ],
+  "Crystal Release": [
+    "UR"
+  ],
+  "Crystal Tree": [
+    "UR"
+  ],
+  "Crystal Raigeki": [
+    "C"
+  ],
+  "Crystal Pair": [
+    "C"
+  ],
+  "Rainbow Path": [
+    "C"
+  ],
+  "Rainbow Gravity": [
+    "C"
+  ],
+  "Cyber Dragon": [
+    "UR",
+    "ScR"
+  ],
+  "Proto-Cyber Dragon": [
+    "UR"
+  ],
+  "Cyber Phoenix": [
+    "UR"
+  ],
+  "Cyber Valley": [
+    "UR"
+  ],
+  "Cyber Twin Dragon": [
+    "ScR"
+  ],
+  "Cyber End Dragon": [
+    "ScR"
+  ],
+  "Chimeratech Overdragon": [
+    "ScR"
+  ],
+  "Power Bond": [
+    "ScR"
+  ],
+  "Overload Fusion": [
+    "R"
+  ],
+  "Future Fusion": [
+    "UR"
+  ],
+  "Magical Mallet": [
+    "UR"
+  ],
+  "Dark End Dragon": [
+    "ScR"
+  ],
+  "Light End Dragon": [
+    "UR"
+  ],
+  "Hydrogeddon": [
+    "UR"
+  ],
+  "Vennominaga the Deity of Poisonous Snakes": [
+    "UR"
+  ],
+  "Vennominon the King of Poisonous Snakes": [
+    "SR"
+  ],
+  "Phantom of Chaos": [
+    "ScR"
+  ],
+  "Phantom Skyblaster": [
+    "ScR"
+  ],
+  "Grave Squirmer": [
+    "C"
+  ],
+  "Grinder Golem": [
+    "C"
+  ],
+  "Yubel": [
+    "ScR"
+  ],
+  "Yubel - Terror Incarnate": [
+    "ScR"
+  ],
+  "Yubel - The Ultimate Nightmare": [
+    "ScR"
+  ],
+  "Mezuki": [
+    "C"
+  ],
+  "Cold Enchanter": [
+    "C"
+  ],
+  "Ice Master": [
+    "C"
+  ],
+  "Thunder King Rai-Oh": [
+    "C"
+  ],
+  "Darkness Destroyer": [
+    "ScR"
+  ],
+  "White Night Dragon": [
+    "UR"
+  ],
+  "Kasha": [
+    "UR"
+  ],
+  "Ice Queen": [
+    "UR"
+  ],
+  "Shutendoji": [
+    "UR"
+  ],
+  "Clear Vice Dragon": [
+    "SR"
+  ],
+  "Darklord Desire": [
+    "SR"
+  ],
+  "Armityle the Chaos Phantasm": [
+    "UR"
+  ],
+  "Fusion Recovery": [
+    "C"
+  ],
+  "System Down": [
+    "C"
+  ],
+  "Grand Convergence": [
+    "R"
+  ],
+  "Dimensional Fissure": [
+    "ScR"
+  ],
+  "Venom Swamp": [
+    "C"
+  ],
+  "Clear World": [
+    "SR"
+  ],
+  "Macro Cosmos": [
+    "UR"
+  ],
+  "Rise of the Snake Deity": [
+    "C"
+  ],
+  "Dimensional Prison": [
+    "UR"
+  ],
+  "Offering to the Snake Deity": [
+    "C"
+  ],
+  "Chamberlain of the Six Samurai": [
+    "C"
+  ],
+  "Gladiator Beast Andal": [
+    "C"
+  ],
+  "D.D. Survivor": [
+    "C"
+  ],
+  "Banisher of the Radiance": [
+    "ScR"
+  ],
+  "Grandmaster of the Six Samurai": [
+    "C"
+  ],
+  "The Six Samurai - Yaichi": [
+    "C"
+  ],
+  "The Six Samurai - Kamon": [
+    "C"
+  ],
+  "The Six Samurai - Yariza": [
+    "C"
+  ],
+  "The Six Samurai - Nisashi": [
+    "C"
+  ],
+  "The Six Samurai - Zanji": [
+    "C"
+  ],
+  "The Six Samurai - Irou": [
+    "C"
+  ],
+  "Great Shogun Shien": [
+    "ScR"
+  ],
+  "D.D. Crow": [
+    "SR"
+  ],
+  "Gladiator Beast Octavius": [
+    "UR"
+  ],
+  "Gladiator Beast Murmillo": [
+    "ScR"
+  ],
+  "Gladiator Beast Bestiari": [
+    "ScR"
+  ],
+  "Gladiator Beast Laquari": [
+    "ScR"
+  ],
+  "Gladiator Beast Hoplomus": [
+    "ScR"
+  ],
+  "Gladiator Beast Secutor": [
+    "ScR"
+  ],
+  "Enishi, Shien's Chancellor": [
+    "SR"
+  ],
+  "Test Tiger": [
+    "ScR"
+  ],
+  "Rainbow Dark Dragon": [
+    "UR"
+  ],
+  "Gladiator Beast Darius": [
+    "ScR"
+  ],
+  "Jain, Lightsworn Paladin": [
+    "UR"
+  ],
+  "Garoth, Lightsworn Warrior": [
+    "UR"
+  ],
+  "Lumina, Lightsworn Summoner": [
+    "UR"
+  ],
+  "Wulf, Lightsworn Beast": [
+    "UR"
+  ],
+  "Judgment Dragon": [
+    "C"
+  ],
+  "Aurkus, Lightsworn Druid": [
+    "UR"
+  ],
+  "Gladiator Beast Equeste": [
+    "ScR"
+  ],
+  "Gladiator Beast Lanista": [
+    "UR"
+  ],
+  "Gladiator Beast Heraklinos": [
+    "SR"
+  ],
+  "Gladiator Beast's Respite": [
+    "R"
+  ],
+  "Gladiator's Return": [
+    "R"
+  ],
+  "Cunning of the Six Samurai": [
+    "C"
+  ],
+  "Gladiator Proving Ground": [
+    "R"
+  ],
+  "Light of Redemption": [
+    "C"
+  ],
+  "Gateway of the Six": [
+    "C"
+  ],
+  "Non-Fusion Area": [
+    "C"
+  ],
+  "Success Probability 0%": [
+    "C"
+  ],
+  "Return of the Six Samurai": [
+    "C"
+  ],
+  "Swiftstrike Armor": [
+    "R"
+  ],
+  "Double-Edged Sword Technique": [
+    "C"
+  ],
+  "Defensive Tactics": [
+    "UR"
+  ],
+  "Gladiator Beast War Chariot": [
+    "ScR"
+  ]
+}

@@ -1,0 +1,8821 @@
+{
+	"decks_processed": 32,
+	"deck_types": {
+		"K9 Vanquish Soul": {
+			"count": 12,
+			"main": [
+				{
+					"name": "Vanquish Soul Hollie Sue",
+					"count": 36,
+					"copies": {
+						"3": 12
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 36,
+					"copies": {
+						"3": 12
+					}
+				},
+				{
+					"name": "K9-17 Izuna",
+					"count": 36,
+					"copies": {
+						"3": 12
+					}
+				},
+				{
+					"name": "Mulcharmy Fuwalos",
+					"count": 36,
+					"copies": {
+						"3": 12
+					}
+				},
+				{
+					"name": "Vanquish Soul Dr. Mad Love",
+					"count": 36,
+					"copies": {
+						"3": 12
+					}
+				},
+				{
+					"name": "Vanquish Soul Razen",
+					"count": 36,
+					"copies": {
+						"3": 12
+					}
+				},
+				{
+					"name": "Stake your Soul!",
+					"count": 36,
+					"copies": {
+						"3": 12
+					}
+				},
+				{
+					"name": "Vanquish Soul Jiaolong",
+					"count": 35,
+					"copies": {
+						"2": 1,
+						"3": 11
+					}
+				},
+				{
+					"name": "K9-66a Jokul",
+					"count": 27,
+					"copies": {
+						"1": 2,
+						"2": 2,
+						"3": 7
+					}
+				},
+				{
+					"name": "Vanquish Soul Heavy Borger",
+					"count": 16,
+					"copies": {
+						"1": 8,
+						"2": 4
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 14,
+					"copies": {
+						"2": 4,
+						"3": 2
+					}
+				},
+				{
+					"name": "Vanquish Soul, Start!",
+					"count": 12,
+					"copies": {
+						"1": 12
+					}
+				},
+				{
+					"name": "K9-ØØ Lupis",
+					"count": 12,
+					"copies": {
+						"1": 12
+					}
+				},
+				{
+					"name": "Vanquish Soul Caesar Valius",
+					"count": 12,
+					"copies": {
+						"1": 12
+					}
+				},
+				{
+					"name": "Pot of Extravagance",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Reinforcement of the Army",
+					"count": 12,
+					"copies": {
+						"1": 12
+					}
+				},
+				{
+					"name": "Vanquish Soul Snow Devil",
+					"count": 11,
+					"copies": {
+						"1": 11
+					}
+				},
+				{
+					"name": "D.D. Crow",
+					"count": 9,
+					"copies": {
+						"1": 1,
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "K9-66b Lantern",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "K9-X Forced Release",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Dimension Shifter",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Fantastical Dragon Phantazmay",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "\"A Case for K9\"",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Mulcharmy Meowls",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Bystial Magnamhut",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Pot of Prosperity",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Rescue-ACE Impulse",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dogoran, the Mad Flame Kaiju",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mulcharmy Purulia",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Small World",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Rescue-ACE Fire Attacker",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Mulcharmy Purulia",
+					"count": 25,
+					"copies": {
+						"2": 2,
+						"3": 7
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 22,
+					"copies": {
+						"2": 2,
+						"3": 6
+					}
+				},
+				{
+					"name": "Artifact Lancea",
+					"count": 19,
+					"copies": {
+						"2": 2,
+						"3": 5
+					}
+				},
+				{
+					"name": "Fantastical Dragon Phantazmay",
+					"count": 14,
+					"copies": {
+						"1": 4,
+						"2": 2,
+						"3": 2
+					}
+				},
+				{
+					"name": "Dinowrestler Pankratops",
+					"count": 13,
+					"copies": {
+						"2": 2,
+						"3": 3
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 12,
+					"copies": {
+						"1": 2,
+						"2": 2,
+						"3": 2
+					}
+				},
+				{
+					"name": "There Can Be Only One",
+					"count": 9,
+					"copies": {
+						"1": 9
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Ghost Belle & Haunted Mansion",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Dimension Shifter",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "The Black Goat Laughs",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Thrust",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Kashtira Fenrir",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Lava Golem",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Book of Eclipse",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "D.D. Crow",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Anti-Spell Fragrance",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Lightning Storm",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Bystial Druiswurm",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "K9-X Forced Release",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Vanquish Soul Snow Devil",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Kurikara Divincarnate",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Veidos the Eruption Dragon of Extinction",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Rock of the Vanquisher",
+					"count": 28,
+					"copies": {
+						"2": 8,
+						"3": 4
+					}
+				},
+				{
+					"name": "K9-17 \"Ripper\"",
+					"count": 23,
+					"copies": {
+						"1": 3,
+						"2": 7,
+						"3": 2
+					}
+				},
+				{
+					"name": "Number 67: Pair-a-Dice Smasher",
+					"count": 13,
+					"copies": {
+						"1": 11,
+						"2": 1
+					}
+				},
+				{
+					"name": "S:P Little Knight",
+					"count": 13,
+					"copies": {
+						"1": 11,
+						"2": 1
+					}
+				},
+				{
+					"name": "N.As.H. Knight",
+					"count": 12,
+					"copies": {
+						"1": 10,
+						"2": 1
+					}
+				},
+				{
+					"name": "Vallon, the Super Psy Skyblaster",
+					"count": 11,
+					"copies": {
+						"1": 7,
+						"2": 2
+					}
+				},
+				{
+					"name": "Super Starslayer TY-PHON - Sky Crisis",
+					"count": 11,
+					"copies": {
+						"1": 9,
+						"2": 1
+					}
+				},
+				{
+					"name": "Vanquish Soul Rocks",
+					"count": 10,
+					"copies": {
+						"1": 8,
+						"2": 1
+					}
+				},
+				{
+					"name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+					"count": 10,
+					"copies": {
+						"1": 10
+					}
+				},
+				{
+					"name": "CXyz N.As.Ch. Knight",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "K9-X \"Werewolf\"",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Number 104: Masquerade",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Number C104: Umbral Horror Masquerade",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Number C101: Silent Honor DARK",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Saryuja Skull Dread",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Number 101: Silent Honor ARK",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Arc Rebellion Xyz Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Chronomaly Vimana",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Imperial Princess Quinquery",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "K9-ØØ \"Hound\"",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "I:P Masquerena",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Number C107: Neo Galaxy-Eyes Tachyon Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Vanquish Soul Hollie Sue",
+					"count": 36,
+					"copies": {
+						"3": 12
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 36,
+					"copies": {
+						"3": 12
+					}
+				},
+				{
+					"name": "K9-17 Izuna",
+					"count": 36,
+					"copies": {
+						"3": 12
+					}
+				},
+				{
+					"name": "Mulcharmy Fuwalos",
+					"count": 36,
+					"copies": {
+						"3": 12
+					}
+				},
+				{
+					"name": "Vanquish Soul Dr. Mad Love",
+					"count": 36,
+					"copies": {
+						"3": 12
+					}
+				},
+				{
+					"name": "Vanquish Soul Razen",
+					"count": 36,
+					"copies": {
+						"3": 12
+					}
+				},
+				{
+					"name": "Stake your Soul!",
+					"count": 36,
+					"copies": {
+						"3": 12
+					}
+				},
+				{
+					"name": "Vanquish Soul Jiaolong",
+					"count": 35,
+					"copies": {
+						"2": 1,
+						"3": 11
+					}
+				},
+				{
+					"name": "K9-66a Jokul",
+					"count": 27,
+					"copies": {
+						"1": 2,
+						"2": 2,
+						"3": 7
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 26,
+					"copies": {
+						"1": 1,
+						"2": 5,
+						"3": 5
+					}
+				},
+				{
+					"name": "Mulcharmy Purulia",
+					"count": 26,
+					"copies": {
+						"2": 1,
+						"3": 8
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 22,
+					"copies": {
+						"2": 2,
+						"3": 6
+					}
+				},
+				{
+					"name": "Fantastical Dragon Phantazmay",
+					"count": 20,
+					"copies": {
+						"1": 2,
+						"2": 6,
+						"3": 2
+					}
+				},
+				{
+					"name": "Artifact Lancea",
+					"count": 19,
+					"copies": {
+						"2": 2,
+						"3": 5
+					}
+				},
+				{
+					"name": "Vanquish Soul Heavy Borger",
+					"count": 16,
+					"copies": {
+						"1": 8,
+						"2": 4
+					}
+				},
+				{
+					"name": "Dinowrestler Pankratops",
+					"count": 13,
+					"copies": {
+						"2": 2,
+						"3": 3
+					}
+				},
+				{
+					"name": "Vanquish Soul, Start!",
+					"count": 12,
+					"copies": {
+						"1": 12
+					}
+				},
+				{
+					"name": "K9-ØØ Lupis",
+					"count": 12,
+					"copies": {
+						"1": 12
+					}
+				},
+				{
+					"name": "Vanquish Soul Caesar Valius",
+					"count": 12,
+					"copies": {
+						"1": 12
+					}
+				},
+				{
+					"name": "Pot of Extravagance",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Reinforcement of the Army",
+					"count": 12,
+					"copies": {
+						"1": 12
+					}
+				},
+				{
+					"name": "Vanquish Soul Snow Devil",
+					"count": 12,
+					"copies": {
+						"1": 12
+					}
+				},
+				{
+					"name": "D.D. Crow",
+					"count": 11,
+					"copies": {
+						"1": 1,
+						"2": 2,
+						"3": 2
+					}
+				},
+				{
+					"name": "Dimension Shifter",
+					"count": 11,
+					"copies": {
+						"1": 11
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 9,
+					"copies": {
+						"1": 9
+					}
+				},
+				{
+					"name": "There Can Be Only One",
+					"count": 9,
+					"copies": {
+						"1": 9
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "K9-X Forced Release",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "K9-66b Lantern",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "\"A Case for K9\"",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Ghost Belle & Haunted Mansion",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Mulcharmy Meowls",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Bystial Magnamhut",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "The Black Goat Laughs",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Thrust",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Pot of Prosperity",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Kashtira Fenrir",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Lava Golem",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Book of Eclipse",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Rescue-ACE Impulse",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Anti-Spell Fragrance",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Lightning Storm",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dogoran, the Mad Flame Kaiju",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Small World",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Bystial Druiswurm",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Rescue-ACE Fire Attacker",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Kurikara Divincarnate",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Veidos the Eruption Dragon of Extinction",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Yummy": {
+			"count": 7,
+			"main": [
+				{
+					"name": "Cooky☆Yummy",
+					"count": 21,
+					"copies": {
+						"3": 7
+					}
+				},
+				{
+					"name": "Cupsy☆Yummy",
+					"count": 21,
+					"copies": {
+						"3": 7
+					}
+				},
+				{
+					"name": "Lollipo☆Yummy",
+					"count": 21,
+					"copies": {
+						"3": 7
+					}
+				},
+				{
+					"name": "Obedience Schooled",
+					"count": 21,
+					"copies": {
+						"3": 7
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 21,
+					"copies": {
+						"3": 7
+					}
+				},
+				{
+					"name": "Dominus Purge",
+					"count": 20,
+					"copies": {
+						"2": 1,
+						"3": 6
+					}
+				},
+				{
+					"name": "Sky Striker Mobilize - Engage!",
+					"count": 18,
+					"copies": {
+						"1": 1,
+						"2": 1,
+						"3": 5
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 18,
+					"copies": {
+						"3": 6
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Mulcharmy Fuwalos",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Yummy☆Surprise",
+					"count": 14,
+					"copies": {
+						"1": 1,
+						"2": 5,
+						"3": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Thrust",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Sky Striker Mecha - Hornet Drones",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Yummyusment★Acroquey",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Yummyusment☆Mignon",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Ghost Belle & Haunted Mansion",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Pot of Prosperity",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Mulcharmy Purulia",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Songs of the Dominators",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Lightning Storm",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dark Ruler No More",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Piri Reis Map",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Solemn Judgment",
+					"count": 19,
+					"copies": {
+						"2": 2,
+						"3": 5
+					}
+				},
+				{
+					"name": "Artifact Lancea",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Mulcharmy Purulia",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mulcharmy Fuwalos",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Ghost Belle & Haunted Mansion",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "The Black Goat Laughs",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Triple Tactics Thrust",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Metaltronus",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Rivalry of Warlords",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Lightning Storm",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Mulcharmy Meowls",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Contact \"C\"",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Retaliating \"C\"",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dark Ruler No More",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Anti-Spell Fragrance",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Yummy★Snatchy",
+					"count": 21,
+					"copies": {
+						"3": 7
+					}
+				},
+				{
+					"name": "Herald of the Arc Light",
+					"count": 13,
+					"copies": {
+						"1": 1,
+						"2": 6
+					}
+				},
+				{
+					"name": "Cupsy★Yummy Way",
+					"count": 8,
+					"copies": {
+						"1": 6,
+						"2": 1
+					}
+				},
+				{
+					"name": "Ukanomitsune-no-Onari",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Cooky★Yummy Way",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Lollipo★Yummy Way",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Martial Metal Marcher",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "S:P Little Knight",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Sky Striker Ace - Kagari",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "THE Star Ham",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Link Spider",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Salamangreat Almiraj",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Super Starslayer TY-PHON - Sky Crisis",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Relinquished Anima",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Cooky☆Yummy",
+					"count": 21,
+					"copies": {
+						"3": 7
+					}
+				},
+				{
+					"name": "Cupsy☆Yummy",
+					"count": 21,
+					"copies": {
+						"3": 7
+					}
+				},
+				{
+					"name": "Lollipo☆Yummy",
+					"count": 21,
+					"copies": {
+						"3": 7
+					}
+				},
+				{
+					"name": "Mulcharmy Fuwalos",
+					"count": 21,
+					"copies": {
+						"3": 7
+					}
+				},
+				{
+					"name": "Obedience Schooled",
+					"count": 21,
+					"copies": {
+						"3": 7
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 21,
+					"copies": {
+						"3": 7
+					}
+				},
+				{
+					"name": "Dominus Purge",
+					"count": 20,
+					"copies": {
+						"2": 1,
+						"3": 6
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 19,
+					"copies": {
+						"2": 2,
+						"3": 5
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 18,
+					"copies": {
+						"3": 6
+					}
+				},
+				{
+					"name": "Sky Striker Mobilize - Engage!",
+					"count": 18,
+					"copies": {
+						"1": 1,
+						"2": 1,
+						"3": 5
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 18,
+					"copies": {
+						"3": 6
+					}
+				},
+				{
+					"name": "Yummy☆Surprise",
+					"count": 14,
+					"copies": {
+						"1": 1,
+						"2": 5,
+						"3": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Thrust",
+					"count": 13,
+					"copies": {
+						"1": 1,
+						"2": 3,
+						"3": 2
+					}
+				},
+				{
+					"name": "Artifact Lancea",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Mulcharmy Purulia",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Ghost Belle & Haunted Mansion",
+					"count": 11,
+					"copies": {
+						"2": 4,
+						"3": 1
+					}
+				},
+				{
+					"name": "Sky Striker Mecha - Hornet Drones",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Yummyusment★Acroquey",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Yummyusment☆Mignon",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Pot of Prosperity",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "The Black Goat Laughs",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Lightning Storm",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Metaltronus",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Songs of the Dominators",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Rivalry of Warlords",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mulcharmy Meowls",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Contact \"C\"",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Retaliating \"C\"",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dark Ruler No More",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Anti-Spell Fragrance",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Piri Reis Map",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"K9 Crystron": {
+			"count": 5,
+			"main": [
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Crystron Sulfador",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "K9-66a Jokul",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Crystron Inclusion",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Chaotic Elements",
+					"count": 14,
+					"copies": {
+						"2": 1,
+						"3": 4
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 14,
+					"copies": {
+						"2": 1,
+						"3": 4
+					}
+				},
+				{
+					"name": "K9-17 Izuna",
+					"count": 13,
+					"copies": {
+						"2": 2,
+						"3": 3
+					}
+				},
+				{
+					"name": "Mulcharmy Fuwalos",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Crystron Sulfefnir",
+					"count": 10,
+					"copies": {
+						"1": 1,
+						"2": 3,
+						"3": 1
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Crystron Smiger",
+					"count": 7,
+					"copies": {
+						"1": 4,
+						"3": 1
+					}
+				},
+				{
+					"name": "\"A Case for K9\"",
+					"count": 7,
+					"copies": {
+						"1": 3,
+						"2": 2
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Crystron Tristaros",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "K9-66b Lantern",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "K9-ØØ Lupis",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Scrap Recycler",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Crystron Cluster",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Foolish Burial",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "K9-X Forced Release",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Dark Ruler No More",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Super Polymerization",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Crystron Thystvern",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Ghost Belle & Haunted Mansion",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Mulcharmy Purulia",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Pot of Prosperity",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Crystron Citree",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Artifact Lancea",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "\"A Case for K9\"",
+					"count": 8,
+					"copies": {
+						"1": 2,
+						"2": 3
+					}
+				},
+				{
+					"name": "Dark Ruler No More",
+					"count": 7,
+					"copies": {
+						"1": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Ghost Belle & Haunted Mansion",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Clockwork Night",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Foolish Burial Goods",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "K9-17 Izuna",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Mulcharmy Purulia",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Rivalry of Warlords",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Apophis the Swamp Deity",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "The Black Goat Laughs",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Therion \"King\" Regulus",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Strike Fighter",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "K9-X Forced Release",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Crystron Cluster",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "K9-17 \"Ripper\"",
+					"count": 6,
+					"copies": {
+						"1": 4,
+						"2": 1
+					}
+				},
+				{
+					"name": "Crystron Eleskeletus",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "F.A. Dawn Dragster",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Chronomaly Vimana",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Infinitrack River Stormer",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Number 67: Pair-a-Dice Smasher",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Clockwork Knight",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "S:P Little Knight",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Vallon, the Super Psy Skyblaster",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Cyber Dragon Infinity",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Cyber Dragon Nova",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "K9-X \"Werewolf\"",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Imperial Princess Quinquery",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Arc Rebellion Xyz Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Artifact Durendal",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Silhouhatte Rabbit",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Secreterion Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Garura, Wings of Resonant Life",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mudragon of the Swamp",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Crystron Quariongandrax",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Wind-Up Arsenal Zenmaioh",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "K9-ØØ \"Hound\"",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Crystron Sulfador",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "K9-17 Izuna",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "K9-66a Jokul",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "\"A Case for K9\"",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Crystron Inclusion",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Chaotic Elements",
+					"count": 14,
+					"copies": {
+						"2": 1,
+						"3": 4
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 14,
+					"copies": {
+						"2": 1,
+						"3": 4
+					}
+				},
+				{
+					"name": "Mulcharmy Fuwalos",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Crystron Sulfefnir",
+					"count": 10,
+					"copies": {
+						"1": 1,
+						"2": 3,
+						"3": 1
+					}
+				},
+				{
+					"name": "Dark Ruler No More",
+					"count": 10,
+					"copies": {
+						"1": 1,
+						"3": 3
+					}
+				},
+				{
+					"name": "Artifact Lancea",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Crystron Smiger",
+					"count": 7,
+					"copies": {
+						"1": 4,
+						"3": 1
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 7,
+					"copies": {
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Ghost Belle & Haunted Mansion",
+					"count": 7,
+					"copies": {
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Crystron Tristaros",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "K9-66b Lantern",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "K9-ØØ Lupis",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Scrap Recycler",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Crystron Cluster",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Clockwork Night",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "K9-X Forced Release",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Mulcharmy Purulia",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Foolish Burial",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Foolish Burial Goods",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Super Polymerization",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Crystron Thystvern",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Rivalry of Warlords",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Apophis the Swamp Deity",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "The Black Goat Laughs",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Pot of Prosperity",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Crystron Citree",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Therion \"King\" Regulus",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Strike Fighter",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Dracotail": {
+			"count": 2,
+			"main": [
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Dracotail Faimena",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Dracotail Lukias",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Dracotail Mululu",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mulcharmy Fuwalos",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mulcharmy Purulia",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Ketu Dracotail",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Rahu Dracotail",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Dracotail Pan",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "K9-17 Izuna",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "King of the Swamp",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Blazing Cartesia, the Virtuous",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dracotail Urgula",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dracotail Flame",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Dracotail Horn",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Bystial Magnamhut",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "K9-ØØ Lupis",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Polymerization",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Artifact Lancea",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Kashtira Fenrir",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Fantastical Dragon Phantazmay",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ghost Belle & Haunted Mansion",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dinowrestler Pankratops",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Blazing Cartesia, the Virtuous",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Skill Drain",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Dracotail Arthalion",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Dracotail Gulamel",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Secreterion Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Cross-Sheep",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Hieratic Seal of the Heavenly Spheres",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "S:P Little Knight",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Selene, Queen of the Master Magicians",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Spirit with Eyes of Blue",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Filia Regis",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mysterion the Dragon Crown",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Super Starslayer TY-PHON - Sky Crisis",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Artemis, the Magistus Moon Maiden",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Vallon, the Super Psy Skyblaster",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Guardian Chimera",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Red-Eyes Dark Dragoon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "K9-17 \"Ripper\"",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Accesscode Talker",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Dracotail Faimena",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Dracotail Lukias",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Dracotail Mululu",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mulcharmy Fuwalos",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mulcharmy Purulia",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Ketu Dracotail",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Rahu Dracotail",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Artifact Lancea",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Kashtira Fenrir",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Dracotail Pan",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Blazing Cartesia, the Virtuous",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fantastical Dragon Phantazmay",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ghost Belle & Haunted Mansion",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "K9-17 Izuna",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "King of the Swamp",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dinowrestler Pankratops",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dracotail Urgula",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dracotail Flame",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Dracotail Horn",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Bystial Magnamhut",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "K9-ØØ Lupis",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Polymerization",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Skill Drain",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Ryzeal Mitsurugi": {
+			"count": 2,
+			"main": [
+				{
+					"name": "Ame no Habakiri no Mitsurugi",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mulcharmy Fuwalos",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mitsurugi Prayers",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Ext Ryzeal",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Ice Ryzeal",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Sword Ryzeal",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Mulcharmy Purulia",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Seventh Tachyon",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mitsurugi no Mikoto, Kusanagi",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Mitsurugi no Mikoto, Saji",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Node Ryzeal",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Star Ryzeal",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Ame no Murakumo no Mitsurugi",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Bonfire",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Crossout Designator",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Mitsurugi Ritual",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Ryzeal Cross",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Mitsurugi no Mikoto, Aramasa",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Pot of Prosperity",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Night Sword Serpent",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Artifact Lancea",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mulcharmy Purulia",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Lightning Storm",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Mulcharmy Meowls",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Thrust",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "There Can Be Only One",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ghost Belle & Haunted Mansion",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Ruler No More",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mitsurugi Great Purification",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Ryzeal Duo Drive",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Vallon, the Super Psy Skyblaster",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Divine Golden Shadow Dragon Dragluxion",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Eclipse Twins",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Evilswarm Exciton Knight",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Gallant Granite",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "King of the Feral Imps",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Mereologic Aggregator",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Number 104: Masquerade",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Number 41: Bagooska the Terribly Tired Tapir",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Number 60: Dugares the Timeless",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Ryzeal Detonator",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Light Dragon @Ignister",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dyna Mondo",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Evilswarm Ouroboros",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Primathmech Laplacian",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Ame no Habakiri no Mitsurugi",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mulcharmy Fuwalos",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mulcharmy Purulia",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mitsurugi Prayers",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Artifact Lancea",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Ext Ryzeal",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Ice Ryzeal",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Sword Ryzeal",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Seventh Tachyon",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mitsurugi no Mikoto, Kusanagi",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Mitsurugi no Mikoto, Saji",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Node Ryzeal",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Star Ryzeal",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Ame no Murakumo no Mitsurugi",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Bonfire",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Crossout Designator",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Mitsurugi Ritual",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Ryzeal Cross",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Lightning Storm",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Mulcharmy Meowls",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Thrust",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Mitsurugi no Mikoto, Aramasa",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Pot of Prosperity",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "There Can Be Only One",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Night Sword Serpent",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ghost Belle & Haunted Mansion",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Ruler No More",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mitsurugi Great Purification",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Maliss": {
+			"count": 2,
+			"main": [
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Backup @Ignister",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mulcharmy Fuwalos",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Dominus Impulse",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Maliss <P> Chessy Cat",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Maliss <P> March Hare",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Mulcharmy Purulia",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Maliss <P> Dormouse",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Maliss <P> White Rabbit",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Maliss in Underground",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Bystial Druiswurm",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Bystial Magnamhut",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Wizard @Ignister",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Gold Sarcophagus",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Maliss in the Mirror",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Maliss <C> GWC-06",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Maliss <C> MTP-07",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Artifact Lancea",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Triple Tactics Thrust",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "The Black Goat Laughs",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "A.I. Meet You",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Artifact Sanctum",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Different Dimension Ground",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dimension Shifter",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Rivalry of Warlords",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Accesscode Talker",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Allied Code Talker @Ignister",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Cyberse Wicckid",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Dharc the Dark Charmer, Gloomy",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Firewall Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Linguriboh",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Link Disciple",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Link Spider",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Maliss <Q> Hearts Crypter",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Maliss <Q> Red Ransom",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Maliss <Q> White Binder",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "S:P Little Knight",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Salamangreat Almiraj",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Splash Mage",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Topologic Bomber Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Haggard Lizardose",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Backup @Ignister",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mulcharmy Fuwalos",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Dominus Impulse",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Artifact Lancea",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Triple Tactics Thrust",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Maliss <P> Chessy Cat",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Maliss <P> March Hare",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Mulcharmy Purulia",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Maliss <P> Dormouse",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Maliss <P> White Rabbit",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Maliss in Underground",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Bystial Druiswurm",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Bystial Magnamhut",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Wizard @Ignister",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Gold Sarcophagus",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Maliss in the Mirror",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Maliss <C> GWC-06",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Maliss <C> MTP-07",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "The Black Goat Laughs",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "A.I. Meet You",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Artifact Sanctum",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Different Dimension Ground",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dimension Shifter",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Rivalry of Warlords",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"K9 Dracotail": {
+			"count": 1,
+			"main": [
+				{
+					"name": "Dracotail Faimena",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dracotail Lukias",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dracotail Mululu",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "K9-17 Izuna",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "K9-66a Jokul",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mulcharmy Fuwalos",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mulcharmy Purulia",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Shaddoll Beast",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ketu Dracotail",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Rahu Dracotail",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dracotail Pan",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dracotail Urgula",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fiendsmith Engraver",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "K9-66b Lantern",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "K9-ØØ Lupis",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Lacrima the Crimson Tears",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "\"A Case for K9\"",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "K9-X Forced Release",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dracotail Flame",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dracotail Horn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Artifact Lancea",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Performapal Five-Rainbow Magician",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Book of Eclipse",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Chaotic Elements",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dark Ruler No More",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Dracotail Arthalion",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Secreterion Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Vallon, the Super Psy Skyblaster",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dracotail Gulamel",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "El Shaddoll Winda",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fiendsmith's Desirae",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "K9-17 \"Ripper\"",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "K9-X \"Werewolf\"",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fiendsmith's Agnumday",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fiendsmith's Requiem",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fiendsmith's Sequence",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Moon of the Closed Heaven",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "S:P Little Knight",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Dracotail Faimena",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dracotail Lukias",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dracotail Mululu",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "K9-17 Izuna",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "K9-66a Jokul",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mulcharmy Fuwalos",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mulcharmy Purulia",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Shaddoll Beast",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ketu Dracotail",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Rahu Dracotail",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Artifact Lancea",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Performapal Five-Rainbow Magician",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Book of Eclipse",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Chaotic Elements",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dark Ruler No More",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dracotail Pan",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dracotail Urgula",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fiendsmith Engraver",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "K9-66b Lantern",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "K9-ØØ Lupis",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Lacrima the Crimson Tears",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "\"A Case for K9\"",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "K9-X Forced Release",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dracotail Flame",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dracotail Horn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Azimina White Forest": {
+			"count": 1,
+			"main": [
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Elzette of the White Forest",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mulcharmy Fuwalos",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Silvy of the White Forest",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "WANTED: Seeker of Sinful Spoils",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Witch of the White Forest",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mulcharmy Purulia",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Thrust",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "The Black Goat Laughs",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Astellar of the White Forest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Diabellstar Vengeance",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Diabellstar the Black Witch",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Diabellze the White Witch",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Elzette, Azamina of the White Forest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Deception of the Sinful Spoils",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Filia Diabell",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sinful Spoils of the White Forest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Tales of the White Forest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "The Hallowed Azamina",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Curse of Diabell",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sinful Spoils of Slumber - Morrian",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Artifact Lancea",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fantastical Dragon Phantazmay",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dark Ruler No More",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Mulcharmy Purulia",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Crossout Designator",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Thrust",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Anti-Spell Fragrance",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Azamina Ilia Silvia",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Azamina Moa Regina",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Azamina Mu Rcielago",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Azamina Sol Erysichthon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Saint Azamina",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Snake-Eyes Doomed Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Chaos Angel",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Diabell, Queen of the White Forest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Herald of the Arc Light",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Juraishin, the Cursed Thunder God",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Poplar of the White Forest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Rciela, Sinister Soul of the White Forest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Silvera, Wolf Tamer of the White Forest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Snake-Eyes Vengeance Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "S:P Little Knight",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Elzette of the White Forest",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mulcharmy Fuwalos",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mulcharmy Purulia",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Silvy of the White Forest",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Thrust",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "WANTED: Seeker of Sinful Spoils",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Witch of the White Forest",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Artifact Lancea",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "The Black Goat Laughs",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Fantastical Dragon Phantazmay",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dark Ruler No More",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Astellar of the White Forest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Diabellstar Vengeance",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Diabellstar the Black Witch",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Diabellze the White Witch",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Elzette, Azamina of the White Forest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Deception of the Sinful Spoils",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Filia Diabell",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sinful Spoils of the White Forest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Tales of the White Forest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "The Hallowed Azamina",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Curse of Diabell",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sinful Spoils of Slumber - Morrian",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Crossout Designator",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Anti-Spell Fragrance",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		}
+	},
+	"main": [
+		{
+			"name": "Ash Blossom & Joyous Spring",
+			"count": 87,
+			"copies": {
+				"3": 29
+			}
+		},
+		{
+			"name": "Mulcharmy Fuwalos",
+			"count": 87,
+			"copies": {
+				"3": 29
+			}
+		},
+		{
+			"name": "K9-17 Izuna",
+			"count": 55,
+			"copies": {
+				"2": 2,
+				"3": 17
+			}
+		},
+		{
+			"name": "K9-66a Jokul",
+			"count": 45,
+			"copies": {
+				"1": 2,
+				"2": 2,
+				"3": 13
+			}
+		},
+		{
+			"name": "Nibiru, the Primal Being",
+			"count": 40,
+			"copies": {
+				"1": 1,
+				"2": 9,
+				"3": 7
+			}
+		},
+		{
+			"name": "Infinite Impermanence",
+			"count": 39,
+			"copies": {
+				"1": 1,
+				"2": 1,
+				"3": 12
+			}
+		},
+		{
+			"name": "Forbidden Droplet",
+			"count": 38,
+			"copies": {
+				"2": 1,
+				"3": 12
+			}
+		},
+		{
+			"name": "Vanquish Soul Hollie Sue",
+			"count": 36,
+			"copies": {
+				"3": 12
+			}
+		},
+		{
+			"name": "Vanquish Soul Dr. Mad Love",
+			"count": 36,
+			"copies": {
+				"3": 12
+			}
+		},
+		{
+			"name": "Vanquish Soul Razen",
+			"count": 36,
+			"copies": {
+				"3": 12
+			}
+		},
+		{
+			"name": "Stake your Soul!",
+			"count": 36,
+			"copies": {
+				"3": 12
+			}
+		},
+		{
+			"name": "Vanquish Soul Jiaolong",
+			"count": 35,
+			"copies": {
+				"2": 1,
+				"3": 11
+			}
+		},
+		{
+			"name": "Mulcharmy Purulia",
+			"count": 28,
+			"copies": {
+				"1": 2,
+				"2": 4,
+				"3": 6
+			}
+		},
+		{
+			"name": "Cooky☆Yummy",
+			"count": 21,
+			"copies": {
+				"3": 7
+			}
+		},
+		{
+			"name": "Cupsy☆Yummy",
+			"count": 21,
+			"copies": {
+				"3": 7
+			}
+		},
+		{
+			"name": "Lollipo☆Yummy",
+			"count": 21,
+			"copies": {
+				"3": 7
+			}
+		},
+		{
+			"name": "Obedience Schooled",
+			"count": 21,
+			"copies": {
+				"3": 7
+			}
+		},
+		{
+			"name": "Dominus Purge",
+			"count": 20,
+			"copies": {
+				"2": 1,
+				"3": 6
+			}
+		},
+		{
+			"name": "K9-ØØ Lupis",
+			"count": 19,
+			"copies": {
+				"1": 19
+			}
+		},
+		{
+			"name": "Sky Striker Mobilize - Engage!",
+			"count": 18,
+			"copies": {
+				"1": 1,
+				"2": 1,
+				"3": 5
+			}
+		},
+		{
+			"name": "Ghost Ogre & Snow Rabbit",
+			"count": 16,
+			"copies": {
+				"2": 5,
+				"3": 2
+			}
+		},
+		{
+			"name": "Vanquish Soul Heavy Borger",
+			"count": 16,
+			"copies": {
+				"1": 8,
+				"2": 4
+			}
+		},
+		{
+			"name": "Crystron Sulfador",
+			"count": 15,
+			"copies": {
+				"3": 5
+			}
+		},
+		{
+			"name": "Crystron Inclusion",
+			"count": 15,
+			"copies": {
+				"3": 5
+			}
+		},
+		{
+			"name": "Yummy☆Surprise",
+			"count": 14,
+			"copies": {
+				"1": 1,
+				"2": 5,
+				"3": 1
+			}
+		},
+		{
+			"name": "\"A Case for K9\"",
+			"count": 14,
+			"copies": {
+				"1": 10,
+				"2": 2
+			}
+		},
+		{
+			"name": "Chaotic Elements",
+			"count": 14,
+			"copies": {
+				"2": 1,
+				"3": 4
+			}
+		},
+		{
+			"name": "K9-66b Lantern",
+			"count": 13,
+			"copies": {
+				"1": 13
+			}
+		},
+		{
+			"name": "Vanquish Soul, Start!",
+			"count": 12,
+			"copies": {
+				"1": 12
+			}
+		},
+		{
+			"name": "Vanquish Soul Caesar Valius",
+			"count": 12,
+			"copies": {
+				"1": 12
+			}
+		},
+		{
+			"name": "Pot of Extravagance",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Reinforcement of the Army",
+			"count": 12,
+			"copies": {
+				"1": 12
+			}
+		},
+		{
+			"name": "Pot of Prosperity",
+			"count": 11,
+			"copies": {
+				"1": 11
+			}
+		},
+		{
+			"name": "Vanquish Soul Snow Devil",
+			"count": 11,
+			"copies": {
+				"1": 11
+			}
+		},
+		{
+			"name": "K9-X Forced Release",
+			"count": 11,
+			"copies": {
+				"1": 11
+			}
+		},
+		{
+			"name": "Crystron Sulfefnir",
+			"count": 10,
+			"copies": {
+				"1": 1,
+				"2": 3,
+				"3": 1
+			}
+		},
+		{
+			"name": "Triple Tactics Talent",
+			"count": 10,
+			"copies": {
+				"1": 10
+			}
+		},
+		{
+			"name": "Triple Tactics Thrust",
+			"count": 10,
+			"copies": {
+				"2": 2,
+				"3": 2
+			}
+		},
+		{
+			"name": "Droll & Lock Bird",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "D.D. Crow",
+			"count": 9,
+			"copies": {
+				"1": 1,
+				"2": 1,
+				"3": 2
+			}
+		},
+		{
+			"name": "Dracotail Faimena",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Dracotail Lukias",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Dracotail Mululu",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Ketu Dracotail",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Rahu Dracotail",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Effect Veiler",
+			"count": 8,
+			"copies": {
+				"2": 1,
+				"3": 2
+			}
+		},
+		{
+			"name": "Ghost Belle & Haunted Mansion",
+			"count": 8,
+			"copies": {
+				"2": 4
+			}
+		},
+		{
+			"name": "Called by the Grave",
+			"count": 8,
+			"copies": {
+				"1": 8
+			}
+		},
+		{
+			"name": "Sky Striker Mecha - Hornet Drones",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Yummyusment★Acroquey",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Yummyusment☆Mignon",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Bystial Magnamhut",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Crystron Smiger",
+			"count": 7,
+			"copies": {
+				"1": 4,
+				"3": 1
+			}
+		},
+		{
+			"name": "Dimension Shifter",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Fantastical Dragon Phantazmay",
+			"count": 6,
+			"copies": {
+				"1": 2,
+				"2": 2
+			}
+		},
+		{
+			"name": "Ame no Habakiri no Mitsurugi",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Mitsurugi Prayers",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Mulcharmy Meowls",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Backup @Ignister",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Dominus Impulse",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Crystron Tristaros",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Scrap Recycler",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Dracotail Pan",
+			"count": 5,
+			"copies": {
+				"1": 2,
+				"3": 1
+			}
+		},
+		{
+			"name": "Maliss <P> Chessy Cat",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Maliss <P> March Hare",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Crystron Cluster",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Dark Ruler No More",
+			"count": 4,
+			"copies": {
+				"1": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Ext Ryzeal",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Ice Ryzeal",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Sword Ryzeal",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Songs of the Dominators",
+			"count": 4,
+			"copies": {
+				"1": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Maliss <P> Dormouse",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Maliss <P> White Rabbit",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Maliss in Underground",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Foolish Burial",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Dracotail Urgula",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Dracotail Flame",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Dracotail Horn",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Super Polymerization",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Seventh Tachyon",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Shaddoll Beast",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Elzette of the White Forest",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Silvy of the White Forest",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "WANTED: Seeker of Sinful Spoils",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Witch of the White Forest",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Rescue-ACE Impulse",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "King of the Swamp",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Blazing Cartesia, the Virtuous",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Crystron Thystvern",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Mitsurugi no Mikoto, Kusanagi",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Mitsurugi no Mikoto, Saji",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Node Ryzeal",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Star Ryzeal",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Ame no Murakumo no Mitsurugi",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Bonfire",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Crossout Designator",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Mitsurugi Ritual",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Ryzeal Cross",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Lightning Storm",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "The Black Goat Laughs",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Bystial Druiswurm",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Wizard @Ignister",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Gold Sarcophagus",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Maliss in the Mirror",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Terraforming",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Maliss <C> GWC-06",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Maliss <C> MTP-07",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Dogoran, the Mad Flame Kaiju",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Crystron Citree",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Small World",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mitsurugi no Mikoto, Aramasa",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Harpie's Feather Duster",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Raigeki",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Fiendsmith Engraver",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Lacrima the Crimson Tears",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Astellar of the White Forest",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Diabellstar Vengeance",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Diabellstar the Black Witch",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Diabellze the White Witch",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Elzette, Azamina of the White Forest",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Deception of the Sinful Spoils",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Filia Diabell",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sinful Spoils of the White Forest",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Tales of the White Forest",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "The Hallowed Azamina",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Curse of Diabell",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sinful Spoils of Slumber - Morrian",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Night Sword Serpent",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Rescue-ACE Fire Attacker",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Piri Reis Map",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Polymerization",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	],
+	"side": [
+		{
+			"name": "Artifact Lancea",
+			"count": 64,
+			"copies": {
+				"2": 2,
+				"3": 20
+			}
+		},
+		{
+			"name": "Droll & Lock Bird",
+			"count": 55,
+			"copies": {
+				"2": 2,
+				"3": 17
+			}
+		},
+		{
+			"name": "Mulcharmy Purulia",
+			"count": 37,
+			"copies": {
+				"1": 2,
+				"2": 4,
+				"3": 9
+			}
+		},
+		{
+			"name": "Solemn Judgment",
+			"count": 24,
+			"copies": {
+				"2": 3,
+				"3": 6
+			}
+		},
+		{
+			"name": "Harpie's Feather Duster",
+			"count": 20,
+			"copies": {
+				"1": 20
+			}
+		},
+		{
+			"name": "Ghost Belle & Haunted Mansion",
+			"count": 20,
+			"copies": {
+				"1": 1,
+				"2": 5,
+				"3": 3
+			}
+		},
+		{
+			"name": "Fantastical Dragon Phantazmay",
+			"count": 19,
+			"copies": {
+				"1": 4,
+				"2": 3,
+				"3": 3
+			}
+		},
+		{
+			"name": "Triple Tactics Thrust",
+			"count": 18,
+			"copies": {
+				"1": 2,
+				"2": 5,
+				"3": 2
+			}
+		},
+		{
+			"name": "Called by the Grave",
+			"count": 16,
+			"copies": {
+				"1": 16
+			}
+		},
+		{
+			"name": "Dinowrestler Pankratops",
+			"count": 16,
+			"copies": {
+				"2": 2,
+				"3": 4
+			}
+		},
+		{
+			"name": "Nibiru, the Primal Being",
+			"count": 15,
+			"copies": {
+				"1": 2,
+				"2": 2,
+				"3": 3
+			}
+		},
+		{
+			"name": "Triple Tactics Talent",
+			"count": 14,
+			"copies": {
+				"1": 14
+			}
+		},
+		{
+			"name": "Dark Ruler No More",
+			"count": 14,
+			"copies": {
+				"1": 3,
+				"2": 1,
+				"3": 3
+			}
+		},
+		{
+			"name": "The Black Goat Laughs",
+			"count": 12,
+			"copies": {
+				"1": 10,
+				"2": 1
+			}
+		},
+		{
+			"name": "There Can Be Only One",
+			"count": 10,
+			"copies": {
+				"1": 10
+			}
+		},
+		{
+			"name": "\"A Case for K9\"",
+			"count": 8,
+			"copies": {
+				"1": 2,
+				"2": 3
+			}
+		},
+		{
+			"name": "Kashtira Fenrir",
+			"count": 8,
+			"copies": {
+				"2": 1,
+				"3": 2
+			}
+		},
+		{
+			"name": "Lightning Storm",
+			"count": 7,
+			"copies": {
+				"1": 1,
+				"2": 3
+			}
+		},
+		{
+			"name": "Solemn Warning",
+			"count": 7,
+			"copies": {
+				"2": 2,
+				"3": 1
+			}
+		},
+		{
+			"name": "Rivalry of Warlords",
+			"count": 6,
+			"copies": {
+				"1": 6
+			}
+		},
+		{
+			"name": "Dimensional Barrier",
+			"count": 6,
+			"copies": {
+				"1": 6
+			}
+		},
+		{
+			"name": "Mulcharmy Fuwalos",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Book of Eclipse",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Infinite Impermanence",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Dimension Shifter",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Mulcharmy Meowls",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Anti-Spell Fragrance",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Clockwork Night",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Metaltronus",
+			"count": 4,
+			"copies": {
+				"1": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Foolish Burial Goods",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Ash Blossom & Joyous Spring",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Lava Golem",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Performapal Five-Rainbow Magician",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Chaotic Elements",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Contact \"C\"",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Retaliating \"C\"",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "D.D. Crow",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "K9-17 Izuna",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "K9-X Forced Release",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Dark Hole",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Apophis the Swamp Deity",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Blazing Cartesia, the Virtuous",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Therion \"King\" Regulus",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Dark Strike Fighter",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Bystial Druiswurm",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Crystron Cluster",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mystical Space Typhoon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Crossout Designator",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "A.I. Meet You",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Artifact Sanctum",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Different Dimension Ground",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Raigeki",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mitsurugi Great Purification",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Vanquish Soul Snow Devil",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Kurikara Divincarnate",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Veidos the Eruption Dragon of Extinction",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Skill Drain",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	],
+	"extra": [
+		{
+			"name": "S:P Little Knight",
+			"count": 31,
+			"copies": {
+				"1": 29,
+				"2": 1
+			}
+		},
+		{
+			"name": "K9-17 \"Ripper\"",
+			"count": 31,
+			"copies": {
+				"1": 9,
+				"2": 8,
+				"3": 2
+			}
+		},
+		{
+			"name": "Rock of the Vanquisher",
+			"count": 28,
+			"copies": {
+				"2": 8,
+				"3": 4
+			}
+		},
+		{
+			"name": "Yummy★Snatchy",
+			"count": 21,
+			"copies": {
+				"3": 7
+			}
+		},
+		{
+			"name": "Vallon, the Super Psy Skyblaster",
+			"count": 19,
+			"copies": {
+				"1": 15,
+				"2": 2
+			}
+		},
+		{
+			"name": "Number 67: Pair-a-Dice Smasher",
+			"count": 18,
+			"copies": {
+				"1": 16,
+				"2": 1
+			}
+		},
+		{
+			"name": "Super Starslayer TY-PHON - Sky Crisis",
+			"count": 15,
+			"copies": {
+				"1": 13,
+				"2": 1
+			}
+		},
+		{
+			"name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+			"count": 15,
+			"copies": {
+				"1": 15
+			}
+		},
+		{
+			"name": "Herald of the Arc Light",
+			"count": 14,
+			"copies": {
+				"1": 2,
+				"2": 6
+			}
+		},
+		{
+			"name": "K9-X \"Werewolf\"",
+			"count": 13,
+			"copies": {
+				"1": 13
+			}
+		},
+		{
+			"name": "N.As.H. Knight",
+			"count": 12,
+			"copies": {
+				"1": 10,
+				"2": 1
+			}
+		},
+		{
+			"name": "Vanquish Soul Rocks",
+			"count": 10,
+			"copies": {
+				"1": 8,
+				"2": 1
+			}
+		},
+		{
+			"name": "Number 104: Masquerade",
+			"count": 9,
+			"copies": {
+				"1": 9
+			}
+		},
+		{
+			"name": "Dracotail Arthalion",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Cupsy★Yummy Way",
+			"count": 8,
+			"copies": {
+				"1": 6,
+				"2": 1
+			}
+		},
+		{
+			"name": "CXyz N.As.Ch. Knight",
+			"count": 8,
+			"copies": {
+				"1": 8
+			}
+		},
+		{
+			"name": "Link Spider",
+			"count": 8,
+			"copies": {
+				"1": 8
+			}
+		},
+		{
+			"name": "Ukanomitsune-no-Onari",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Cooky★Yummy Way",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Lollipo★Yummy Way",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Martial Metal Marcher",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Salamangreat Almiraj",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Sky Striker Ace - Kagari",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Chronomaly Vimana",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Number C104: Umbral Horror Masquerade",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "THE Star Ham",
+			"count": 6,
+			"copies": {
+				"1": 6
+			}
+		},
+		{
+			"name": "Number C101: Silent Honor DARK",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Crystron Eleskeletus",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "F.A. Dawn Dragster",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Imperial Princess Quinquery",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Infinitrack River Stormer",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Clockwork Knight",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Cyber Dragon Infinity",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Cyber Dragon Nova",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Secreterion Dragon",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Dracotail Gulamel",
+			"count": 4,
+			"copies": {
+				"1": 2,
+				"2": 1
+			}
+		},
+		{
+			"name": "Arc Rebellion Xyz Dragon",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Ryzeal Duo Drive",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Saryuja Skull Dread",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Accesscode Talker",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Number 101: Silent Honor ARK",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Cross-Sheep",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Hieratic Seal of the Heavenly Spheres",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Selene, Queen of the Master Magicians",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Spirit with Eyes of Blue",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Divine Golden Shadow Dragon Dragluxion",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Eclipse Twins",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Evilswarm Exciton Knight",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Gallant Granite",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "King of the Feral Imps",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Mereologic Aggregator",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Number 41: Bagooska the Terribly Tired Tapir",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Number 60: Dugares the Timeless",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Ryzeal Detonator",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "K9-ØØ \"Hound\"",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Allied Code Talker @Ignister",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Cyberse Wicckid",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Dharc the Dark Charmer, Gloomy",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Firewall Dragon",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Linguriboh",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Link Disciple",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Maliss <Q> Hearts Crypter",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Maliss <Q> Red Ransom",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Maliss <Q> White Binder",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Splash Mage",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Artifact Durendal",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Silhouhatte Rabbit",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Filia Regis",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mysterion the Dragon Crown",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Artemis, the Magistus Moon Maiden",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Garura, Wings of Resonant Life",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mudragon of the Swamp",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Crystron Quariongandrax",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Wind-Up Arsenal Zenmaioh",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Light Dragon @Ignister",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Dyna Mondo",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "El Shaddoll Winda",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Fiendsmith's Desirae",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Fiendsmith's Agnumday",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Fiendsmith's Requiem",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Fiendsmith's Sequence",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Moon of the Closed Heaven",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Azamina Ilia Silvia",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Azamina Moa Regina",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Azamina Mu Rcielago",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Azamina Sol Erysichthon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Saint Azamina",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Snake-Eyes Doomed Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Chaos Angel",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Diabell, Queen of the White Forest",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Juraishin, the Cursed Thunder God",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Poplar of the White Forest",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Rciela, Sinister Soul of the White Forest",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Silvera, Wolf Tamer of the White Forest",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Snake-Eyes Vengeance Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Topologic Bomber Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Haggard Lizardose",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Evilswarm Ouroboros",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Primathmech Laplacian",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "I:P Masquerena",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Number C107: Neo Galaxy-Eyes Tachyon Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Relinquished Anima",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Guardian Chimera",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Red-Eyes Dark Dragoon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	],
+	"total": [
+		{
+			"name": "Mulcharmy Fuwalos",
+			"count": 93,
+			"copies": {
+				"3": 31
+			}
+		},
+		{
+			"name": "Ash Blossom & Joyous Spring",
+			"count": 90,
+			"copies": {
+				"3": 30
+			}
+		},
+		{
+			"name": "Mulcharmy Purulia",
+			"count": 65,
+			"copies": {
+				"2": 4,
+				"3": 19
+			}
+		},
+		{
+			"name": "Artifact Lancea",
+			"count": 64,
+			"copies": {
+				"2": 2,
+				"3": 20
+			}
+		},
+		{
+			"name": "Droll & Lock Bird",
+			"count": 64,
+			"copies": {
+				"2": 2,
+				"3": 20
+			}
+		},
+		{
+			"name": "K9-17 Izuna",
+			"count": 57,
+			"copies": {
+				"3": 19
+			}
+		},
+		{
+			"name": "Nibiru, the Primal Being",
+			"count": 55,
+			"copies": {
+				"1": 2,
+				"2": 10,
+				"3": 11
+			}
+		},
+		{
+			"name": "Infinite Impermanence",
+			"count": 45,
+			"copies": {
+				"1": 1,
+				"2": 1,
+				"3": 14
+			}
+		},
+		{
+			"name": "K9-66a Jokul",
+			"count": 45,
+			"copies": {
+				"1": 2,
+				"2": 2,
+				"3": 13
+			}
+		},
+		{
+			"name": "Forbidden Droplet",
+			"count": 38,
+			"copies": {
+				"2": 1,
+				"3": 12
+			}
+		},
+		{
+			"name": "Vanquish Soul Hollie Sue",
+			"count": 36,
+			"copies": {
+				"3": 12
+			}
+		},
+		{
+			"name": "Vanquish Soul Dr. Mad Love",
+			"count": 36,
+			"copies": {
+				"3": 12
+			}
+		},
+		{
+			"name": "Vanquish Soul Razen",
+			"count": 36,
+			"copies": {
+				"3": 12
+			}
+		},
+		{
+			"name": "Stake your Soul!",
+			"count": 36,
+			"copies": {
+				"3": 12
+			}
+		},
+		{
+			"name": "Vanquish Soul Jiaolong",
+			"count": 35,
+			"copies": {
+				"2": 1,
+				"3": 11
+			}
+		},
+		{
+			"name": "Ghost Belle & Haunted Mansion",
+			"count": 28,
+			"copies": {
+				"1": 1,
+				"2": 9,
+				"3": 3
+			}
+		},
+		{
+			"name": "Triple Tactics Thrust",
+			"count": 28,
+			"copies": {
+				"1": 1,
+				"2": 6,
+				"3": 5
+			}
+		},
+		{
+			"name": "Fantastical Dragon Phantazmay",
+			"count": 25,
+			"copies": {
+				"1": 2,
+				"2": 7,
+				"3": 3
+			}
+		},
+		{
+			"name": "Called by the Grave",
+			"count": 24,
+			"copies": {
+				"1": 24
+			}
+		},
+		{
+			"name": "Triple Tactics Talent",
+			"count": 24,
+			"copies": {
+				"1": 24
+			}
+		},
+		{
+			"name": "Solemn Judgment",
+			"count": 24,
+			"copies": {
+				"2": 3,
+				"3": 6
+			}
+		},
+		{
+			"name": "\"A Case for K9\"",
+			"count": 22,
+			"copies": {
+				"1": 7,
+				"3": 5
+			}
+		},
+		{
+			"name": "Cooky☆Yummy",
+			"count": 21,
+			"copies": {
+				"3": 7
+			}
+		},
+		{
+			"name": "Cupsy☆Yummy",
+			"count": 21,
+			"copies": {
+				"3": 7
+			}
+		},
+		{
+			"name": "Lollipo☆Yummy",
+			"count": 21,
+			"copies": {
+				"3": 7
+			}
+		},
+		{
+			"name": "Obedience Schooled",
+			"count": 21,
+			"copies": {
+				"3": 7
+			}
+		},
+		{
+			"name": "Harpie's Feather Duster",
+			"count": 21,
+			"copies": {
+				"1": 21
+			}
+		},
+		{
+			"name": "Dominus Purge",
+			"count": 20,
+			"copies": {
+				"2": 1,
+				"3": 6
+			}
+		},
+		{
+			"name": "K9-ØØ Lupis",
+			"count": 19,
+			"copies": {
+				"1": 19
+			}
+		},
+		{
+			"name": "Sky Striker Mobilize - Engage!",
+			"count": 18,
+			"copies": {
+				"1": 1,
+				"2": 1,
+				"3": 5
+			}
+		},
+		{
+			"name": "Dark Ruler No More",
+			"count": 18,
+			"copies": {
+				"1": 4,
+				"2": 1,
+				"3": 4
+			}
+		},
+		{
+			"name": "Chaotic Elements",
+			"count": 17,
+			"copies": {
+				"2": 1,
+				"3": 5
+			}
+		},
+		{
+			"name": "Ghost Ogre & Snow Rabbit",
+			"count": 16,
+			"copies": {
+				"2": 5,
+				"3": 2
+			}
+		},
+		{
+			"name": "Vanquish Soul Heavy Borger",
+			"count": 16,
+			"copies": {
+				"1": 8,
+				"2": 4
+			}
+		},
+		{
+			"name": "Dinowrestler Pankratops",
+			"count": 16,
+			"copies": {
+				"2": 2,
+				"3": 4
+			}
+		},
+		{
+			"name": "Crystron Sulfador",
+			"count": 15,
+			"copies": {
+				"3": 5
+			}
+		},
+		{
+			"name": "Crystron Inclusion",
+			"count": 15,
+			"copies": {
+				"3": 5
+			}
+		},
+		{
+			"name": "Yummy☆Surprise",
+			"count": 14,
+			"copies": {
+				"1": 1,
+				"2": 5,
+				"3": 1
+			}
+		},
+		{
+			"name": "The Black Goat Laughs",
+			"count": 14,
+			"copies": {
+				"1": 10,
+				"2": 2
+			}
+		},
+		{
+			"name": "K9-66b Lantern",
+			"count": 13,
+			"copies": {
+				"1": 13
+			}
+		},
+		{
+			"name": "K9-X Forced Release",
+			"count": 13,
+			"copies": {
+				"1": 13
+			}
+		},
+		{
+			"name": "Vanquish Soul, Start!",
+			"count": 12,
+			"copies": {
+				"1": 12
+			}
+		},
+		{
+			"name": "Vanquish Soul Caesar Valius",
+			"count": 12,
+			"copies": {
+				"1": 12
+			}
+		},
+		{
+			"name": "Pot of Extravagance",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Reinforcement of the Army",
+			"count": 12,
+			"copies": {
+				"1": 12
+			}
+		},
+		{
+			"name": "Vanquish Soul Snow Devil",
+			"count": 12,
+			"copies": {
+				"1": 12
+			}
+		},
+		{
+			"name": "Dimension Shifter",
+			"count": 12,
+			"copies": {
+				"1": 12
+			}
+		},
+		{
+			"name": "Pot of Prosperity",
+			"count": 11,
+			"copies": {
+				"1": 11
+			}
+		},
+		{
+			"name": "D.D. Crow",
+			"count": 11,
+			"copies": {
+				"1": 1,
+				"2": 2,
+				"3": 2
+			}
+		},
+		{
+			"name": "Mulcharmy Meowls",
+			"count": 11,
+			"copies": {
+				"2": 1,
+				"3": 3
+			}
+		},
+		{
+			"name": "There Can Be Only One",
+			"count": 10,
+			"copies": {
+				"1": 10
+			}
+		},
+		{
+			"name": "Crystron Sulfefnir",
+			"count": 10,
+			"copies": {
+				"1": 1,
+				"2": 3,
+				"3": 1
+			}
+		},
+		{
+			"name": "Lightning Storm",
+			"count": 9,
+			"copies": {
+				"1": 1,
+				"2": 4
+			}
+		},
+		{
+			"name": "Dracotail Faimena",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Dracotail Lukias",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Dracotail Mululu",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Ketu Dracotail",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Rahu Dracotail",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Effect Veiler",
+			"count": 8,
+			"copies": {
+				"2": 1,
+				"3": 2
+			}
+		},
+		{
+			"name": "Kashtira Fenrir",
+			"count": 8,
+			"copies": {
+				"2": 1,
+				"3": 2
+			}
+		},
+		{
+			"name": "Sky Striker Mecha - Hornet Drones",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Yummyusment★Acroquey",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Yummyusment☆Mignon",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Bystial Magnamhut",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Crystron Smiger",
+			"count": 7,
+			"copies": {
+				"1": 4,
+				"3": 1
+			}
+		},
+		{
+			"name": "Solemn Warning",
+			"count": 7,
+			"copies": {
+				"2": 2,
+				"3": 1
+			}
+		},
+		{
+			"name": "Rivalry of Warlords",
+			"count": 6,
+			"copies": {
+				"1": 6
+			}
+		},
+		{
+			"name": "Dimensional Barrier",
+			"count": 6,
+			"copies": {
+				"1": 6
+			}
+		},
+		{
+			"name": "Ame no Habakiri no Mitsurugi",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Mitsurugi Prayers",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Book of Eclipse",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Backup @Ignister",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Dominus Impulse",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Crystron Tristaros",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Scrap Recycler",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Crystron Cluster",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Dracotail Pan",
+			"count": 5,
+			"copies": {
+				"1": 2,
+				"3": 1
+			}
+		},
+		{
+			"name": "Maliss <P> Chessy Cat",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Maliss <P> March Hare",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Anti-Spell Fragrance",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Clockwork Night",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Metaltronus",
+			"count": 4,
+			"copies": {
+				"1": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Ext Ryzeal",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Ice Ryzeal",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Sword Ryzeal",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Songs of the Dominators",
+			"count": 4,
+			"copies": {
+				"1": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Maliss <P> Dormouse",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Maliss <P> White Rabbit",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Maliss in Underground",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Foolish Burial",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Foolish Burial Goods",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Blazing Cartesia, the Virtuous",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Dracotail Urgula",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Dracotail Flame",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Dracotail Horn",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Super Polymerization",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Bystial Druiswurm",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Crossout Designator",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Seventh Tachyon",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Lava Golem",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Shaddoll Beast",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Performapal Five-Rainbow Magician",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Elzette of the White Forest",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Silvy of the White Forest",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "WANTED: Seeker of Sinful Spoils",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Witch of the White Forest",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Rescue-ACE Impulse",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "King of the Swamp",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Contact \"C\"",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Retaliating \"C\"",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Crystron Thystvern",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Mitsurugi no Mikoto, Kusanagi",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Mitsurugi no Mikoto, Saji",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Node Ryzeal",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Star Ryzeal",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Ame no Murakumo no Mitsurugi",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Bonfire",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Mitsurugi Ritual",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Ryzeal Cross",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Raigeki",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Wizard @Ignister",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Gold Sarcophagus",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Maliss in the Mirror",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Terraforming",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Maliss <C> GWC-06",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Maliss <C> MTP-07",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Dark Hole",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Apophis the Swamp Deity",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Dogoran, the Mad Flame Kaiju",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Crystron Citree",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Therion \"King\" Regulus",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Dark Strike Fighter",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Small World",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mitsurugi no Mikoto, Aramasa",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mystical Space Typhoon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Fiendsmith Engraver",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Lacrima the Crimson Tears",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Astellar of the White Forest",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Diabellstar Vengeance",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Diabellstar the Black Witch",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Diabellze the White Witch",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Elzette, Azamina of the White Forest",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Deception of the Sinful Spoils",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Filia Diabell",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sinful Spoils of the White Forest",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Tales of the White Forest",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "The Hallowed Azamina",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Curse of Diabell",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sinful Spoils of Slumber - Morrian",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "A.I. Meet You",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Artifact Sanctum",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Different Dimension Ground",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Night Sword Serpent",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mitsurugi Great Purification",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Rescue-ACE Fire Attacker",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Kurikara Divincarnate",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Veidos the Eruption Dragon of Extinction",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Piri Reis Map",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Polymerization",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Skill Drain",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	]
+}

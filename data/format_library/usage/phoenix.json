@@ -1,0 +1,10198 @@
+{
+	"decks_processed": 24,
+	"deck_types": {
+		"Prank-Kids": {
+			"count": 7,
+			"main": [
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 21,
+					"copies": {
+						"3": 7
+					}
+				},
+				{
+					"name": "Water Enchantress of the Temple",
+					"count": 21,
+					"copies": {
+						"3": 7
+					}
+				},
+				{
+					"name": "Rite of Aramesir",
+					"count": 21,
+					"copies": {
+						"3": 7
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 20,
+					"copies": {
+						"2": 1,
+						"3": 6
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 20,
+					"copies": {
+						"2": 1,
+						"3": 6
+					}
+				},
+				{
+					"name": "Prank-Kids Dropsies",
+					"count": 20,
+					"copies": {
+						"2": 1,
+						"3": 6
+					}
+				},
+				{
+					"name": "Prank-Kids Lampsies",
+					"count": 20,
+					"copies": {
+						"2": 1,
+						"3": 6
+					}
+				},
+				{
+					"name": "Prank-Kids Place",
+					"count": 20,
+					"copies": {
+						"2": 1,
+						"3": 6
+					}
+				},
+				{
+					"name": "Prank-Kids Fansies",
+					"count": 19,
+					"copies": {
+						"2": 2,
+						"3": 5
+					}
+				},
+				{
+					"name": "Prank-Kids Rocksies",
+					"count": 14,
+					"copies": {
+						"2": 7
+					}
+				},
+				{
+					"name": "Fusion Destiny",
+					"count": 14,
+					"copies": {
+						"2": 7
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 13,
+					"copies": {
+						"1": 1,
+						"3": 4
+					}
+				},
+				{
+					"name": "Fateful Adventure",
+					"count": 12,
+					"copies": {
+						"1": 2,
+						"2": 5
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Magicians' Souls",
+					"count": 12,
+					"copies": {
+						"1": 2,
+						"2": 2,
+						"3": 2
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 11,
+					"copies": {
+						"1": 3,
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Ghost Belle & Haunted Mansion",
+					"count": 11,
+					"copies": {
+						"1": 1,
+						"2": 2,
+						"3": 2
+					}
+				},
+				{
+					"name": "Illusion of Chaos",
+					"count": 10,
+					"copies": {
+						"1": 2,
+						"2": 4
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 10,
+					"copies": {
+						"1": 1,
+						"3": 3
+					}
+				},
+				{
+					"name": "Crossout Designator",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Small World",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Destiny HERO - Celestial",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Destiny HERO - Dasher",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Wandering Gryphon Rider",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Dracoback, the Rideable Dragon",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Prank-Kids Pandemonium",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Prank-Kids Pranks",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Foolish Burial",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Fantastical Dragon Phantazmay",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mystic Mine",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "PSY-Framegear Gamma",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Parallel eXceed",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "One for One",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Preparation of Rites",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Artifact Scythe",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "D.D. Crow",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "PSY-Frame Driver",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Instant Fusion",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Twin Twisters",
+					"count": 16,
+					"copies": {
+						"2": 2,
+						"3": 4
+					}
+				},
+				{
+					"name": "Ghost Reaper & Winter Cherries",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Token Collector",
+					"count": 11,
+					"copies": {
+						"2": 1,
+						"3": 3
+					}
+				},
+				{
+					"name": "PSY-Framegear Gamma",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Crossout Designator",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Super Polymerization",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "PSY-Frame Driver",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Artifact Lancea",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Gadarla, the Mystery Dust Kaiju",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ghost Belle & Haunted Mansion",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Fantastical Dragon Phantazmay",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ghost Mourner & Moonlit Chill",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Archfiend Eccentrick",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Prank-Kids Dodo-Doodle-Doo",
+					"count": 15,
+					"copies": {
+						"2": 6,
+						"3": 1
+					}
+				},
+				{
+					"name": "Predaplant Verte Anaconda",
+					"count": 13,
+					"copies": {
+						"1": 1,
+						"2": 6
+					}
+				},
+				{
+					"name": "Link Spider",
+					"count": 11,
+					"copies": {
+						"1": 3,
+						"2": 4
+					}
+				},
+				{
+					"name": "Prank-Kids Battle Butler",
+					"count": 8,
+					"copies": {
+						"1": 6,
+						"2": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Destroyer Phoenix Enforcer",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Prank-Kids Weather Washer",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Accesscode Talker",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Prank-Kids Bow-Wow-Bark",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Prank-Kids Meow-Meow-Mu",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Dharc the Dark Charmer, Gloomy",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Knightmare Unicorn",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Linkuriboh",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Prank-Kids Rocket Ride",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Starving Venom Fusion Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Artifact Dagda",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Knightmare Cerberus",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Knightmare Phoenix",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 21,
+					"copies": {
+						"3": 7
+					}
+				},
+				{
+					"name": "Water Enchantress of the Temple",
+					"count": 21,
+					"copies": {
+						"3": 7
+					}
+				},
+				{
+					"name": "Rite of Aramesir",
+					"count": 21,
+					"copies": {
+						"3": 7
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 20,
+					"copies": {
+						"2": 1,
+						"3": 6
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 20,
+					"copies": {
+						"2": 1,
+						"3": 6
+					}
+				},
+				{
+					"name": "Prank-Kids Dropsies",
+					"count": 20,
+					"copies": {
+						"2": 1,
+						"3": 6
+					}
+				},
+				{
+					"name": "Prank-Kids Lampsies",
+					"count": 20,
+					"copies": {
+						"2": 1,
+						"3": 6
+					}
+				},
+				{
+					"name": "Prank-Kids Place",
+					"count": 20,
+					"copies": {
+						"2": 1,
+						"3": 6
+					}
+				},
+				{
+					"name": "Prank-Kids Fansies",
+					"count": 19,
+					"copies": {
+						"2": 2,
+						"3": 5
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 18,
+					"copies": {
+						"3": 6
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 17,
+					"copies": {
+						"2": 1,
+						"3": 5
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 16,
+					"copies": {
+						"2": 2,
+						"3": 4
+					}
+				},
+				{
+					"name": "Crossout Designator",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Prank-Kids Rocksies",
+					"count": 14,
+					"copies": {
+						"2": 7
+					}
+				},
+				{
+					"name": "Fusion Destiny",
+					"count": 14,
+					"copies": {
+						"2": 7
+					}
+				},
+				{
+					"name": "Ghost Belle & Haunted Mansion",
+					"count": 14,
+					"copies": {
+						"2": 1,
+						"3": 4
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 13,
+					"copies": {
+						"1": 1,
+						"3": 4
+					}
+				},
+				{
+					"name": "Fateful Adventure",
+					"count": 12,
+					"copies": {
+						"1": 2,
+						"2": 5
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Magicians' Souls",
+					"count": 12,
+					"copies": {
+						"1": 2,
+						"2": 2,
+						"3": 2
+					}
+				},
+				{
+					"name": "PSY-Framegear Gamma",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Ghost Reaper & Winter Cherries",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Token Collector",
+					"count": 11,
+					"copies": {
+						"2": 1,
+						"3": 3
+					}
+				},
+				{
+					"name": "Illusion of Chaos",
+					"count": 10,
+					"copies": {
+						"1": 2,
+						"2": 4
+					}
+				},
+				{
+					"name": "Small World",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Destiny HERO - Celestial",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Destiny HERO - Dasher",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Wandering Gryphon Rider",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Dracoback, the Rideable Dragon",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Prank-Kids Pandemonium",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Prank-Kids Pranks",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Foolish Burial",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Fantastical Dragon Phantazmay",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "PSY-Frame Driver",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Super Polymerization",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Artifact Lancea",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Gadarla, the Mystery Dust Kaiju",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Mystic Mine",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Ghost Mourner & Moonlit Chill",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Parallel eXceed",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "One for One",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Preparation of Rites",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Artifact Scythe",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "D.D. Crow",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Instant Fusion",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Archfiend Eccentrick",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Swordsoul Tenyi": {
+			"count": 4,
+			"main": [
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Swordsoul Strategist Longyuan",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Swordsoul of Mo Ye",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Tenyi Spirit - Adhara",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Tenyi Spirit - Ashuna",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Swordsoul Emergence",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Vessel for the Dragon Cycle",
+					"count": 11,
+					"copies": {
+						"2": 1,
+						"3": 3
+					}
+				},
+				{
+					"name": "Incredible Ecclesia, the Virtuous",
+					"count": 10,
+					"copies": {
+						"2": 2,
+						"3": 2
+					}
+				},
+				{
+					"name": "Tenyi Spirit - Vishuda",
+					"count": 10,
+					"copies": {
+						"2": 2,
+						"3": 2
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Swordsoul of Taia",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Emergency Teleport",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Deskbot 001",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Tenyi Spirit - Shthana",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Pot of Desires",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Swordsoul Blackout",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Heavenly Dragon Circle",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ghost Belle & Haunted Mansion",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ghost Mourner & Moonlit Chill",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "PSY-Framegear Gamma",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Rivalry of Warlords",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Ghost Reaper & Winter Cherries",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Ghost Belle & Haunted Mansion",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dark Ruler No More",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mistaken Arrest",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "PSY-Frame Driver",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "D.D. Crow",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Gnomaterial",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Destroyer Phoenix Enforcer",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Red Reboot",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Prank-Kids Dodo-Doodle-Doo",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Token Collector",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Shooting Riser Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Prank-Kids Meow-Meow-Mu",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Swordsoul Grandmaster - Chixiao",
+					"count": 8,
+					"copies": {
+						"2": 4
+					}
+				},
+				{
+					"name": "Monk of the Tenyi",
+					"count": 8,
+					"copies": {
+						"2": 4
+					}
+				},
+				{
+					"name": "Baxia, Brightness of the Yang Zing",
+					"count": 7,
+					"copies": {
+						"1": 1,
+						"2": 3
+					}
+				},
+				{
+					"name": "Baronne de Fleur",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Draco Berserker of the Tenyi",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Swordsoul Sinister Sovereign - Qixing Longyuan",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Swordsoul Supreme Sovereign - Chengying",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Yazi, Evil of the Yang Zing",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Crystron Halqifibrax",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Mecha Phantom Beast Auroradon",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Shaman of the Tenyi",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Chaofeng, Phantom of the Yang Zing",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Herald of the Arc Light",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Swordsoul Strategist Longyuan",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Swordsoul of Mo Ye",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Tenyi Spirit - Adhara",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Tenyi Spirit - Ashuna",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Swordsoul Emergence",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Vessel for the Dragon Cycle",
+					"count": 11,
+					"copies": {
+						"2": 1,
+						"3": 3
+					}
+				},
+				{
+					"name": "Incredible Ecclesia, the Virtuous",
+					"count": 10,
+					"copies": {
+						"2": 2,
+						"3": 2
+					}
+				},
+				{
+					"name": "Tenyi Spirit - Vishuda",
+					"count": 10,
+					"copies": {
+						"2": 2,
+						"3": 2
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "PSY-Framegear Gamma",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Swordsoul of Taia",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Ghost Belle & Haunted Mansion",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Rivalry of Warlords",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Ghost Reaper & Winter Cherries",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Emergency Teleport",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Deskbot 001",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Tenyi Spirit - Shthana",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Pot of Desires",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Swordsoul Blackout",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dark Ruler No More",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mistaken Arrest",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Heavenly Dragon Circle",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "PSY-Frame Driver",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "D.D. Crow",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Gnomaterial",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Destroyer Phoenix Enforcer",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Red Reboot",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Prank-Kids Dodo-Doodle-Doo",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ghost Mourner & Moonlit Chill",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Token Collector",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Shooting Riser Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Prank-Kids Meow-Meow-Mu",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Floowandereeze": {
+			"count": 3,
+			"main": [
+				{
+					"name": "Dimension Shifter",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Floowandereeze & Eglen",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Floowandereeze & Robina",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Dark Ruler No More",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Floowandereeze and the Advent of Adventure",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Floowandereeze and the Magnificent Map",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Pot of Duality",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Pot of Prosperity",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 7,
+					"copies": {
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Floowandereeze & Empen",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Floowandereeze & Stri",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Floowandereeze and the Unexplored Winds",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Barrier Statue of the Stormwinds",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Floowandereeze & Toccan",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Mist Valley Apex Avian",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Raiza the Mega Monarch",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Floowandereeze and the Dreaming Town",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Harpie's Feather Storm",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Mystic Mine",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "PSY-Framegear Gamma",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Harpie's Feather Storm",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Trap Trick",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "D.D. Crow",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Lightning Storm",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mystic Mine",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Token Collector",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Evenly Matched",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "PSY-Frame Driver",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Lyrilusc - Assembled Nightingale",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Elder Entity N'tss",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Invoked Mechaba",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Cyber Dragon Nova",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Downerd Magician",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "PSY-Framelord Omega",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Superdreadnought Rail Cannon Gustav Max",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Superdreadnought Rail Cannon Juggernaut Liebe",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Knightmare Phoenix",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Relinquished Anima",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Sky Striker Ace - Kagari",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Black Luster Soldier - Soldier of Chaos",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Tri-Brigade Shuraig the Ominous Omen",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Wynn the Wind Charmer, Verdant",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Lyrilusc - Promenade Thrush",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Lyrilusc - Recital Starling",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Number 81: Superdreadnought Rail Cannon Super Dora",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Guardian Chimera",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Swordsoul Grandmaster - Chixiao",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Yazi, Evil of the Yang Zing",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "D/D/D Abyss King Gilgamesh",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mecha Phantom Beast Auroradon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Prank-Kids Meow-Meow-Mu",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Striker Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Underworld Goddess of the Closed World",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Dimension Shifter",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Floowandereeze & Eglen",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Floowandereeze & Robina",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Dark Ruler No More",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Floowandereeze and the Advent of Adventure",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Floowandereeze and the Magnificent Map",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Pot of Duality",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Pot of Prosperity",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Harpie's Feather Storm",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 7,
+					"copies": {
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Floowandereeze & Empen",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "PSY-Framegear Gamma",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mystic Mine",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Floowandereeze & Stri",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Floowandereeze and the Unexplored Winds",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Trap Trick",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Barrier Statue of the Stormwinds",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Floowandereeze & Toccan",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Mist Valley Apex Avian",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Raiza the Mega Monarch",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Floowandereeze and the Dreaming Town",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "D.D. Crow",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Lightning Storm",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Token Collector",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Evenly Matched",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "PSY-Frame Driver",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				}
+			]
+		},
+		"Eldlich": {
+			"count": 2,
+			"main": [
+				{
+					"name": "Pot of Extravagance",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Conquistador of the Golden Land",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Eldlixir of Scarlet Sanguine",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Ice Dragon's Prison",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Skill Drain",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Solemn Strike",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "There Can Be Only One",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Eldlich the Golden Lord",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Cursed Eldland",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Gozen Match",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Huaquero of the Golden Land",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Dogmatika Punishment",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Lord of the Heavenly Prison",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Eldlixir of White Destiny",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Anti-Spell Fragrance",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Golden Land Forever!",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Pot of Prosperity",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Eldlixir of Black Awakening",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Lava Golem",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "The Winged Dragon of Ra - Sphere Mode",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Evenly Matched",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Anti-Spell Fragrance",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Shadow-Imprisoning Mirror",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Superdreadnought Rail Cannon Gustav Max",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Constellar Pleiades",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Elder Entity N'tss",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Superdreadnought Rail Cannon Juggernaut Liebe",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Link Spider",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Tiras, Keeper of Genesis",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Invoked Mechaba",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "PSY-Framelord Omega",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Cyber Dragon Nova",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Knightmare Phoenix",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Number XX: Utopic Dark Infinity",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Lyna the Light Charmer, Lustrous",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Vampire Sucker",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Pot of Extravagance",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Conquistador of the Golden Land",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Eldlixir of Scarlet Sanguine",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Ice Dragon's Prison",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Skill Drain",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Solemn Strike",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "There Can Be Only One",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Lava Golem",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Eldlich the Golden Lord",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Cursed Eldland",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Gozen Match",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Huaquero of the Golden Land",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "The Winged Dragon of Ra - Sphere Mode",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Anti-Spell Fragrance",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Dogmatika Punishment",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Evenly Matched",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Lord of the Heavenly Prison",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Eldlixir of White Destiny",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Golden Land Forever!",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Pot of Prosperity",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Shadow-Imprisoning Mirror",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Eldlixir of Black Awakening",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Rose Dragon Adventurer": {
+			"count": 2,
+			"main": [
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Red Rose Dragon",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Water Enchantress of the Temple",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Pot of Prosperity",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Rite of Aramesir",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Fateful Adventure",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Wandering Gryphon Rider",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Fusion Destiny",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Fantastical Dragon Phantazmay",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Celestial",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Destiny HERO - Dasher",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Fairy Tail - Snow",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Roxrose Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Token Collector",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Basal Rose Shoot",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Dracoback, the Rideable Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Foolish Burial",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Magicians' Souls",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Illusion of Chaos",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Cosmic Cyclone",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Zombie World",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Mystic Mine",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "PSY-Framegear Gamma",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "D.D. Crow",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Necroworld Banshee",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Crossout Designator",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Set Rotation",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Metaverse",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "PSY-Frame Driver",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Token Collector",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Predaplant Verte Anaconda",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Destiny HERO - Destroyer Phoenix Enforcer",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Baronne de Fleur",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Black Rose Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Black Rose Moonlight Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Shooting Riser Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Accesscode Talker",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Crystron Halqifibrax",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Dharc the Dark Charmer, Gloomy",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Link Spider",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Lyna the Light Charmer, Lustrous",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Selene, Queen of the Master Magicians",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Striker Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Knightmare Unicorn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Herald of the Arc Light",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Red Rose Dragon",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Water Enchantress of the Temple",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Pot of Prosperity",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Rite of Aramesir",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Fateful Adventure",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Wandering Gryphon Rider",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Fusion Destiny",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Zombie World",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Fantastical Dragon Phantazmay",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Token Collector",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Mystic Mine",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "PSY-Framegear Gamma",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Celestial",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Destiny HERO - Dasher",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Fairy Tail - Snow",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Roxrose Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Basal Rose Shoot",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Dracoback, the Rideable Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Foolish Burial",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "D.D. Crow",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Necroworld Banshee",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Crossout Designator",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Set Rotation",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Metaverse",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Magicians' Souls",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Illusion of Chaos",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "PSY-Frame Driver",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Cyberse Eldlich": {
+			"count": 1,
+			"main": [
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cyberse Gadget",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dotscaper",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Water Enchantress of the Temple",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cursed Eldland",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Rite of Aramesir",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Eldlixir of Scarlet Sanguine",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Firewall Guardian",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Fusion Destiny",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Conquistador of the Golden Land",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Huaquero of the Golden Land",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Artifact Scythe",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Celestial",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Dasher",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Eldlich the Golden Lord",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Magicians' Souls",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Wandering Gryphon Rider",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Illusion of Chaos",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dracoback, the Rideable Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fateful Adventure",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Token Collector",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Crossout Designator",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Artifact Lancea",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ghost Belle & Haunted Mansion",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Link Devotee",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Predaplant Verte Anaconda",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Destroyer Phoenix Enforcer",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Accesscode Talker",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Artifact Dagda",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Crystron Halqifibrax",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dharc the Dark Charmer, Gloomy",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Knightmare Unicorn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Link Disciple",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Link Spider",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Linkuriboh",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Lyna the Light Charmer, Lustrous",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Selene, Queen of the Master Magicians",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cyberse Gadget",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dotscaper",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Water Enchantress of the Temple",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cursed Eldland",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Rite of Aramesir",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Eldlixir of Scarlet Sanguine",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Token Collector",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Crossout Designator",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Firewall Guardian",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Fusion Destiny",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Conquistador of the Golden Land",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Huaquero of the Golden Land",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Artifact Lancea",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Artifact Scythe",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Celestial",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Dasher",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Eldlich the Golden Lord",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Magicians' Souls",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Wandering Gryphon Rider",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Illusion of Chaos",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dracoback, the Rideable Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fateful Adventure",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ghost Belle & Haunted Mansion",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Despia": {
+			"count": 1,
+			"main": [
+				{
+					"name": "Aluber the Jester of Despia",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Despian Tragedy",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Edge Imp Chain",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "PSY-Framegear Gamma",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Branded Opening",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Branded in Red",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Frightfur Patchwork",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Polymerization",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Super Polymerization",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ad Libitum of Despia",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Malicious",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Fusion Destiny",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "PSY-Frame Driver",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Denier",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dramaturge of Despia",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Despia, Theater of the Branded",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Foolish Burial",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Fantastical Dragon Phantazmay",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Token Collector",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Shared Ride",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "There Can Be Only One",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Guardian Chimera",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Masquerade the Blazing Dragon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Despian Proskenion",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Despian Quaeritis",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Dangerous",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Destroyer Phoenix Enforcer",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mudragon of the Swamp",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Prank-Kids Weather Washer",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Predaplant Dragostapelia",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Starving Venom Fusion Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dharc the Dark Charmer, Gloomy",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Predaplant Verte Anaconda",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Relinquished Anima",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Aluber the Jester of Despia",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Despian Tragedy",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Edge Imp Chain",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "PSY-Framegear Gamma",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Branded Opening",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Branded in Red",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Frightfur Patchwork",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Polymerization",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Super Polymerization",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fantastical Dragon Phantazmay",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Token Collector",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Shared Ride",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "There Can Be Only One",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ad Libitum of Despia",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Malicious",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Fusion Destiny",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "PSY-Frame Driver",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Denier",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dramaturge of Despia",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Despia, Theater of the Branded",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Foolish Burial",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Invoked Dogmatika DPE": {
+			"count": 1,
+			"main": [
+				{
+					"name": "Aleister the Invoker",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dogmatika Ecclesia, the Virtuous",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Magical Meltdown",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Pot of Prosperity",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fusion Destiny",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Invocation",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Nadir Servant",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Celestial",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Dasher",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dinowrestler Pankratops",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dogmatika Fleurdelis, the Knighted",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dogmatika Maximus",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Token Collector",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mystic Mine",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dogmatika Punishment",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Shaddoll Schism",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Cosmic Cyclone",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Artifact Sanctum",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "There Can Be Only One",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Token Collector",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Super Polymerization",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Artifact Scythe",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gilti-Gearfried the Magical Steel Knight",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Invoked Mechaba",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Destroyer Phoenix Enforcer",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "El Shaddoll Apkallone",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "El Shaddoll Winda",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Elder Entity N'tss",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Invoked Augoeides",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Invoked Purgatrio",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Invoked Raidjin",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Titaniklad the Ash Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "PSY-Framelord Omega",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dharc the Dark Charmer, Gloomy",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Predaplant Verte Anaconda",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Salamangreat Almiraj",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Secure Gardna",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Aleister the Invoker",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dogmatika Ecclesia, the Virtuous",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Token Collector",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Magical Meltdown",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Pot of Prosperity",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Artifact Sanctum",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "There Can Be Only One",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fusion Destiny",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Invocation",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Nadir Servant",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Infinite Impermanence",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Super Polymerization",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Celestial",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Dasher",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dinowrestler Pankratops",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dogmatika Fleurdelis, the Knighted",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dogmatika Maximus",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mystic Mine",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dogmatika Punishment",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Shaddoll Schism",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Artifact Scythe",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gilti-Gearfried the Magical Steel Knight",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Dogmatika Shaddoll": {
+			"count": 1,
+			"main": [
+				{
+					"name": "Dogmatika Ecclesia, the Virtuous",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dogmatika Maximus",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Gale Dogra",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Shaddoll Hedgehog",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "El Shaddoll Fusion",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Shaddoll Fusion",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Super Polymerization",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Reeshaddoll Wendi",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Shaddoll Squamata",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Nadir Servant",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dogmatika Fleurdelis, the Knighted",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Naelshaddoll Ariel",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Shaddoll Beast",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Shaddoll Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dogmatika Punishment",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Shaddoll Schism",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Gnomaterial",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "PSY-Framegear Gamma",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "There Can Be Only One",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "PSY-Frame Driver",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Resh Shaddoll Incarnation",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "El Shaddoll Apkallone",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "El Shaddoll Construct",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "El Shaddoll Winda",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "El Shaddoll Shekhinaga",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "El Shaddoll Wendigo",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Elder Entity N'tss",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Starving Venom Fusion Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Titaniklad the Ash Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gravity Controller",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Salamangreat Almiraj",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Secure Gardna",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Dogmatika Ecclesia, the Virtuous",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dogmatika Maximus",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Gale Dogra",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Shaddoll Hedgehog",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "El Shaddoll Fusion",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Shaddoll Fusion",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Super Polymerization",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Gnomaterial",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "PSY-Framegear Gamma",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "There Can Be Only One",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Reeshaddoll Wendi",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Shaddoll Squamata",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Nadir Servant",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dogmatika Fleurdelis, the Knighted",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Naelshaddoll Ariel",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Shaddoll Beast",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Shaddoll Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dogmatika Punishment",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Shaddoll Schism",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "PSY-Frame Driver",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Resh Shaddoll Incarnation",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Sky Striker": {
+			"count": 1,
+			"main": [
+				{
+					"name": "Sky Striker Ace - Raye",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Sky Striker Ace - Roze",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Water Enchantress of the Temple",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Chalice",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mystic Mine",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Offerings to the Doomed",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Pot of Prosperity",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Rite of Aramesir",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Sky Striker Maneuver - Afterburners!",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Sky Striker Mecha - Widow Anchor",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fusion Destiny",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Celestial",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Dasher",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Wandering Gryphon Rider",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dracoback, the Rideable Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fateful Adventure",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Foolish Burial",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Reinforcement of the Army",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Set Rotation",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sky Striker Airspace - Area Zero",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sky Striker Mecha - Hornet Drones",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sky Striker Mecha - Shark Cannon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sky Striker Mobilize - Engage!",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Metaverse",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Book of Moon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Magical Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Super Polymerization",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Evenly Matched",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Sky Striker Ace - Kagari",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Sky Striker Ace - Shizuku",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Destroyer Phoenix Enforcer",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gilti-Gearfried the Magical Steel Knight",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Prank-Kids Rocket Ride",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Accesscode Talker",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dharc the Dark Charmer, Gloomy",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Link Spider",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Predaplant Verte Anaconda",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sky Striker Ace - Hayate",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sky Striker Ace - Zeke",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Wynn the Wind Charmer, Verdant",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Sky Striker Ace - Raye",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Sky Striker Ace - Roze",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Water Enchantress of the Temple",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Chalice",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Droplet",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mystic Mine",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Offerings to the Doomed",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Pot of Prosperity",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Rite of Aramesir",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Sky Striker Maneuver - Afterburners!",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Sky Striker Mecha - Widow Anchor",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Triple Tactics Talent",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Magical Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Super Polymerization",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Evenly Matched",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fusion Destiny",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Celestial",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Destiny HERO - Dasher",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Wandering Gryphon Rider",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dracoback, the Rideable Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fateful Adventure",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Foolish Burial",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Reinforcement of the Army",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Set Rotation",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sky Striker Airspace - Area Zero",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sky Striker Mecha - Hornet Drones",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sky Striker Mecha - Shark Cannon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sky Striker Mobilize - Engage!",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Metaverse",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Dragon Link": {
+			"count": 1,
+			"main": [
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "PSY-Framegear Gamma",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Rokket Tracer",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Starliege Seyfert",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Chaos Space",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Quick Launch",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Absorouter Dragon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Noctovision Dragon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Rokket Synchron",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "PSY-Frame Driver",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Black Dragon Collapserpent",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Chaos Dragon Levianeer",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Rokket Recharger",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "White Dragon Wyverburster",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Boot Sector Launch",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dragon Ravine",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Droll & Lock Bird",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Token Collector",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Gozen Match",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Red Reboot",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Borreload Savage Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Chaos Ruler, the Chaotic Magical Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Hot Red Dragon Archfiend Abyss",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "The Zombie Vampire",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Accesscode Talker",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Apollousa, Bow of the Goddess",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dharc the Dark Charmer, Gloomy",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dragunity Knight - Romulus",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Guardragon Pisty",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Hieratic Seal of the Heavenly Spheres",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "I:P Masquerena",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Knightmare Unicorn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Quadborrel Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Striker Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Triple Burst Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Nibiru, the Primal Being",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "PSY-Framegear Gamma",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Rokket Tracer",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Starliege Seyfert",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Chaos Space",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Quick Launch",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Token Collector",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Gozen Match",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Absorouter Dragon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Noctovision Dragon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Rokket Synchron",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "PSY-Frame Driver",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Black Dragon Collapserpent",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Chaos Dragon Levianeer",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Rokket Recharger",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "White Dragon Wyverburster",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Boot Sector Launch",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dragon Ravine",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Called by the Grave",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Harpie's Feather Duster",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Red Reboot",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		}
+	},
+	"main": [
+		{
+			"name": "Ash Blossom & Joyous Spring",
+			"count": 50,
+			"copies": {
+				"2": 1,
+				"3": 16
+			}
+		},
+		{
+			"name": "Ghost Ogre & Snow Rabbit",
+			"count": 47,
+			"copies": {
+				"2": 1,
+				"3": 15
+			}
+		},
+		{
+			"name": "Nibiru, the Primal Being",
+			"count": 47,
+			"copies": {
+				"2": 1,
+				"3": 15
+			}
+		},
+		{
+			"name": "Water Enchantress of the Temple",
+			"count": 33,
+			"copies": {
+				"3": 11
+			}
+		},
+		{
+			"name": "Rite of Aramesir",
+			"count": 33,
+			"copies": {
+				"3": 11
+			}
+		},
+		{
+			"name": "Effect Veiler",
+			"count": 33,
+			"copies": {
+				"1": 1,
+				"2": 1,
+				"3": 10
+			}
+		},
+		{
+			"name": "Infinite Impermanence",
+			"count": 30,
+			"copies": {
+				"1": 3,
+				"2": 3,
+				"3": 7
+			}
+		},
+		{
+			"name": "Fusion Destiny",
+			"count": 26,
+			"copies": {
+				"2": 13
+			}
+		},
+		{
+			"name": "Pot of Prosperity",
+			"count": 23,
+			"copies": {
+				"2": 1,
+				"3": 7
+			}
+		},
+		{
+			"name": "Forbidden Droplet",
+			"count": 21,
+			"copies": {
+				"3": 7
+			}
+		},
+		{
+			"name": "Prank-Kids Dropsies",
+			"count": 20,
+			"copies": {
+				"2": 1,
+				"3": 6
+			}
+		},
+		{
+			"name": "Prank-Kids Lampsies",
+			"count": 20,
+			"copies": {
+				"2": 1,
+				"3": 6
+			}
+		},
+		{
+			"name": "Prank-Kids Place",
+			"count": 20,
+			"copies": {
+				"2": 1,
+				"3": 6
+			}
+		},
+		{
+			"name": "Prank-Kids Fansies",
+			"count": 19,
+			"copies": {
+				"2": 2,
+				"3": 5
+			}
+		},
+		{
+			"name": "Fateful Adventure",
+			"count": 19,
+			"copies": {
+				"1": 4,
+				"2": 6,
+				"3": 1
+			}
+		},
+		{
+			"name": "Droll & Lock Bird",
+			"count": 15,
+			"copies": {
+				"1": 1,
+				"2": 1,
+				"3": 4
+			}
+		},
+		{
+			"name": "Prank-Kids Rocksies",
+			"count": 14,
+			"copies": {
+				"2": 7
+			}
+		},
+		{
+			"name": "Magicians' Souls",
+			"count": 14,
+			"copies": {
+				"1": 4,
+				"2": 2,
+				"3": 2
+			}
+		},
+		{
+			"name": "Ghost Belle & Haunted Mansion",
+			"count": 14,
+			"copies": {
+				"1": 1,
+				"2": 2,
+				"3": 3
+			}
+		},
+		{
+			"name": "Wandering Gryphon Rider",
+			"count": 13,
+			"copies": {
+				"1": 9,
+				"2": 2
+			}
+		},
+		{
+			"name": "Destiny HERO - Celestial",
+			"count": 12,
+			"copies": {
+				"1": 12
+			}
+		},
+		{
+			"name": "Destiny HERO - Dasher",
+			"count": 12,
+			"copies": {
+				"1": 12
+			}
+		},
+		{
+			"name": "Illusion of Chaos",
+			"count": 12,
+			"copies": {
+				"1": 4,
+				"2": 4
+			}
+		},
+		{
+			"name": "Called by the Grave",
+			"count": 12,
+			"copies": {
+				"1": 12
+			}
+		},
+		{
+			"name": "Swordsoul Strategist Longyuan",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Swordsoul of Mo Ye",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Tenyi Spirit - Adhara",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Tenyi Spirit - Ashuna",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Swordsoul Emergence",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Dracoback, the Rideable Dragon",
+			"count": 11,
+			"copies": {
+				"1": 11
+			}
+		},
+		{
+			"name": "Vessel for the Dragon Cycle",
+			"count": 11,
+			"copies": {
+				"2": 1,
+				"3": 3
+			}
+		},
+		{
+			"name": "Foolish Burial",
+			"count": 10,
+			"copies": {
+				"1": 10
+			}
+		},
+		{
+			"name": "Incredible Ecclesia, the Virtuous",
+			"count": 10,
+			"copies": {
+				"2": 2,
+				"3": 2
+			}
+		},
+		{
+			"name": "Tenyi Spirit - Vishuda",
+			"count": 10,
+			"copies": {
+				"2": 2,
+				"3": 2
+			}
+		},
+		{
+			"name": "Eldlixir of Scarlet Sanguine",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Dimension Shifter",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Floowandereeze & Eglen",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Floowandereeze & Robina",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Dark Ruler No More",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Floowandereeze and the Advent of Adventure",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Floowandereeze and the Magnificent Map",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Mystic Mine",
+			"count": 9,
+			"copies": {
+				"1": 4,
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Pot of Duality",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "PSY-Framegear Gamma",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Crossout Designator",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Small World",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Cursed Eldland",
+			"count": 8,
+			"copies": {
+				"2": 1,
+				"3": 2
+			}
+		},
+		{
+			"name": "Conquistador of the Golden Land",
+			"count": 8,
+			"copies": {
+				"2": 1,
+				"3": 2
+			}
+		},
+		{
+			"name": "Terraforming",
+			"count": 8,
+			"copies": {
+				"1": 8
+			}
+		},
+		{
+			"name": "Prank-Kids Pandemonium",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Prank-Kids Pranks",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Huaquero of the Golden Land",
+			"count": 7,
+			"copies": {
+				"2": 2,
+				"3": 1
+			}
+		},
+		{
+			"name": "Book of Moon",
+			"count": 7,
+			"copies": {
+				"2": 2,
+				"3": 1
+			}
+		},
+		{
+			"name": "Eldlich the Golden Lord",
+			"count": 6,
+			"copies": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Pot of Extravagance",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Ice Dragon's Prison",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Skill Drain",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Solemn Strike",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "There Can Be Only One",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Floowandereeze & Empen",
+			"count": 6,
+			"copies": {
+				"2": 3
+			}
+		},
+		{
+			"name": "Super Polymerization",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Swordsoul of Taia",
+			"count": 6,
+			"copies": {
+				"1": 2,
+				"2": 2
+			}
+		},
+		{
+			"name": "Triple Tactics Talent",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Fantastical Dragon Phantazmay",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Red Rose Dragon",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Dogmatika Ecclesia, the Virtuous",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Cosmic Cyclone",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Dogmatika Punishment",
+			"count": 5,
+			"copies": {
+				"1": 2,
+				"3": 1
+			}
+		},
+		{
+			"name": "Gozen Match",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Emergency Teleport",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Floowandereeze & Stri",
+			"count": 4,
+			"copies": {
+				"1": 2,
+				"2": 1
+			}
+		},
+		{
+			"name": "Floowandereeze and the Unexplored Winds",
+			"count": 4,
+			"copies": {
+				"1": 2,
+				"2": 1
+			}
+		},
+		{
+			"name": "Deskbot 001",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Tenyi Spirit - Shthana",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Pot of Desires",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Swordsoul Blackout",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Dogmatika Maximus",
+			"count": 4,
+			"copies": {
+				"1": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Nadir Servant",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Cyberse Gadget",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Dotscaper",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Barrier Statue of the Stormwinds",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Floowandereeze & Toccan",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Mist Valley Apex Avian",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Raiza the Mega Monarch",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Floowandereeze and the Dreaming Town",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Harpie's Feather Storm",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "PSY-Frame Driver",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Aluber the Jester of Despia",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Despian Tragedy",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Edge Imp Chain",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Branded Opening",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Branded in Red",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Frightfur Patchwork",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Polymerization",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Token Collector",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Solemn Judgment",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Aleister the Invoker",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Magical Meltdown",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Gale Dogra",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Shaddoll Hedgehog",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "El Shaddoll Fusion",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Shaddoll Fusion",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Sky Striker Ace - Raye",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Sky Striker Ace - Roze",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Forbidden Chalice",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Offerings to the Doomed",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Sky Striker Maneuver - Afterburners!",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Sky Striker Mecha - Widow Anchor",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Heavenly Dragon Circle",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Rokket Tracer",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Starliege Seyfert",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Chaos Space",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Quick Launch",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Lord of the Heavenly Prison",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Eldlixir of White Destiny",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Anti-Spell Fragrance",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Golden Land Forever!",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Torrential Tribute",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Artifact Scythe",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Firewall Guardian",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Ad Libitum of Despia",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Destiny HERO - Malicious",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Parallel eXceed",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "One for One",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Fairy Tail - Snow",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Roxrose Dragon",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Basal Rose Shoot",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Preparation of Rites",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Dogmatika Fleurdelis, the Knighted",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Invocation",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Shaddoll Schism",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Reeshaddoll Wendi",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Shaddoll Squamata",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Absorouter Dragon",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Noctovision Dragon",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Rokket Synchron",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Destiny HERO - Denier",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Dramaturge of Despia",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Despia, Theater of the Branded",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "D.D. Crow",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Eldlixir of Black Awakening",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Dinowrestler Pankratops",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Naelshaddoll Ariel",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Shaddoll Beast",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Shaddoll Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Instant Fusion",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Reinforcement of the Army",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Set Rotation",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sky Striker Airspace - Area Zero",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sky Striker Mecha - Hornet Drones",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sky Striker Mecha - Shark Cannon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sky Striker Mobilize - Engage!",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Metaverse",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Ghost Mourner & Moonlit Chill",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Black Dragon Collapserpent",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Chaos Dragon Levianeer",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Rokket Recharger",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "White Dragon Wyverburster",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Boot Sector Launch",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Dragon Ravine",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	],
+	"side": [
+		{
+			"name": "Twin Twisters",
+			"count": 35,
+			"copies": {
+				"2": 4,
+				"3": 9
+			}
+		},
+		{
+			"name": "PSY-Framegear Gamma",
+			"count": 30,
+			"copies": {
+				"3": 10
+			}
+		},
+		{
+			"name": "Token Collector",
+			"count": 27,
+			"copies": {
+				"1": 2,
+				"2": 2,
+				"3": 7
+			}
+		},
+		{
+			"name": "Droll & Lock Bird",
+			"count": 19,
+			"copies": {
+				"2": 2,
+				"3": 5
+			}
+		},
+		{
+			"name": "Cosmic Cyclone",
+			"count": 19,
+			"copies": {
+				"2": 2,
+				"3": 5
+			}
+		},
+		{
+			"name": "Ghost Reaper & Winter Cherries",
+			"count": 18,
+			"copies": {
+				"3": 6
+			}
+		},
+		{
+			"name": "Crossout Designator",
+			"count": 11,
+			"copies": {
+				"2": 1,
+				"3": 3
+			}
+		},
+		{
+			"name": "PSY-Frame Driver",
+			"count": 10,
+			"copies": {
+				"1": 10
+			}
+		},
+		{
+			"name": "Forbidden Droplet",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "There Can Be Only One",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Evenly Matched",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Super Polymerization",
+			"count": 8,
+			"copies": {
+				"2": 1,
+				"3": 2
+			}
+		},
+		{
+			"name": "Solemn Judgment",
+			"count": 8,
+			"copies": {
+				"2": 1,
+				"3": 2
+			}
+		},
+		{
+			"name": "D.D. Crow",
+			"count": 8,
+			"copies": {
+				"1": 3,
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Ghost Belle & Haunted Mansion",
+			"count": 7,
+			"copies": {
+				"1": 2,
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Harpie's Feather Duster",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Lava Golem",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Mystic Mine",
+			"count": 6,
+			"copies": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Fantastical Dragon Phantazmay",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Infinite Impermanence",
+			"count": 6,
+			"copies": {
+				"2": 3
+			}
+		},
+		{
+			"name": "Rivalry of Warlords",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Harpie's Feather Storm",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Gnomaterial",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "The Winged Dragon of Ra - Sphere Mode",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Dimensional Barrier",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Artifact Lancea",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Called by the Grave",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Trap Trick",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Zombie World",
+			"count": 4,
+			"copies": {
+				"1": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Lightning Storm",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Shared Ride",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Gadarla, the Mystery Dust Kaiju",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Dark Ruler No More",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Mistaken Arrest",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Ghost Mourner & Moonlit Chill",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Artifact Sanctum",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Book of Moon",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Magical Spring",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Triple Tactics Talent",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Gozen Match",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Ash Blossom & Joyous Spring",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Red Reboot",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Necroworld Banshee",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Anti-Spell Fragrance",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Shadow-Imprisoning Mirror",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Destiny HERO - Destroyer Phoenix Enforcer",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Set Rotation",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Terraforming",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Metaverse",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Artifact Scythe",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Gilti-Gearfried the Magical Steel Knight",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Nibiru, the Primal Being",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Resh Shaddoll Incarnation",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Archfiend Eccentrick",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Prank-Kids Dodo-Doodle-Doo",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Shooting Riser Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Prank-Kids Meow-Meow-Mu",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	],
+	"extra": [
+		{
+			"name": "Predaplant Verte Anaconda",
+			"count": 22,
+			"copies": {
+				"1": 4,
+				"2": 9
+			}
+		},
+		{
+			"name": "Link Spider",
+			"count": 18,
+			"copies": {
+				"1": 8,
+				"2": 5
+			}
+		},
+		{
+			"name": "Prank-Kids Dodo-Doodle-Doo",
+			"count": 15,
+			"copies": {
+				"2": 6,
+				"3": 1
+			}
+		},
+		{
+			"name": "Destiny HERO - Destroyer Phoenix Enforcer",
+			"count": 13,
+			"copies": {
+				"1": 13
+			}
+		},
+		{
+			"name": "Dharc the Dark Charmer, Gloomy",
+			"count": 13,
+			"copies": {
+				"1": 13
+			}
+		},
+		{
+			"name": "Accesscode Talker",
+			"count": 12,
+			"copies": {
+				"1": 12
+			}
+		},
+		{
+			"name": "Knightmare Unicorn",
+			"count": 9,
+			"copies": {
+				"1": 9
+			}
+		},
+		{
+			"name": "Swordsoul Grandmaster - Chixiao",
+			"count": 9,
+			"copies": {
+				"1": 1,
+				"2": 4
+			}
+		},
+		{
+			"name": "Prank-Kids Battle Butler",
+			"count": 8,
+			"copies": {
+				"1": 6,
+				"2": 1
+			}
+		},
+		{
+			"name": "Prank-Kids Weather Washer",
+			"count": 8,
+			"copies": {
+				"1": 8
+			}
+		},
+		{
+			"name": "Prank-Kids Meow-Meow-Mu",
+			"count": 8,
+			"copies": {
+				"1": 8
+			}
+		},
+		{
+			"name": "Elder Entity N'tss",
+			"count": 8,
+			"copies": {
+				"1": 5,
+				"3": 1
+			}
+		},
+		{
+			"name": "Monk of the Tenyi",
+			"count": 8,
+			"copies": {
+				"2": 4
+			}
+		},
+		{
+			"name": "Prank-Kids Bow-Wow-Bark",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Superdreadnought Rail Cannon Gustav Max",
+			"count": 7,
+			"copies": {
+				"1": 2,
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Crystron Halqifibrax",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Baxia, Brightness of the Yang Zing",
+			"count": 7,
+			"copies": {
+				"1": 1,
+				"2": 3
+			}
+		},
+		{
+			"name": "Invoked Mechaba",
+			"count": 6,
+			"copies": {
+				"1": 4,
+				"2": 1
+			}
+		},
+		{
+			"name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+			"count": 6,
+			"copies": {
+				"1": 4,
+				"2": 1
+			}
+		},
+		{
+			"name": "Linkuriboh",
+			"count": 6,
+			"copies": {
+				"1": 6
+			}
+		},
+		{
+			"name": "Baronne de Fleur",
+			"count": 6,
+			"copies": {
+				"1": 6
+			}
+		},
+		{
+			"name": "Superdreadnought Rail Cannon Juggernaut Liebe",
+			"count": 5,
+			"copies": {
+				"1": 3,
+				"2": 1
+			}
+		},
+		{
+			"name": "Yazi, Evil of the Yang Zing",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Mecha Phantom Beast Auroradon",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Sky Striker Ace - Kagari",
+			"count": 5,
+			"copies": {
+				"1": 2,
+				"3": 1
+			}
+		},
+		{
+			"name": "PSY-Framelord Omega",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Constellar Pleiades",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Cyber Dragon Nova",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Knightmare Phoenix",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Lyna the Light Charmer, Lustrous",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Lyrilusc - Assembled Nightingale",
+			"count": 4,
+			"copies": {
+				"1": 2,
+				"2": 1
+			}
+		},
+		{
+			"name": "Draco Berserker of the Tenyi",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Swordsoul Sinister Sovereign - Qixing Longyuan",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Swordsoul Supreme Sovereign - Chengying",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Shaman of the Tenyi",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Striker Dragon",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "El Shaddoll Apkallone",
+			"count": 4,
+			"copies": {
+				"1": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Prank-Kids Rocket Ride",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Starving Venom Fusion Dragon",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Selene, Queen of the Master Magicians",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Downerd Magician",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Relinquished Anima",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Guardian Chimera",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Chaofeng, Phantom of the Yang Zing",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Herald of the Arc Light",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "El Shaddoll Winda",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Artifact Dagda",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Link Devotee",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Wynn the Wind Charmer, Verdant",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Masquerade the Blazing Dragon",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Black Rose Dragon",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Black Rose Moonlight Dragon",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Shooting Riser Dragon",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Tiras, Keeper of Genesis",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Titaniklad the Ash Dragon",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Salamangreat Almiraj",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Secure Gardna",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "El Shaddoll Construct",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Sky Striker Ace - Shizuku",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Link Disciple",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Black Luster Soldier - Soldier of Chaos",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Tri-Brigade Shuraig the Ominous Omen",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Despian Proskenion",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Despian Quaeritis",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Destiny HERO - Dangerous",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mudragon of the Swamp",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Predaplant Dragostapelia",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Knightmare Cerberus",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Number XX: Utopic Dark Infinity",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Vampire Sucker",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Lyrilusc - Promenade Thrush",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Lyrilusc - Recital Starling",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Number 81: Superdreadnought Rail Cannon Super Dora",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Invoked Augoeides",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Invoked Purgatrio",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Invoked Raidjin",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "El Shaddoll Shekhinaga",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "El Shaddoll Wendigo",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Gravity Controller",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Gilti-Gearfried the Magical Steel Knight",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sky Striker Ace - Hayate",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sky Striker Ace - Zeke",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "D/D/D Abyss King Gilgamesh",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Underworld Goddess of the Closed World",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Borreload Savage Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Chaos Ruler, the Chaotic Magical Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Hot Red Dragon Archfiend Abyss",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "The Zombie Vampire",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Apollousa, Bow of the Goddess",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Dragunity Knight - Romulus",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Guardragon Pisty",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Hieratic Seal of the Heavenly Spheres",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "I:P Masquerena",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Quadborrel Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Triple Burst Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	],
+	"total": [
+		{
+			"name": "Ash Blossom & Joyous Spring",
+			"count": 52,
+			"copies": {
+				"2": 2,
+				"3": 16
+			}
+		},
+		{
+			"name": "Nibiru, the Primal Being",
+			"count": 48,
+			"copies": {
+				"3": 16
+			}
+		},
+		{
+			"name": "Ghost Ogre & Snow Rabbit",
+			"count": 47,
+			"copies": {
+				"2": 1,
+				"3": 15
+			}
+		},
+		{
+			"name": "PSY-Framegear Gamma",
+			"count": 39,
+			"copies": {
+				"3": 13
+			}
+		},
+		{
+			"name": "Infinite Impermanence",
+			"count": 36,
+			"copies": {
+				"2": 3,
+				"3": 10
+			}
+		},
+		{
+			"name": "Twin Twisters",
+			"count": 35,
+			"copies": {
+				"2": 4,
+				"3": 9
+			}
+		},
+		{
+			"name": "Droll & Lock Bird",
+			"count": 34,
+			"copies": {
+				"2": 2,
+				"3": 10
+			}
+		},
+		{
+			"name": "Water Enchantress of the Temple",
+			"count": 33,
+			"copies": {
+				"3": 11
+			}
+		},
+		{
+			"name": "Rite of Aramesir",
+			"count": 33,
+			"copies": {
+				"3": 11
+			}
+		},
+		{
+			"name": "Effect Veiler",
+			"count": 33,
+			"copies": {
+				"1": 1,
+				"2": 1,
+				"3": 10
+			}
+		},
+		{
+			"name": "Forbidden Droplet",
+			"count": 30,
+			"copies": {
+				"3": 10
+			}
+		},
+		{
+			"name": "Token Collector",
+			"count": 30,
+			"copies": {
+				"1": 2,
+				"2": 2,
+				"3": 8
+			}
+		},
+		{
+			"name": "Fusion Destiny",
+			"count": 26,
+			"copies": {
+				"2": 13
+			}
+		},
+		{
+			"name": "Cosmic Cyclone",
+			"count": 25,
+			"copies": {
+				"2": 2,
+				"3": 7
+			}
+		},
+		{
+			"name": "Pot of Prosperity",
+			"count": 23,
+			"copies": {
+				"2": 1,
+				"3": 7
+			}
+		},
+		{
+			"name": "Ghost Belle & Haunted Mansion",
+			"count": 21,
+			"copies": {
+				"1": 1,
+				"2": 1,
+				"3": 6
+			}
+		},
+		{
+			"name": "Prank-Kids Dropsies",
+			"count": 20,
+			"copies": {
+				"2": 1,
+				"3": 6
+			}
+		},
+		{
+			"name": "Prank-Kids Lampsies",
+			"count": 20,
+			"copies": {
+				"2": 1,
+				"3": 6
+			}
+		},
+		{
+			"name": "Prank-Kids Place",
+			"count": 20,
+			"copies": {
+				"2": 1,
+				"3": 6
+			}
+		},
+		{
+			"name": "Crossout Designator",
+			"count": 20,
+			"copies": {
+				"2": 1,
+				"3": 6
+			}
+		},
+		{
+			"name": "Prank-Kids Fansies",
+			"count": 19,
+			"copies": {
+				"2": 2,
+				"3": 5
+			}
+		},
+		{
+			"name": "Fateful Adventure",
+			"count": 19,
+			"copies": {
+				"1": 4,
+				"2": 6,
+				"3": 1
+			}
+		},
+		{
+			"name": "Ghost Reaper & Winter Cherries",
+			"count": 18,
+			"copies": {
+				"3": 6
+			}
+		},
+		{
+			"name": "Called by the Grave",
+			"count": 17,
+			"copies": {
+				"1": 17
+			}
+		},
+		{
+			"name": "There Can Be Only One",
+			"count": 15,
+			"copies": {
+				"3": 5
+			}
+		},
+		{
+			"name": "Mystic Mine",
+			"count": 15,
+			"copies": {
+				"1": 2,
+				"2": 2,
+				"3": 3
+			}
+		},
+		{
+			"name": "Prank-Kids Rocksies",
+			"count": 14,
+			"copies": {
+				"2": 7
+			}
+		},
+		{
+			"name": "Super Polymerization",
+			"count": 14,
+			"copies": {
+				"2": 1,
+				"3": 4
+			}
+		},
+		{
+			"name": "Magicians' Souls",
+			"count": 14,
+			"copies": {
+				"1": 4,
+				"2": 2,
+				"3": 2
+			}
+		},
+		{
+			"name": "Wandering Gryphon Rider",
+			"count": 13,
+			"copies": {
+				"1": 9,
+				"2": 2
+			}
+		},
+		{
+			"name": "PSY-Frame Driver",
+			"count": 13,
+			"copies": {
+				"1": 13
+			}
+		},
+		{
+			"name": "Destiny HERO - Celestial",
+			"count": 12,
+			"copies": {
+				"1": 12
+			}
+		},
+		{
+			"name": "Destiny HERO - Dasher",
+			"count": 12,
+			"copies": {
+				"1": 12
+			}
+		},
+		{
+			"name": "Illusion of Chaos",
+			"count": 12,
+			"copies": {
+				"1": 4,
+				"2": 4
+			}
+		},
+		{
+			"name": "Dark Ruler No More",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Fantastical Dragon Phantazmay",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Swordsoul Strategist Longyuan",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Swordsoul of Mo Ye",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Tenyi Spirit - Adhara",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Tenyi Spirit - Ashuna",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Swordsoul Emergence",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Dracoback, the Rideable Dragon",
+			"count": 11,
+			"copies": {
+				"1": 11
+			}
+		},
+		{
+			"name": "Solemn Judgment",
+			"count": 11,
+			"copies": {
+				"2": 1,
+				"3": 3
+			}
+		},
+		{
+			"name": "Vessel for the Dragon Cycle",
+			"count": 11,
+			"copies": {
+				"2": 1,
+				"3": 3
+			}
+		},
+		{
+			"name": "Foolish Burial",
+			"count": 10,
+			"copies": {
+				"1": 10
+			}
+		},
+		{
+			"name": "Book of Moon",
+			"count": 10,
+			"copies": {
+				"2": 2,
+				"3": 2
+			}
+		},
+		{
+			"name": "Incredible Ecclesia, the Virtuous",
+			"count": 10,
+			"copies": {
+				"2": 2,
+				"3": 2
+			}
+		},
+		{
+			"name": "Tenyi Spirit - Vishuda",
+			"count": 10,
+			"copies": {
+				"2": 2,
+				"3": 2
+			}
+		},
+		{
+			"name": "Eldlixir of Scarlet Sanguine",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Dimension Shifter",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Floowandereeze & Eglen",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Floowandereeze & Robina",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Floowandereeze and the Advent of Adventure",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Floowandereeze and the Magnificent Map",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Pot of Duality",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Terraforming",
+			"count": 9,
+			"copies": {
+				"1": 9
+			}
+		},
+		{
+			"name": "Harpie's Feather Storm",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "D.D. Crow",
+			"count": 9,
+			"copies": {
+				"1": 4,
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Small World",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Triple Tactics Talent",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Evenly Matched",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Cursed Eldland",
+			"count": 8,
+			"copies": {
+				"2": 1,
+				"3": 2
+			}
+		},
+		{
+			"name": "Conquistador of the Golden Land",
+			"count": 8,
+			"copies": {
+				"2": 1,
+				"3": 2
+			}
+		},
+		{
+			"name": "Gozen Match",
+			"count": 8,
+			"copies": {
+				"2": 1,
+				"3": 2
+			}
+		},
+		{
+			"name": "Prank-Kids Pandemonium",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Prank-Kids Pranks",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Huaquero of the Golden Land",
+			"count": 7,
+			"copies": {
+				"2": 2,
+				"3": 1
+			}
+		},
+		{
+			"name": "Harpie's Feather Duster",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Eldlich the Golden Lord",
+			"count": 6,
+			"copies": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Pot of Extravagance",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Ice Dragon's Prison",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Skill Drain",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Solemn Strike",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Lava Golem",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Floowandereeze & Empen",
+			"count": 6,
+			"copies": {
+				"2": 3
+			}
+		},
+		{
+			"name": "Swordsoul of Taia",
+			"count": 6,
+			"copies": {
+				"1": 2,
+				"2": 2
+			}
+		},
+		{
+			"name": "Rivalry of Warlords",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Red Rose Dragon",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Dogmatika Ecclesia, the Virtuous",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Gnomaterial",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Dogmatika Punishment",
+			"count": 5,
+			"copies": {
+				"1": 2,
+				"3": 1
+			}
+		},
+		{
+			"name": "The Winged Dragon of Ra - Sphere Mode",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Dimensional Barrier",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Artifact Lancea",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Emergency Teleport",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Anti-Spell Fragrance",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Floowandereeze & Stri",
+			"count": 4,
+			"copies": {
+				"1": 2,
+				"2": 1
+			}
+		},
+		{
+			"name": "Floowandereeze and the Unexplored Winds",
+			"count": 4,
+			"copies": {
+				"1": 2,
+				"2": 1
+			}
+		},
+		{
+			"name": "Trap Trick",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Deskbot 001",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Tenyi Spirit - Shthana",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Pot of Desires",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Swordsoul Blackout",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Zombie World",
+			"count": 4,
+			"copies": {
+				"1": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Ghost Mourner & Moonlit Chill",
+			"count": 4,
+			"copies": {
+				"1": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Dogmatika Maximus",
+			"count": 4,
+			"copies": {
+				"1": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Nadir Servant",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Artifact Scythe",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Cyberse Gadget",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Dotscaper",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Barrier Statue of the Stormwinds",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Floowandereeze & Toccan",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Mist Valley Apex Avian",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Raiza the Mega Monarch",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Floowandereeze and the Dreaming Town",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Lightning Storm",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Aluber the Jester of Despia",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Despian Tragedy",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Edge Imp Chain",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Branded Opening",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Branded in Red",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Frightfur Patchwork",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Polymerization",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Shared Ride",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Gadarla, the Mystery Dust Kaiju",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Mistaken Arrest",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Aleister the Invoker",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Magical Meltdown",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Artifact Sanctum",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Gale Dogra",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Shaddoll Hedgehog",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "El Shaddoll Fusion",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Shaddoll Fusion",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Sky Striker Ace - Raye",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Sky Striker Ace - Roze",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Forbidden Chalice",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Offerings to the Doomed",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Sky Striker Maneuver - Afterburners!",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Sky Striker Mecha - Widow Anchor",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Magical Spring",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Heavenly Dragon Circle",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Rokket Tracer",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Starliege Seyfert",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Chaos Space",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Quick Launch",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Lord of the Heavenly Prison",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Eldlixir of White Destiny",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Golden Land Forever!",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Torrential Tribute",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Firewall Guardian",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Ad Libitum of Despia",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Destiny HERO - Malicious",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Parallel eXceed",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "One for One",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Red Reboot",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Fairy Tail - Snow",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Roxrose Dragon",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Basal Rose Shoot",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Necroworld Banshee",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Set Rotation",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Metaverse",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Preparation of Rites",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Shadow-Imprisoning Mirror",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Dogmatika Fleurdelis, the Knighted",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Invocation",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Shaddoll Schism",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Reeshaddoll Wendi",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Shaddoll Squamata",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Destiny HERO - Destroyer Phoenix Enforcer",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Absorouter Dragon",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Noctovision Dragon",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Rokket Synchron",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Destiny HERO - Denier",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Dramaturge of Despia",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Despia, Theater of the Branded",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Eldlixir of Black Awakening",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Dinowrestler Pankratops",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Gilti-Gearfried the Magical Steel Knight",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Naelshaddoll Ariel",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Shaddoll Beast",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Shaddoll Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Resh Shaddoll Incarnation",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Instant Fusion",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Archfiend Eccentrick",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Reinforcement of the Army",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sky Striker Airspace - Area Zero",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sky Striker Mecha - Hornet Drones",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sky Striker Mecha - Shark Cannon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sky Striker Mobilize - Engage!",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Prank-Kids Dodo-Doodle-Doo",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Shooting Riser Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Prank-Kids Meow-Meow-Mu",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Black Dragon Collapserpent",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Chaos Dragon Levianeer",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Rokket Recharger",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "White Dragon Wyverburster",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Boot Sector Launch",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Dragon Ravine",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	]
+}

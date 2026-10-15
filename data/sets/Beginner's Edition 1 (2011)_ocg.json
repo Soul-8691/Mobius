@@ -1,0 +1,632 @@
+{
+  "Penguin Knight": [
+    "Common"
+  ],
+  "Axe of Despair": [
+    "Rare"
+  ],
+  "Black Pendant": [
+    "Rare"
+  ],
+  "Malevolent Nuzzler": [
+    "Common"
+  ],
+  "Spellbinding Circle": [
+    "Common"
+  ],
+  "Electric Snake": [
+    "Common"
+  ],
+  "Ameba": [
+    "Common"
+  ],
+  "Maha Vailo": [
+    "Common"
+  ],
+  "Minar": [
+    "Common"
+  ],
+  "Griggle": [
+    "Common"
+  ],
+  "Hiro's Shadow Scout": [
+    "Common"
+  ],
+  "Invader of the Throne": [
+    "Common"
+  ],
+  "Relinquished": [
+    "Ultra Rare"
+  ],
+  "Gravekeeper's Servant": [
+    "Common"
+  ],
+  "Upstart Goblin": [
+    "Common"
+  ],
+  "Toll": [
+    "Common"
+  ],
+  "Final Destiny": [
+    "Common"
+  ],
+  "Snatch Steal": [
+    "Rare"
+  ],
+  "Chorus of Sanctuary": [
+    "Common"
+  ],
+  "Confiscation": [
+    "Common"
+  ],
+  "Delinquent Duo": [
+    "Rare"
+  ],
+  "Tailor of the Fickle": [
+    "Common"
+  ],
+  "Rush Recklessly": [
+    "Rare"
+  ],
+  "The Reliable Guardian": [
+    "Common"
+  ],
+  "The Forceful Sentry": [
+    "Common"
+  ],
+  "Chain Energy": [
+    "Common"
+  ],
+  "Mystical Space Typhoon": [
+    "Super Rare"
+  ],
+  "Giant Trunade": [
+    "Ultra Rare"
+  ],
+  "Painful Choice": [
+    "Common"
+  ],
+  "Horn of the Unicorn": [
+    "Common"
+  ],
+  "Labyrinth Wall": [
+    "Common"
+  ],
+  "Eternal Rest": [
+    "Common"
+  ],
+  "Megamorph": [
+    "Super Rare"
+  ],
+  "Manga Ryu-Ran": [
+    "Common"
+  ],
+  "Toon Mermaid": [
+    "Common"
+  ],
+  "Toon Summoned Skull": [
+    "Rare"
+  ],
+  "Toon World": [
+    "Common"
+  ],
+  "Cyber Jar": [
+    "Rare"
+  ],
+  "Banisher of the Light": [
+    "Rare"
+  ],
+  "Giant Rat": [
+    "Rare"
+  ],
+  "Senju of the Thousand Hands": [
+    "Common"
+  ],
+  "UFO Turtle": [
+    "Common"
+  ],
+  "Flash Assailant": [
+    "Common"
+  ],
+  "Karate Man": [
+    "Common"
+  ],
+  "Giant Germ": [
+    "Rare"
+  ],
+  "Nimble Momonga": [
+    "Super Rare"
+  ],
+  "Shining Angel": [
+    "Rare"
+  ],
+  "Mother Grizzly": [
+    "Common"
+  ],
+  "Flying Kamakiri #1": [
+    "Common"
+  ],
+  "Ceremonial Bell": [
+    "Common"
+  ],
+  "Sonic Bird": [
+    "Common"
+  ],
+  "Mystic Tomato": [
+    "Super Rare"
+  ],
+  "Kotodama": [
+    "Common"
+  ],
+  "Gaia Power": [
+    "Common"
+  ],
+  "Umiiruka": [
+    "Common"
+  ],
+  "Molten Destruction": [
+    "Common"
+  ],
+  "Rising Air Current": [
+    "Common"
+  ],
+  "Luminous Spark": [
+    "Common"
+  ],
+  "Mystic Plasma Zone": [
+    "Common"
+  ],
+  "Messenger of Peace": [
+    "Rare"
+  ],
+  "Blue-Eyes Toon Dragon": [
+    "Rare"
+  ],
+  "Jinzo": [
+    "Ultra Rare"
+  ],
+  "Parasite Paracide": [
+    "Common"
+  ],
+  "Lightforce Sword": [
+    "Common"
+  ],
+  "Chain Destruction": [
+    "Common"
+  ],
+  "Gift of The Mystical Elf": [
+    "Common"
+  ],
+  "The Eye of Truth": [
+    "Common"
+  ],
+  "Dust Tornado": [
+    "Super Rare"
+  ],
+  "Call of the Haunted": [
+    "Ultra Rare"
+  ],
+  "Mirror Wall": [
+    "Common"
+  ],
+  "Numinous Healer": [
+    "Common"
+  ],
+  "Forced Requisition": [
+    "Common"
+  ],
+  "DNA Surgery": [
+    "Common"
+  ],
+  "Backup Soldier": [
+    "Common"
+  ],
+  "Ceasefire": [
+    "Super Rare"
+  ],
+  "Light of Intervention": [
+    "Common"
+  ],
+  "Respect Play": [
+    "Common"
+  ],
+  "Imperial Order": [
+    "Super Rare"
+  ],
+  "Magical Hats": [
+    "Rare"
+  ],
+  "Nobleman of Crossout": [
+    "Super Rare"
+  ],
+  "Nobleman of Extermination": [
+    "Rare"
+  ],
+  "The Shallow Grave": [
+    "Common"
+  ],
+  "Premature Burial": [
+    "Rare"
+  ],
+  "Morphing Jar #2": [
+    "Super Rare"
+  ],
+  "Kiseitai": [
+    "Common"
+  ],
+  "Buster Blader": [
+    "Super Rare"
+  ],
+  "Dark Sage": [
+    "Rare"
+  ],
+  "Big Shield Gardna": [
+    "Rare"
+  ],
+  "Blue-Eyes White Dragon": [
+    "Ultra Rare"
+  ],
+  "Flame Swordsman": [
+    "Common"
+  ],
+  "Skull Servant": [
+    "Common"
+  ],
+  "Dark Magician": [
+    "Ultra Rare"
+  ],
+  "Gaia The Fierce Knight": [
+    "Rare"
+  ],
+  "Celtic Guardian": [
+    "Common"
+  ],
+  "Aqua Madoor": [
+    "Common"
+  ],
+  "Dragon Capture Jar": [
+    "Common"
+  ],
+  "Umi": [
+    "Common"
+  ],
+  "Dark Hole": [
+    "Ultra Rare"
+  ],
+  "Raigeki": [
+    "Ultra Rare"
+  ],
+  "Fissure": [
+    "Rare"
+  ],
+  "Trap Hole": [
+    "Rare"
+  ],
+  "Polymerization": [
+    "Common"
+  ],
+  "Mystical Elf": [
+    "Common"
+  ],
+  "Gaia the Dragon Champion": [
+    "Rare"
+  ],
+  "Curse of Dragon": [
+    "Common"
+  ],
+  "Giant Soldier of Stone": [
+    "Common"
+  ],
+  "Red-Eyes Black Dragon": [
+    "Super Rare"
+  ],
+  "Reaper of the Cards": [
+    "Common"
+  ],
+  "Stop Defense": [
+    "Common"
+  ],
+  "Swords of Revealing Light": [
+    "Ultra Rare"
+  ],
+  "Armed Ninja": [
+    "Common"
+  ],
+  "Man-Eater Bug": [
+    "Common"
+  ],
+  "Hane-Hane": [
+    "Common"
+  ],
+  "Monster Reborn": [
+    "Ultra Rare"
+  ],
+  "Pot of Greed": [
+    "Super Rare"
+  ],
+  "Right Leg of the Forbidden One": [
+    "Common"
+  ],
+  "Left Leg of the Forbidden One": [
+    "Common"
+  ],
+  "Right Arm of the Forbidden One": [
+    "Common"
+  ],
+  "Left Arm of the Forbidden One": [
+    "Common"
+  ],
+  "Exodia the Forbidden One": [
+    "Ultra Rare"
+  ],
+  "Summoned Skull": [
+    "Super Rare"
+  ],
+  "Larvae Moth": [
+    "Common"
+  ],
+  "Harpie Lady": [
+    "Common"
+  ],
+  "Harpie Lady Sisters": [
+    "Common"
+  ],
+  "Cocoon of Evolution": [
+    "Common"
+  ],
+  "Mask of Darkness": [
+    "Rare"
+  ],
+  "White Magical Hat": [
+    "Common"
+  ],
+  "Big Eye": [
+    "Common"
+  ],
+  "Black Skull Dragon": [
+    "Super Rare"
+  ],
+  "Masked Sorcerer": [
+    "Common"
+  ],
+  "Petit Moth": [
+    "Common"
+  ],
+  "Elegant Egotist": [
+    "Common"
+  ],
+  "Sanga of the Thunder": [
+    "Common"
+  ],
+  "Kazejin": [
+    "Common"
+  ],
+  "Suijin": [
+    "Common"
+  ],
+  "Blast Juggler": [
+    "Common"
+  ],
+  "Magician of Faith": [
+    "Rare"
+  ],
+  "Fake Trap": [
+    "Common"
+  ],
+  "Tribute to The Doomed": [
+    "Rare"
+  ],
+  "Soul Release": [
+    "Common"
+  ],
+  "Change of Heart": [
+    "Super Rare"
+  ],
+  "Makyura the Destructor": [
+    "Rare"
+  ],
+  "Exchange": [
+    "Rare"
+  ],
+  "Minor Goblin Official": [
+    "Common"
+  ],
+  "Gamble": [
+    "Common"
+  ],
+  "Attack and Receive": [
+    "Common"
+  ],
+  "Solemn Wishes": [
+    "Common"
+  ],
+  "Skull Invitation": [
+    "Common"
+  ],
+  "Bubonic Vermin": [
+    "Common"
+  ],
+  "Burning Land": [
+    "Common"
+  ],
+  "Fairy Meteor Crush": [
+    "Common"
+  ],
+  "Limiter Removal": [
+    "Super Rare"
+  ],
+  "Rain of Mercy": [
+    "Common"
+  ],
+  "Monster Recovery": [
+    "Common"
+  ],
+  "Shift": [
+    "Common"
+  ],
+  "Dimensionhole": [
+    "Common"
+  ],
+  "Ground Collapse": [
+    "Common"
+  ],
+  "Magic Drain": [
+    "Rare"
+  ],
+  "Infinite Dismissal": [
+    "Common"
+  ],
+  "Gravity Bind": [
+    "Super Rare"
+  ],
+  "Type Zero Magic Crusher": [
+    "Common"
+  ],
+  "Shadow of Eyes": [
+    "Common"
+  ],
+  "The Legendary Fisherman": [
+    "Common"
+  ],
+  "Sword Hunter": [
+    "Common"
+  ],
+  "Drill Bug": [
+    "Common"
+  ],
+  "Thousand-Eyes Idol": [
+    "Common"
+  ],
+  "Thousand-Eyes Restrict": [
+    "Super Rare"
+  ],
+  "Hayabusa Knight": [
+    "Common"
+  ],
+  "4-Starred Ladybug of Doom": [
+    "Common"
+  ],
+  "Gradius": [
+    "Common"
+  ],
+  "Vampire Baby": [
+    "Common"
+  ],
+  "Mad Sword Beast": [
+    "Common"
+  ],
+  "Goblin Attack Force": [
+    "Rare"
+  ],
+  "The Fiend Megacyber": [
+    "Super Rare"
+  ],
+  "Gearfried the Iron Knight": [
+    "Common"
+  ],
+  "Insect Barrier": [
+    "Common"
+  ],
+  "Amphibian Beast": [
+    "Common"
+  ],
+  "The Masked Beast": [
+    "Super Rare"
+  ],
+  "Chosen One": [
+    "Common"
+  ],
+  "Curse of the Masked Beast": [
+    "Common"
+  ],
+  "Mask of Dispel": [
+    "Common"
+  ],
+  "Mask of Restrict": [
+    "Common"
+  ],
+  "Mask of the Accursed": [
+    "Common"
+  ],
+  "Mask of Brutality": [
+    "Common"
+  ],
+  "Lightning Blade": [
+    "Common"
+  ],
+  "Tornado Wall": [
+    "Common"
+  ],
+  "Fairy Box": [
+    "Rare"
+  ],
+  "Torrential Tribute": [
+    "Ultra Rare"
+  ],
+  "Jam Breeding Machine": [
+    "Common"
+  ],
+  "Infinite Cards": [
+    "Common"
+  ],
+  "Card of Safe Return": [
+    "Common"
+  ],
+  "Amazoness Archer": [
+    "Common"
+  ],
+  "Fire Princess": [
+    "Common"
+  ],
+  "Spirit of the Breeze": [
+    "Common"
+  ],
+  "Dancing Fairy": [
+    "Common"
+  ],
+  "Cure Mermaid": [
+    "Common"
+  ],
+  "Hysteric Fairy": [
+    "Common"
+  ],
+  "The Forgiving Maiden": [
+    "Common"
+  ],
+  "St. Joan": [
+    "Common"
+  ],
+  "Darklord Marie": [
+    "Common"
+  ],
+  "Jar of Greed": [
+    "Common"
+  ],
+  "Scroll of Bewitchment": [
+    "Common"
+  ],
+  "United We Stand": [
+    "Ultra Rare"
+  ],
+  "Mage Power": [
+    "Ultra Rare"
+  ],
+  "Earthbound Spirit": [
+    "Common"
+  ],
+  "Marshmallon": [
+    "Secret Rare"
+  ],
+  "Blue-Eyes Ultimate Dragon": [
+    "Secret Rare"
+  ],
+  "Meteor Black Dragon": [
+    "Secret Rare"
+  ],
+  "Scapegoat": [
+    "Secret Rare"
+  ],
+  "Ultimate Offering": [
+    "Secret Rare"
+  ]
+}

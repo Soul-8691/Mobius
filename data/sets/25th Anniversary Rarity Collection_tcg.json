@@ -1,0 +1,713 @@
+{
+  "Lava Golem": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Lonefire Blossom": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Effect Veiler": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Vision HERO Faris": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Tour Guide From the Underworld": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Artifact Lancea": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "The Winged Dragon of Ra - Sphere Mode": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Ash Blossom & Joyous Spring": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Fairy Tail - Luna": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Inspector Boarder": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Ghost Belle & Haunted Mansion": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Blackwing - Simoon the Poison Wind": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Danger!? Jackalope?": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Dimension Shifter": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Nibiru, the Primal Being": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Blue-Eyes Abyss Dragon": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Galaxy-Eyes Afterglow Dragon": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Wynn the Wind Channeler": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Eldlich the Golden Lord": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Dogmatika Ecclesia, the Virtuous": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Fallen of Albaz": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Alpha, the Master of Beasts": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "The Iris Swordsoul": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Cyber Angel Benten": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Masked HERO Dark Law": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Elder Entity N'tss": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Predaplant Dragostapelia": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Mudragon of the Swamp": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Egyptian God Slime": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Ancient Fairy Dragon": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Herald of the Arc Light": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Junk Speeder": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Borreload Savage Dragon": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Baronne de Fleur": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Downerd Magician": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Ghostrick Angel of Mischief": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Galaxy-Eyes Full Armor Photon Dragon": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Red-Eyes Flare Metal Dragon": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Number 100: Numeron Dragon": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Dingirsu, the Orcust of the Evening Star": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Time Thief Redoer": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Cherubini, Ebon Angel of the Burning Abyss": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Knightmare Unicorn": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Mekk-Knight Crusadia Avramax": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Code Talker Inverted": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Striker Dragon": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Selene, Queen of the Master Magicians": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Decode Talker Heatsoul": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Artemis, the Magistus Moon Maiden": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Change of Heart": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Reinforcement of the Army": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Reasoning": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Fossil Dig": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Spellbook of Judgment": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Pre-Preparation of Rites": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Pot of Desires": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Called by the Grave": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Magicalized Fusion": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Pot of Extravagance": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Dark Ruler No More": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Lightning Storm": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Nadir Servant": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Triple Tactics Talent": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Forbidden Droplet": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Chaos Space": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Pot of Prosperity": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Small World": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Magician's Salvation": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Compulsory Evacuation Device": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Summon Limit": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Ice Barrier (card)": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Dimensional Barrier": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Harpie's Feather Storm": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Evenly Matched": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Infinite Impermanence": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Dogmatika Punishment": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Shaddoll Schism": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Ice Dragon's Prison": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ],
+  "Tri-Brigade Revolt": [
+    "SR",
+    "UR",
+    "ScR",
+    "PlScR",
+    "QCScR",
+    "UtR",
+    "CR"
+  ]
+}

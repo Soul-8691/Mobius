@@ -1,0 +1,902 @@
+{
+  "Penguin Knight": [
+    "C"
+  ],
+  "Axe of Despair": [
+    "R"
+  ],
+  "Black Pendant": [
+    "R"
+  ],
+  "Horn of Light": [
+    "C"
+  ],
+  "Malevolent Nuzzler": [
+    "C"
+  ],
+  "Spellbinding Circle": [
+    "R"
+  ],
+  "Electric Snake": [
+    "C"
+  ],
+  "Ameba": [
+    "C"
+  ],
+  "Maha Vailo": [
+    "C"
+  ],
+  "Minar": [
+    "C"
+  ],
+  "Griggle": [
+    "C"
+  ],
+  "Hiro's Shadow Scout": [
+    "C"
+  ],
+  "Invader of the Throne": [
+    "C"
+  ],
+  "Slot Machine": [
+    "C"
+  ],
+  "Relinquished": [
+    "SR"
+  ],
+  "Red Archery Girl": [
+    "C"
+  ],
+  "Gravekeeper's Servant": [
+    "C"
+  ],
+  "Upstart Goblin": [
+    "C"
+  ],
+  "Toll": [
+    "C"
+  ],
+  "Final Destiny": [
+    "C"
+  ],
+  "Snatch Steal": [
+    "UR"
+  ],
+  "Chorus of Sanctuary": [
+    "C"
+  ],
+  "Confiscation": [
+    "C"
+  ],
+  "Delinquent Duo": [
+    "SR"
+  ],
+  "Fairy's Hand Mirror": [
+    "C"
+  ],
+  "Tailor of the Fickle": [
+    "C"
+  ],
+  "Rush Recklessly": [
+    "C"
+  ],
+  "The Reliable Guardian": [
+    "C"
+  ],
+  "The Forceful Sentry": [
+    "R"
+  ],
+  "Chain Energy": [
+    "C"
+  ],
+  "Mystical Space Typhoon": [
+    "SR"
+  ],
+  "Giant Trunade": [
+    "R"
+  ],
+  "Painful Choice": [
+    "C"
+  ],
+  "Horn of the Unicorn": [
+    "C"
+  ],
+  "Labyrinth Wall": [
+    "C"
+  ],
+  "Eternal Rest": [
+    "C"
+  ],
+  "Megamorph": [
+    "SR"
+  ],
+  "Manga Ryu-Ran": [
+    "C"
+  ],
+  "Toon Mermaid": [
+    "C"
+  ],
+  "Toon Summoned Skull": [
+    "R"
+  ],
+  "Hyozanryu": [
+    "C"
+  ],
+  "Toon World": [
+    "C"
+  ],
+  "Cyber Jar": [
+    "R"
+  ],
+  "Banisher of the Light": [
+    "C"
+  ],
+  "Giant Rat": [
+    "R"
+  ],
+  "Senju of the Thousand Hands": [
+    "C"
+  ],
+  "UFO Turtle": [
+    "C"
+  ],
+  "Flash Assailant": [
+    "C"
+  ],
+  "Karate Man": [
+    "C"
+  ],
+  "Giant Germ": [
+    "C"
+  ],
+  "Nimble Momonga": [
+    "R"
+  ],
+  "Shining Angel": [
+    "C"
+  ],
+  "Mother Grizzly": [
+    "C"
+  ],
+  "Flying Kamakiri #1": [
+    "C"
+  ],
+  "Ceremonial Bell": [
+    "C"
+  ],
+  "Sonic Bird": [
+    "C"
+  ],
+  "Mystic Tomato": [
+    "R"
+  ],
+  "Kotodama": [
+    "C"
+  ],
+  "Gaia Power": [
+    "C"
+  ],
+  "Umiiruka": [
+    "C"
+  ],
+  "Molten Destruction": [
+    "C"
+  ],
+  "Rising Air Current": [
+    "C"
+  ],
+  "Luminous Spark": [
+    "C"
+  ],
+  "Mystic Plasma Zone": [
+    "C"
+  ],
+  "Messenger of Peace": [
+    "C"
+  ],
+  "Blue-Eyes Toon Dragon": [
+    "SR"
+  ],
+  "Jinzo": [
+    "UR"
+  ],
+  "Parasite Paracide": [
+    "C"
+  ],
+  "Lightforce Sword": [
+    "C"
+  ],
+  "Chain Destruction": [
+    "C"
+  ],
+  "Time Seal": [
+    "C"
+  ],
+  "Graverobber": [
+    "C"
+  ],
+  "Gift of The Mystical Elf": [
+    "C"
+  ],
+  "The Eye of Truth": [
+    "C"
+  ],
+  "Dust Tornado": [
+    "R"
+  ],
+  "Call of the Haunted": [
+    "SR"
+  ],
+  "Enchanted Javelin": [
+    "C"
+  ],
+  "Mirror Wall": [
+    "C"
+  ],
+  "Numinous Healer": [
+    "C"
+  ],
+  "Forced Requisition": [
+    "C"
+  ],
+  "DNA Surgery": [
+    "C"
+  ],
+  "Backup Soldier": [
+    "C"
+  ],
+  "Ceasefire": [
+    "SR"
+  ],
+  "Light of Intervention": [
+    "C"
+  ],
+  "Respect Play": [
+    "C"
+  ],
+  "Imperial Order": [
+    "UR"
+  ],
+  "Magical Hats": [
+    "R"
+  ],
+  "Nobleman of Crossout": [
+    "SR"
+  ],
+  "Nobleman of Extermination": [
+    "C"
+  ],
+  "The Shallow Grave": [
+    "C"
+  ],
+  "Premature Burial": [
+    "SR"
+  ],
+  "Morphing Jar #2": [
+    "R"
+  ],
+  "Kiseitai": [
+    "C"
+  ],
+  "Sky Scout": [
+    "C"
+  ],
+  "Buster Blader": [
+    "SR"
+  ],
+  "Dark Sage": [
+    "UR"
+  ],
+  "Big Shield Gardna": [
+    "UR"
+  ],
+  "Blue-Eyes White Dragon": [
+    "UR"
+  ],
+  "Hitotsu-Me Giant": [
+    "C"
+  ],
+  "Flame Swordsman": [
+    "R"
+  ],
+  "Skull Servant": [
+    "C"
+  ],
+  "Dark Magician": [
+    "UR"
+  ],
+  "Gaia The Fierce Knight": [
+    "R"
+  ],
+  "Celtic Guardian": [
+    "C"
+  ],
+  "Mammoth Graveyard": [
+    "C"
+  ],
+  "Silver Fang": [
+    "C"
+  ],
+  "Flame Manipulator": [
+    "C"
+  ],
+  "Dark King of the Abyss": [
+    "C"
+  ],
+  "Aqua Madoor": [
+    "C"
+  ],
+  "Masaki the Legendary Swordsman": [
+    "C"
+  ],
+  "Dragon Capture Jar": [
+    "C"
+  ],
+  "Umi": [
+    "C"
+  ],
+  "Dark Hole": [
+    "SR"
+  ],
+  "Raigeki": [
+    "UR"
+  ],
+  "Red Medicine": [
+    "C"
+  ],
+  "Hinotama": [
+    "C"
+  ],
+  "Fissure": [
+    "R"
+  ],
+  "Trap Hole": [
+    "R"
+  ],
+  "Polymerization": [
+    "C"
+  ],
+  "Mystical Elf": [
+    "C"
+  ],
+  "Beaver Warrior": [
+    "C"
+  ],
+  "Gaia the Dragon Champion": [
+    "R"
+  ],
+  "Curse of Dragon": [
+    "C"
+  ],
+  "Giant Soldier of Stone": [
+    "C"
+  ],
+  "Uraby": [
+    "C"
+  ],
+  "Red-Eyes Black Dragon": [
+    "SR"
+  ],
+  "Reaper of the Cards": [
+    "C"
+  ],
+  "Stop Defense": [
+    "C"
+  ],
+  "Swords of Revealing Light": [
+    "SR"
+  ],
+  "Armed Ninja": [
+    "C"
+  ],
+  "Man-Eater Bug": [
+    "R"
+  ],
+  "Hane-Hane": [
+    "C"
+  ],
+  "Monster Reborn": [
+    "UR"
+  ],
+  "Pot of Greed": [
+    "SR"
+  ],
+  "Right Leg of the Forbidden One": [
+    "C"
+  ],
+  "Left Leg of the Forbidden One": [
+    "C"
+  ],
+  "Right Arm of the Forbidden One": [
+    "C"
+  ],
+  "Left Arm of the Forbidden One": [
+    "C"
+  ],
+  "Exodia the Forbidden One": [
+    "UR"
+  ],
+  "Feral Imp": [
+    "C"
+  ],
+  "Winged Dragon, Guardian of the Fortress #1": [
+    "C"
+  ],
+  "Summoned Skull": [
+    "SR"
+  ],
+  "Armored Lizard": [
+    "C"
+  ],
+  "Larvae Moth": [
+    "C"
+  ],
+  "Harpie Lady": [
+    "C"
+  ],
+  "Harpie Lady Sisters": [
+    "C"
+  ],
+  "Kojikocy": [
+    "C"
+  ],
+  "Cocoon of Evolution": [
+    "C"
+  ],
+  "Armored Zombie": [
+    "C"
+  ],
+  "Mask of Darkness": [
+    "C"
+  ],
+  "White Magical Hat": [
+    "C"
+  ],
+  "Big Eye": [
+    "C"
+  ],
+  "Black Skull Dragon": [
+    "SR"
+  ],
+  "Masked Sorcerer": [
+    "C"
+  ],
+  "Petit Moth": [
+    "C"
+  ],
+  "Elegant Egotist": [
+    "C"
+  ],
+  "Sanga of the Thunder": [
+    "C"
+  ],
+  "Kazejin": [
+    "C"
+  ],
+  "Suijin": [
+    "C"
+  ],
+  "Mystic Lamp": [
+    "C"
+  ],
+  "Blast Juggler": [
+    "C"
+  ],
+  "Jinzo #7": [
+    "C"
+  ],
+  "Magician of Faith": [
+    "R"
+  ],
+  "Fake Trap": [
+    "C"
+  ],
+  "Tribute to The Doomed": [
+    "R"
+  ],
+  "Soul Release": [
+    "C"
+  ],
+  "The Cheerful Coffin": [
+    "C"
+  ],
+  "Change of Heart": [
+    "UR"
+  ],
+  "Makyura the Destructor": [
+    "SR"
+  ],
+  "Exchange": [
+    "SR"
+  ],
+  "Minor Goblin Official": [
+    "C"
+  ],
+  "Gamble": [
+    "C"
+  ],
+  "Attack and Receive": [
+    "C"
+  ],
+  "Solemn Wishes": [
+    "C"
+  ],
+  "Skull Invitation": [
+    "C"
+  ],
+  "Bubonic Vermin": [
+    "C"
+  ],
+  "Burning Land": [
+    "C"
+  ],
+  "Fairy Meteor Crush": [
+    "R"
+  ],
+  "Limiter Removal": [
+    "R"
+  ],
+  "Rain of Mercy": [
+    "C"
+  ],
+  "Monster Recovery": [
+    "C"
+  ],
+  "Shift": [
+    "C"
+  ],
+  "Dimensionhole": [
+    "C"
+  ],
+  "Ground Collapse": [
+    "C"
+  ],
+  "Magic Drain": [
+    "R"
+  ],
+  "Infinite Dismissal": [
+    "C"
+  ],
+  "Gravity Bind": [
+    "C"
+  ],
+  "Type Zero Magic Crusher": [
+    "C"
+  ],
+  "Shadow of Eyes": [
+    "C"
+  ],
+  "The Legendary Fisherman": [
+    "R"
+  ],
+  "Sword Hunter": [
+    "C"
+  ],
+  "Drill Bug": [
+    "C"
+  ],
+  "Deepsea Warrior": [
+    "C"
+  ],
+  "Thousand-Eyes Idol": [
+    "C"
+  ],
+  "Thousand-Eyes Restrict": [
+    "UR"
+  ],
+  "Hayabusa Knight": [
+    "R"
+  ],
+  "Bombardment Beetle": [
+    "C"
+  ],
+  "4-Starred Ladybug of Doom": [
+    "C"
+  ],
+  "Gradius": [
+    "C"
+  ],
+  "Vampire Baby": [
+    "C"
+  ],
+  "Mad Sword Beast": [
+    "R"
+  ],
+  "Goblin Attack Force": [
+    "SR"
+  ],
+  "The Fiend Megacyber": [
+    "R"
+  ],
+  "Gearfried the Iron Knight": [
+    "R"
+  ],
+  "Insect Barrier": [
+    "C"
+  ],
+  "Swordsman of Landstar": [
+    "C"
+  ],
+  "Humanoid Slime": [
+    "C"
+  ],
+  "Worm Drake": [
+    "C"
+  ],
+  "Humanoid Worm Drake": [
+    "C"
+  ],
+  "Revival Jam": [
+    "C"
+  ],
+  "Amphibian Beast": [
+    "C"
+  ],
+  "Shining Abyss": [
+    "C"
+  ],
+  "Grand Tiki Elder": [
+    "C"
+  ],
+  "The Masked Beast": [
+    "SR"
+  ],
+  "Melchid the Four-Face Beast": [
+    "C"
+  ],
+  "Nuvia the Wicked": [
+    "C"
+  ],
+  "Chosen One": [
+    "C"
+  ],
+  "Mask of Weakness": [
+    "C"
+  ],
+  "Curse of the Masked Beast": [
+    "C"
+  ],
+  "Mask of Dispel": [
+    "C"
+  ],
+  "Mask of Restrict": [
+    "C"
+  ],
+  "Mask of the Accursed": [
+    "C"
+  ],
+  "Mask of Brutality": [
+    "C"
+  ],
+  "Return of the Doomed": [
+    "C"
+  ],
+  "Lightning Blade": [
+    "C"
+  ],
+  "Tornado Wall": [
+    "C"
+  ],
+  "Fairy Box": [
+    "C"
+  ],
+  "Torrential Tribute": [
+    "UR"
+  ],
+  "Jam Breeding Machine": [
+    "C"
+  ],
+  "Infinite Cards": [
+    "C"
+  ],
+  "Jam Defender": [
+    "C"
+  ],
+  "Card of Safe Return": [
+    "C"
+  ],
+  "Amazoness Archer": [
+    "C"
+  ],
+  "Fire Princess": [
+    "C"
+  ],
+  "Spirit of the Breeze": [
+    "C"
+  ],
+  "Dancing Fairy": [
+    "C"
+  ],
+  "Cure Mermaid": [
+    "C"
+  ],
+  "Hysteric Fairy": [
+    "C"
+  ],
+  "The Forgiving Maiden": [
+    "C"
+  ],
+  "St. Joan": [
+    "C"
+  ],
+  "Darklord Marie": [
+    "C"
+  ],
+  "Jar of Greed": [
+    "R"
+  ],
+  "Scroll of Bewitchment": [
+    "C"
+  ],
+  "United We Stand": [
+    "UR"
+  ],
+  "Mage Power": [
+    "UR"
+  ],
+  "The Portrait's Secret": [
+    "C"
+  ],
+  "The Gross Ghost of Fled Dreams": [
+    "C"
+  ],
+  "Headless Knight": [
+    "C"
+  ],
+  "Earthbound Spirit": [
+    "C"
+  ],
+  "The Earl of Demise": [
+    "C"
+  ],
+  "DB1": [
+    "As a result of battle"
+  ],
+  "DB2": [
+    "Special Summon-only monsters (Tip Card)"
+  ],
+  "DB3": [
+    "\"Call of the Haunted\" + \"Jinzo\""
+  ],
+  "DB4": [
+    "Easy Tribute Summoning"
+  ],
+  "DB5": [
+    "\"Trap Hole\""
+  ],
+  "DB6": [
+    "Exodia Decks"
+  ],
+  "DB7": [
+    "Removed from play (Tip Card)"
+  ],
+  "DB8": [
+    "\"Fairy Meteor Crush\", etc."
+  ],
+  "DB9": [
+    "\"Gravity Bind\""
+  ],
+  "DB10": [
+    "Equip Spell Cards (Tip Card)"
+  ],
+  "DB11": [
+    "Deck Shrinking"
+  ],
+  "DB12": [
+    "Attack order"
+  ],
+  "DB13": [
+    "\"Mystical Space Typhoon\""
+  ],
+  "DB14": [
+    "\"Dust Tornado\""
+  ],
+  "DB15": [
+    "Monster Tokens (Tip Card)"
+  ],
+  "DB16": [
+    "Play order"
+  ],
+  "DB17": [
+    "Deck formulas"
+  ],
+  "DB18": [
+    "\"Upstart Goblin\""
+  ],
+  "DB19": [
+    "Stall Decks (Tip Card)"
+  ],
+  "DB20": [
+    "Defense (Tip Card)"
+  ],
+  "DB21": [
+    "Tribute ratios"
+  ],
+  "DB22": [
+    "Flip Monsters: Two-for-one"
+  ],
+  "DB23": [
+    "3 is better than 2"
+  ],
+  "DB24": [
+    "Choosing monsters"
+  ],
+  "DB25": [
+    "Deck size"
+  ],
+  "DB26": [
+    "Pick a theme"
+  ],
+  "DB27": [
+    "Setting Normal Spell Cards"
+  ],
+  "DB28": [
+    "Main Phase 2 (Tip Card)"
+  ],
+  "DB29": [
+    "Attack!"
+  ],
+  "DB30": [
+    "Conserve your hand"
+  ],
+  "DB31": [
+    "Effect Monster + Equip Spell Card"
+  ],
+  "DB32": [
+    "\"Dark Hole\""
+  ],
+  "DB33": [
+    "Do not brag"
+  ],
+  "DB34": [
+    "Side Deck basics"
+  ],
+  "DB35": [
+    "Side Deck strategy"
+  ],
+  "DB36": [
+    "Shuffling"
+  ],
+  "DB37": [
+    "Re-targeting equipment"
+  ],
+  "DB38": [
+    "First-turn plays"
+  ],
+  "DB39": [
+    "Searching effects"
+  ],
+  "DB40": [
+    "\"Nimble Momonga\""
+  ],
+  "DB41": [
+    "\"Fire Princess\" Deck"
+  ],
+  "DB42": [
+    "Be polite!"
+  ],
+  "DB43": [
+    "\"Harpie Lady Sisters\""
+  ],
+  "DB44": [
+    "How to play Toons"
+  ],
+  "DB45": [
+    "Special Summons (Tip Card)"
+  ],
+  "DB46": [
+    "\"Ceasefire\""
+  ],
+  "DB47": [
+    "\"Swords of Revealing Light\""
+  ],
+  "DB48": [
+    "\"Magician of Faith\""
+  ],
+  "DB49": [
+    "\"Backup Soldier\""
+  ],
+  "DB50": [
+    "Monsters that attack directly"
+  ]
+}

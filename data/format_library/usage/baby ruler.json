@@ -1,0 +1,10134 @@
+{
+	"decks_processed": 57,
+	"deck_types": {
+		"Dragon Ruler": {
+			"count": 33,
+			"main": [
+				{
+					"name": "Blaster, Dragon Ruler of Infernos",
+					"count": 99,
+					"copies": {
+						"3": 33
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 99,
+					"copies": {
+						"3": 33
+					}
+				},
+				{
+					"name": "Redox, Dragon Ruler of Boulders",
+					"count": 99,
+					"copies": {
+						"3": 33
+					}
+				},
+				{
+					"name": "Tempest, Dragon Ruler of Storms",
+					"count": 99,
+					"copies": {
+						"3": 33
+					}
+				},
+				{
+					"name": "Tidal, Dragon Ruler of Waterfalls",
+					"count": 99,
+					"copies": {
+						"3": 33
+					}
+				},
+				{
+					"name": "Super Rejuvenation",
+					"count": 99,
+					"copies": {
+						"3": 33
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 95,
+					"copies": {
+						"2": 4,
+						"3": 29
+					}
+				},
+				{
+					"name": "Sacred Sword of Seven Stars",
+					"count": 68,
+					"copies": {
+						"1": 10,
+						"2": 11,
+						"3": 12
+					}
+				},
+				{
+					"name": "Burner, Dragon Ruler of Sparks",
+					"count": 66,
+					"copies": {
+						"2": 33
+					}
+				},
+				{
+					"name": "Reactan, Dragon Ruler of Pebbles",
+					"count": 66,
+					"copies": {
+						"2": 33
+					}
+				},
+				{
+					"name": "Stream, Dragon Ruler of Droplets",
+					"count": 66,
+					"copies": {
+						"2": 33
+					}
+				},
+				{
+					"name": "Gold Sarcophagus",
+					"count": 66,
+					"copies": {
+						"1": 2,
+						"2": 17,
+						"3": 10
+					}
+				},
+				{
+					"name": "Lightning, Dragon Ruler of Drafts",
+					"count": 55,
+					"copies": {
+						"1": 11,
+						"2": 22
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 33,
+					"copies": {
+						"1": 33
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 32,
+					"copies": {
+						"1": 32
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 30,
+					"copies": {
+						"1": 30
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 27,
+					"copies": {
+						"1": 27
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 27,
+					"copies": {
+						"2": 12,
+						"3": 1
+					}
+				},
+				{
+					"name": "Dragunity Corsesca",
+					"count": 26,
+					"copies": {
+						"1": 26
+					}
+				},
+				{
+					"name": "Swift Scarecrow",
+					"count": 23,
+					"copies": {
+						"1": 23
+					}
+				},
+				{
+					"name": "Forbidden Chalice",
+					"count": 17,
+					"copies": {
+						"1": 7,
+						"2": 5
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Vanity's Emptiness",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "Treacherous Trap Hole",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Flamvell Guard",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Breakthrough Skill",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Skill Drain",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Lightning Vortex",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Book of Eclipse",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Exploder Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Enemy Controller",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Psi-Blocker",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dragunity Brandistock",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 91,
+					"copies": {
+						"2": 8,
+						"3": 25
+					}
+				},
+				{
+					"name": "Eradicator Epidemic Virus",
+					"count": 69,
+					"copies": {
+						"2": 9,
+						"3": 17
+					}
+				},
+				{
+					"name": "Tsukuyomi",
+					"count": 41,
+					"copies": {
+						"1": 5,
+						"2": 18
+					}
+				},
+				{
+					"name": "Swift Scarecrow",
+					"count": 39,
+					"copies": {
+						"1": 18,
+						"2": 9,
+						"3": 1
+					}
+				},
+				{
+					"name": "Vanity's Emptiness",
+					"count": 34,
+					"copies": {
+						"1": 7,
+						"2": 12,
+						"3": 1
+					}
+				},
+				{
+					"name": "Electric Virus",
+					"count": 27,
+					"copies": {
+						"1": 8,
+						"2": 8,
+						"3": 1
+					}
+				},
+				{
+					"name": "Puppet Plant",
+					"count": 23,
+					"copies": {
+						"1": 1,
+						"2": 2,
+						"3": 6
+					}
+				},
+				{
+					"name": "Last Day of Witch",
+					"count": 20,
+					"copies": {
+						"1": 5,
+						"2": 6,
+						"3": 1
+					}
+				},
+				{
+					"name": "Psi-Blocker",
+					"count": 19,
+					"copies": {
+						"1": 5,
+						"2": 7
+					}
+				},
+				{
+					"name": "DNA Surgery",
+					"count": 17,
+					"copies": {
+						"2": 4,
+						"3": 3
+					}
+				},
+				{
+					"name": "Royal Decree",
+					"count": 16,
+					"copies": {
+						"1": 1,
+						"2": 6,
+						"3": 1
+					}
+				},
+				{
+					"name": "Deck Devastation Virus",
+					"count": 15,
+					"copies": {
+						"1": 3,
+						"2": 6
+					}
+				},
+				{
+					"name": "Horus the Black Flame Dragon LV6",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Horus the Black Flame Dragon LV8",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Enemy Controller",
+					"count": 6,
+					"copies": {
+						"1": 4,
+						"2": 1
+					}
+				},
+				{
+					"name": "Lightning Vortex",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Exploder Dragon",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Compulsory Evacuation Device",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Fusilier Dragon, the Dual-Mode Beast",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Skill Drain",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Book of Eclipse",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Fairy Wind",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Metaion, the Timelord",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Trifortressops",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Spell Canceller",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Obelisk the Tormentor",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ryko, Lightsworn Hunter",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Light and Darkness Dragon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Forbidden Chalice",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Penguin Soldier",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Rainbow Life",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Infestation Terminus",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Morphing Jar #2",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Breakthrough Skill",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Eclipse Wyvern",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Mecha Phantom Beast Dracossack",
+					"count": 99,
+					"copies": {
+						"3": 33
+					}
+				},
+				{
+					"name": "Number 11: Big Eye",
+					"count": 72,
+					"copies": {
+						"2": 27,
+						"3": 6
+					}
+				},
+				{
+					"name": "Crimson Blader",
+					"count": 41,
+					"copies": {
+						"1": 25,
+						"2": 8
+					}
+				},
+				{
+					"name": "Colossal Fighter",
+					"count": 33,
+					"copies": {
+						"1": 33
+					}
+				},
+				{
+					"name": "Scrap Dragon",
+					"count": 33,
+					"copies": {
+						"1": 33
+					}
+				},
+				{
+					"name": "Gaia Dragon, the Thunder Charger",
+					"count": 33,
+					"copies": {
+						"1": 33
+					}
+				},
+				{
+					"name": "Black Rose Dragon",
+					"count": 31,
+					"copies": {
+						"1": 31
+					}
+				},
+				{
+					"name": "Armory Arm",
+					"count": 29,
+					"copies": {
+						"1": 29
+					}
+				},
+				{
+					"name": "Mermail Abyssgaios",
+					"count": 28,
+					"copies": {
+						"1": 28
+					}
+				},
+				{
+					"name": "Ancient Sacred Wyvern",
+					"count": 27,
+					"copies": {
+						"1": 27
+					}
+				},
+				{
+					"name": "Karakuri Shogun mdl 00 \"Burei\"",
+					"count": 25,
+					"copies": {
+						"1": 25
+					}
+				},
+				{
+					"name": "Thought Ruler Archfiend",
+					"count": 24,
+					"copies": {
+						"1": 24
+					}
+				},
+				{
+					"name": "Red Dragon Archfiend",
+					"count": 12,
+					"copies": {
+						"1": 12
+					}
+				},
+				{
+					"name": "Gem-Knight Pearl",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Stardust Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Diamond Dire Wolf",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Number 7: Lucky Straight",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Blood Mefist",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Blaster, Dragon Ruler of Infernos",
+					"count": 99,
+					"copies": {
+						"3": 33
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 99,
+					"copies": {
+						"3": 33
+					}
+				},
+				{
+					"name": "Redox, Dragon Ruler of Boulders",
+					"count": 99,
+					"copies": {
+						"3": 33
+					}
+				},
+				{
+					"name": "Tempest, Dragon Ruler of Storms",
+					"count": 99,
+					"copies": {
+						"3": 33
+					}
+				},
+				{
+					"name": "Tidal, Dragon Ruler of Waterfalls",
+					"count": 99,
+					"copies": {
+						"3": 33
+					}
+				},
+				{
+					"name": "Super Rejuvenation",
+					"count": 99,
+					"copies": {
+						"3": 33
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 96,
+					"copies": {
+						"2": 3,
+						"3": 30
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 91,
+					"copies": {
+						"2": 8,
+						"3": 25
+					}
+				},
+				{
+					"name": "Eradicator Epidemic Virus",
+					"count": 69,
+					"copies": {
+						"2": 9,
+						"3": 17
+					}
+				},
+				{
+					"name": "Sacred Sword of Seven Stars",
+					"count": 68,
+					"copies": {
+						"1": 10,
+						"2": 11,
+						"3": 12
+					}
+				},
+				{
+					"name": "Burner, Dragon Ruler of Sparks",
+					"count": 66,
+					"copies": {
+						"2": 33
+					}
+				},
+				{
+					"name": "Reactan, Dragon Ruler of Pebbles",
+					"count": 66,
+					"copies": {
+						"2": 33
+					}
+				},
+				{
+					"name": "Stream, Dragon Ruler of Droplets",
+					"count": 66,
+					"copies": {
+						"2": 33
+					}
+				},
+				{
+					"name": "Gold Sarcophagus",
+					"count": 66,
+					"copies": {
+						"1": 2,
+						"2": 17,
+						"3": 10
+					}
+				},
+				{
+					"name": "Swift Scarecrow",
+					"count": 62,
+					"copies": {
+						"1": 9,
+						"2": 19,
+						"3": 5
+					}
+				},
+				{
+					"name": "Lightning, Dragon Ruler of Drafts",
+					"count": 55,
+					"copies": {
+						"1": 11,
+						"2": 22
+					}
+				},
+				{
+					"name": "Tsukuyomi",
+					"count": 41,
+					"copies": {
+						"1": 5,
+						"2": 18
+					}
+				},
+				{
+					"name": "Vanity's Emptiness",
+					"count": 40,
+					"copies": {
+						"1": 6,
+						"2": 14,
+						"3": 2
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 33,
+					"copies": {
+						"1": 33
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 32,
+					"copies": {
+						"1": 32
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 32,
+					"copies": {
+						"1": 1,
+						"2": 8,
+						"3": 5
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 30,
+					"copies": {
+						"1": 30
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 27,
+					"copies": {
+						"1": 27
+					}
+				},
+				{
+					"name": "Electric Virus",
+					"count": 27,
+					"copies": {
+						"1": 8,
+						"2": 8,
+						"3": 1
+					}
+				},
+				{
+					"name": "Dragunity Corsesca",
+					"count": 26,
+					"copies": {
+						"1": 26
+					}
+				},
+				{
+					"name": "Puppet Plant",
+					"count": 23,
+					"copies": {
+						"1": 1,
+						"2": 2,
+						"3": 6
+					}
+				},
+				{
+					"name": "Psi-Blocker",
+					"count": 20,
+					"copies": {
+						"1": 6,
+						"2": 7
+					}
+				},
+				{
+					"name": "Last Day of Witch",
+					"count": 20,
+					"copies": {
+						"1": 5,
+						"2": 6,
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Chalice",
+					"count": 19,
+					"copies": {
+						"1": 7,
+						"2": 6
+					}
+				},
+				{
+					"name": "DNA Surgery",
+					"count": 17,
+					"copies": {
+						"2": 4,
+						"3": 3
+					}
+				},
+				{
+					"name": "Royal Decree",
+					"count": 16,
+					"copies": {
+						"1": 1,
+						"2": 6,
+						"3": 1
+					}
+				},
+				{
+					"name": "Deck Devastation Virus",
+					"count": 15,
+					"copies": {
+						"1": 3,
+						"2": 6
+					}
+				},
+				{
+					"name": "Lightning Vortex",
+					"count": 9,
+					"copies": {
+						"1": 9
+					}
+				},
+				{
+					"name": "Skill Drain",
+					"count": 9,
+					"copies": {
+						"1": 1,
+						"2": 4
+					}
+				},
+				{
+					"name": "Horus the Black Flame Dragon LV6",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Horus the Black Flame Dragon LV8",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Enemy Controller",
+					"count": 7,
+					"copies": {
+						"1": 5,
+						"2": 1
+					}
+				},
+				{
+					"name": "Exploder Dragon",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Book of Eclipse",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "Compulsory Evacuation Device",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Treacherous Trap Hole",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Breakthrough Skill",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Fusilier Dragon, the Dual-Mode Beast",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Flamvell Guard",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Fairy Wind",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Metaion, the Timelord",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Trifortressops",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Spell Canceller",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Obelisk the Tormentor",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ryko, Lightsworn Hunter",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Light and Darkness Dragon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Penguin Soldier",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Rainbow Life",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Infestation Terminus",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Morphing Jar #2",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dragunity Brandistock",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Eclipse Wyvern",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Spellbook": {
+			"count": 12,
+			"main": [
+				{
+					"name": "Spellbook Magician of Prophecy",
+					"count": 36,
+					"copies": {
+						"3": 12
+					}
+				},
+				{
+					"name": "Spellbook of Judgment",
+					"count": 36,
+					"copies": {
+						"3": 12
+					}
+				},
+				{
+					"name": "Spellbook of Secrets",
+					"count": 36,
+					"copies": {
+						"3": 12
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 31,
+					"copies": {
+						"2": 5,
+						"3": 7
+					}
+				},
+				{
+					"name": "Spellbook Star Hall",
+					"count": 29,
+					"copies": {
+						"1": 1,
+						"2": 5,
+						"3": 6
+					}
+				},
+				{
+					"name": "Spellbook Library of the Crescent",
+					"count": 28,
+					"copies": {
+						"2": 2,
+						"3": 8
+					}
+				},
+				{
+					"name": "Spellbook of Fate",
+					"count": 27,
+					"copies": {
+						"2": 9,
+						"3": 3
+					}
+				},
+				{
+					"name": "Spellbook of the Master",
+					"count": 27,
+					"copies": {
+						"2": 9,
+						"3": 3
+					}
+				},
+				{
+					"name": "The Grand Spellbook Tower",
+					"count": 24,
+					"copies": {
+						"2": 12
+					}
+				},
+				{
+					"name": "Spellbook of Wisdom",
+					"count": 23,
+					"copies": {
+						"1": 1,
+						"2": 11
+					}
+				},
+				{
+					"name": "Spellbook of Power",
+					"count": 20,
+					"copies": {
+						"1": 5,
+						"2": 6,
+						"3": 1
+					}
+				},
+				{
+					"name": "High Priestess of Prophecy",
+					"count": 16,
+					"copies": {
+						"1": 4,
+						"2": 6
+					}
+				},
+				{
+					"name": "Upstart Goblin",
+					"count": 16,
+					"copies": {
+						"1": 1,
+						"2": 3,
+						"3": 3
+					}
+				},
+				{
+					"name": "Jowgen the Spiritualist",
+					"count": 14,
+					"copies": {
+						"1": 10,
+						"2": 2
+					}
+				},
+				{
+					"name": "Spellbook of Eternity",
+					"count": 13,
+					"copies": {
+						"1": 11,
+						"2": 1
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 12,
+					"copies": {
+						"1": 12
+					}
+				},
+				{
+					"name": "Phoenix Wing Wind Blast",
+					"count": 12,
+					"copies": {
+						"1": 1,
+						"2": 4,
+						"3": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 12,
+					"copies": {
+						"1": 12
+					}
+				},
+				{
+					"name": "Spellbook of Life",
+					"count": 11,
+					"copies": {
+						"1": 11
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 11,
+					"copies": {
+						"1": 11
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 7,
+					"copies": {
+						"1": 5,
+						"2": 1
+					}
+				},
+				{
+					"name": "Justice of Prophecy",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Compulsory Evacuation Device",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Defender, the Magical Knight",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Magical Mallet",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Reload",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Starlight Road",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Offerings to the Doomed",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Bottomless Trap Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 32,
+					"copies": {
+						"2": 4,
+						"3": 8
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 23,
+					"copies": {
+						"1": 1,
+						"2": 2,
+						"3": 6
+					}
+				},
+				{
+					"name": "Dimensional Fissure",
+					"count": 20,
+					"copies": {
+						"2": 4,
+						"3": 4
+					}
+				},
+				{
+					"name": "Mind Drain",
+					"count": 18,
+					"copies": {
+						"2": 3,
+						"3": 4
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 13,
+					"copies": {
+						"2": 2,
+						"3": 3
+					}
+				},
+				{
+					"name": "Rivalry of Warlords",
+					"count": 10,
+					"copies": {
+						"2": 5
+					}
+				},
+				{
+					"name": "Cursed Seal of the Forbidden Spell",
+					"count": 8,
+					"copies": {
+						"1": 1,
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Soul Drain",
+					"count": 7,
+					"copies": {
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Tsukuyomi",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Retort",
+					"count": 6,
+					"copies": {
+						"1": 1,
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Puppet Plant",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Compulsory Evacuation Device",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Mind Crush",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Eradicator Epidemic Virus",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Exchange",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Imperial Iron Wall",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Gozen Match",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "The Grand Spellbook Tower",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Jester Lord",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Daigusto Phoenix",
+					"count": 12,
+					"copies": {
+						"1": 12
+					}
+				},
+				{
+					"name": "Gachi Gachi Gantetsu",
+					"count": 12,
+					"copies": {
+						"1": 12
+					}
+				},
+				{
+					"name": "Shining Elf",
+					"count": 12,
+					"copies": {
+						"1": 12
+					}
+				},
+				{
+					"name": "Gagaga Cowboy",
+					"count": 11,
+					"copies": {
+						"1": 11
+					}
+				},
+				{
+					"name": "Diamond Dire Wolf",
+					"count": 9,
+					"copies": {
+						"1": 9
+					}
+				},
+				{
+					"name": "Abyss Dweller",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Maestroke the Symphony Djinn",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Crimson Blader",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Number 11: Big Eye",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Ally of Justice Catastor",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Arcanite Magician",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Scrap Dragon",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Tempest Magician",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Gem-Knight Pearl",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Number 16: Shock Master",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Number 39: Utopia",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Wind-Up Zenmaister",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Black Rose Dragon",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Stardust Dragon",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Mecha Phantom Beast Dracossack",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Hierophant of Prophecy",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "T.G. Hyper Librarian",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Number 50: Blackship of Corn",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Photon Papilloperative",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Ancient Sacred Wyvern",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Number C39: Utopia Ray",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Number 96: Dark Mist",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Armory Arm",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Magical Android",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Evilswarm Ouroboros",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Chimeratech Fortress Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mermail Abyssgaios",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Formula Synchron",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Kachi Kochi Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Colossal Fighter",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Wind-Up Zenmaines",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Evilswarm Ophion",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Evilswarm Nightmare",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Evilswarm Thanatos",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Lavalval Chain",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Thought Ruler Archfiend",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Red Dragon Archfiend",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Spellbook Magician of Prophecy",
+					"count": 36,
+					"copies": {
+						"3": 12
+					}
+				},
+				{
+					"name": "Spellbook of Judgment",
+					"count": 36,
+					"copies": {
+						"3": 12
+					}
+				},
+				{
+					"name": "Spellbook of Secrets",
+					"count": 36,
+					"copies": {
+						"3": 12
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 34,
+					"copies": {
+						"2": 2,
+						"3": 10
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 32,
+					"copies": {
+						"2": 4,
+						"3": 8
+					}
+				},
+				{
+					"name": "Spellbook Star Hall",
+					"count": 29,
+					"copies": {
+						"1": 1,
+						"2": 5,
+						"3": 6
+					}
+				},
+				{
+					"name": "Spellbook Library of the Crescent",
+					"count": 28,
+					"copies": {
+						"2": 2,
+						"3": 8
+					}
+				},
+				{
+					"name": "Spellbook of Fate",
+					"count": 27,
+					"copies": {
+						"2": 9,
+						"3": 3
+					}
+				},
+				{
+					"name": "Spellbook of the Master",
+					"count": 27,
+					"copies": {
+						"2": 9,
+						"3": 3
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 26,
+					"copies": {
+						"1": 1,
+						"2": 2,
+						"3": 7
+					}
+				},
+				{
+					"name": "The Grand Spellbook Tower",
+					"count": 25,
+					"copies": {
+						"2": 11,
+						"3": 1
+					}
+				},
+				{
+					"name": "Spellbook of Wisdom",
+					"count": 23,
+					"copies": {
+						"1": 1,
+						"2": 11
+					}
+				},
+				{
+					"name": "Spellbook of Power",
+					"count": 20,
+					"copies": {
+						"1": 5,
+						"2": 6,
+						"3": 1
+					}
+				},
+				{
+					"name": "Dimensional Fissure",
+					"count": 20,
+					"copies": {
+						"2": 4,
+						"3": 4
+					}
+				},
+				{
+					"name": "Mind Drain",
+					"count": 18,
+					"copies": {
+						"2": 3,
+						"3": 4
+					}
+				},
+				{
+					"name": "High Priestess of Prophecy",
+					"count": 16,
+					"copies": {
+						"1": 4,
+						"2": 6
+					}
+				},
+				{
+					"name": "Upstart Goblin",
+					"count": 16,
+					"copies": {
+						"1": 1,
+						"2": 3,
+						"3": 3
+					}
+				},
+				{
+					"name": "Jowgen the Spiritualist",
+					"count": 14,
+					"copies": {
+						"1": 10,
+						"2": 2
+					}
+				},
+				{
+					"name": "Spellbook of Eternity",
+					"count": 13,
+					"copies": {
+						"1": 11,
+						"2": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 13,
+					"copies": {
+						"2": 2,
+						"3": 3
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 12,
+					"copies": {
+						"1": 12
+					}
+				},
+				{
+					"name": "Phoenix Wing Wind Blast",
+					"count": 12,
+					"copies": {
+						"1": 1,
+						"2": 4,
+						"3": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 12,
+					"copies": {
+						"1": 12
+					}
+				},
+				{
+					"name": "Spellbook of Life",
+					"count": 11,
+					"copies": {
+						"1": 11
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 11,
+					"copies": {
+						"1": 11
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 11,
+					"copies": {
+						"1": 11
+					}
+				},
+				{
+					"name": "Compulsory Evacuation Device",
+					"count": 10,
+					"copies": {
+						"1": 1,
+						"2": 3,
+						"3": 1
+					}
+				},
+				{
+					"name": "Rivalry of Warlords",
+					"count": 10,
+					"copies": {
+						"2": 5
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 8,
+					"copies": {
+						"1": 4,
+						"2": 2
+					}
+				},
+				{
+					"name": "Cursed Seal of the Forbidden Spell",
+					"count": 8,
+					"copies": {
+						"1": 1,
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Justice of Prophecy",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Soul Drain",
+					"count": 7,
+					"copies": {
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Tsukuyomi",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "Retort",
+					"count": 6,
+					"copies": {
+						"1": 1,
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Puppet Plant",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Mind Crush",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Defender, the Magical Knight",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Magical Mallet",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Reload",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Eradicator Epidemic Virus",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Exchange",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Imperial Iron Wall",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Gozen Match",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Starlight Road",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Jester Lord",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Offerings to the Doomed",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Bottomless Trap Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Evilswarm": {
+			"count": 4,
+			"main": [
+				{
+					"name": "Evilswarm Heliotrope",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Evilswarm Castor",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Compulsory Evacuation Device",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Evilswarm Kerykeion",
+					"count": 11,
+					"copies": {
+						"2": 1,
+						"3": 3
+					}
+				},
+				{
+					"name": "Evilswarm Mandragora",
+					"count": 11,
+					"copies": {
+						"2": 1,
+						"3": 3
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 11,
+					"copies": {
+						"2": 1,
+						"3": 3
+					}
+				},
+				{
+					"name": "Infestation Pandemic",
+					"count": 9,
+					"copies": {
+						"2": 3,
+						"3": 1
+					}
+				},
+				{
+					"name": "Rescue Rabbit",
+					"count": 8,
+					"copies": {
+						"2": 4
+					}
+				},
+				{
+					"name": "Eradicator Epidemic Virus",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Safe Zone",
+					"count": 7,
+					"copies": {
+						"1": 1,
+						"2": 3
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Reinforcement of the Army",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Fiendish Chain",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Infestation Infection",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Evilswarm O'lantern",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Evilswarm Thunderbird",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Allure of Darkness",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Deck Lockdown",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Magic Planter",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Imperial Iron Wall",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Imperial Custom",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Forbidden Dress",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Upstart Goblin",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Illusion",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Armed Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Xyz Reborn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Evilswarm Azzathoth",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Starlight Road",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 9,
+					"copies": {
+						"2": 3,
+						"3": 1
+					}
+				},
+				{
+					"name": "Gozen Match",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Electric Virus",
+					"count": 7,
+					"copies": {
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Thunder King Rai-Oh",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Eradicator Epidemic Virus",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "DNA Surgery",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Imperial Iron Wall",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Black Horn of Heaven",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Forbidden Chalice",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Mind Drain",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Prideful Roar",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Anti-Spell Fragrance",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Night Beam",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Evilswarm Ophion",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Evilswarm Bahamut",
+					"count": 7,
+					"copies": {
+						"1": 1,
+						"2": 3
+					}
+				},
+				{
+					"name": "Abyss Dweller",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Evilswarm Ouroboros",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Gagaga Cowboy",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Gem-Knight Pearl",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Maestroke the Symphony Djinn",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Number 16: Shock Master",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Photon Papilloperative",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Diamond Dire Wolf",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Evilswarm Nightmare",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Evilswarm Thanatos",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Number 39: Utopia",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Daigusto Emeral",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Evolzar Laggia",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ally of Justice Catastor",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Stardust Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Evilswarm Heliotrope",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Evilswarm Castor",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Compulsory Evacuation Device",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Eradicator Epidemic Virus",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Evilswarm Kerykeion",
+					"count": 11,
+					"copies": {
+						"2": 1,
+						"3": 3
+					}
+				},
+				{
+					"name": "Evilswarm Mandragora",
+					"count": 11,
+					"copies": {
+						"2": 1,
+						"3": 3
+					}
+				},
+				{
+					"name": "Infestation Pandemic",
+					"count": 9,
+					"copies": {
+						"2": 3,
+						"3": 1
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 9,
+					"copies": {
+						"2": 3,
+						"3": 1
+					}
+				},
+				{
+					"name": "Rescue Rabbit",
+					"count": 8,
+					"copies": {
+						"2": 4
+					}
+				},
+				{
+					"name": "Gozen Match",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Safe Zone",
+					"count": 7,
+					"copies": {
+						"1": 1,
+						"2": 3
+					}
+				},
+				{
+					"name": "Electric Virus",
+					"count": 7,
+					"copies": {
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Imperial Iron Wall",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Reinforcement of the Army",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Fiendish Chain",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Infestation Infection",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Thunder King Rai-Oh",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Evilswarm O'lantern",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Evilswarm Thunderbird",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Allure of Darkness",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "DNA Surgery",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Deck Lockdown",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Magic Planter",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Black Horn of Heaven",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Forbidden Chalice",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Imperial Custom",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Mind Drain",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Forbidden Dress",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Upstart Goblin",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Illusion",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Prideful Roar",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Armed Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Xyz Reborn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Anti-Spell Fragrance",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Evilswarm Azzathoth",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Starlight Road",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Night Beam",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Anti-Meta Stun": {
+			"count": 2,
+			"main": [
+				{
+					"name": "Fossil Dyna Pachycephalo",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Compulsory Evacuation Device",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Thunder King Rai-Oh",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Pot of Duality",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Banisher of the Radiance",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Upstart Goblin",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Macro Cosmos",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cyber Dragon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Enemy Controller",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Lance",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Call of the Haunted",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Imperial Iron Wall",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Bottomless Trap Hole",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Vanity's Emptiness",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Cardcar D",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Mind Crush",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Honest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Marshmallon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mage Power",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "One Day of Peace",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "The Seal of Orichalcos",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mist Valley Falcon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Neo-Spacian Grand Mole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Starlight Road",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Gozen Match",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Sakuretsu Armor",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Deck Lockdown",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Jowgen the Spiritualist",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dimensional Fissure",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Left Leg of the Forbidden One",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Marshmallon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Compulsory Evacuation Device",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mist Valley Falcon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Morphing Jar #2",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Macro Cosmos",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Cyber Saurus",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Chimeratech Fortress Dragon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Black Skull Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Elemental HERO Flame Wingman",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Master of Oz",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mokey Mokey King",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ojama King",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ryu Senshi",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sanwitch",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Super Robolady",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Super Roboyarou",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "The Last Warrior from Another Planet",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Thousand Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "XYZ-Dragon Cannon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Stardust Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Abyss Dweller",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Daigusto Emeral",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Diamond Dire Wolf",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gachi Gachi Gantetsu",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gagaga Cowboy",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gaia Dragon, the Thunder Charger",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gem-Knight Pearl",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Maestroke the Symphony Djinn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Number 39: Utopia",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Number 61: Volcasaurus",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Photon Papilloperative",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Tiras, Keeper of Genesis",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Fossil Dyna Pachycephalo",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Compulsory Evacuation Device",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Thunder King Rai-Oh",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Pot of Duality",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Macro Cosmos",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Banisher of the Radiance",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Upstart Goblin",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Gozen Match",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Sakuretsu Armor",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cyber Dragon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Enemy Controller",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Lance",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Call of the Haunted",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Imperial Iron Wall",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Deck Lockdown",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Marshmallon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Bottomless Trap Hole",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Vanity's Emptiness",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Jowgen the Spiritualist",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dimensional Fissure",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Cardcar D",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Mist Valley Falcon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Mind Crush",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Honest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mage Power",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "One Day of Peace",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "The Seal of Orichalcos",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Left Leg of the Forbidden One",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Neo-Spacian Grand Mole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Starlight Road",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Morphing Jar #2",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Constellar": {
+			"count": 2,
+			"main": [
+				{
+					"name": "Constellar Kaus",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Constellar Pollux",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Constellar Sombre",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Fire Formation - Tenki",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Constellar Algiedi",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Gold Sarcophagus",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Compulsory Evacuation Device",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Imperial Iron Wall",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Brotherhood of the Fire Fist - Bear",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Honest",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Bottomless Trap Hole",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dimensional Prison",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Fiendish Chain",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Horn of Heaven",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "The Golden Apples",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Constellar Sheratan",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Xyz Gift",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Thunder King Rai-Oh",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fire Formation - Tensu",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Forbidden Lance",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Reinforcement of the Army",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Xyz Reborn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Maxx \"C\"",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "DNA Surgery",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cardcar D",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Eradicator Epidemic Virus",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Soul Drain",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Constellar Pleiades",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Constellar Ptolemy M7",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Abyss Dweller",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Adreus, Keeper of Armageddon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Constellar Omega",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Constellar Praesepe",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Gagaga Cowboy",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Gaia Dragon, the Thunder Charger",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Number 16: Shock Master",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Number 61: Volcasaurus",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Starliege Paladynamo",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Tiras, Keeper of Genesis",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Maestroke the Symphony Djinn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Diamond Dire Wolf",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Constellar Kaus",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Constellar Pollux",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Constellar Sombre",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Fire Formation - Tenki",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Constellar Algiedi",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Gold Sarcophagus",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "DNA Surgery",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Compulsory Evacuation Device",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Imperial Iron Wall",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Brotherhood of the Fire Fist - Bear",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Honest",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Bottomless Trap Hole",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dimensional Prison",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Fiendish Chain",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Horn of Heaven",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "The Golden Apples",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Cardcar D",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Eradicator Epidemic Virus",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Soul Drain",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Constellar Sheratan",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Xyz Gift",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Thunder King Rai-Oh",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fire Formation - Tensu",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Forbidden Lance",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Reinforcement of the Army",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Xyz Reborn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Mermail": {
+			"count": 2,
+			"main": [
+				{
+					"name": "Atlantean Dragoons",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mermail Abysslinde",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mermail Abyssmegalo",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mermail Abysspike",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mermail Abyssteus",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Abyss-sphere",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Atlantean Marksman",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Imperial Iron Wall",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Atlantean Heavy Infantry",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Deep Sea Diva",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Mermail Abyssgunde",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Tidal, Dragon Ruler of Waterfalls",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mermail Abyssleed",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Salvage",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Breakthrough Skill",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Mermail Abyssturge",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Forbidden Chalice",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Pot of Avarice",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Moulinglacia the Elemental Lord",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Stream, Dragon Ruler of Droplets",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Compulsory Evacuation Device",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Eradicator Epidemic Virus",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Spell Canceller",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Breakthrough Skill",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Debunk",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Snowman Eater",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Angel O7",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Atlantean Heavy Infantry",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mermail Abyssdine",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Penguin Soldier",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mind Control",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Imperial Iron Wall",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Mermail Abyssgaios",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Number 11: Big Eye",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Ally of Justice Catastor",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Armory Arm",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Crimson Blader",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Dewloren, Tiger King of the Ice Barrier",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Abyss Dweller",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Bahamut Shark",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Mecha Phantom Beast Dracossack",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Mermail Abysstrite",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Number 17: Leviathan Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Gachi Gachi Gantetsu",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Temtempo the Percussion Djinn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Black Rose Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Wind-Up Zenmaines",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Atlantean Dragoons",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mermail Abysslinde",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mermail Abyssmegalo",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mermail Abysspike",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mermail Abyssteus",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Abyss-sphere",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Imperial Iron Wall",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Atlantean Heavy Infantry",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Atlantean Marksman",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Deep Sea Diva",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Mermail Abyssgunde",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Breakthrough Skill",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Compulsory Evacuation Device",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Tidal, Dragon Ruler of Waterfalls",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Eradicator Epidemic Virus",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mermail Abyssleed",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Salvage",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Spell Canceller",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Debunk",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Snowman Eater",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Mermail Abyssturge",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Forbidden Chalice",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Pot of Avarice",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Angel O7",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mermail Abyssdine",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Penguin Soldier",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mind Control",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Moulinglacia the Elemental Lord",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Stream, Dragon Ruler of Droplets",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Madolche": {
+			"count": 1,
+			"main": [
+				{
+					"name": "Effect Veiler",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Madolche Hootcake",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Madolche Magileine",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Madolche Messengelato",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Thunder King Rai-Oh",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Forbidden Lance",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Madolche Ticket",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Bottomless Trap Hole",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Compulsory Evacuation Device",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dark Bribe",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Madolche Mewfeuille",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Madolche Puddingcess",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Madolche Chateau",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Imperial Iron Wall",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Madolche Nights",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Madolchepalooza",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Scrap-Iron Scarecrow",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Vanity's Emptiness",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Droll & Lock Bird",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Gozen Match",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Anti-Spell Fragrance",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Madolche Marmalmaide",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Metaion, the Timelord",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Madolche Chateau",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Imperial Iron Wall",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Madolche Queen Tiaramisu",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Abyss Dweller",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Diamond Dire Wolf",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fairy King Albverdich",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gagaga Cowboy",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Leviair the Sea Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "M-X-Saber Invoker",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Maestroke the Symphony Djinn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Number 16: Shock Master",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Number 30: Acid Golem of Destruction",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Number 39: Utopia",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Number C39: Utopia Ray",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Soul of Silvermountain",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Wind-Up Zenmaines",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Effect Veiler",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Madolche Hootcake",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Madolche Magileine",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Gozen Match",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Madolche Messengelato",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Thunder King Rai-Oh",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Forbidden Lance",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Madolche Chateau",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Madolche Ticket",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Bottomless Trap Hole",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Compulsory Evacuation Device",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dark Bribe",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Imperial Iron Wall",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Kycoo the Ghost Destroyer",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Anti-Spell Fragrance",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Madolche Mewfeuille",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Madolche Puddingcess",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Madolche Nights",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Madolchepalooza",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Scrap-Iron Scarecrow",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Vanity's Emptiness",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Madolche Marmalmaide",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Metaion, the Timelord",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Fire Fist": {
+			"count": 1,
+			"main": [
+				{
+					"name": "Brotherhood of the Fire Fist - Bear",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Brotherhood of the Fire Fist - Spirit",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fire Formation - Tenki",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Compulsory Evacuation Device",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Blaster, Dragon Ruler of Infernos",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Burner, Dragon Ruler of Sparks",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Pot of Duality",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Rekindling",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Bottomless Trap Hole",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Fiendish Chain",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Fire Formation - Tensen",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Mind Drain",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Brotherhood of the Fire Fist - Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Brotherhood of the Fire Fist - Hawk",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Brotherhood of the Fire Fist - Leopard",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Brotherhood of the Fire Fist - Raven",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fire Formation - Tensu",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Banisher of the Radiance",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Fossil Dyna Pachycephalo",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dimensional Fissure",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fiendish Chain",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mind Drain",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Brotherhood of the Fire Fist - Lion Emperor",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Brotherhood of the Fire Fist - Horse Prince",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ally of Justice Catastor",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Black Rose Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Crimson Blader",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Stardust Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Abyss Dweller",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Brotherhood of the Fire Fist - Cardinal",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Brotherhood of the Fire Fist - Tiger King",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gagaga Cowboy",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Leviair the Sea Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Wind-Up Zenmaines",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Brotherhood of the Fire Fist - Bear",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Brotherhood of the Fire Fist - Spirit",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fire Formation - Tenki",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mystical Space Typhoon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Compulsory Evacuation Device",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fiendish Chain",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mind Drain",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Blaster, Dragon Ruler of Infernos",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Burner, Dragon Ruler of Sparks",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Pot of Duality",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Rekindling",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Bottomless Trap Hole",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Fire Formation - Tensen",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Banisher of the Radiance",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Fossil Dyna Pachycephalo",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dimensional Fissure",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Brotherhood of the Fire Fist - Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Brotherhood of the Fire Fist - Hawk",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Brotherhood of the Fire Fist - Leopard",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Brotherhood of the Fire Fist - Raven",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fire Formation - Tensu",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Heavy Storm",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Solemn Judgment",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Mirror Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		}
+	},
+	"main": [
+		{
+			"name": "Effect Veiler",
+			"count": 118,
+			"copies": {
+				"1": 5,
+				"2": 4,
+				"3": 35
+			}
+		},
+		{
+			"name": "Maxx \"C\"",
+			"count": 116,
+			"copies": {
+				"2": 7,
+				"3": 34
+			}
+		},
+		{
+			"name": "Tidal, Dragon Ruler of Waterfalls",
+			"count": 102,
+			"copies": {
+				"3": 34
+			}
+		},
+		{
+			"name": "Blaster, Dragon Ruler of Infernos",
+			"count": 101,
+			"copies": {
+				"2": 1,
+				"3": 33
+			}
+		},
+		{
+			"name": "Redox, Dragon Ruler of Boulders",
+			"count": 99,
+			"copies": {
+				"3": 33
+			}
+		},
+		{
+			"name": "Tempest, Dragon Ruler of Storms",
+			"count": 99,
+			"copies": {
+				"3": 33
+			}
+		},
+		{
+			"name": "Super Rejuvenation",
+			"count": 99,
+			"copies": {
+				"3": 33
+			}
+		},
+		{
+			"name": "Gold Sarcophagus",
+			"count": 69,
+			"copies": {
+				"1": 2,
+				"2": 17,
+				"3": 11
+			}
+		},
+		{
+			"name": "Burner, Dragon Ruler of Sparks",
+			"count": 68,
+			"copies": {
+				"2": 34
+			}
+		},
+		{
+			"name": "Sacred Sword of Seven Stars",
+			"count": 68,
+			"copies": {
+				"1": 10,
+				"2": 11,
+				"3": 12
+			}
+		},
+		{
+			"name": "Stream, Dragon Ruler of Droplets",
+			"count": 67,
+			"copies": {
+				"1": 1,
+				"2": 33
+			}
+		},
+		{
+			"name": "Reactan, Dragon Ruler of Pebbles",
+			"count": 66,
+			"copies": {
+				"2": 33
+			}
+		},
+		{
+			"name": "Lightning, Dragon Ruler of Drafts",
+			"count": 55,
+			"copies": {
+				"1": 11,
+				"2": 22
+			}
+		},
+		{
+			"name": "Book of Moon",
+			"count": 48,
+			"copies": {
+				"1": 48
+			}
+		},
+		{
+			"name": "Heavy Storm",
+			"count": 45,
+			"copies": {
+				"1": 45
+			}
+		},
+		{
+			"name": "Dark Hole",
+			"count": 39,
+			"copies": {
+				"1": 39
+			}
+		},
+		{
+			"name": "Spellbook Magician of Prophecy",
+			"count": 36,
+			"copies": {
+				"3": 12
+			}
+		},
+		{
+			"name": "Spellbook of Judgment",
+			"count": 36,
+			"copies": {
+				"3": 12
+			}
+		},
+		{
+			"name": "Spellbook of Secrets",
+			"count": 36,
+			"copies": {
+				"3": 12
+			}
+		},
+		{
+			"name": "Kycoo the Ghost Destroyer",
+			"count": 34,
+			"copies": {
+				"2": 5,
+				"3": 8
+			}
+		},
+		{
+			"name": "Compulsory Evacuation Device",
+			"count": 30,
+			"copies": {
+				"1": 1,
+				"2": 4,
+				"3": 7
+			}
+		},
+		{
+			"name": "Droll & Lock Bird",
+			"count": 30,
+			"copies": {
+				"1": 1,
+				"2": 13,
+				"3": 1
+			}
+		},
+		{
+			"name": "Spellbook Star Hall",
+			"count": 29,
+			"copies": {
+				"1": 1,
+				"2": 5,
+				"3": 6
+			}
+		},
+		{
+			"name": "Spellbook Library of the Crescent",
+			"count": 28,
+			"copies": {
+				"2": 2,
+				"3": 8
+			}
+		},
+		{
+			"name": "Card Destruction",
+			"count": 27,
+			"copies": {
+				"1": 27
+			}
+		},
+		{
+			"name": "Spellbook of Fate",
+			"count": 27,
+			"copies": {
+				"2": 9,
+				"3": 3
+			}
+		},
+		{
+			"name": "Spellbook of the Master",
+			"count": 27,
+			"copies": {
+				"2": 9,
+				"3": 3
+			}
+		},
+		{
+			"name": "Dragunity Corsesca",
+			"count": 26,
+			"copies": {
+				"1": 26
+			}
+		},
+		{
+			"name": "The Grand Spellbook Tower",
+			"count": 24,
+			"copies": {
+				"2": 12
+			}
+		},
+		{
+			"name": "Swift Scarecrow",
+			"count": 23,
+			"copies": {
+				"1": 23
+			}
+		},
+		{
+			"name": "Spellbook of Wisdom",
+			"count": 23,
+			"copies": {
+				"1": 1,
+				"2": 11
+			}
+		},
+		{
+			"name": "Solemn Judgment",
+			"count": 22,
+			"copies": {
+				"1": 22
+			}
+		},
+		{
+			"name": "Upstart Goblin",
+			"count": 20,
+			"copies": {
+				"1": 2,
+				"2": 3,
+				"3": 4
+			}
+		},
+		{
+			"name": "Spellbook of Power",
+			"count": 20,
+			"copies": {
+				"1": 5,
+				"2": 6,
+				"3": 1
+			}
+		},
+		{
+			"name": "Monster Reborn",
+			"count": 19,
+			"copies": {
+				"1": 19
+			}
+		},
+		{
+			"name": "Solemn Warning",
+			"count": 19,
+			"copies": {
+				"1": 19
+			}
+		},
+		{
+			"name": "Forbidden Chalice",
+			"count": 18,
+			"copies": {
+				"1": 8,
+				"2": 5
+			}
+		},
+		{
+			"name": "High Priestess of Prophecy",
+			"count": 16,
+			"copies": {
+				"1": 4,
+				"2": 6
+			}
+		},
+		{
+			"name": "Imperial Iron Wall",
+			"count": 15,
+			"copies": {
+				"1": 1,
+				"2": 1,
+				"3": 4
+			}
+		},
+		{
+			"name": "Jowgen the Spiritualist",
+			"count": 14,
+			"copies": {
+				"1": 10,
+				"2": 2
+			}
+		},
+		{
+			"name": "Spellbook of Eternity",
+			"count": 13,
+			"copies": {
+				"1": 11,
+				"2": 1
+			}
+		},
+		{
+			"name": "Phoenix Wing Wind Blast",
+			"count": 12,
+			"copies": {
+				"1": 1,
+				"2": 4,
+				"3": 1
+			}
+		},
+		{
+			"name": "Evilswarm Heliotrope",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Evilswarm Castor",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Mirror Force",
+			"count": 11,
+			"copies": {
+				"1": 1,
+				"2": 5
+			}
+		},
+		{
+			"name": "Torrential Tribute",
+			"count": 11,
+			"copies": {
+				"1": 3,
+				"2": 4
+			}
+		},
+		{
+			"name": "Spellbook of Life",
+			"count": 11,
+			"copies": {
+				"1": 11
+			}
+		},
+		{
+			"name": "Evilswarm Kerykeion",
+			"count": 11,
+			"copies": {
+				"2": 1,
+				"3": 3
+			}
+		},
+		{
+			"name": "Evilswarm Mandragora",
+			"count": 11,
+			"copies": {
+				"2": 1,
+				"3": 3
+			}
+		},
+		{
+			"name": "Bottomless Trap Hole",
+			"count": 9,
+			"copies": {
+				"1": 1,
+				"2": 4
+			}
+		},
+		{
+			"name": "Vanity's Emptiness",
+			"count": 9,
+			"copies": {
+				"1": 3,
+				"2": 3
+			}
+		},
+		{
+			"name": "Fire Formation - Tenki",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Infestation Pandemic",
+			"count": 9,
+			"copies": {
+				"2": 3,
+				"3": 1
+			}
+		},
+		{
+			"name": "Fiendish Chain",
+			"count": 8,
+			"copies": {
+				"2": 4
+			}
+		},
+		{
+			"name": "Rescue Rabbit",
+			"count": 8,
+			"copies": {
+				"2": 4
+			}
+		},
+		{
+			"name": "Eradicator Epidemic Virus",
+			"count": 8,
+			"copies": {
+				"2": 1,
+				"3": 2
+			}
+		},
+		{
+			"name": "Thunder King Rai-Oh",
+			"count": 7,
+			"copies": {
+				"1": 1,
+				"2": 3
+			}
+		},
+		{
+			"name": "Justice of Prophecy",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Safe Zone",
+			"count": 7,
+			"copies": {
+				"1": 1,
+				"2": 3
+			}
+		},
+		{
+			"name": "Fossil Dyna Pachycephalo",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Pot of Duality",
+			"count": 6,
+			"copies": {
+				"2": 3
+			}
+		},
+		{
+			"name": "Breakthrough Skill",
+			"count": 6,
+			"copies": {
+				"2": 3
+			}
+		},
+		{
+			"name": "Forbidden Lance",
+			"count": 6,
+			"copies": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Constellar Kaus",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Constellar Pollux",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Constellar Sombre",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Atlantean Dragoons",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Mermail Abysslinde",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Mermail Abyssmegalo",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Mermail Abysspike",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Mermail Abyssteus",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Abyss-sphere",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Treacherous Trap Hole",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Brotherhood of the Fire Fist - Bear",
+			"count": 5,
+			"copies": {
+				"1": 2,
+				"3": 1
+			}
+		},
+		{
+			"name": "Constellar Algiedi",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Reinforcement of the Army",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Atlantean Marksman",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Mystical Space Typhoon",
+			"count": 4,
+			"copies": {
+				"1": 2,
+				"2": 1
+			}
+		},
+		{
+			"name": "Flamvell Guard",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Enemy Controller",
+			"count": 4,
+			"copies": {
+				"1": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Infestation Infection",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Atlantean Heavy Infantry",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Deep Sea Diva",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Mermail Abyssgunde",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Skill Drain",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Banisher of the Radiance",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Honest",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Swords of Revealing Light",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Macro Cosmos",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Defender, the Magical Knight",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Starlight Road",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Lightning Vortex",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Magical Mallet",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Reload",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Madolche Hootcake",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Madolche Magileine",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Evilswarm O'lantern",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Evilswarm Thunderbird",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Allure of Darkness",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Cyber Dragon",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Call of the Haunted",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Deck Lockdown",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Brotherhood of the Fire Fist - Spirit",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Magic Planter",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Book of Eclipse",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Madolche Messengelato",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Madolche Ticket",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Dark Bribe",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Dimensional Prison",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Horn of Heaven",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "The Golden Apples",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Waboku",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Mermail Abyssleed",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Salvage",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Xyz Reborn",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Cardcar D",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Mind Crush",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Constellar Sheratan",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Fire Formation - Tensu",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Rekindling",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Fire Formation - Tensen",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Mind Drain",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Imperial Custom",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Marshmallon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mage Power",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "One Day of Peace",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Terraforming",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "The Seal of Orichalcos",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Exploder Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Madolche Mewfeuille",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Madolche Puddingcess",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Madolche Chateau",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Madolche Nights",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Madolchepalooza",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Scrap-Iron Scarecrow",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Ultimate Offering",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Offerings to the Doomed",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Xyz Gift",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Psi-Blocker",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Forbidden Dress",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Dark Illusion",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mermail Abyssturge",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Pot of Avarice",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Dark Armed Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Moulinglacia the Elemental Lord",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mist Valley Falcon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Neo-Spacian Grand Mole",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Evilswarm Azzathoth",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Brotherhood of the Fire Fist - Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Brotherhood of the Fire Fist - Hawk",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Brotherhood of the Fire Fist - Leopard",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Brotherhood of the Fire Fist - Raven",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Dragunity Brandistock",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	],
+	"side": [
+		{
+			"name": "Mystical Space Typhoon",
+			"count": 147,
+			"copies": {
+				"1": 1,
+				"2": 16,
+				"3": 38
+			}
+		},
+		{
+			"name": "Eradicator Epidemic Virus",
+			"count": 81,
+			"copies": {
+				"1": 1,
+				"2": 10,
+				"3": 20
+			}
+		},
+		{
+			"name": "Tsukuyomi",
+			"count": 47,
+			"copies": {
+				"1": 7,
+				"2": 20
+			}
+		},
+		{
+			"name": "Droll & Lock Bird",
+			"count": 45,
+			"copies": {
+				"1": 6,
+				"2": 3,
+				"3": 11
+			}
+		},
+		{
+			"name": "Swift Scarecrow",
+			"count": 39,
+			"copies": {
+				"1": 18,
+				"2": 9,
+				"3": 1
+			}
+		},
+		{
+			"name": "Vanity's Emptiness",
+			"count": 34,
+			"copies": {
+				"1": 7,
+				"2": 12,
+				"3": 1
+			}
+		},
+		{
+			"name": "Electric Virus",
+			"count": 34,
+			"copies": {
+				"1": 8,
+				"2": 10,
+				"3": 2
+			}
+		},
+		{
+			"name": "Puppet Plant",
+			"count": 28,
+			"copies": {
+				"1": 2,
+				"2": 4,
+				"3": 6
+			}
+		},
+		{
+			"name": "Dimensional Fissure",
+			"count": 24,
+			"copies": {
+				"2": 6,
+				"3": 4
+			}
+		},
+		{
+			"name": "DNA Surgery",
+			"count": 23,
+			"copies": {
+				"2": 4,
+				"3": 5
+			}
+		},
+		{
+			"name": "Maxx \"C\"",
+			"count": 22,
+			"copies": {
+				"1": 3,
+				"2": 2,
+				"3": 5
+			}
+		},
+		{
+			"name": "Mind Drain",
+			"count": 21,
+			"copies": {
+				"1": 1,
+				"2": 4,
+				"3": 4
+			}
+		},
+		{
+			"name": "Last Day of Witch",
+			"count": 20,
+			"copies": {
+				"1": 5,
+				"2": 6,
+				"3": 1
+			}
+		},
+		{
+			"name": "Psi-Blocker",
+			"count": 19,
+			"copies": {
+				"1": 5,
+				"2": 7
+			}
+		},
+		{
+			"name": "Gozen Match",
+			"count": 16,
+			"copies": {
+				"2": 2,
+				"3": 4
+			}
+		},
+		{
+			"name": "Royal Decree",
+			"count": 16,
+			"copies": {
+				"1": 1,
+				"2": 6,
+				"3": 1
+			}
+		},
+		{
+			"name": "Deck Devastation Virus",
+			"count": 15,
+			"copies": {
+				"1": 3,
+				"2": 6
+			}
+		},
+		{
+			"name": "Compulsory Evacuation Device",
+			"count": 15,
+			"copies": {
+				"1": 2,
+				"2": 2,
+				"3": 3
+			}
+		},
+		{
+			"name": "Rivalry of Warlords",
+			"count": 10,
+			"copies": {
+				"2": 5
+			}
+		},
+		{
+			"name": "Soul Drain",
+			"count": 9,
+			"copies": {
+				"2": 3,
+				"3": 1
+			}
+		},
+		{
+			"name": "Horus the Black Flame Dragon LV6",
+			"count": 8,
+			"copies": {
+				"1": 8
+			}
+		},
+		{
+			"name": "Horus the Black Flame Dragon LV8",
+			"count": 8,
+			"copies": {
+				"1": 8
+			}
+		},
+		{
+			"name": "Heavy Storm",
+			"count": 8,
+			"copies": {
+				"1": 8
+			}
+		},
+		{
+			"name": "Cursed Seal of the Forbidden Spell",
+			"count": 8,
+			"copies": {
+				"1": 1,
+				"2": 2,
+				"3": 1
+			}
+		},
+		{
+			"name": "Imperial Iron Wall",
+			"count": 8,
+			"copies": {
+				"1": 2,
+				"3": 2
+			}
+		},
+		{
+			"name": "Effect Veiler",
+			"count": 7,
+			"copies": {
+				"1": 3,
+				"2": 2
+			}
+		},
+		{
+			"name": "Enemy Controller",
+			"count": 6,
+			"copies": {
+				"1": 4,
+				"2": 1
+			}
+		},
+		{
+			"name": "Lightning Vortex",
+			"count": 6,
+			"copies": {
+				"1": 6
+			}
+		},
+		{
+			"name": "Exploder Dragon",
+			"count": 6,
+			"copies": {
+				"1": 6
+			}
+		},
+		{
+			"name": "Retort",
+			"count": 6,
+			"copies": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Kycoo the Ghost Destroyer",
+			"count": 5,
+			"copies": {
+				"1": 3,
+				"2": 1
+			}
+		},
+		{
+			"name": "Fusilier Dragon, the Dual-Mode Beast",
+			"count": 5,
+			"copies": {
+				"1": 1,
+				"2": 2
+			}
+		},
+		{
+			"name": "Skill Drain",
+			"count": 5,
+			"copies": {
+				"1": 1,
+				"2": 2
+			}
+		},
+		{
+			"name": "Book of Eclipse",
+			"count": 4,
+			"copies": {
+				"1": 2,
+				"2": 1
+			}
+		},
+		{
+			"name": "Mind Crush",
+			"count": 4,
+			"copies": {
+				"1": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Spell Canceller",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Thunder King Rai-Oh",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Forbidden Chalice",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Sakuretsu Armor",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Metaion, the Timelord",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Anti-Spell Fragrance",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Fairy Wind",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Breakthrough Skill",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Exchange",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Deck Lockdown",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Jowgen the Spiritualist",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Penguin Soldier",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Trifortressops",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Cardcar D",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Debunk",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Morphing Jar #2",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Obelisk the Tormentor",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Black Horn of Heaven",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Snowman Eater",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Dark Hole",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Banisher of the Radiance",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Fossil Dyna Pachycephalo",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Ryko, Lightsworn Hunter",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Light and Darkness Dragon",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Left Leg of the Forbidden One",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Marshmallon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "The Grand Spellbook Tower",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Jester Lord",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Rainbow Life",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Madolche Marmalmaide",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Madolche Chateau",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Infestation Terminus",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Prideful Roar",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Angel O7",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Atlantean Heavy Infantry",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mermail Abyssdine",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mind Control",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mist Valley Falcon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Macro Cosmos",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Fiendish Chain",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mirror Force",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Eclipse Wyvern",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Night Beam",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	],
+	"extra": [
+		{
+			"name": "Mecha Phantom Beast Dracossack",
+			"count": 105,
+			"copies": {
+				"1": 6,
+				"3": 33
+			}
+		},
+		{
+			"name": "Number 11: Big Eye",
+			"count": 83,
+			"copies": {
+				"1": 7,
+				"2": 29,
+				"3": 6
+			}
+		},
+		{
+			"name": "Crimson Blader",
+			"count": 51,
+			"copies": {
+				"1": 35,
+				"2": 8
+			}
+		},
+		{
+			"name": "Scrap Dragon",
+			"count": 39,
+			"copies": {
+				"1": 39
+			}
+		},
+		{
+			"name": "Black Rose Dragon",
+			"count": 37,
+			"copies": {
+				"1": 37
+			}
+		},
+		{
+			"name": "Gaia Dragon, the Thunder Charger",
+			"count": 36,
+			"copies": {
+				"1": 36
+			}
+		},
+		{
+			"name": "Colossal Fighter",
+			"count": 34,
+			"copies": {
+				"1": 34
+			}
+		},
+		{
+			"name": "Mermail Abyssgaios",
+			"count": 33,
+			"copies": {
+				"1": 29,
+				"2": 2
+			}
+		},
+		{
+			"name": "Armory Arm",
+			"count": 33,
+			"copies": {
+				"1": 33
+			}
+		},
+		{
+			"name": "Ancient Sacred Wyvern",
+			"count": 30,
+			"copies": {
+				"1": 30
+			}
+		},
+		{
+			"name": "Karakuri Shogun mdl 00 \"Burei\"",
+			"count": 25,
+			"copies": {
+				"1": 25
+			}
+		},
+		{
+			"name": "Thought Ruler Archfiend",
+			"count": 25,
+			"copies": {
+				"1": 25
+			}
+		},
+		{
+			"name": "Gagaga Cowboy",
+			"count": 20,
+			"copies": {
+				"1": 20
+			}
+		},
+		{
+			"name": "Abyss Dweller",
+			"count": 18,
+			"copies": {
+				"1": 18
+			}
+		},
+		{
+			"name": "Diamond Dire Wolf",
+			"count": 16,
+			"copies": {
+				"1": 16
+			}
+		},
+		{
+			"name": "Gachi Gachi Gantetsu",
+			"count": 14,
+			"copies": {
+				"1": 14
+			}
+		},
+		{
+			"name": "Maestroke the Symphony Djinn",
+			"count": 14,
+			"copies": {
+				"1": 14
+			}
+		},
+		{
+			"name": "Red Dragon Archfiend",
+			"count": 13,
+			"copies": {
+				"1": 13
+			}
+		},
+		{
+			"name": "Gem-Knight Pearl",
+			"count": 13,
+			"copies": {
+				"1": 13
+			}
+		},
+		{
+			"name": "Evilswarm Ophion",
+			"count": 13,
+			"copies": {
+				"1": 1,
+				"3": 4
+			}
+		},
+		{
+			"name": "Daigusto Phoenix",
+			"count": 12,
+			"copies": {
+				"1": 12
+			}
+		},
+		{
+			"name": "Number 16: Shock Master",
+			"count": 12,
+			"copies": {
+				"1": 12
+			}
+		},
+		{
+			"name": "Shining Elf",
+			"count": 12,
+			"copies": {
+				"1": 12
+			}
+		},
+		{
+			"name": "Ally of Justice Catastor",
+			"count": 10,
+			"copies": {
+				"1": 10
+			}
+		},
+		{
+			"name": "Number 39: Utopia",
+			"count": 9,
+			"copies": {
+				"1": 9
+			}
+		},
+		{
+			"name": "Stardust Dragon",
+			"count": 9,
+			"copies": {
+				"1": 9
+			}
+		},
+		{
+			"name": "Photon Papilloperative",
+			"count": 8,
+			"copies": {
+				"1": 8
+			}
+		},
+		{
+			"name": "Evilswarm Bahamut",
+			"count": 7,
+			"copies": {
+				"1": 1,
+				"2": 3
+			}
+		},
+		{
+			"name": "Arcanite Magician",
+			"count": 6,
+			"copies": {
+				"1": 6
+			}
+		},
+		{
+			"name": "Tempest Magician",
+			"count": 6,
+			"copies": {
+				"1": 6
+			}
+		},
+		{
+			"name": "Evilswarm Ouroboros",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Constellar Pleiades",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Wind-Up Zenmaister",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Number C39: Utopia Ray",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Wind-Up Zenmaines",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Hierophant of Prophecy",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "T.G. Hyper Librarian",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Cyber Saurus",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Number 50: Blackship of Corn",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Chimeratech Fortress Dragon",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Constellar Ptolemy M7",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Number 61: Volcasaurus",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Tiras, Keeper of Genesis",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Evilswarm Nightmare",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Evilswarm Thanatos",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Brotherhood of the Fire Fist - Lion Emperor",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Number 96: Dark Mist",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Leviair the Sea Dragon",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Madolche Queen Tiaramisu",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Adreus, Keeper of Armageddon",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Constellar Omega",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Constellar Praesepe",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Starliege Paladynamo",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Daigusto Emeral",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Dewloren, Tiger King of the Ice Barrier",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Bahamut Shark",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Mermail Abysstrite",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Number 17: Leviathan Dragon",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Magical Android",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Brotherhood of the Fire Fist - Horse Prince",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Black Skull Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Elemental HERO Flame Wingman",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Master of Oz",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mokey Mokey King",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Ojama King",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Ryu Senshi",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sanwitch",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Super Robolady",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Super Roboyarou",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "The Last Warrior from Another Planet",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Thousand Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "XYZ-Dragon Cannon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Fairy King Albverdich",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "M-X-Saber Invoker",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Number 30: Acid Golem of Destruction",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Soul of Silvermountain",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Formula Synchron",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Kachi Kochi Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Number 7: Lucky Straight",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Evolzar Laggia",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Blood Mefist",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Temtempo the Percussion Djinn",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Lavalval Chain",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Brotherhood of the Fire Fist - Cardinal",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Brotherhood of the Fire Fist - Tiger King",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	],
+	"total": [
+		{
+			"name": "Mystical Space Typhoon",
+			"count": 151,
+			"copies": {
+				"1": 1,
+				"2": 15,
+				"3": 40
+			}
+		},
+		{
+			"name": "Maxx \"C\"",
+			"count": 138,
+			"copies": {
+				"2": 6,
+				"3": 42
+			}
+		},
+		{
+			"name": "Effect Veiler",
+			"count": 125,
+			"copies": {
+				"1": 6,
+				"2": 7,
+				"3": 35
+			}
+		},
+		{
+			"name": "Tidal, Dragon Ruler of Waterfalls",
+			"count": 102,
+			"copies": {
+				"3": 34
+			}
+		},
+		{
+			"name": "Blaster, Dragon Ruler of Infernos",
+			"count": 101,
+			"copies": {
+				"2": 1,
+				"3": 33
+			}
+		},
+		{
+			"name": "Redox, Dragon Ruler of Boulders",
+			"count": 99,
+			"copies": {
+				"3": 33
+			}
+		},
+		{
+			"name": "Tempest, Dragon Ruler of Storms",
+			"count": 99,
+			"copies": {
+				"3": 33
+			}
+		},
+		{
+			"name": "Super Rejuvenation",
+			"count": 99,
+			"copies": {
+				"3": 33
+			}
+		},
+		{
+			"name": "Eradicator Epidemic Virus",
+			"count": 89,
+			"copies": {
+				"2": 10,
+				"3": 23
+			}
+		},
+		{
+			"name": "Droll & Lock Bird",
+			"count": 75,
+			"copies": {
+				"1": 2,
+				"2": 11,
+				"3": 17
+			}
+		},
+		{
+			"name": "Gold Sarcophagus",
+			"count": 69,
+			"copies": {
+				"1": 2,
+				"2": 17,
+				"3": 11
+			}
+		},
+		{
+			"name": "Burner, Dragon Ruler of Sparks",
+			"count": 68,
+			"copies": {
+				"2": 34
+			}
+		},
+		{
+			"name": "Sacred Sword of Seven Stars",
+			"count": 68,
+			"copies": {
+				"1": 10,
+				"2": 11,
+				"3": 12
+			}
+		},
+		{
+			"name": "Stream, Dragon Ruler of Droplets",
+			"count": 67,
+			"copies": {
+				"1": 1,
+				"2": 33
+			}
+		},
+		{
+			"name": "Reactan, Dragon Ruler of Pebbles",
+			"count": 66,
+			"copies": {
+				"2": 33
+			}
+		},
+		{
+			"name": "Swift Scarecrow",
+			"count": 62,
+			"copies": {
+				"1": 9,
+				"2": 19,
+				"3": 5
+			}
+		},
+		{
+			"name": "Lightning, Dragon Ruler of Drafts",
+			"count": 55,
+			"copies": {
+				"1": 11,
+				"2": 22
+			}
+		},
+		{
+			"name": "Heavy Storm",
+			"count": 53,
+			"copies": {
+				"1": 53
+			}
+		},
+		{
+			"name": "Book of Moon",
+			"count": 48,
+			"copies": {
+				"1": 48
+			}
+		},
+		{
+			"name": "Tsukuyomi",
+			"count": 47,
+			"copies": {
+				"1": 7,
+				"2": 20
+			}
+		},
+		{
+			"name": "Compulsory Evacuation Device",
+			"count": 45,
+			"copies": {
+				"1": 2,
+				"2": 5,
+				"3": 11
+			}
+		},
+		{
+			"name": "Vanity's Emptiness",
+			"count": 43,
+			"copies": {
+				"1": 7,
+				"2": 15,
+				"3": 2
+			}
+		},
+		{
+			"name": "Dark Hole",
+			"count": 41,
+			"copies": {
+				"1": 41
+			}
+		},
+		{
+			"name": "Kycoo the Ghost Destroyer",
+			"count": 39,
+			"copies": {
+				"2": 3,
+				"3": 11
+			}
+		},
+		{
+			"name": "Spellbook Magician of Prophecy",
+			"count": 36,
+			"copies": {
+				"3": 12
+			}
+		},
+		{
+			"name": "Spellbook of Judgment",
+			"count": 36,
+			"copies": {
+				"3": 12
+			}
+		},
+		{
+			"name": "Spellbook of Secrets",
+			"count": 36,
+			"copies": {
+				"3": 12
+			}
+		},
+		{
+			"name": "Electric Virus",
+			"count": 34,
+			"copies": {
+				"1": 8,
+				"2": 10,
+				"3": 2
+			}
+		},
+		{
+			"name": "Spellbook Star Hall",
+			"count": 29,
+			"copies": {
+				"1": 1,
+				"2": 5,
+				"3": 6
+			}
+		},
+		{
+			"name": "Puppet Plant",
+			"count": 28,
+			"copies": {
+				"1": 2,
+				"2": 4,
+				"3": 6
+			}
+		},
+		{
+			"name": "Spellbook Library of the Crescent",
+			"count": 28,
+			"copies": {
+				"2": 2,
+				"3": 8
+			}
+		},
+		{
+			"name": "Card Destruction",
+			"count": 27,
+			"copies": {
+				"1": 27
+			}
+		},
+		{
+			"name": "Spellbook of Fate",
+			"count": 27,
+			"copies": {
+				"2": 9,
+				"3": 3
+			}
+		},
+		{
+			"name": "Spellbook of the Master",
+			"count": 27,
+			"copies": {
+				"2": 9,
+				"3": 3
+			}
+		},
+		{
+			"name": "Dragunity Corsesca",
+			"count": 26,
+			"copies": {
+				"1": 26
+			}
+		},
+		{
+			"name": "The Grand Spellbook Tower",
+			"count": 25,
+			"copies": {
+				"2": 11,
+				"3": 1
+			}
+		},
+		{
+			"name": "Dimensional Fissure",
+			"count": 24,
+			"copies": {
+				"2": 6,
+				"3": 4
+			}
+		},
+		{
+			"name": "DNA Surgery",
+			"count": 23,
+			"copies": {
+				"2": 4,
+				"3": 5
+			}
+		},
+		{
+			"name": "Spellbook of Wisdom",
+			"count": 23,
+			"copies": {
+				"1": 1,
+				"2": 11
+			}
+		},
+		{
+			"name": "Mind Drain",
+			"count": 23,
+			"copies": {
+				"2": 4,
+				"3": 5
+			}
+		},
+		{
+			"name": "Imperial Iron Wall",
+			"count": 23,
+			"copies": {
+				"2": 1,
+				"3": 7
+			}
+		},
+		{
+			"name": "Solemn Judgment",
+			"count": 22,
+			"copies": {
+				"1": 22
+			}
+		},
+		{
+			"name": "Forbidden Chalice",
+			"count": 22,
+			"copies": {
+				"1": 8,
+				"2": 7
+			}
+		},
+		{
+			"name": "Psi-Blocker",
+			"count": 20,
+			"copies": {
+				"1": 6,
+				"2": 7
+			}
+		},
+		{
+			"name": "Upstart Goblin",
+			"count": 20,
+			"copies": {
+				"1": 2,
+				"2": 3,
+				"3": 4
+			}
+		},
+		{
+			"name": "Spellbook of Power",
+			"count": 20,
+			"copies": {
+				"1": 5,
+				"2": 6,
+				"3": 1
+			}
+		},
+		{
+			"name": "Last Day of Witch",
+			"count": 20,
+			"copies": {
+				"1": 5,
+				"2": 6,
+				"3": 1
+			}
+		},
+		{
+			"name": "Monster Reborn",
+			"count": 19,
+			"copies": {
+				"1": 19
+			}
+		},
+		{
+			"name": "Solemn Warning",
+			"count": 19,
+			"copies": {
+				"1": 19
+			}
+		},
+		{
+			"name": "Jowgen the Spiritualist",
+			"count": 16,
+			"copies": {
+				"1": 10,
+				"2": 3
+			}
+		},
+		{
+			"name": "Gozen Match",
+			"count": 16,
+			"copies": {
+				"2": 2,
+				"3": 4
+			}
+		},
+		{
+			"name": "High Priestess of Prophecy",
+			"count": 16,
+			"copies": {
+				"1": 4,
+				"2": 6
+			}
+		},
+		{
+			"name": "Royal Decree",
+			"count": 16,
+			"copies": {
+				"1": 1,
+				"2": 6,
+				"3": 1
+			}
+		},
+		{
+			"name": "Deck Devastation Virus",
+			"count": 15,
+			"copies": {
+				"1": 3,
+				"2": 6
+			}
+		},
+		{
+			"name": "Spellbook of Eternity",
+			"count": 13,
+			"copies": {
+				"1": 11,
+				"2": 1
+			}
+		},
+		{
+			"name": "Mirror Force",
+			"count": 12,
+			"copies": {
+				"1": 2,
+				"2": 5
+			}
+		},
+		{
+			"name": "Phoenix Wing Wind Blast",
+			"count": 12,
+			"copies": {
+				"1": 1,
+				"2": 4,
+				"3": 1
+			}
+		},
+		{
+			"name": "Evilswarm Heliotrope",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Evilswarm Castor",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Thunder King Rai-Oh",
+			"count": 11,
+			"copies": {
+				"1": 1,
+				"2": 5
+			}
+		},
+		{
+			"name": "Torrential Tribute",
+			"count": 11,
+			"copies": {
+				"1": 3,
+				"2": 4
+			}
+		},
+		{
+			"name": "Spellbook of Life",
+			"count": 11,
+			"copies": {
+				"1": 11
+			}
+		},
+		{
+			"name": "Evilswarm Kerykeion",
+			"count": 11,
+			"copies": {
+				"2": 1,
+				"3": 3
+			}
+		},
+		{
+			"name": "Evilswarm Mandragora",
+			"count": 11,
+			"copies": {
+				"2": 1,
+				"3": 3
+			}
+		},
+		{
+			"name": "Enemy Controller",
+			"count": 10,
+			"copies": {
+				"1": 5,
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Rivalry of Warlords",
+			"count": 10,
+			"copies": {
+				"2": 5
+			}
+		},
+		{
+			"name": "Bottomless Trap Hole",
+			"count": 9,
+			"copies": {
+				"1": 1,
+				"2": 4
+			}
+		},
+		{
+			"name": "Lightning Vortex",
+			"count": 9,
+			"copies": {
+				"1": 9
+			}
+		},
+		{
+			"name": "Breakthrough Skill",
+			"count": 9,
+			"copies": {
+				"2": 3,
+				"3": 1
+			}
+		},
+		{
+			"name": "Skill Drain",
+			"count": 9,
+			"copies": {
+				"1": 1,
+				"2": 4
+			}
+		},
+		{
+			"name": "Fire Formation - Tenki",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Fiendish Chain",
+			"count": 9,
+			"copies": {
+				"2": 3,
+				"3": 1
+			}
+		},
+		{
+			"name": "Soul Drain",
+			"count": 9,
+			"copies": {
+				"2": 3,
+				"3": 1
+			}
+		},
+		{
+			"name": "Infestation Pandemic",
+			"count": 9,
+			"copies": {
+				"2": 3,
+				"3": 1
+			}
+		},
+		{
+			"name": "Fossil Dyna Pachycephalo",
+			"count": 8,
+			"copies": {
+				"2": 1,
+				"3": 2
+			}
+		},
+		{
+			"name": "Horus the Black Flame Dragon LV6",
+			"count": 8,
+			"copies": {
+				"1": 8
+			}
+		},
+		{
+			"name": "Horus the Black Flame Dragon LV8",
+			"count": 8,
+			"copies": {
+				"1": 8
+			}
+		},
+		{
+			"name": "Cursed Seal of the Forbidden Spell",
+			"count": 8,
+			"copies": {
+				"1": 1,
+				"2": 2,
+				"3": 1
+			}
+		},
+		{
+			"name": "Rescue Rabbit",
+			"count": 8,
+			"copies": {
+				"2": 4
+			}
+		},
+		{
+			"name": "Justice of Prophecy",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Exploder Dragon",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Safe Zone",
+			"count": 7,
+			"copies": {
+				"1": 1,
+				"2": 3
+			}
+		},
+		{
+			"name": "Pot of Duality",
+			"count": 6,
+			"copies": {
+				"2": 3
+			}
+		},
+		{
+			"name": "Book of Eclipse",
+			"count": 6,
+			"copies": {
+				"1": 2,
+				"2": 2
+			}
+		},
+		{
+			"name": "Forbidden Lance",
+			"count": 6,
+			"copies": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Mind Crush",
+			"count": 6,
+			"copies": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Constellar Kaus",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Constellar Pollux",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Constellar Sombre",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Atlantean Dragoons",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Mermail Abysslinde",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Mermail Abyssmegalo",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Mermail Abysspike",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Mermail Abyssteus",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Abyss-sphere",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Retort",
+			"count": 6,
+			"copies": {
+				"1": 1,
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Deck Lockdown",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Banisher of the Radiance",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Treacherous Trap Hole",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Fusilier Dragon, the Dual-Mode Beast",
+			"count": 5,
+			"copies": {
+				"1": 1,
+				"2": 2
+			}
+		},
+		{
+			"name": "Brotherhood of the Fire Fist - Bear",
+			"count": 5,
+			"copies": {
+				"1": 2,
+				"3": 1
+			}
+		},
+		{
+			"name": "Constellar Algiedi",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Reinforcement of the Army",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Atlantean Heavy Infantry",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Atlantean Marksman",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Macro Cosmos",
+			"count": 4,
+			"copies": {
+				"1": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Flamvell Guard",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Cardcar D",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Infestation Infection",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Deep Sea Diva",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Mermail Abyssgunde",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Spell Canceller",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Honest",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Swords of Revealing Light",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Sakuretsu Armor",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Defender, the Magical Knight",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Starlight Road",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Magical Mallet",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Reload",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Metaion, the Timelord",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Madolche Hootcake",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Madolche Magileine",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Anti-Spell Fragrance",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Fairy Wind",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Evilswarm O'lantern",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Evilswarm Thunderbird",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Allure of Darkness",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Exchange",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Cyber Dragon",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Call of the Haunted",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Brotherhood of the Fire Fist - Spirit",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Magic Planter",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Marshmallon",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Penguin Soldier",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Trifortressops",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Madolche Messengelato",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Madolche Chateau",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Madolche Ticket",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Dark Bribe",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Dimensional Prison",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Horn of Heaven",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "The Golden Apples",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Waboku",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Mermail Abyssleed",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Salvage",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Debunk",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Morphing Jar #2",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Obelisk the Tormentor",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Xyz Reborn",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Black Horn of Heaven",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Snowman Eater",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Mist Valley Falcon",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Constellar Sheratan",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Fire Formation - Tensu",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Rekindling",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Fire Formation - Tensen",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Ryko, Lightsworn Hunter",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Light and Darkness Dragon",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Imperial Custom",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Mage Power",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "One Day of Peace",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Terraforming",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "The Seal of Orichalcos",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Left Leg of the Forbidden One",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Jester Lord",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Rainbow Life",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Madolche Mewfeuille",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Madolche Puddingcess",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Madolche Nights",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Madolchepalooza",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Scrap-Iron Scarecrow",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Ultimate Offering",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Madolche Marmalmaide",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Offerings to the Doomed",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Xyz Gift",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Infestation Terminus",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Forbidden Dress",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Dark Illusion",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Prideful Roar",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mermail Abyssturge",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Pot of Avarice",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Angel O7",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mermail Abyssdine",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Mind Control",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Dark Armed Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Moulinglacia the Elemental Lord",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Neo-Spacian Grand Mole",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Evilswarm Azzathoth",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Brotherhood of the Fire Fist - Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Brotherhood of the Fire Fist - Hawk",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Brotherhood of the Fire Fist - Leopard",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Brotherhood of the Fire Fist - Raven",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Dragunity Brandistock",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Eclipse Wyvern",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Night Beam",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	]
+}

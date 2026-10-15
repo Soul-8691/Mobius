@@ -1,0 +1,7066 @@
+{
+	"decks_processed": 123,
+	"deck_types": {
+		"Soul Control": {
+			"count": 80,
+			"main": [
+				{
+					"name": "La Jinn the Mystical Genie of the Lamp",
+					"count": 240,
+					"copies": {
+						"3": 80
+					}
+				},
+				{
+					"name": "Man-Eater Bug",
+					"count": 240,
+					"copies": {
+						"3": 80
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 239,
+					"copies": {
+						"2": 1,
+						"3": 79
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 238,
+					"copies": {
+						"1": 1,
+						"3": 79
+					}
+				},
+				{
+					"name": "Summoned Skull",
+					"count": 237,
+					"copies": {
+						"2": 3,
+						"3": 77
+					}
+				},
+				{
+					"name": "Neo the Magic Swordsman",
+					"count": 233,
+					"copies": {
+						"2": 1,
+						"3": 77
+					}
+				},
+				{
+					"name": "Reinforcements",
+					"count": 224,
+					"copies": {
+						"1": 2,
+						"2": 3,
+						"3": 72
+					}
+				},
+				{
+					"name": "Giant Soldier of Stone",
+					"count": 220,
+					"copies": {
+						"1": 6,
+						"2": 8,
+						"3": 66
+					}
+				},
+				{
+					"name": "Battle Ox",
+					"count": 208,
+					"copies": {
+						"1": 2,
+						"2": 4,
+						"3": 66
+					}
+				},
+				{
+					"name": "Soul Exchange",
+					"count": 176,
+					"copies": {
+						"1": 10,
+						"2": 44,
+						"3": 26
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 142,
+					"copies": {
+						"1": 4,
+						"2": 69
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 121,
+					"copies": {
+						"1": 20,
+						"2": 10,
+						"3": 27
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 85,
+					"copies": {
+						"1": 30,
+						"2": 20,
+						"3": 5
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 80,
+					"copies": {
+						"1": 80
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 80,
+					"copies": {
+						"1": 80
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 80,
+					"copies": {
+						"1": 80
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 80,
+					"copies": {
+						"1": 80
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 80,
+					"copies": {
+						"1": 80
+					}
+				},
+				{
+					"name": "Wall of Illusion",
+					"count": 64,
+					"copies": {
+						"1": 16,
+						"2": 6,
+						"3": 12
+					}
+				},
+				{
+					"name": "Judge Man",
+					"count": 49,
+					"copies": {
+						"1": 15,
+						"2": 14,
+						"3": 2
+					}
+				},
+				{
+					"name": "Aqua Madoor",
+					"count": 44,
+					"copies": {
+						"1": 3,
+						"2": 4,
+						"3": 11
+					}
+				},
+				{
+					"name": "De-Spell",
+					"count": 34,
+					"copies": {
+						"1": 32,
+						"2": 1
+					}
+				},
+				{
+					"name": "Trap Master",
+					"count": 27,
+					"copies": {
+						"1": 23,
+						"2": 2
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 15,
+					"copies": {
+						"1": 3,
+						"2": 6
+					}
+				},
+				{
+					"name": "The Wicked Worm Beast",
+					"count": 8,
+					"copies": {
+						"1": 6,
+						"2": 1
+					}
+				},
+				{
+					"name": "Mystical Elf",
+					"count": 5,
+					"copies": {
+						"1": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Yami",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Last Will",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Sword of Dark Destruction",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Stop Defense",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Reaper of the Cards",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Waboku",
+					"count": 102,
+					"copies": {
+						"1": 13,
+						"2": 19,
+						"3": 17
+					}
+				},
+				{
+					"name": "Wall of Illusion",
+					"count": 92,
+					"copies": {
+						"1": 30,
+						"2": 16,
+						"3": 10
+					}
+				},
+				{
+					"name": "Ookazi",
+					"count": 90,
+					"copies": {
+						"2": 15,
+						"3": 20
+					}
+				},
+				{
+					"name": "Judge Man",
+					"count": 87,
+					"copies": {
+						"1": 18,
+						"2": 33,
+						"3": 1
+					}
+				},
+				{
+					"name": "Trap Master",
+					"count": 86,
+					"copies": {
+						"1": 27,
+						"2": 16,
+						"3": 9
+					}
+				},
+				{
+					"name": "Just Desserts",
+					"count": 84,
+					"copies": {
+						"1": 4,
+						"2": 10,
+						"3": 20
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 81,
+					"copies": {
+						"1": 21,
+						"2": 30
+					}
+				},
+				{
+					"name": "De-Spell",
+					"count": 50,
+					"copies": {
+						"1": 34,
+						"2": 8
+					}
+				},
+				{
+					"name": "Stop Defense",
+					"count": 49,
+					"copies": {
+						"1": 6,
+						"2": 11,
+						"3": 7
+					}
+				},
+				{
+					"name": "Aqua Madoor",
+					"count": 48,
+					"copies": {
+						"1": 22,
+						"2": 7,
+						"3": 4
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 41,
+					"copies": {
+						"1": 35,
+						"2": 3
+					}
+				},
+				{
+					"name": "Soul Exchange",
+					"count": 40,
+					"copies": {
+						"1": 34,
+						"2": 3
+					}
+				},
+				{
+					"name": "Great White",
+					"count": 36,
+					"copies": {
+						"3": 12
+					}
+				},
+				{
+					"name": "The Wicked Worm Beast",
+					"count": 34,
+					"copies": {
+						"1": 18,
+						"2": 5,
+						"3": 2
+					}
+				},
+				{
+					"name": "Mystical Elf",
+					"count": 28,
+					"copies": {
+						"1": 3,
+						"2": 5,
+						"3": 5
+					}
+				},
+				{
+					"name": "Battle Ox",
+					"count": 27,
+					"copies": {
+						"1": 4,
+						"2": 1,
+						"3": 7
+					}
+				},
+				{
+					"name": "Remove Trap",
+					"count": 26,
+					"copies": {
+						"1": 12,
+						"2": 7
+					}
+				},
+				{
+					"name": "Hane-Hane",
+					"count": 25,
+					"copies": {
+						"1": 12,
+						"2": 5,
+						"3": 1
+					}
+				},
+				{
+					"name": "Dragon Capture Jar",
+					"count": 23,
+					"copies": {
+						"1": 1,
+						"2": 2,
+						"3": 6
+					}
+				},
+				{
+					"name": "Last Will",
+					"count": 16,
+					"copies": {
+						"1": 4,
+						"2": 3,
+						"3": 2
+					}
+				},
+				{
+					"name": "Reaper of the Cards",
+					"count": 16,
+					"copies": {
+						"1": 5,
+						"2": 4,
+						"3": 1
+					}
+				},
+				{
+					"name": "Giant Soldier of Stone",
+					"count": 15,
+					"copies": {
+						"1": 5,
+						"2": 5
+					}
+				},
+				{
+					"name": "Reinforcements",
+					"count": 15,
+					"copies": {
+						"1": 3,
+						"2": 3,
+						"3": 2
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 12,
+					"copies": {
+						"1": 4,
+						"2": 4
+					}
+				},
+				{
+					"name": "Gyakutenno Megami",
+					"count": 10,
+					"copies": {
+						"2": 2,
+						"3": 2
+					}
+				},
+				{
+					"name": "Spirit of the Harp",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Umi",
+					"count": 7,
+					"copies": {
+						"1": 5,
+						"2": 1
+					}
+				},
+				{
+					"name": "Reverse Trap",
+					"count": 7,
+					"copies": {
+						"1": 2,
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Armed Ninja",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Invigoration",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Yami",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Summoned Skull",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Ryu-Kishin Powered",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Blue-Eyes White Dragon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "The Flute of Summoning Dragon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Neo the Magic Swordsman",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dian Keto the Cure Master",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dragon Zombie",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Lord of D.",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Castle Walls",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Final Flame",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Wasteland",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Petit Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sparks",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Destroyer Golem",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Forest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Curse of Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Metal Dragon",
+					"count": 127,
+					"copies": {
+						"1": 1,
+						"3": 42
+					}
+				},
+				{
+					"name": "Fusionist",
+					"count": 102,
+					"copies": {
+						"1": 3,
+						"2": 12,
+						"3": 25
+					}
+				},
+				{
+					"name": "Flower Wolf",
+					"count": 98,
+					"copies": {
+						"1": 2,
+						"2": 12,
+						"3": 24
+					}
+				},
+				{
+					"name": "Gaia the Dragon Champion",
+					"count": 79,
+					"copies": {
+						"1": 7,
+						"3": 24
+					}
+				},
+				{
+					"name": "Darkfire Dragon",
+					"count": 71,
+					"copies": {
+						"1": 2,
+						"2": 12,
+						"3": 15
+					}
+				},
+				{
+					"name": "Flame Swordsman",
+					"count": 71,
+					"copies": {
+						"1": 2,
+						"2": 12,
+						"3": 15
+					}
+				},
+				{
+					"name": "Dragoness the Wicked Knight",
+					"count": 63,
+					"copies": {
+						"1": 15,
+						"3": 16
+					}
+				},
+				{
+					"name": "Karbonala Warrior",
+					"count": 59,
+					"copies": {
+						"1": 14,
+						"3": 15
+					}
+				},
+				{
+					"name": "Flame Ghost",
+					"count": 48,
+					"copies": {
+						"1": 3,
+						"2": 12,
+						"3": 7
+					}
+				},
+				{
+					"name": "Charubin the Fire Knight",
+					"count": 15,
+					"copies": {
+						"1": 3,
+						"3": 4
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "La Jinn the Mystical Genie of the Lamp",
+					"count": 240,
+					"copies": {
+						"3": 80
+					}
+				},
+				{
+					"name": "Summoned Skull",
+					"count": 240,
+					"copies": {
+						"3": 80
+					}
+				},
+				{
+					"name": "Man-Eater Bug",
+					"count": 240,
+					"copies": {
+						"3": 80
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 240,
+					"copies": {
+						"3": 80
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 240,
+					"copies": {
+						"3": 80
+					}
+				},
+				{
+					"name": "Reinforcements",
+					"count": 239,
+					"copies": {
+						"2": 1,
+						"3": 79
+					}
+				},
+				{
+					"name": "Neo the Magic Swordsman",
+					"count": 236,
+					"copies": {
+						"2": 1,
+						"3": 78
+					}
+				},
+				{
+					"name": "Battle Ox",
+					"count": 235,
+					"copies": {
+						"1": 1,
+						"3": 78
+					}
+				},
+				{
+					"name": "Giant Soldier of Stone",
+					"count": 235,
+					"copies": {
+						"1": 1,
+						"2": 3,
+						"3": 76
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 223,
+					"copies": {
+						"2": 8,
+						"3": 69
+					}
+				},
+				{
+					"name": "Soul Exchange",
+					"count": 216,
+					"copies": {
+						"2": 24,
+						"3": 56
+					}
+				},
+				{
+					"name": "Wall of Illusion",
+					"count": 156,
+					"copies": {
+						"1": 14,
+						"2": 26,
+						"3": 30
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 154,
+					"copies": {
+						"2": 77
+					}
+				},
+				{
+					"name": "Judge Man",
+					"count": 136,
+					"copies": {
+						"1": 9,
+						"2": 44,
+						"3": 13
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 126,
+					"copies": {
+						"1": 21,
+						"2": 36,
+						"3": 11
+					}
+				},
+				{
+					"name": "Trap Master",
+					"count": 113,
+					"copies": {
+						"1": 34,
+						"2": 20,
+						"3": 13
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 96,
+					"copies": {
+						"1": 20,
+						"2": 38
+					}
+				},
+				{
+					"name": "Aqua Madoor",
+					"count": 92,
+					"copies": {
+						"1": 21,
+						"2": 7,
+						"3": 19
+					}
+				},
+				{
+					"name": "Ookazi",
+					"count": 90,
+					"copies": {
+						"2": 15,
+						"3": 20
+					}
+				},
+				{
+					"name": "De-Spell",
+					"count": 84,
+					"copies": {
+						"1": 54,
+						"2": 12,
+						"3": 2
+					}
+				},
+				{
+					"name": "Just Desserts",
+					"count": 84,
+					"copies": {
+						"1": 4,
+						"2": 10,
+						"3": 20
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 80,
+					"copies": {
+						"1": 80
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 80,
+					"copies": {
+						"1": 80
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 80,
+					"copies": {
+						"1": 80
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 80,
+					"copies": {
+						"1": 80
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 80,
+					"copies": {
+						"1": 80
+					}
+				},
+				{
+					"name": "Stop Defense",
+					"count": 50,
+					"copies": {
+						"1": 5,
+						"2": 12,
+						"3": 7
+					}
+				},
+				{
+					"name": "The Wicked Worm Beast",
+					"count": 42,
+					"copies": {
+						"1": 21,
+						"2": 6,
+						"3": 3
+					}
+				},
+				{
+					"name": "Great White",
+					"count": 36,
+					"copies": {
+						"3": 12
+					}
+				},
+				{
+					"name": "Mystical Elf",
+					"count": 33,
+					"copies": {
+						"1": 3,
+						"2": 3,
+						"3": 8
+					}
+				},
+				{
+					"name": "Remove Trap",
+					"count": 26,
+					"copies": {
+						"1": 12,
+						"2": 7
+					}
+				},
+				{
+					"name": "Hane-Hane",
+					"count": 25,
+					"copies": {
+						"1": 12,
+						"2": 5,
+						"3": 1
+					}
+				},
+				{
+					"name": "Dragon Capture Jar",
+					"count": 23,
+					"copies": {
+						"1": 1,
+						"2": 2,
+						"3": 6
+					}
+				},
+				{
+					"name": "Last Will",
+					"count": 19,
+					"copies": {
+						"1": 5,
+						"2": 4,
+						"3": 2
+					}
+				},
+				{
+					"name": "Reaper of the Cards",
+					"count": 17,
+					"copies": {
+						"1": 4,
+						"2": 5,
+						"3": 1
+					}
+				},
+				{
+					"name": "Gyakutenno Megami",
+					"count": 10,
+					"copies": {
+						"2": 2,
+						"3": 2
+					}
+				},
+				{
+					"name": "Spirit of the Harp",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Umi",
+					"count": 7,
+					"copies": {
+						"1": 5,
+						"2": 1
+					}
+				},
+				{
+					"name": "Reverse Trap",
+					"count": 7,
+					"copies": {
+						"1": 2,
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Yami",
+					"count": 6,
+					"copies": {
+						"1": 4,
+						"2": 1
+					}
+				},
+				{
+					"name": "Armed Ninja",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Invigoration",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Ryu-Kishin Powered",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Blue-Eyes White Dragon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "The Flute of Summoning Dragon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Sword of Dark Destruction",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dian Keto the Cure Master",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dragon Zombie",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Lord of D.",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Castle Walls",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Final Flame",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Wasteland",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Petit Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sparks",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Destroyer Golem",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Forest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Curse of Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Stall Mill": {
+			"count": 16,
+			"main": [
+				{
+					"name": "Aqua Madoor",
+					"count": 48,
+					"copies": {
+						"3": 16
+					}
+				},
+				{
+					"name": "Giant Soldier of Stone",
+					"count": 48,
+					"copies": {
+						"3": 16
+					}
+				},
+				{
+					"name": "Gyakutenno Megami",
+					"count": 48,
+					"copies": {
+						"3": 16
+					}
+				},
+				{
+					"name": "Mystical Elf",
+					"count": 48,
+					"copies": {
+						"3": 16
+					}
+				},
+				{
+					"name": "Man-Eater Bug",
+					"count": 48,
+					"copies": {
+						"3": 16
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 48,
+					"copies": {
+						"3": 16
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 48,
+					"copies": {
+						"3": 16
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 48,
+					"copies": {
+						"3": 16
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 48,
+					"copies": {
+						"3": 16
+					}
+				},
+				{
+					"name": "Spirit of the Harp",
+					"count": 47,
+					"copies": {
+						"2": 1,
+						"3": 15
+					}
+				},
+				{
+					"name": "Wall of Illusion",
+					"count": 47,
+					"copies": {
+						"2": 1,
+						"3": 15
+					}
+				},
+				{
+					"name": "Soul Exchange",
+					"count": 33,
+					"copies": {
+						"2": 15,
+						"3": 1
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 32,
+					"copies": {
+						"2": 16
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 27,
+					"copies": {
+						"1": 5,
+						"2": 11
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 16,
+					"copies": {
+						"1": 16
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 16,
+					"copies": {
+						"1": 16
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 16,
+					"copies": {
+						"1": 16
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 16,
+					"copies": {
+						"1": 16
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 16,
+					"copies": {
+						"1": 16
+					}
+				},
+				{
+					"name": "Hane-Hane",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Castle Walls",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "La Jinn the Mystical Genie of the Lamp",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Reinforcements",
+					"count": 45,
+					"copies": {
+						"3": 15
+					}
+				},
+				{
+					"name": "La Jinn the Mystical Genie of the Lamp",
+					"count": 44,
+					"copies": {
+						"2": 1,
+						"3": 14
+					}
+				},
+				{
+					"name": "Neo the Magic Swordsman",
+					"count": 43,
+					"copies": {
+						"2": 2,
+						"3": 13
+					}
+				},
+				{
+					"name": "Summoned Skull",
+					"count": 38,
+					"copies": {
+						"1": 1,
+						"2": 2,
+						"3": 11
+					}
+				},
+				{
+					"name": "Battle Ox",
+					"count": 36,
+					"copies": {
+						"1": 1,
+						"2": 4,
+						"3": 9
+					}
+				},
+				{
+					"name": "The Wicked Worm Beast",
+					"count": 8,
+					"copies": {
+						"1": 4,
+						"2": 2
+					}
+				},
+				{
+					"name": "Just Desserts",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Soul Exchange",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Judge Man",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Final Flame",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ookazi",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Stop Defense",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Flower Wolf",
+					"count": 26,
+					"copies": {
+						"2": 1,
+						"3": 8
+					}
+				},
+				{
+					"name": "Gaia the Dragon Champion",
+					"count": 21,
+					"copies": {
+						"1": 1,
+						"2": 1,
+						"3": 6
+					}
+				},
+				{
+					"name": "Metal Dragon",
+					"count": 20,
+					"copies": {
+						"2": 1,
+						"3": 6
+					}
+				},
+				{
+					"name": "Flame Ghost",
+					"count": 19,
+					"copies": {
+						"1": 1,
+						"3": 6
+					}
+				},
+				{
+					"name": "Flame Swordsman",
+					"count": 17,
+					"copies": {
+						"2": 1,
+						"3": 5
+					}
+				},
+				{
+					"name": "Fusionist",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Darkfire Dragon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Charubin the Fire Knight",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dragoness the Wicked Knight",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Karbonala Warrior",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Aqua Madoor",
+					"count": 48,
+					"copies": {
+						"3": 16
+					}
+				},
+				{
+					"name": "Giant Soldier of Stone",
+					"count": 48,
+					"copies": {
+						"3": 16
+					}
+				},
+				{
+					"name": "Gyakutenno Megami",
+					"count": 48,
+					"copies": {
+						"3": 16
+					}
+				},
+				{
+					"name": "Mystical Elf",
+					"count": 48,
+					"copies": {
+						"3": 16
+					}
+				},
+				{
+					"name": "Man-Eater Bug",
+					"count": 48,
+					"copies": {
+						"3": 16
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 48,
+					"copies": {
+						"3": 16
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 48,
+					"copies": {
+						"3": 16
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 48,
+					"copies": {
+						"3": 16
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 48,
+					"copies": {
+						"3": 16
+					}
+				},
+				{
+					"name": "Spirit of the Harp",
+					"count": 47,
+					"copies": {
+						"2": 1,
+						"3": 15
+					}
+				},
+				{
+					"name": "Wall of Illusion",
+					"count": 47,
+					"copies": {
+						"2": 1,
+						"3": 15
+					}
+				},
+				{
+					"name": "La Jinn the Mystical Genie of the Lamp",
+					"count": 45,
+					"copies": {
+						"3": 15
+					}
+				},
+				{
+					"name": "Reinforcements",
+					"count": 45,
+					"copies": {
+						"3": 15
+					}
+				},
+				{
+					"name": "Neo the Magic Swordsman",
+					"count": 43,
+					"copies": {
+						"2": 2,
+						"3": 13
+					}
+				},
+				{
+					"name": "Soul Exchange",
+					"count": 38,
+					"copies": {
+						"2": 10,
+						"3": 6
+					}
+				},
+				{
+					"name": "Summoned Skull",
+					"count": 38,
+					"copies": {
+						"1": 1,
+						"2": 2,
+						"3": 11
+					}
+				},
+				{
+					"name": "Battle Ox",
+					"count": 36,
+					"copies": {
+						"1": 1,
+						"2": 4,
+						"3": 9
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 32,
+					"copies": {
+						"2": 16
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 30,
+					"copies": {
+						"1": 2,
+						"2": 14
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 16,
+					"copies": {
+						"1": 16
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 16,
+					"copies": {
+						"1": 16
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 16,
+					"copies": {
+						"1": 16
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 16,
+					"copies": {
+						"1": 16
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 16,
+					"copies": {
+						"1": 16
+					}
+				},
+				{
+					"name": "The Wicked Worm Beast",
+					"count": 8,
+					"copies": {
+						"1": 4,
+						"2": 2
+					}
+				},
+				{
+					"name": "Just Desserts",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Judge Man",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Final Flame",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ookazi",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Stop Defense",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Hane-Hane",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Castle Walls",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Vanilla Beat": {
+			"count": 11,
+			"main": [
+				{
+					"name": "La Jinn the Mystical Genie of the Lamp",
+					"count": 33,
+					"copies": {
+						"3": 11
+					}
+				},
+				{
+					"name": "Man-Eater Bug",
+					"count": 33,
+					"copies": {
+						"3": 11
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 33,
+					"copies": {
+						"3": 11
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 33,
+					"copies": {
+						"3": 11
+					}
+				},
+				{
+					"name": "Battle Ox",
+					"count": 32,
+					"copies": {
+						"2": 1,
+						"3": 10
+					}
+				},
+				{
+					"name": "Neo the Magic Swordsman",
+					"count": 32,
+					"copies": {
+						"2": 1,
+						"3": 10
+					}
+				},
+				{
+					"name": "Reinforcements",
+					"count": 32,
+					"copies": {
+						"2": 1,
+						"3": 10
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 31,
+					"copies": {
+						"1": 1,
+						"3": 10
+					}
+				},
+				{
+					"name": "Giant Soldier of Stone",
+					"count": 29,
+					"copies": {
+						"2": 1,
+						"3": 9
+					}
+				},
+				{
+					"name": "Trap Master",
+					"count": 23,
+					"copies": {
+						"1": 1,
+						"2": 2,
+						"3": 6
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 19,
+					"copies": {
+						"1": 1,
+						"2": 9
+					}
+				},
+				{
+					"name": "Summoned Skull",
+					"count": 18,
+					"copies": {
+						"1": 5,
+						"2": 5,
+						"3": 1
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 11,
+					"copies": {
+						"1": 11
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 11,
+					"copies": {
+						"1": 11
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 11,
+					"copies": {
+						"1": 11
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 11,
+					"copies": {
+						"1": 11
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 11,
+					"copies": {
+						"1": 11
+					}
+				},
+				{
+					"name": "Wall of Illusion",
+					"count": 9,
+					"copies": {
+						"1": 2,
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "De-Spell",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 5,
+					"copies": {
+						"1": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Aqua Madoor",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Stop Defense",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Spirit of the Harp",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "The Wicked Worm Beast",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Judge Man",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Last Will",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Soul Exchange",
+					"count": 21,
+					"copies": {
+						"2": 3,
+						"3": 5
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 18,
+					"copies": {
+						"2": 9
+					}
+				},
+				{
+					"name": "Wall of Illusion",
+					"count": 13,
+					"copies": {
+						"1": 2,
+						"2": 1,
+						"3": 3
+					}
+				},
+				{
+					"name": "Just Desserts",
+					"count": 13,
+					"copies": {
+						"1": 2,
+						"2": 4,
+						"3": 1
+					}
+				},
+				{
+					"name": "Summoned Skull",
+					"count": 11,
+					"copies": {
+						"1": 5,
+						"2": 3
+					}
+				},
+				{
+					"name": "De-Spell",
+					"count": 11,
+					"copies": {
+						"1": 5,
+						"2": 3
+					}
+				},
+				{
+					"name": "Stop Defense",
+					"count": 10,
+					"copies": {
+						"1": 2,
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Aqua Madoor",
+					"count": 7,
+					"copies": {
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Armed Ninja",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Ookazi",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Dragon Capture Jar",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Judge Man",
+					"count": 5,
+					"copies": {
+						"1": 3,
+						"2": 1
+					}
+				},
+				{
+					"name": "Reverse Trap",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Trap Master",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Mystical Elf",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Castle Walls",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "The Wicked Worm Beast",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dian Keto the Cure Master",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Two-Pronged Attack",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Hane-Hane",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Reaper of the Cards",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Yami",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Forest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Dragoness the Wicked Knight",
+					"count": 13,
+					"copies": {
+						"1": 1,
+						"3": 4
+					}
+				},
+				{
+					"name": "Gaia the Dragon Champion",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Darkfire Dragon",
+					"count": 10,
+					"copies": {
+						"1": 1,
+						"3": 3
+					}
+				},
+				{
+					"name": "Metal Dragon",
+					"count": 10,
+					"copies": {
+						"1": 1,
+						"3": 3
+					}
+				},
+				{
+					"name": "Flame Swordsman",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Charubin the Fire Knight",
+					"count": 7,
+					"copies": {
+						"1": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Karbonala Warrior",
+					"count": 7,
+					"copies": {
+						"1": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Fusionist",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Flame Ghost",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Flower Wolf",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "La Jinn the Mystical Genie of the Lamp",
+					"count": 33,
+					"copies": {
+						"3": 11
+					}
+				},
+				{
+					"name": "Man-Eater Bug",
+					"count": 33,
+					"copies": {
+						"3": 11
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 33,
+					"copies": {
+						"3": 11
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 33,
+					"copies": {
+						"3": 11
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 33,
+					"copies": {
+						"3": 11
+					}
+				},
+				{
+					"name": "Battle Ox",
+					"count": 32,
+					"copies": {
+						"2": 1,
+						"3": 10
+					}
+				},
+				{
+					"name": "Neo the Magic Swordsman",
+					"count": 32,
+					"copies": {
+						"2": 1,
+						"3": 10
+					}
+				},
+				{
+					"name": "Reinforcements",
+					"count": 32,
+					"copies": {
+						"2": 1,
+						"3": 10
+					}
+				},
+				{
+					"name": "Giant Soldier of Stone",
+					"count": 29,
+					"copies": {
+						"2": 1,
+						"3": 9
+					}
+				},
+				{
+					"name": "Summoned Skull",
+					"count": 29,
+					"copies": {
+						"1": 2,
+						"3": 9
+					}
+				},
+				{
+					"name": "Trap Master",
+					"count": 27,
+					"copies": {
+						"2": 3,
+						"3": 7
+					}
+				},
+				{
+					"name": "Wall of Illusion",
+					"count": 22,
+					"copies": {
+						"1": 1,
+						"2": 3,
+						"3": 5
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 22,
+					"copies": {
+						"2": 11
+					}
+				},
+				{
+					"name": "Soul Exchange",
+					"count": 21,
+					"copies": {
+						"2": 3,
+						"3": 5
+					}
+				},
+				{
+					"name": "De-Spell",
+					"count": 19,
+					"copies": {
+						"1": 4,
+						"2": 3,
+						"3": 3
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 18,
+					"copies": {
+						"2": 9
+					}
+				},
+				{
+					"name": "Stop Defense",
+					"count": 14,
+					"copies": {
+						"1": 1,
+						"2": 2,
+						"3": 3
+					}
+				},
+				{
+					"name": "Just Desserts",
+					"count": 13,
+					"copies": {
+						"1": 2,
+						"2": 4,
+						"3": 1
+					}
+				},
+				{
+					"name": "Aqua Madoor",
+					"count": 11,
+					"copies": {
+						"2": 1,
+						"3": 3
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 11,
+					"copies": {
+						"1": 11
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 11,
+					"copies": {
+						"1": 11
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 11,
+					"copies": {
+						"1": 11
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 11,
+					"copies": {
+						"1": 11
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 11,
+					"copies": {
+						"1": 11
+					}
+				},
+				{
+					"name": "Judge Man",
+					"count": 7,
+					"copies": {
+						"1": 3,
+						"2": 2
+					}
+				},
+				{
+					"name": "The Wicked Worm Beast",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "Armed Ninja",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Ookazi",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 5,
+					"copies": {
+						"1": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Dragon Capture Jar",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Reverse Trap",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Spirit of the Harp",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mystical Elf",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Castle Walls",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dian Keto the Cure Master",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Two-Pronged Attack",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Hane-Hane",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Last Will",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Reaper of the Cards",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Yami",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Forest",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Stall Burn": {
+			"count": 5,
+			"main": [
+				{
+					"name": "Giant Soldier of Stone",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "La Jinn the Mystical Genie of the Lamp",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Man-Eater Bug",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Wall of Illusion",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Ookazi",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Just Desserts",
+					"count": 13,
+					"copies": {
+						"1": 1,
+						"3": 4
+					}
+				},
+				{
+					"name": "Final Flame",
+					"count": 10,
+					"copies": {
+						"1": 1,
+						"3": 3
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 10,
+					"copies": {
+						"2": 5
+					}
+				},
+				{
+					"name": "Aqua Madoor",
+					"count": 9,
+					"copies": {
+						"2": 3,
+						"3": 1
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 6,
+					"copies": {
+						"1": 1,
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Battle Ox",
+					"count": 5,
+					"copies": {
+						"1": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Neo the Magic Swordsman",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Reinforcements",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Hane-Hane",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "The Stern Mystic",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Reinforcements",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Neo the Magic Swordsman",
+					"count": 11,
+					"copies": {
+						"2": 1,
+						"3": 3
+					}
+				},
+				{
+					"name": "The Wicked Worm Beast",
+					"count": 9,
+					"copies": {
+						"2": 3,
+						"3": 1
+					}
+				},
+				{
+					"name": "Battle Ox",
+					"count": 7,
+					"copies": {
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Trap Master",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "De-Spell",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Final Flame",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Summoned Skull",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Soul Exchange",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Just Desserts",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dragon Capture Jar",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Remove Trap",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "The Stern Mystic",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Dragoness the Wicked Knight",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Flame Swordsman",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Flower Wolf",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Gaia the Dragon Champion",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Metal Dragon",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Charubin the Fire Knight",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Darkfire Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Flame Ghost",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Fusionist",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Karbonala Warrior",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Giant Soldier of Stone",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "La Jinn the Mystical Genie of the Lamp",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Man-Eater Bug",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Wall of Illusion",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Ookazi",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Just Desserts",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Reinforcements",
+					"count": 15,
+					"copies": {
+						"3": 5
+					}
+				},
+				{
+					"name": "Final Flame",
+					"count": 14,
+					"copies": {
+						"2": 1,
+						"3": 4
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 14,
+					"copies": {
+						"2": 1,
+						"3": 4
+					}
+				},
+				{
+					"name": "Neo the Magic Swordsman",
+					"count": 14,
+					"copies": {
+						"2": 1,
+						"3": 4
+					}
+				},
+				{
+					"name": "Battle Ox",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 10,
+					"copies": {
+						"2": 5
+					}
+				},
+				{
+					"name": "Aqua Madoor",
+					"count": 9,
+					"copies": {
+						"2": 3,
+						"3": 1
+					}
+				},
+				{
+					"name": "The Wicked Worm Beast",
+					"count": 9,
+					"copies": {
+						"2": 3,
+						"3": 1
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Trap Master",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "De-Spell",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Summoned Skull",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Soul Exchange",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "The Stern Mystic",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dragon Capture Jar",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Hane-Hane",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Remove Trap",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Umi Beat": {
+			"count": 4,
+			"main": [
+				{
+					"name": "Battle Ox",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Great White",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "La Jinn the Mystical Genie of the Lamp",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Neo the Magic Swordsman",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Man-Eater Bug",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Reinforcements",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 10,
+					"copies": {
+						"2": 2,
+						"3": 2
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 8,
+					"copies": {
+						"2": 4
+					}
+				},
+				{
+					"name": "Giant Soldier of Stone",
+					"count": 6,
+					"copies": {
+						"1": 1,
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Umi",
+					"count": 5,
+					"copies": {
+						"1": 3,
+						"2": 1
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Wall of Illusion",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Summoned Skull",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "De-Spell",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Trap Master",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Stop Defense",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Aqua Madoor",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Aqua Madoor",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Soul Exchange",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Mystical Elf",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Summoned Skull",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Giant Soldier of Stone",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Judge Man",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ookazi",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Wall of Illusion",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Stop Defense",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Trap Master",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Gyakutenno Megami",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Remove Trap",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "De-Spell",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Umi",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Reaper of the Cards",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Castle Walls",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Metal Dragon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Battle Ox",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Great White",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "La Jinn the Mystical Genie of the Lamp",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Neo the Magic Swordsman",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Man-Eater Bug",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Reinforcements",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 12,
+					"copies": {
+						"3": 4
+					}
+				},
+				{
+					"name": "Giant Soldier of Stone",
+					"count": 11,
+					"copies": {
+						"2": 1,
+						"3": 3
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 11,
+					"copies": {
+						"2": 1,
+						"3": 3
+					}
+				},
+				{
+					"name": "Aqua Madoor",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Summoned Skull",
+					"count": 8,
+					"copies": {
+						"1": 2,
+						"3": 2
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 8,
+					"copies": {
+						"2": 4
+					}
+				},
+				{
+					"name": "Wall of Illusion",
+					"count": 7,
+					"copies": {
+						"1": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Umi",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "Soul Exchange",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "Mystical Elf",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "De-Spell",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Stop Defense",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Trap Master",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Judge Man",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ookazi",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Gyakutenno Megami",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Remove Trap",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Reaper of the Cards",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Castle Walls",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Dragon Turbo": {
+			"count": 3,
+			"main": [
+				{
+					"name": "La Jinn the Mystical Genie of the Lamp",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Neo the Magic Swordsman",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Man-Eater Bug",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Blue-Eyes White Dragon",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Battle Ox",
+					"count": 7,
+					"copies": {
+						"1": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Lord of D.",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "The Flute of Summoning Dragon",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Curse of Dragon",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Giant Soldier of Stone",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Reinforcements",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Trap Master",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Wall of Illusion",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "The Wicked Worm Beast",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Summoned Skull",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "De-Spell",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Soul Exchange",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Just Desserts",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Reinforcements",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Remove Trap",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Reverse Trap",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Giant Soldier of Stone",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Judge Man",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Armed Ninja",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Stop Defense",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Gaia the Dragon Champion",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Darkfire Dragon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Flame Swordsman",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Flower Wolf",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Metal Dragon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "La Jinn the Mystical Genie of the Lamp",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Neo the Magic Swordsman",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Man-Eater Bug",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Blue-Eyes White Dragon",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Battle Ox",
+					"count": 7,
+					"copies": {
+						"1": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Giant Soldier of Stone",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Lord of D.",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "The Flute of Summoning Dragon",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Reinforcements",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Summoned Skull",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "De-Spell",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Soul Exchange",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Just Desserts",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Curse of Dragon",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Remove Trap",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Reverse Trap",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Judge Man",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Trap Master",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Wall of Illusion",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Armed Ninja",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Stop Defense",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "The Wicked Worm Beast",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Last Will Turbo": {
+			"count": 2,
+			"main": [
+				{
+					"name": "Battle Ox",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Giant Soldier of Stone",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "La Jinn the Mystical Genie of the Lamp",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Neo the Magic Swordsman",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Man-Eater Bug",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Last Will",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Reinforcements",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "The Wicked Worm Beast",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Aqua Madoor",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Wall of Illusion",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Summoned Skull",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Trap Master",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "De-Spell",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Ookazi",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Soul Exchange",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Wall of Illusion",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Judge Man",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Summoned Skull",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "The Wicked Worm Beast",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Stop Defense",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dragon Capture Jar",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Flame Swordsman",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Flower Wolf",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Gaia the Dragon Champion",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Metal Dragon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Darkfire Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dragoness the Wicked Knight",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Flame Ghost",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Battle Ox",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Giant Soldier of Stone",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "La Jinn the Mystical Genie of the Lamp",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Neo the Magic Swordsman",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Man-Eater Bug",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "The Wicked Worm Beast",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Last Will",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Reinforcements",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Wall of Illusion",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Trap Master",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "De-Spell",
+					"count": 4,
+					"copies": {
+						"1": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Summoned Skull",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ookazi",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Soul Exchange",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Aqua Madoor",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Judge Man",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Stop Defense",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dragon Capture Jar",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Dark Equip": {
+			"count": 1,
+			"main": [
+				{
+					"name": "La Jinn the Mystical Genie of the Lamp",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Neo the Magic Swordsman",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Man-Eater Bug",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Reinforcements",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Battle Ox",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Giant Soldier of Stone",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Summoned Skull",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "The Wicked Worm Beast",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Last Will",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Sword of Dark Destruction",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Koumori Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Soul Exchange",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Aqua Madoor",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Battle Ox",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Giant Soldier of Stone",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Judge Man",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Summoned Skull",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Trap Master",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Wall of Illusion",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "De-Spell",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Remove Trap",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Darkfire Dragon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dragoness the Wicked Knight",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Flower Wolf",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fusionist",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Metal Dragon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Battle Ox",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Giant Soldier of Stone",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "La Jinn the Mystical Genie of the Lamp",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Neo the Magic Swordsman",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Summoned Skull",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Man-Eater Bug",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Reinforcements",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Soul Exchange",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "The Wicked Worm Beast",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Last Will",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Sword of Dark Destruction",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Koumori Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Aqua Madoor",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Judge Man",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Trap Master",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Wall of Illusion",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Card Destruction",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "De-Spell",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Remove Trap",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Exodia": {
+			"count": 1,
+			"main": [
+				{
+					"name": "Aqua Madoor",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Giant Soldier of Stone",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mystical Elf",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Spirit of the Harp",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Man-Eater Bug",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Wall of Illusion",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Left Arm of the Forbidden One",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Left Leg of the Forbidden One",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Right Arm of the Forbidden One",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Right Leg of the Forbidden One",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Exodia the Forbidden One",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "La Jinn the Mystical Genie of the Lamp",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Neo the Magic Swordsman",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Summoned Skull",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Reinforcements",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Soul Exchange",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Darkfire Dragon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dragoness the Wicked Knight",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Flower Wolf",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fusionist",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Metal Dragon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Aqua Madoor",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Giant Soldier of Stone",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Mystical Elf",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Spirit of the Harp",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Man-Eater Bug",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Wall of Illusion",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fissure",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Trap Hole",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "La Jinn the Mystical Genie of the Lamp",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Neo the Magic Swordsman",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Summoned Skull",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Reinforcements",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Swords of Revealing Light",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ultimate Offering",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Soul Exchange",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Left Arm of the Forbidden One",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Left Leg of the Forbidden One",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Right Arm of the Forbidden One",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Right Leg of the Forbidden One",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Exodia the Forbidden One",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Monster Reborn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Pot of Greed",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Change of Heart",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		}
+	},
+	"main": [
+		{
+			"name": "Man-Eater Bug",
+			"count": 369,
+			"copies": {
+				"3": 123
+			}
+		},
+		{
+			"name": "Trap Hole",
+			"count": 368,
+			"copies": {
+				"2": 1,
+				"3": 122
+			}
+		},
+		{
+			"name": "Fissure",
+			"count": 367,
+			"copies": {
+				"1": 1,
+				"3": 122
+			}
+		},
+		{
+			"name": "Giant Soldier of Stone",
+			"count": 333,
+			"copies": {
+				"1": 7,
+				"2": 13,
+				"3": 100
+			}
+		},
+		{
+			"name": "La Jinn the Mystical Genie of the Lamp",
+			"count": 319,
+			"copies": {
+				"1": 1,
+				"3": 106
+			}
+		},
+		{
+			"name": "Neo the Magic Swordsman",
+			"count": 298,
+			"copies": {
+				"2": 2,
+				"3": 98
+			}
+		},
+		{
+			"name": "Reinforcements",
+			"count": 283,
+			"copies": {
+				"1": 2,
+				"2": 4,
+				"3": 91
+			}
+		},
+		{
+			"name": "Battle Ox",
+			"count": 272,
+			"copies": {
+				"1": 5,
+				"2": 6,
+				"3": 85
+			}
+		},
+		{
+			"name": "Summoned Skull",
+			"count": 261,
+			"copies": {
+				"1": 9,
+				"2": 9,
+				"3": 78
+			}
+		},
+		{
+			"name": "Waboku",
+			"count": 233,
+			"copies": {
+				"1": 21,
+				"2": 13,
+				"3": 62
+			}
+		},
+		{
+			"name": "Swords of Revealing Light",
+			"count": 223,
+			"copies": {
+				"1": 7,
+				"2": 108
+			}
+		},
+		{
+			"name": "Soul Exchange",
+			"count": 209,
+			"copies": {
+				"1": 10,
+				"2": 59,
+				"3": 27
+			}
+		},
+		{
+			"name": "Ultimate Offering",
+			"count": 151,
+			"copies": {
+				"1": 34,
+				"2": 24,
+				"3": 23
+			}
+		},
+		{
+			"name": "Wall of Illusion",
+			"count": 146,
+			"copies": {
+				"1": 18,
+				"2": 13,
+				"3": 34
+			}
+		},
+		{
+			"name": "Dark Hole",
+			"count": 123,
+			"copies": {
+				"1": 123
+			}
+		},
+		{
+			"name": "Monster Reborn",
+			"count": 123,
+			"copies": {
+				"1": 123
+			}
+		},
+		{
+			"name": "Pot of Greed",
+			"count": 123,
+			"copies": {
+				"1": 123
+			}
+		},
+		{
+			"name": "Raigeki",
+			"count": 123,
+			"copies": {
+				"1": 123
+			}
+		},
+		{
+			"name": "Change of Heart",
+			"count": 122,
+			"copies": {
+				"1": 122
+			}
+		},
+		{
+			"name": "Aqua Madoor",
+			"count": 112,
+			"copies": {
+				"1": 5,
+				"2": 7,
+				"3": 31
+			}
+		},
+		{
+			"name": "Mystical Elf",
+			"count": 56,
+			"copies": {
+				"1": 2,
+				"3": 18
+			}
+		},
+		{
+			"name": "Trap Master",
+			"count": 53,
+			"copies": {
+				"1": 25,
+				"2": 5,
+				"3": 6
+			}
+		},
+		{
+			"name": "Spirit of the Harp",
+			"count": 53,
+			"copies": {
+				"2": 1,
+				"3": 17
+			}
+		},
+		{
+			"name": "Judge Man",
+			"count": 51,
+			"copies": {
+				"1": 15,
+				"2": 15,
+				"3": 2
+			}
+		},
+		{
+			"name": "Gyakutenno Megami",
+			"count": 48,
+			"copies": {
+				"3": 16
+			}
+		},
+		{
+			"name": "Card Destruction",
+			"count": 48,
+			"copies": {
+				"1": 10,
+				"2": 19
+			}
+		},
+		{
+			"name": "De-Spell",
+			"count": 45,
+			"copies": {
+				"1": 43,
+				"2": 1
+			}
+		},
+		{
+			"name": "The Wicked Worm Beast",
+			"count": 18,
+			"copies": {
+				"1": 9,
+				"2": 3,
+				"3": 1
+			}
+		},
+		{
+			"name": "Ookazi",
+			"count": 15,
+			"copies": {
+				"3": 5
+			}
+		},
+		{
+			"name": "Just Desserts",
+			"count": 13,
+			"copies": {
+				"1": 1,
+				"3": 4
+			}
+		},
+		{
+			"name": "Last Will",
+			"count": 12,
+			"copies": {
+				"1": 2,
+				"2": 2,
+				"3": 2
+			}
+		},
+		{
+			"name": "Great White",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Final Flame",
+			"count": 10,
+			"copies": {
+				"1": 1,
+				"3": 3
+			}
+		},
+		{
+			"name": "Blue-Eyes White Dragon",
+			"count": 8,
+			"copies": {
+				"2": 1,
+				"3": 2
+			}
+		},
+		{
+			"name": "Stop Defense",
+			"count": 6,
+			"copies": {
+				"1": 4,
+				"2": 1
+			}
+		},
+		{
+			"name": "Lord of D.",
+			"count": 6,
+			"copies": {
+				"2": 3
+			}
+		},
+		{
+			"name": "The Flute of Summoning Dragon",
+			"count": 6,
+			"copies": {
+				"2": 3
+			}
+		},
+		{
+			"name": "Umi",
+			"count": 5,
+			"copies": {
+				"1": 3,
+				"2": 1
+			}
+		},
+		{
+			"name": "Sword of Dark Destruction",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Curse of Dragon",
+			"count": 4,
+			"copies": {
+				"1": 2,
+				"2": 1
+			}
+		},
+		{
+			"name": "Yami",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Hane-Hane",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Koumori Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Left Arm of the Forbidden One",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Left Leg of the Forbidden One",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Right Arm of the Forbidden One",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Right Leg of the Forbidden One",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Exodia the Forbidden One",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Castle Walls",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Reaper of the Cards",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "The Stern Mystic",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	],
+	"side": [
+		{
+			"name": "Waboku",
+			"count": 116,
+			"copies": {
+				"1": 15,
+				"2": 22,
+				"3": 19
+			}
+		},
+		{
+			"name": "Wall of Illusion",
+			"count": 112,
+			"copies": {
+				"1": 36,
+				"2": 17,
+				"3": 14
+			}
+		},
+		{
+			"name": "Card Destruction",
+			"count": 110,
+			"copies": {
+				"1": 28,
+				"2": 41
+			}
+		},
+		{
+			"name": "Just Desserts",
+			"count": 110,
+			"copies": {
+				"1": 6,
+				"2": 16,
+				"3": 24
+			}
+		},
+		{
+			"name": "Ookazi",
+			"count": 105,
+			"copies": {
+				"2": 15,
+				"3": 25
+			}
+		},
+		{
+			"name": "Judge Man",
+			"count": 103,
+			"copies": {
+				"1": 23,
+				"2": 37,
+				"3": 2
+			}
+		},
+		{
+			"name": "Trap Master",
+			"count": 103,
+			"copies": {
+				"1": 31,
+				"2": 21,
+				"3": 10
+			}
+		},
+		{
+			"name": "Soul Exchange",
+			"count": 88,
+			"copies": {
+				"1": 39,
+				"2": 8,
+				"3": 11
+			}
+		},
+		{
+			"name": "De-Spell",
+			"count": 78,
+			"copies": {
+				"1": 43,
+				"2": 16,
+				"3": 1
+			}
+		},
+		{
+			"name": "Reinforcements",
+			"count": 78,
+			"copies": {
+				"1": 3,
+				"2": 3,
+				"3": 23
+			}
+		},
+		{
+			"name": "Summoned Skull",
+			"count": 73,
+			"copies": {
+				"1": 11,
+				"2": 7,
+				"3": 16
+			}
+		},
+		{
+			"name": "Battle Ox",
+			"count": 71,
+			"copies": {
+				"1": 6,
+				"2": 7,
+				"3": 17
+			}
+		},
+		{
+			"name": "Stop Defense",
+			"count": 69,
+			"copies": {
+				"1": 8,
+				"2": 14,
+				"3": 11
+			}
+		},
+		{
+			"name": "Aqua Madoor",
+			"count": 64,
+			"copies": {
+				"1": 23,
+				"2": 10,
+				"3": 7
+			}
+		},
+		{
+			"name": "Neo the Magic Swordsman",
+			"count": 60,
+			"copies": {
+				"2": 3,
+				"3": 18
+			}
+		},
+		{
+			"name": "The Wicked Worm Beast",
+			"count": 56,
+			"copies": {
+				"1": 23,
+				"2": 12,
+				"3": 3
+			}
+		},
+		{
+			"name": "Ultimate Offering",
+			"count": 49,
+			"copies": {
+				"1": 37,
+				"2": 6
+			}
+		},
+		{
+			"name": "La Jinn the Mystical Genie of the Lamp",
+			"count": 47,
+			"copies": {
+				"2": 1,
+				"3": 15
+			}
+		},
+		{
+			"name": "Mystical Elf",
+			"count": 37,
+			"copies": {
+				"1": 3,
+				"2": 5,
+				"3": 8
+			}
+		},
+		{
+			"name": "Great White",
+			"count": 36,
+			"copies": {
+				"3": 12
+			}
+		},
+		{
+			"name": "Remove Trap",
+			"count": 32,
+			"copies": {
+				"1": 15,
+				"2": 7,
+				"3": 1
+			}
+		},
+		{
+			"name": "Dragon Capture Jar",
+			"count": 31,
+			"copies": {
+				"1": 3,
+				"2": 5,
+				"3": 6
+			}
+		},
+		{
+			"name": "Hane-Hane",
+			"count": 27,
+			"copies": {
+				"1": 12,
+				"2": 6,
+				"3": 1
+			}
+		},
+		{
+			"name": "Giant Soldier of Stone",
+			"count": 23,
+			"copies": {
+				"1": 8,
+				"2": 6,
+				"3": 1
+			}
+		},
+		{
+			"name": "Reaper of the Cards",
+			"count": 18,
+			"copies": {
+				"1": 7,
+				"2": 4,
+				"3": 1
+			}
+		},
+		{
+			"name": "Swords of Revealing Light",
+			"count": 17,
+			"copies": {
+				"1": 7,
+				"2": 5
+			}
+		},
+		{
+			"name": "Last Will",
+			"count": 16,
+			"copies": {
+				"1": 4,
+				"2": 3,
+				"3": 2
+			}
+		},
+		{
+			"name": "Reverse Trap",
+			"count": 15,
+			"copies": {
+				"1": 2,
+				"2": 2,
+				"3": 3
+			}
+		},
+		{
+			"name": "Armed Ninja",
+			"count": 13,
+			"copies": {
+				"1": 5,
+				"2": 4
+			}
+		},
+		{
+			"name": "Gyakutenno Megami",
+			"count": 12,
+			"copies": {
+				"1": 2,
+				"2": 2,
+				"3": 2
+			}
+		},
+		{
+			"name": "Spirit of the Harp",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Umi",
+			"count": 8,
+			"copies": {
+				"1": 6,
+				"2": 1
+			}
+		},
+		{
+			"name": "Final Flame",
+			"count": 8,
+			"copies": {
+				"1": 2,
+				"3": 2
+			}
+		},
+		{
+			"name": "Castle Walls",
+			"count": 5,
+			"copies": {
+				"1": 2,
+				"3": 1
+			}
+		},
+		{
+			"name": "Yami",
+			"count": 4,
+			"copies": {
+				"1": 2,
+				"2": 1
+			}
+		},
+		{
+			"name": "Invigoration",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Dian Keto the Cure Master",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Ryu-Kishin Powered",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Blue-Eyes White Dragon",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "The Flute of Summoning Dragon",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Fissure",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Dragon Zombie",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Forest",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Two-Pronged Attack",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Lord of D.",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Change of Heart",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Trap Hole",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Wasteland",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Petit Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sparks",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "The Stern Mystic",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Destroyer Golem",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Curse of Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	],
+	"extra": [
+		{
+			"name": "Metal Dragon",
+			"count": 176,
+			"copies": {
+				"1": 2,
+				"2": 3,
+				"3": 56
+			}
+		},
+		{
+			"name": "Flower Wolf",
+			"count": 141,
+			"copies": {
+				"1": 3,
+				"2": 15,
+				"3": 36
+			}
+		},
+		{
+			"name": "Gaia the Dragon Champion",
+			"count": 125,
+			"copies": {
+				"1": 8,
+				"2": 3,
+				"3": 37
+			}
+		},
+		{
+			"name": "Fusionist",
+			"count": 118,
+			"copies": {
+				"1": 7,
+				"2": 12,
+				"3": 29
+			}
+		},
+		{
+			"name": "Flame Swordsman",
+			"count": 107,
+			"copies": {
+				"1": 2,
+				"2": 15,
+				"3": 25
+			}
+		},
+		{
+			"name": "Darkfire Dragon",
+			"count": 95,
+			"copies": {
+				"1": 6,
+				"2": 13,
+				"3": 21
+			}
+		},
+		{
+			"name": "Dragoness the Wicked Knight",
+			"count": 88,
+			"copies": {
+				"1": 18,
+				"2": 2,
+				"3": 22
+			}
+		},
+		{
+			"name": "Flame Ghost",
+			"count": 71,
+			"copies": {
+				"1": 8,
+				"2": 12,
+				"3": 13
+			}
+		},
+		{
+			"name": "Karbonala Warrior",
+			"count": 69,
+			"copies": {
+				"1": 18,
+				"3": 17
+			}
+		},
+		{
+			"name": "Charubin the Fire Knight",
+			"count": 25,
+			"copies": {
+				"1": 7,
+				"3": 6
+			}
+		}
+	],
+	"total": [
+		{
+			"name": "Man-Eater Bug",
+			"count": 369,
+			"copies": {
+				"3": 123
+			}
+		},
+		{
+			"name": "Fissure",
+			"count": 369,
+			"copies": {
+				"3": 123
+			}
+		},
+		{
+			"name": "Trap Hole",
+			"count": 369,
+			"copies": {
+				"3": 123
+			}
+		},
+		{
+			"name": "La Jinn the Mystical Genie of the Lamp",
+			"count": 366,
+			"copies": {
+				"3": 122
+			}
+		},
+		{
+			"name": "Reinforcements",
+			"count": 361,
+			"copies": {
+				"2": 2,
+				"3": 119
+			}
+		},
+		{
+			"name": "Neo the Magic Swordsman",
+			"count": 358,
+			"copies": {
+				"2": 5,
+				"3": 116
+			}
+		},
+		{
+			"name": "Giant Soldier of Stone",
+			"count": 356,
+			"copies": {
+				"1": 1,
+				"2": 5,
+				"3": 115
+			}
+		},
+		{
+			"name": "Waboku",
+			"count": 349,
+			"copies": {
+				"2": 11,
+				"3": 109
+			}
+		},
+		{
+			"name": "Battle Ox",
+			"count": 343,
+			"copies": {
+				"1": 3,
+				"2": 5,
+				"3": 110
+			}
+		},
+		{
+			"name": "Summoned Skull",
+			"count": 334,
+			"copies": {
+				"1": 6,
+				"2": 2,
+				"3": 108
+			}
+		},
+		{
+			"name": "Soul Exchange",
+			"count": 297,
+			"copies": {
+				"2": 39,
+				"3": 73
+			}
+		},
+		{
+			"name": "Wall of Illusion",
+			"count": 258,
+			"copies": {
+				"1": 17,
+				"2": 32,
+				"3": 59
+			}
+		},
+		{
+			"name": "Swords of Revealing Light",
+			"count": 240,
+			"copies": {
+				"2": 120
+			}
+		},
+		{
+			"name": "Ultimate Offering",
+			"count": 200,
+			"copies": {
+				"1": 26,
+				"2": 42,
+				"3": 30
+			}
+		},
+		{
+			"name": "Aqua Madoor",
+			"count": 176,
+			"copies": {
+				"1": 22,
+				"2": 11,
+				"3": 44
+			}
+		},
+		{
+			"name": "Card Destruction",
+			"count": 158,
+			"copies": {
+				"1": 24,
+				"2": 67
+			}
+		},
+		{
+			"name": "Trap Master",
+			"count": 156,
+			"copies": {
+				"1": 36,
+				"2": 27,
+				"3": 22
+			}
+		},
+		{
+			"name": "Judge Man",
+			"count": 154,
+			"copies": {
+				"1": 14,
+				"2": 49,
+				"3": 14
+			}
+		},
+		{
+			"name": "Change of Heart",
+			"count": 123,
+			"copies": {
+				"1": 123
+			}
+		},
+		{
+			"name": "Dark Hole",
+			"count": 123,
+			"copies": {
+				"1": 123
+			}
+		},
+		{
+			"name": "Monster Reborn",
+			"count": 123,
+			"copies": {
+				"1": 123
+			}
+		},
+		{
+			"name": "Pot of Greed",
+			"count": 123,
+			"copies": {
+				"1": 123
+			}
+		},
+		{
+			"name": "Raigeki",
+			"count": 123,
+			"copies": {
+				"1": 123
+			}
+		},
+		{
+			"name": "De-Spell",
+			"count": 123,
+			"copies": {
+				"1": 63,
+				"2": 21,
+				"3": 6
+			}
+		},
+		{
+			"name": "Just Desserts",
+			"count": 123,
+			"copies": {
+				"1": 6,
+				"2": 15,
+				"3": 29
+			}
+		},
+		{
+			"name": "Ookazi",
+			"count": 120,
+			"copies": {
+				"2": 15,
+				"3": 30
+			}
+		},
+		{
+			"name": "Mystical Elf",
+			"count": 93,
+			"copies": {
+				"1": 3,
+				"2": 3,
+				"3": 28
+			}
+		},
+		{
+			"name": "Stop Defense",
+			"count": 75,
+			"copies": {
+				"1": 7,
+				"2": 16,
+				"3": 12
+			}
+		},
+		{
+			"name": "The Wicked Worm Beast",
+			"count": 74,
+			"copies": {
+				"1": 28,
+				"2": 14,
+				"3": 6
+			}
+		},
+		{
+			"name": "Spirit of the Harp",
+			"count": 62,
+			"copies": {
+				"2": 1,
+				"3": 20
+			}
+		},
+		{
+			"name": "Gyakutenno Megami",
+			"count": 60,
+			"copies": {
+				"1": 2,
+				"2": 2,
+				"3": 18
+			}
+		},
+		{
+			"name": "Great White",
+			"count": 48,
+			"copies": {
+				"3": 16
+			}
+		},
+		{
+			"name": "Remove Trap",
+			"count": 32,
+			"copies": {
+				"1": 15,
+				"2": 7,
+				"3": 1
+			}
+		},
+		{
+			"name": "Dragon Capture Jar",
+			"count": 31,
+			"copies": {
+				"1": 3,
+				"2": 5,
+				"3": 6
+			}
+		},
+		{
+			"name": "Hane-Hane",
+			"count": 30,
+			"copies": {
+				"1": 15,
+				"2": 6,
+				"3": 1
+			}
+		},
+		{
+			"name": "Last Will",
+			"count": 28,
+			"copies": {
+				"1": 6,
+				"2": 5,
+				"3": 4
+			}
+		},
+		{
+			"name": "Reaper of the Cards",
+			"count": 19,
+			"copies": {
+				"1": 6,
+				"2": 5,
+				"3": 1
+			}
+		},
+		{
+			"name": "Final Flame",
+			"count": 18,
+			"copies": {
+				"1": 1,
+				"2": 1,
+				"3": 5
+			}
+		},
+		{
+			"name": "Reverse Trap",
+			"count": 15,
+			"copies": {
+				"1": 2,
+				"2": 2,
+				"3": 3
+			}
+		},
+		{
+			"name": "Umi",
+			"count": 13,
+			"copies": {
+				"1": 7,
+				"2": 3
+			}
+		},
+		{
+			"name": "Armed Ninja",
+			"count": 13,
+			"copies": {
+				"1": 5,
+				"2": 4
+			}
+		},
+		{
+			"name": "Blue-Eyes White Dragon",
+			"count": 11,
+			"copies": {
+				"2": 1,
+				"3": 3
+			}
+		},
+		{
+			"name": "The Flute of Summoning Dragon",
+			"count": 9,
+			"copies": {
+				"2": 3,
+				"3": 1
+			}
+		},
+		{
+			"name": "Lord of D.",
+			"count": 8,
+			"copies": {
+				"2": 4
+			}
+		},
+		{
+			"name": "Yami",
+			"count": 7,
+			"copies": {
+				"1": 5,
+				"2": 1
+			}
+		},
+		{
+			"name": "Castle Walls",
+			"count": 6,
+			"copies": {
+				"1": 3,
+				"3": 1
+			}
+		},
+		{
+			"name": "Curse of Dragon",
+			"count": 5,
+			"copies": {
+				"1": 3,
+				"2": 1
+			}
+		},
+		{
+			"name": "Sword of Dark Destruction",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Invigoration",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Dian Keto the Cure Master",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Ryu-Kishin Powered",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Dragon Zombie",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "The Stern Mystic",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Forest",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Two-Pronged Attack",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Koumori Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Left Arm of the Forbidden One",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Left Leg of the Forbidden One",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Right Arm of the Forbidden One",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Right Leg of the Forbidden One",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Exodia the Forbidden One",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Wasteland",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Petit Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sparks",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Destroyer Golem",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	]
+}

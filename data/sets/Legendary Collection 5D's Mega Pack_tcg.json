@@ -1,0 +1,770 @@
+{
+  "Sonic Chick": [
+    "C"
+  ],
+  "Junk Synchron": [
+    "ScR"
+  ],
+  "Speed Warrior": [
+    "C"
+  ],
+  "Nitro Synchron": [
+    "C"
+  ],
+  "Quillbolt Hedgehog": [
+    "ScR"
+  ],
+  "Turbo Synchron": [
+    "C"
+  ],
+  "Tuningware": [
+    "ScR"
+  ],
+  "Turret Warrior": [
+    "R"
+  ],
+  "Debris Dragon": [
+    "ScR"
+  ],
+  "Hyper Synchron": [
+    "C"
+  ],
+  "Road Synchron": [
+    "C"
+  ],
+  "Majestic Dragon": [
+    "C"
+  ],
+  "Quickdraw Synchron": [
+    "UR"
+  ],
+  "Level Eater": [
+    "R"
+  ],
+  "Drill Synchron": [
+    "SR"
+  ],
+  "Shield Wing": [
+    "R"
+  ],
+  "Synchron Explorer": [
+    "UR"
+  ],
+  "Effect Veiler": [
+    "C"
+  ],
+  "Bri Synchron": [
+    "C"
+  ],
+  "Doppelwarrior": [
+    "SR"
+  ],
+  "Junk Servant": [
+    "C"
+  ],
+  "Unknown Synchron": [
+    "ScR"
+  ],
+  "Junk Defender": [
+    "C"
+  ],
+  "Junk Forward": [
+    "C"
+  ],
+  "Junk Blader": [
+    "C"
+  ],
+  "Mono Synchron": [
+    "R"
+  ],
+  "Steam Synchron": [
+    "R"
+  ],
+  "Dragon Knight Draco-Equiste": [
+    "R"
+  ],
+  "Junk Warrior": [
+    "SR"
+  ],
+  "Colossal Fighter": [
+    "ScR"
+  ],
+  "Stardust Dragon": [
+    "C,UR"
+  ],
+  "Nitro Warrior": [
+    "C"
+  ],
+  "Turbo Warrior": [
+    "C"
+  ],
+  "Armory Arm": [
+    "ScR"
+  ],
+  "Road Warrior": [
+    "C"
+  ],
+  "Majestic Star Dragon": [
+    "SR"
+  ],
+  "Junk Archer": [
+    "SR"
+  ],
+  "Drill Warrior": [
+    "ScR"
+  ],
+  "Junk Destroyer": [
+    "SR"
+  ],
+  "Shooting Star Dragon": [
+    "SR"
+  ],
+  "Formula Synchron": [
+    "ScR"
+  ],
+  "Lightning Warrior": [
+    "UR"
+  ],
+  "Junk Berserker": [
+    "SR"
+  ],
+  "Junk Barrage": [
+    "C"
+  ],
+  "One for One": [
+    "UR"
+  ],
+  "Silver Wing": [
+    "C"
+  ],
+  "Advance Draw": [
+    "UR"
+  ],
+  "Cards of Consonance": [
+    "UR"
+  ],
+  "Tuning": [
+    "C"
+  ],
+  "Battle Waltz": [
+    "C"
+  ],
+  "Scrap-Iron Scarecrow": [
+    "UR"
+  ],
+  "Graceful Revival": [
+    "C"
+  ],
+  "Urgent Tuning": [
+    "C"
+  ],
+  "Spirit Force": [
+    "C"
+  ],
+  "Descending Lost Star": [
+    "C"
+  ],
+  "Starlight Road": [
+    "UR"
+  ],
+  "Dark Resonator": [
+    "C"
+  ],
+  "Trap Eater": [
+    "UR"
+  ],
+  "Vice Dragon": [
+    "C"
+  ],
+  "Strong Wind Dragon": [
+    "R"
+  ],
+  "Battle Fader": [
+    "ScR"
+  ],
+  "Flare Resonator": [
+    "C"
+  ],
+  "Power Breaker": [
+    "R"
+  ],
+  "Extra Veiler": [
+    "C"
+  ],
+  "Creation Resonator": [
+    "C"
+  ],
+  "Barrier Resonator": [
+    "C"
+  ],
+  "Force Resonator": [
+    "C"
+  ],
+  "Clock Resonator": [
+    "C"
+  ],
+  "Red Dragon Archfiend": [
+    "C,UR"
+  ],
+  "Exploder Dragonwing": [
+    "R"
+  ],
+  "Majestic Red Dragon": [
+    "SR"
+  ],
+  "Chaos King Archfiend": [
+    "SR"
+  ],
+  "Red Nova Dragon": [
+    "SR"
+  ],
+  "Crimson Blader": [
+    "ScR"
+  ],
+  "Resonator Engine": [
+    "C"
+  ],
+  "Scarlet Security": [
+    "SR"
+  ],
+  "Red Dragon Vase": [
+    "R"
+  ],
+  "Resonator Call": [
+    "C"
+  ],
+  "Resonant Destruction": [
+    "C"
+  ],
+  "Crimson Fire": [
+    "R"
+  ],
+  "Changing Destiny": [
+    "C"
+  ],
+  "Fiendish Chain": [
+    "ScR"
+  ],
+  "Red Screen": [
+    "C"
+  ],
+  "Red Carpet": [
+    "C"
+  ],
+  "Twilight Rose Knight": [
+    "C"
+  ],
+  "Violet Witch": [
+    "R"
+  ],
+  "Dark Verger": [
+    "C"
+  ],
+  "Rose Tentacles": [
+    "R"
+  ],
+  "Hedge Guard": [
+    "UR"
+  ],
+  "Evil Thorn": [
+    "C"
+  ],
+  "Rose Fairy": [
+    "C"
+  ],
+  "Glow-Up Bulb": [
+    "ScR"
+  ],
+  "Blue Rose Dragon": [
+    "SR"
+  ],
+  "Fallen Angel of Roses": [
+    "UR"
+  ],
+  "Rosaria, the Stately Fallen Angel": [
+    "UR"
+  ],
+  "Queen Angel of Roses": [
+    "UR"
+  ],
+  "Rose Witch": [
+    "C"
+  ],
+  "Rose Archer": [
+    "SR"
+  ],
+  "Black Rose Dragon": [
+    "C"
+  ],
+  "Splendid Rose": [
+    "R"
+  ],
+  "Black Garden": [
+    "ScR"
+  ],
+  "Fragrance Storm": [
+    "UR"
+  ],
+  "Thorn of Malice": [
+    "C"
+  ],
+  "Magic Planter": [
+    "UR"
+  ],
+  "Ivy Shackles": [
+    "C"
+  ],
+  "Overdoom Line": [
+    "C"
+  ],
+  "Wicked Rebirth": [
+    "C"
+  ],
+  "Blossom Bombardment": [
+    "C"
+  ],
+  "Star Siphon": [
+    "C"
+  ],
+  "Blackwing - Gale the Whirlwind": [
+    "UR"
+  ],
+  "Blackwing - Bora the Spear": [
+    "UR"
+  ],
+  "Blackwing - Sirocco the Dawn": [
+    "UR"
+  ],
+  "Blackwing - Blizzard the Far North": [
+    "UR"
+  ],
+  "Blackwing - Shura the Blue Flame": [
+    "UR"
+  ],
+  "Blackwing - Kalut the Moon Shadow": [
+    "UR"
+  ],
+  "Blackwing - Elphin the Raven": [
+    "C"
+  ],
+  "Blackwing - Mistral the Silver Shield": [
+    "C"
+  ],
+  "Blackwing - Vayu the Emblem of Honor": [
+    "ScR"
+  ],
+  "Blackwing - Fane the Steel Chain": [
+    "C"
+  ],
+  "Blackwing - Ghibli the Searing Wind": [
+    "C"
+  ],
+  "Blackwing - Gust the Backblast": [
+    "C"
+  ],
+  "Blackwing - Breeze the Zephyr": [
+    "C"
+  ],
+  "Blackwing - Etesian of Two Swords": [
+    "C"
+  ],
+  "Blackwing - Aurora the Northern Lights": [
+    "C"
+  ],
+  "Blackwing - Abrolhos the Megaquake": [
+    "C"
+  ],
+  "Blackwing - Boreas the Sharp": [
+    "C"
+  ],
+  "Blackwing - Brisote the Tailwind": [
+    "C"
+  ],
+  "Blackwing - Calima the Haze": [
+    "C"
+  ],
+  "Blackwing - Kogarashi the Wanderer": [
+    "C"
+  ],
+  "Blackwing - Kochi the Daybreak": [
+    "C"
+  ],
+  "Blackwing - Gladius the Midnight Sun": [
+    "UR"
+  ],
+  "Blackwing Armor Master": [
+    "ScR"
+  ],
+  "Blackwing Armed Wing": [
+    "UR"
+  ],
+  "Blackwing - Silverwind the Ascendant": [
+    "SR"
+  ],
+  "Black-Winged Dragon": [
+    "C,UR"
+  ],
+  "De-Synchro": [
+    "SR"
+  ],
+  "Raptor Wing Strike": [
+    "C"
+  ],
+  "Black Whirlwind": [
+    "UR"
+  ],
+  "Cards for Black Feathers": [
+    "R"
+  ],
+  "Delta Crow - Anti Reverse": [
+    "ScR"
+  ],
+  "Trap Stun": [
+    "ScR"
+  ],
+  "Blackwing - Backlash": [
+    "C"
+  ],
+  "Blackback": [
+    "C"
+  ],
+  "Blackboost": [
+    "C"
+  ],
+  "Black Return": [
+    "C"
+  ],
+  "Earthbound Immortal Aslla piscu": [
+    "SR"
+  ],
+  "Earthbound Immortal Ccapac Apu": [
+    "SR"
+  ],
+  "Earthbound Immortal Cusillu": [
+    "SR"
+  ],
+  "Earthbound Immortal Chacu Challhua": [
+    "SR"
+  ],
+  "Earthbound Immortal Wiraqocha Rasca": [
+    "SR"
+  ],
+  "Earthbound Immortal Ccarayhua": [
+    "SR"
+  ],
+  "Earthbound Immortal Uru": [
+    "SR"
+  ],
+  "Earthbound Linewalker": [
+    "SR"
+  ],
+  "Hundred Eyes Dragon": [
+    "SR"
+  ],
+  "Earthbound Whirlwind": [
+    "R"
+  ],
+  "Earthbound Immortal Revival": [
+    "C"
+  ],
+  "Revival of the Immortals": [
+    "C"
+  ],
+  "Earthbound Wave": [
+    "R"
+  ],
+  "Roar of the Earthbound Immortal": [
+    "C"
+  ],
+  "Offering to the Immortals": [
+    "C"
+  ],
+  "Meklord Astro Mekanikle": [
+    "ScR"
+  ],
+  "Meklord Emperor Granel": [
+    "SR"
+  ],
+  "Meklord Army of Wisel": [
+    "R"
+  ],
+  "Meklord Army of Skiel": [
+    "R"
+  ],
+  "Meklord Army of Granel": [
+    "C"
+  ],
+  "Meklord Astro Dragon Asterisk": [
+    "ScR"
+  ],
+  "Meklord Emperor Skiel": [
+    "SR"
+  ],
+  "Meklord Emperor Wisel": [
+    "SR"
+  ],
+  "Fortissimo the Mobile Fortress": [
+    "C"
+  ],
+  "Boon of the Meklord Emperor": [
+    "C"
+  ],
+  "The Resolute Meklord Army": [
+    "C"
+  ],
+  "Reboot": [
+    "C"
+  ],
+  "Meklord Fortress": [
+    "SR"
+  ],
+  "Chaos Infinity": [
+    "SR"
+  ],
+  "Mektimed Blast": [
+    "C"
+  ],
+  "Meklord Factory": [
+    "SR"
+  ],
+  "Tanngrisnir of the Nordic Beasts": [
+    "ScR"
+  ],
+  "Guldfaxe of the Nordic Beasts": [
+    "ScR"
+  ],
+  "Garmr of the Nordic Beasts": [
+    "C"
+  ],
+  "Tanngnjostr of the Nordic Beasts": [
+    "ScR"
+  ],
+  "Ljosalf of the Nordic Alfar": [
+    "C"
+  ],
+  "Svartalf of the Nordic Alfar": [
+    "UR"
+  ],
+  "Dverg of the Nordic Alfar": [
+    "ScR"
+  ],
+  "Valkyrie of the Nordic Ascendant": [
+    "ScR"
+  ],
+  "Mimir of the Nordic Ascendant": [
+    "C"
+  ],
+  "Tyr of the Nordic Champions": [
+    "C"
+  ],
+  "Vanadis of the Nordic Ascendant": [
+    "UR"
+  ],
+  "Mara of the Nordic Alfar": [
+    "C"
+  ],
+  "Thor, Lord of the Aesir": [
+    "ScR"
+  ],
+  "Loki, Lord of the Aesir": [
+    "ScR"
+  ],
+  "Odin, Father of the Aesir": [
+    "ScR"
+  ],
+  "Nordic Relic Draupnir": [
+    "R"
+  ],
+  "Gotterdammerung": [
+    "C"
+  ],
+  "March Towards Ragnarok": [
+    "C"
+  ],
+  "The Nordic Lights": [
+    "C"
+  ],
+  "Divine Relic Mjollnir": [
+    "R"
+  ],
+  "Solemn Authority": [
+    "C"
+  ],
+  "Nordic Relic Brisingamen": [
+    "R"
+  ],
+  "Nordic Relic Laevateinn": [
+    "R"
+  ],
+  "Nordic Relic Gungnir": [
+    "UR"
+  ],
+  "The Golden Apples": [
+    "R"
+  ],
+  "Odin's Eye": [
+    "C"
+  ],
+  "Gleipnir, the Fetters of Fenrir": [
+    "ScR"
+  ],
+  "Nordic Relic Megingjord": [
+    "R"
+  ],
+  "T.G. Cyber Magician": [
+    "ScR"
+  ],
+  "T.G. Striker": [
+    "UR"
+  ],
+  "T.G. Jet Falcon": [
+    "C"
+  ],
+  "T.G. Catapult Dragon": [
+    "C"
+  ],
+  "T.G. Warwolf": [
+    "ScR"
+  ],
+  "T.G. Rush Rhino": [
+    "UR"
+  ],
+  "T.G. Hyper Librarian": [
+    "ScR"
+  ],
+  "T.G. Recipro Dragonfly": [
+    "C"
+  ],
+  "T.G. Wonder Magician": [
+    "ScR"
+  ],
+  "T.G. Power Gladiator": [
+    "C"
+  ],
+  "T.G. Blade Blaster": [
+    "SR"
+  ],
+  "T.G. Halberd Cannon": [
+    "SR"
+  ],
+  "TGX1-HL": [
+    "UR"
+  ],
+  "TGX300": [
+    "C"
+  ],
+  "TGX3-DX2": [
+    "UR"
+  ],
+  "TG-SX1": [
+    "C"
+  ],
+  "TG1-EM1": [
+    "ScR"
+  ],
+  "Black Salvo": [
+    "C"
+  ],
+  "Oracle of the Sun": [
+    "C"
+  ],
+  "Fire Ant Ascator": [
+    "R"
+  ],
+  "Supay": [
+    "R"
+  ],
+  "Super-Nimble Mega Hamster": [
+    "ScR"
+  ],
+  "Maxx \"C\"": [
+    "UR"
+  ],
+  "Metaion, the Timelord": [
+    "SR"
+  ],
+  "Sephylon, the Ultimate Timelord": [
+    "SR"
+  ],
+  "Avenging Knight Parshath": [
+    "C"
+  ],
+  "Goyo Guardian": [
+    "SR"
+  ],
+  "Magical Android": [
+    "UR"
+  ],
+  "Thought Ruler Archfiend": [
+    "ScR"
+  ],
+  "Dark Strike Fighter": [
+    "C"
+  ],
+  "Hyper Psychic Blaster": [
+    "R"
+  ],
+  "Power Tool Dragon": [
+    "C"
+  ],
+  "Trident Dragion": [
+    "ScR"
+  ],
+  "Ancient Fairy Dragon": [
+    "C,UR"
+  ],
+  "Ancient Sacred Wyvern": [
+    "ScR"
+  ],
+  "Mist Wurm": [
+    "UR"
+  ],
+  "Sun Dragon Inti": [
+    "C"
+  ],
+  "Moon Dragon Quilla": [
+    "C"
+  ],
+  "Stygian Sergeants": [
+    "ScR"
+  ],
+  "Naturia Beast": [
+    "UR"
+  ],
+  "Naturia Barkion": [
+    "UR"
+  ],
+  "Life Stream Dragon": [
+    "C"
+  ],
+  "Orient Dragon": [
+    "UR"
+  ],
+  "Driven Daredevil": [
+    "R"
+  ],
+  "Vulcan the Divine": [
+    "ScR"
+  ],
+  "Synch Blast Wave": [
+    "C"
+  ],
+  "Emergency Teleport": [
+    "ScR"
+  ],
+  "Savage Colosseum": [
+    "C"
+  ],
+  "Vanity's Emptiness": [
+    "ScR"
+  ],
+  "Roaring Earth": [
+    "C"
+  ],
+  "Debunk": [
+    "ScR"
+  ],
+  "Full House": [
+    "ScR"
+  ]
+}

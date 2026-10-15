@@ -1,0 +1,492 @@
+{
+  "Rocket Arrow Express": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Night Express Knight": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Super Express Bullet Train": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Heavy Freight Train Derricrane": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Snow Plow Hustle Rustle": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Lionhearted Locomotive": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Ruffian Railcar": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Express Train Trolley Olley": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Flying Pegasus Railroad Stampede": [
+    "NPR, UR, UtR, ScR",
+    "NPR, UR, PScR"
+  ],
+  "Construction Train Signal Red": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Superdreadnought Rail Cannon Gustav Max": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Number 81: Superdreadnought Rail Cannon Super Dora": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Superdreadnought Rail Cannon Juggernaut Liebe": [
+    "NPR, UR, UtR, ScR",
+    "NPR, UR, PScR"
+  ],
+  "Heavy Armored Train Ironwolf": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Double Headed Anger Knuckle": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Special Schedule": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Train Connection": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Revolving Switchyard": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Urgent Schedule": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Barrage Blast": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Aleister the Invoker": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Invoked Caliga": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Invoked Raidjin": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Invoked Cocytus": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Invoked Purgatrio": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Invoked Magellanica": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Invoked Mechaba": [
+    "NPR, UR, UtR, ScR",
+    "NPR, UR, PScR"
+  ],
+  "Invoked Elysium": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Invoked Augoeides": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Aleister the Invoker of Madness": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Magical Meltdown": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Invocation": [
+    "NPR, UR, UtR, ScR",
+    "NPR, UR, PScR"
+  ],
+  "The Book of the Law": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Omega Summon": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Sky Striker Ace - Raye": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Sky Striker Ace - Roze": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Surgical Striker - H.A.M.P.": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Sky Striker Ace - Kagari": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Sky Striker Ace - Shizuku": [
+    "NPR, UR, UtR, ScR",
+    "NPR, UR, PScR"
+  ],
+  "Sky Striker Ace - Hayate": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Sky Striker Ace - Kaina": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Sky Striker Ace - Zeke": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Sky Striker Mobilize - Engage!": [
+    "NPR, UR, UtR, ScR",
+    "NPR, UR, PScR"
+  ],
+  "Sky Striker Maneuver - Afterburners!": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Sky Striker Maneuver - Jamming Waves!": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Sky Striker Mecha - Hornet Drones": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Sky Striker Mecha - Widow Anchor": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Sky Striker Mecha - Eagle Booster": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Sky Striker Mecha - Shark Cannon": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Sky Striker Mecharmory - Hercules Base": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Sky Striker Mecha Modules - Multirole": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Sky Striker Airspace - Area Zero": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Sky Striker Maneuver - Vector Blast": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Sky Striker Maneuver - Scissors Cross": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Sky Striker Mobilize - Linkage!": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Nurse Dragonmaid": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Dragonmaid Ernus": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Laundry Dragonmaid": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Dragonmaid Nudyarl": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Kitchen Dragonmaid": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Dragonmaid Tinkhec": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Parlor Dragonmaid": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Dragonmaid Lorpar": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Chamber Dragonmaid": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "House Dragonmaid": [
+    "NPR, UR, UtR, ScR",
+    "NPR, UR, PScR"
+  ],
+  "Dragonmaid Sheou": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Dragonmaid Hospitality": [
+    "NPR, UR, UtR, ScR",
+    "NPR, UR, PScR"
+  ],
+  "Dragonmaid Welcome": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Dragonmaid Changeover": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Dragonmaid Send-Off": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Dragonmaid Tidying": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Dragonmaid Downtime": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Laundry Trap": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Live☆Twin Ki-sikil": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Live☆Twin Lil-la": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Live☆Twin Ki-sikil Frost": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Live☆Twin Lil-la Treat": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Evil★Twins Ki-sikil & Lil-la": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Evil★Twin Ki-sikil": [
+    "NPR, UR, UtR, ScR",
+    "NPR, UR, PScR"
+  ],
+  "Evil★Twin Lil-la": [
+    "NPR, UR, UtR, ScR",
+    "NPR, UR, PScR"
+  ],
+  "Evil★Twin's Trouble Sunny": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Live☆Twin Home": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Live☆Twin Channel": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Secret Password": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Live☆Twin Sunny's Snitch": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Evil★Twin Challenge": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Evil★Twin GG EZ": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Evil★Twin Present": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Boo-Boo Game": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Skypalace Gangaridai": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Sky Cavalry Centaurea": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Unchained Abomination": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Knightmare Phoenix": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Hieratic Seal of the Heavenly Spheres": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Upstart Goblin": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Switch Point": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Alpha Summon": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Red Arrows": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Sweet Roommaid": [
+    "C",
+    "SR",
+    "ScR"
+  ],
+  "Lil-la Rap": [
+    "C",
+    "SR",
+    "ScR"
+  ]
+}

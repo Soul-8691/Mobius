@@ -1,0 +1,920 @@
+{
+  "Dark Magician": [
+    "ScR"
+  ],
+  "Gaia The Fierce Knight": [
+    "SR"
+  ],
+  "Celtic Guardian": [
+    "SR"
+  ],
+  "Silver Fang": [
+    "UR"
+  ],
+  "Mystical Elf": [
+    "C"
+  ],
+  "Curse of Dragon": [
+    "R"
+  ],
+  "Giant Soldier of Stone": [
+    "C"
+  ],
+  "Feral Imp": [
+    "C"
+  ],
+  "Winged Dragon, Guardian of the Fortress #1": [
+    "UR"
+  ],
+  "Summoned Skull": [
+    "SR"
+  ],
+  "Gazelle the King of Mythical Beasts": [
+    "UR"
+  ],
+  "Alpha The Magnet Warrior": [
+    "C"
+  ],
+  "Beta The Magnet Warrior": [
+    "C"
+  ],
+  "Gamma The Magnet Warrior": [
+    "C"
+  ],
+  "Queen's Knight": [
+    "UR"
+  ],
+  "Jack's Knight": [
+    "UR"
+  ],
+  "King's Knight": [
+    "UR"
+  ],
+  "Kuriboh": [
+    "SR"
+  ],
+  "Catapult Turtle": [
+    "R"
+  ],
+  "Buster Blader": [
+    "ScR"
+  ],
+  "Valkyrion the Magna Warrior": [
+    "SR"
+  ],
+  "Dark Magician Girl": [
+    "ScR"
+  ],
+  "Breaker the Magical Warrior": [
+    "UR"
+  ],
+  "Mirage Knight": [
+    "C"
+  ],
+  "Black Luster Soldier - Envoy of the Beginning": [
+    "ScR"
+  ],
+  "Dark Magician of Chaos": [
+    "ScR"
+  ],
+  "Dark Sage": [
+    "C"
+  ],
+  "Dark Magician Knight": [
+    "C"
+  ],
+  "Sorcerer of Dark Magic": [
+    "C"
+  ],
+  "Watapon": [
+    "C"
+  ],
+  "Swift Gaia the Fierce Knight": [
+    "C"
+  ],
+  "Big Shield Gardna": [
+    "ScR"
+  ],
+  "Silent Swordsman LV3": [
+    "C"
+  ],
+  "Silent Swordsman LV5": [
+    "C"
+  ],
+  "Silent Swordsman LV7": [
+    "C"
+  ],
+  "Obnoxious Celtic Guard": [
+    "C"
+  ],
+  "Silent Magician LV4": [
+    "C"
+  ],
+  "Silent Magician LV8": [
+    "C"
+  ],
+  "Green Gadget": [
+    "UR"
+  ],
+  "Red Gadget": [
+    "UR"
+  ],
+  "Yellow Gadget": [
+    "UR"
+  ],
+  "Archfiend of Gilfer": [
+    "R"
+  ],
+  "The Tricky": [
+    "C"
+  ],
+  "Gorz the Emissary of Darkness": [
+    "UR"
+  ],
+  "Berfomet": [
+    "SR"
+  ],
+  "Black Luster Soldier": [
+    "C"
+  ],
+  "Magician of Black Chaos": [
+    "C"
+  ],
+  "Dark Paladin": [
+    "ScR"
+  ],
+  "Dark Flare Knight": [
+    "C"
+  ],
+  "Dragon Master Knight": [
+    "SR"
+  ],
+  "Arcana Knight Joker": [
+    "ScR"
+  ],
+  "Chimera the Flying Mythical Beast": [
+    "SR"
+  ],
+  "Dark Hole": [
+    "ScR"
+  ],
+  "Raigeki": [
+    "ScR"
+  ],
+  "Fissure": [
+    "SR"
+  ],
+  "Polymerization": [
+    "SR"
+  ],
+  "Swords of Revealing Light": [
+    "UR"
+  ],
+  "Monster Reborn": [
+    "UR"
+  ],
+  "Pot of Greed": [
+    "ScR"
+  ],
+  "Card Destruction": [
+    "ScR"
+  ],
+  "Heavy Storm": [
+    "UR"
+  ],
+  "Mystical Space Typhoon": [
+    "ScR"
+  ],
+  "De-Fusion": [
+    "C"
+  ],
+  "Graceful Charity": [
+    "ScR"
+  ],
+  "Double Spell": [
+    "SR"
+  ],
+  "Diffusion Wave-Motion": [
+    "SR"
+  ],
+  "Thousand Knives": [
+    "C"
+  ],
+  "Heart of the Underdog": [
+    "C"
+  ],
+  "Dedication through Light and Darkness": [
+    "ScR"
+  ],
+  "Black Luster Ritual": [
+    "C"
+  ],
+  "Dark Magic Attack": [
+    "C"
+  ],
+  "Knight's Title": [
+    "C"
+  ],
+  "Sage's Stone": [
+    "R"
+  ],
+  "Brain Control": [
+    "ScR"
+  ],
+  "Magical Dimension": [
+    "C"
+  ],
+  "Mystic Box": [
+    "C"
+  ],
+  "Magicians Unite": [
+    "C"
+  ],
+  "Black Magic Ritual": [
+    "C"
+  ],
+  "Dark Magic Curtain": [
+    "R"
+  ],
+  "Gold Sarcophagus": [
+    "C"
+  ],
+  "Soul Taker": [
+    "C"
+  ],
+  "Magic Formula": [
+    "C"
+  ],
+  "Union Attack": [
+    "C"
+  ],
+  "Tricky Spell 4": [
+    "C"
+  ],
+  "Spell Shattering Arrow": [
+    "C"
+  ],
+  "Multiply": [
+    "R"
+  ],
+  "Makiu, the Magical Mist": [
+    "C"
+  ],
+  "Detonate": [
+    "C"
+  ],
+  "Seven Tools of the Bandit": [
+    "ScR"
+  ],
+  "Horn of Heaven": [
+    "ScR"
+  ],
+  "Mirror Force": [
+    "ScR"
+  ],
+  "Spellbinding Circle": [
+    "C"
+  ],
+  "Lightforce Sword": [
+    "SR"
+  ],
+  "Chain Destruction": [
+    "C"
+  ],
+  "Dust Tornado": [
+    "UR"
+  ],
+  "Magical Hats": [
+    "C"
+  ],
+  "Shift": [
+    "SR"
+  ],
+  "Collected Power": [
+    "C"
+  ],
+  "Magic Cylinder": [
+    "SR"
+  ],
+  "Magician's Circle": [
+    "SR"
+  ],
+  "Stronghold the Moving Fortress": [
+    "UR"
+  ],
+  "Soul Rope": [
+    "C"
+  ],
+  "Blue-Eyes Toon Dragon": [
+    "R"
+  ],
+  "Manga Ryu-Ran": [
+    "R"
+  ],
+  "Toon Mermaid": [
+    "R"
+  ],
+  "Toon Summoned Skull": [
+    "R"
+  ],
+  "Toon Gemini Elf": [
+    "R"
+  ],
+  "Toon Goblin Attack Force": [
+    "R"
+  ],
+  "Toon Cannon Soldier": [
+    "R"
+  ],
+  "Toon Masked Sorcerer": [
+    "R"
+  ],
+  "Toon Dark Magician Girl": [
+    "R"
+  ],
+  "Dark-Eyes Illusionist": [
+    "R"
+  ],
+  "Relinquished": [
+    "R"
+  ],
+  "Black Illusion Ritual": [
+    "R"
+  ],
+  "Toon World": [
+    "R"
+  ],
+  "Toon Table of Contents": [
+    "R"
+  ],
+  "Dragon Capture Jar": [
+    "R"
+  ],
+  "Toon Defense": [
+    "R"
+  ],
+  "Man-Eater Bug": [
+    "C"
+  ],
+  "Sangan": [
+    "ScR"
+  ],
+  "Morphing Jar": [
+    "UR"
+  ],
+  "Puppet Master": [
+    "C"
+  ],
+  "Dark Master - Zorc": [
+    "C"
+  ],
+  "Change of Heart": [
+    "ScR"
+  ],
+  "Exchange": [
+    "ScR"
+  ],
+  "The Dark Door": [
+    "R"
+  ],
+  "Spiritualism": [
+    "C"
+  ],
+  "Contract with the Dark Master": [
+    "C"
+  ],
+  "Guardian Elma": [
+    "C"
+  ],
+  "Guardian Ceal": [
+    "C"
+  ],
+  "Guardian Grarl": [
+    "C"
+  ],
+  "Guardian Baou": [
+    "C"
+  ],
+  "Guardian Kay'est": [
+    "C"
+  ],
+  "Guardian Tryce": [
+    "C"
+  ],
+  "My Body as a Shield": [
+    "C"
+  ],
+  "Butterfly Dagger - Elma": [
+    "C"
+  ],
+  "Shooting Star Bow - Ceal": [
+    "C"
+  ],
+  "Gravity Axe - Grarl": [
+    "C"
+  ],
+  "Wicked-Breaking Flamberge - Baou": [
+    "C"
+  ],
+  "Rod of Silence - Kay'est": [
+    "C"
+  ],
+  "Twin Swords of Flashing Light - Tryce": [
+    "C"
+  ],
+  "Monster Reincarnation": [
+    "R"
+  ],
+  "Gil Garth": [
+    "UR"
+  ],
+  "Bowganian": [
+    "SR"
+  ],
+  "Machine Duplication": [
+    "SR"
+  ],
+  "Hidden Soldiers": [
+    "R"
+  ],
+  "Rope of Life": [
+    "ScR"
+  ],
+  "Malevolent Catastrophe": [
+    "SR"
+  ],
+  "Harpie's Feather Duster": [
+    "ScR"
+  ],
+  "Gravity Bind": [
+    "SR"
+  ],
+  "Mechanicalchaser": [
+    "UR"
+  ],
+  "Solemn Judgment": [
+    "ScR"
+  ],
+  "Magic Jammer": [
+    "ScR"
+  ],
+  "Sinister Serpent": [
+    "ScR"
+  ],
+  "Mirage of Nightmare": [
+    "ScR"
+  ],
+  "Ordeal of a Traveler": [
+    "C"
+  ],
+  "Tri-Horned Dragon": [
+    "SR"
+  ],
+  "Two-Headed King Rex": [
+    "ScR"
+  ],
+  "Millennium Shield": [
+    "SR"
+  ],
+  "Cosmo Queen": [
+    "UR"
+  ],
+  "Fire Princess": [
+    "UR"
+  ],
+  "Command Knight": [
+    "C"
+  ],
+  "Malice Doll of Demise": [
+    "R"
+  ],
+  "White-Horned Dragon": [
+    "SR"
+  ],
+  "Green Baboon, Defender of the Forest": [
+    "C"
+  ],
+  "Summoner Monk": [
+    "UR"
+  ],
+  "Commander Covington": [
+    "ScR"
+  ],
+  "Machina Soldier": [
+    "ScR"
+  ],
+  "Machina Sniper": [
+    "ScR"
+  ],
+  "Machina Defender": [
+    "ScR"
+  ],
+  "Machina Force": [
+    "ScR"
+  ],
+  "Limiter Removal": [
+    "UR"
+  ],
+  "Reinforcement of the Army": [
+    "SR"
+  ],
+  "Dragged Down into the Grave": [
+    "SR"
+  ],
+  "Ectoplasmer": [
+    "R"
+  ],
+  "Mind Control": [
+    "UR"
+  ],
+  "Trap Hole": [
+    "UR"
+  ],
+  "Imperial Order": [
+    "ScR"
+  ],
+  "Mask of Restrict": [
+    "C"
+  ],
+  "Torrential Tribute": [
+    "ScR"
+  ],
+  "Bottomless Trap Hole": [
+    "UR"
+  ],
+  "Royal Decree": [
+    "UR"
+  ],
+  "Gravekeeper's Spy": [
+    "UR"
+  ],
+  "Gravekeeper's Guard": [
+    "UR"
+  ],
+  "Gravekeeper's Spear Soldier": [
+    "UR"
+  ],
+  "Gravekeeper's Watcher": [
+    "C"
+  ],
+  "Gravekeeper's Chief": [
+    "UR"
+  ],
+  "Gravekeeper's Cannonholder": [
+    "UR"
+  ],
+  "Gravekeeper's Assailant": [
+    "UR"
+  ],
+  "Charm of Shabti": [
+    "C"
+  ],
+  "Gravekeeper's Commandant": [
+    "UR"
+  ],
+  "Gravekeeper's Descendant": [
+    "UR"
+  ],
+  "Gravekeeper's Recruiter": [
+    "UR"
+  ],
+  "Necrovalley": [
+    "UR"
+  ],
+  "Royal Tribute": [
+    "UR"
+  ],
+  "Rite of Spirit": [
+    "C"
+  ],
+  "Horus the Black Flame Dragon LV4": [
+    "C"
+  ],
+  "Horus the Black Flame Dragon LV6": [
+    "C"
+  ],
+  "Horus the Black Flame Dragon LV8": [
+    "C"
+  ],
+  "Mystic Swordsman LV2": [
+    "C"
+  ],
+  "Mystic Swordsman LV4": [
+    "C"
+  ],
+  "Mystic Swordsman LV6": [
+    "C"
+  ],
+  "Armed Dragon LV3": [
+    "C"
+  ],
+  "Armed Dragon LV5": [
+    "C"
+  ],
+  "Armed Dragon LV7": [
+    "C"
+  ],
+  "Horus' Servant": [
+    "C"
+  ],
+  "Level Up!": [
+    "C"
+  ],
+  "Dark Grepher": [
+    "C"
+  ],
+  "Dark Horus": [
+    "C"
+  ],
+  "The Dark Creator": [
+    "C"
+  ],
+  "Dark Nephthys": [
+    "C"
+  ],
+  "Darklord Zerato": [
+    "C"
+  ],
+  "Darknight Parshath": [
+    "C"
+  ],
+  "Dark General Freed": [
+    "C"
+  ],
+  "D.D. Warrior Lady": [
+    "R"
+  ],
+  "D.D. Scout Plane": [
+    "R"
+  ],
+  "D.D. Assailant": [
+    "R"
+  ],
+  "D.D. Warrior": [
+    "R"
+  ],
+  "Skull Servant": [
+    "UR"
+  ],
+  "Dark King of the Abyss": [
+    "ScR"
+  ],
+  "Aqua Madoor": [
+    "ScR"
+  ],
+  "Yaranzo": [
+    "SR"
+  ],
+  "Takriminos": [
+    "SR"
+  ],
+  "Megasonic Eye": [
+    "SR"
+  ],
+  "Yamadron": [
+    "SR"
+  ],
+  "Three-Legged Zombies": [
+    "SR"
+  ],
+  "Fairy's Gift": [
+    "SR"
+  ],
+  "Kanan the Swordmistress": [
+    "UR"
+  ],
+  "Mystical Shine Ball": [
+    "SR"
+  ],
+  "Big Eye": [
+    "R"
+  ],
+  "Banisher of the Light": [
+    "C"
+  ],
+  "Giant Rat": [
+    "ScR"
+  ],
+  "UFO Turtle": [
+    "ScR"
+  ],
+  "Giant Germ": [
+    "C"
+  ],
+  "Nimble Momonga": [
+    "C"
+  ],
+  "Shining Angel": [
+    "ScR"
+  ],
+  "Mother Grizzly": [
+    "ScR"
+  ],
+  "Flying Kamakiri #1": [
+    "ScR"
+  ],
+  "Mystic Tomato": [
+    "ScR"
+  ],
+  "Morphing Jar #2": [
+    "SR"
+  ],
+  "Goddess of Whim": [
+    "C"
+  ],
+  "Kycoo the Ghost Destroyer": [
+    "ScR"
+  ],
+  "Summoner of Illusions": [
+    "C"
+  ],
+  "Needle Worm": [
+    "UR"
+  ],
+  "Pyramid Turtle": [
+    "ScR"
+  ],
+  "Spirit Reaper": [
+    "UR"
+  ],
+  "Arsenal Summoner": [
+    "C"
+  ],
+  "Chaos Sorcerer": [
+    "SR"
+  ],
+  "Levia-Dragon - Daedalus": [
+    "ScR"
+  ],
+  "Manju of the Ten Thousand Hands": [
+    "C"
+  ],
+  "Invader of Darkness": [
+    "C"
+  ],
+  "The Agent of Wisdom - Mercury": [
+    "SR"
+  ],
+  "The Agent of Creation - Venus": [
+    "SR"
+  ],
+  "Solar Flare Dragon": [
+    "SR"
+  ],
+  "Emissary of the Afterlife": [
+    "C"
+  ],
+  "King of the Swamp": [
+    "C"
+  ],
+  "The Creator": [
+    "C"
+  ],
+  "The Creator Incarnate": [
+    "C"
+  ],
+  "Sacred Phoenix of Nephthys": [
+    "SR"
+  ],
+  "Hand of Nephthys": [
+    "R"
+  ],
+  "Armed Samurai - Ben Kei": [
+    "C"
+  ],
+  "The Light - Hex-Sealed Fusion": [
+    "C"
+  ],
+  "The Dark - Hex-Sealed Fusion": [
+    "C"
+  ],
+  "The Earth - Hex-Sealed Fusion": [
+    "C"
+  ],
+  "Upstart Goblin": [
+    "UR"
+  ],
+  "Messenger of Peace": [
+    "C"
+  ],
+  "Prohibition": [
+    "ScR"
+  ],
+  "Fusion Gate": [
+    "SR"
+  ],
+  "Creature Swap": [
+    "SR"
+  ],
+  "Book of Moon": [
+    "ScR"
+  ],
+  "Dark Snake Syndrome": [
+    "R"
+  ],
+  "Non-Spellcasting Area": [
+    "C"
+  ],
+  "Contract with the Abyss": [
+    "C"
+  ],
+  "Stray Lambs": [
+    "C"
+  ],
+  "Smashing Ground": [
+    "UR"
+  ],
+  "Salvage": [
+    "SR"
+  ],
+  "Earth Chant": [
+    "C"
+  ],
+  "Spell Economics": [
+    "C"
+  ],
+  "Level Limit - Area B": [
+    "C"
+  ],
+  "A Feather of the Phoenix": [
+    "ScR"
+  ],
+  "Swords of Concealing Light": [
+    "UR"
+  ],
+  "Centrifugal Field": [
+    "R"
+  ],
+  "Acid Trap Hole": [
+    "R"
+  ],
+  "DNA Surgery": [
+    "C"
+  ],
+  "Reckless Greed": [
+    "SR"
+  ],
+  "Raigeki Break": [
+    "SR"
+  ],
+  "Goblin Fan": [
+    "C"
+  ],
+  "Sakuretsu Armor": [
+    "SR"
+  ],
+  "Chain Disappearance": [
+    "C"
+  ],
+  "Dark Mirror Force": [
+    "R"
+  ],
+  "Compulsory Evacuation Device": [
+    "ScR"
+  ],
+  "DNA Transplant": [
+    "C"
+  ],
+  "Beckoning Light": [
+    "UR"
+  ],
+  "Draining Shield": [
+    "C"
+  ],
+  "Mind Crush": [
+    "UR"
+  ],
+  "Penalty Game!": [
+    "C"
+  ],
+  "Threatening Roar": [
+    "ScR"
+  ],
+  "Phoenix Wing Wind Blast": [
+    "ScR"
+  ],
+  "Level Limit - Area A": [
+    "C"
+  ],
+  "Black Horn of Heaven": [
+    "ScR"
+  ],
+  "Solemn Warning": [
+    "C"
+  ],
+  "Right Leg of the Forbidden One": [
+    "ScR"
+  ],
+  "Left Leg of the Forbidden One": [
+    "ScR"
+  ],
+  "Right Arm of the Forbidden One": [
+    "ScR"
+  ],
+  "Left Arm of the Forbidden One": [
+    "ScR"
+  ],
+  "Exodia the Forbidden One": [
+    "ScR"
+  ]
+}

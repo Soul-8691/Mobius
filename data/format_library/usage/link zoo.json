@@ -1,0 +1,8227 @@
+{
+	"decks_processed": 47,
+	"deck_types": {
+		"Zoodiac": {
+			"count": 28,
+			"main": [
+				{
+					"name": "Zoodiac Whiptail",
+					"count": 84,
+					"copies": {
+						"3": 28
+					}
+				},
+				{
+					"name": "Zoodiac Barrage",
+					"count": 84,
+					"copies": {
+						"3": 28
+					}
+				},
+				{
+					"name": "Zoodiac Thoroughblade",
+					"count": 81,
+					"copies": {
+						"2": 3,
+						"3": 25
+					}
+				},
+				{
+					"name": "Fire Formation - Tenki",
+					"count": 79,
+					"copies": {
+						"2": 5,
+						"3": 23
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 74,
+					"copies": {
+						"2": 4,
+						"3": 22
+					}
+				},
+				{
+					"name": "Pot of Desires",
+					"count": 69,
+					"copies": {
+						"1": 2,
+						"2": 8,
+						"3": 17
+					}
+				},
+				{
+					"name": "Shuffle Reborn",
+					"count": 63,
+					"copies": {
+						"1": 1,
+						"2": 13,
+						"3": 12
+					}
+				},
+				{
+					"name": "Zoodiac Ratpier",
+					"count": 56,
+					"copies": {
+						"2": 28
+					}
+				},
+				{
+					"name": "Zoodiac Ramram",
+					"count": 53,
+					"copies": {
+						"1": 5,
+						"2": 21,
+						"3": 2
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 43,
+					"copies": {
+						"1": 1,
+						"2": 21
+					}
+				},
+				{
+					"name": "Floodgate Trap Hole",
+					"count": 42,
+					"copies": {
+						"1": 1,
+						"2": 4,
+						"3": 11
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 39,
+					"copies": {
+						"2": 3,
+						"3": 11
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 34,
+					"copies": {
+						"1": 1,
+						"2": 3,
+						"3": 9
+					}
+				},
+				{
+					"name": "My Body as a Shield",
+					"count": 33,
+					"copies": {
+						"1": 1,
+						"2": 7,
+						"3": 6
+					}
+				},
+				{
+					"name": "Zoodiac Combo",
+					"count": 32,
+					"copies": {
+						"1": 18,
+						"2": 7
+					}
+				},
+				{
+					"name": "Pianissimo",
+					"count": 29,
+					"copies": {
+						"2": 1,
+						"3": 9
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 27,
+					"copies": {
+						"1": 27
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 27,
+					"copies": {
+						"1": 27
+					}
+				},
+				{
+					"name": "Heavy Storm Duster",
+					"count": 26,
+					"copies": {
+						"1": 1,
+						"2": 2,
+						"3": 7
+					}
+				},
+				{
+					"name": "Enemy Controller",
+					"count": 24,
+					"copies": {
+						"1": 1,
+						"2": 7,
+						"3": 3
+					}
+				},
+				{
+					"name": "Soul Charge",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Solemn Strike",
+					"count": 20,
+					"copies": {
+						"2": 1,
+						"3": 6
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 20,
+					"copies": {
+						"2": 1,
+						"3": 6
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 17,
+					"copies": {
+						"1": 17
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 17,
+					"copies": {
+						"2": 1,
+						"3": 5
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 13,
+					"copies": {
+						"1": 13
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 11,
+					"copies": {
+						"1": 11
+					}
+				},
+				{
+					"name": "Upstart Goblin",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Gameciel, the Sea Turtle Kaiju",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				},
+				{
+					"name": "Xyz Reborn",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Kumongous, the Sticky String Kaiju",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Blind Obliteration",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Breakthrough Skill",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Forbidden Chalice",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Quaking Mirror Force",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 62,
+					"copies": {
+						"1": 1,
+						"2": 2,
+						"3": 19
+					}
+				},
+				{
+					"name": "Magic Deflector",
+					"count": 56,
+					"copies": {
+						"2": 4,
+						"3": 16
+					}
+				},
+				{
+					"name": "Enemy Controller",
+					"count": 41,
+					"copies": {
+						"1": 1,
+						"2": 11,
+						"3": 6
+					}
+				},
+				{
+					"name": "Gameciel, the Sea Turtle Kaiju",
+					"count": 34,
+					"copies": {
+						"1": 15,
+						"2": 8,
+						"3": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 33,
+					"copies": {
+						"1": 1,
+						"2": 4,
+						"3": 8
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 31,
+					"copies": {
+						"1": 1,
+						"2": 3,
+						"3": 8
+					}
+				},
+				{
+					"name": "Kumongous, the Sticky String Kaiju",
+					"count": 24,
+					"copies": {
+						"1": 18,
+						"2": 3
+					}
+				},
+				{
+					"name": "Mask of Restrict",
+					"count": 17,
+					"copies": {
+						"2": 1,
+						"3": 5
+					}
+				},
+				{
+					"name": "Floodgate Trap Hole",
+					"count": 15,
+					"copies": {
+						"1": 2,
+						"2": 2,
+						"3": 3
+					}
+				},
+				{
+					"name": "Interrupted Kaiju Slumber",
+					"count": 12,
+					"copies": {
+						"2": 6
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 12,
+					"copies": {
+						"1": 2,
+						"2": 5
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 10,
+					"copies": {
+						"1": 10
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Heavy Storm Duster",
+					"count": 8,
+					"copies": {
+						"1": 2,
+						"3": 2
+					}
+				},
+				{
+					"name": "Macro Cosmos",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Solemn Strike",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Appointer of the Red Lotus",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 6,
+					"copies": {
+						"1": 3,
+						"3": 1
+					}
+				},
+				{
+					"name": "Dogoran, the Mad Flame Kaiju",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Mind Control",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Jizukiru, the Star Destroying Kaiju",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Forbidden Chalice",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Thunder King, the Lightningstrike Kaiju",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Gadarla, the Mystery Dust Kaiju",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Pianissimo",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Gozen Match",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Blind Obliteration",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Quaking Mirror Force",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Shuffle Reborn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Abyss Dweller",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Zoodiac Drident",
+					"count": 84,
+					"copies": {
+						"3": 28
+					}
+				},
+				{
+					"name": "Zoodiac Chakanine",
+					"count": 81,
+					"copies": {
+						"2": 3,
+						"3": 25
+					}
+				},
+				{
+					"name": "Zoodiac Broadbull",
+					"count": 73,
+					"copies": {
+						"2": 11,
+						"3": 17
+					}
+				},
+				{
+					"name": "Zoodiac Tigermortar",
+					"count": 63,
+					"copies": {
+						"2": 21,
+						"3": 7
+					}
+				},
+				{
+					"name": "Zoodiac Hammerkong",
+					"count": 34,
+					"copies": {
+						"1": 22,
+						"2": 6
+					}
+				},
+				{
+					"name": "Zoodiac Boarbow",
+					"count": 32,
+					"copies": {
+						"1": 24,
+						"2": 4
+					}
+				},
+				{
+					"name": "Missus Radiant",
+					"count": 27,
+					"copies": {
+						"1": 27
+					}
+				},
+				{
+					"name": "Daigusto Emeral",
+					"count": 14,
+					"copies": {
+						"1": 12,
+						"2": 1
+					}
+				},
+				{
+					"name": "Abyss Dweller",
+					"count": 10,
+					"copies": {
+						"1": 10
+					}
+				},
+				{
+					"name": "Castel, the Skyblaster Musketeer",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Tornado Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Zoodiac Whiptail",
+					"count": 84,
+					"copies": {
+						"3": 28
+					}
+				},
+				{
+					"name": "Zoodiac Barrage",
+					"count": 84,
+					"copies": {
+						"3": 28
+					}
+				},
+				{
+					"name": "Zoodiac Thoroughblade",
+					"count": 81,
+					"copies": {
+						"2": 3,
+						"3": 25
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 80,
+					"copies": {
+						"2": 1,
+						"3": 26
+					}
+				},
+				{
+					"name": "Fire Formation - Tenki",
+					"count": 79,
+					"copies": {
+						"2": 5,
+						"3": 23
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 79,
+					"copies": {
+						"2": 2,
+						"3": 25
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 70,
+					"copies": {
+						"1": 1,
+						"2": 6,
+						"3": 19
+					}
+				},
+				{
+					"name": "Pot of Desires",
+					"count": 69,
+					"copies": {
+						"1": 2,
+						"2": 8,
+						"3": 17
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 67,
+					"copies": {
+						"2": 5,
+						"3": 19
+					}
+				},
+				{
+					"name": "Enemy Controller",
+					"count": 65,
+					"copies": {
+						"2": 16,
+						"3": 11
+					}
+				},
+				{
+					"name": "Shuffle Reborn",
+					"count": 64,
+					"copies": {
+						"2": 14,
+						"3": 12
+					}
+				},
+				{
+					"name": "Floodgate Trap Hole",
+					"count": 57,
+					"copies": {
+						"2": 6,
+						"3": 15
+					}
+				},
+				{
+					"name": "Zoodiac Ratpier",
+					"count": 56,
+					"copies": {
+						"2": 28
+					}
+				},
+				{
+					"name": "Magic Deflector",
+					"count": 56,
+					"copies": {
+						"2": 4,
+						"3": 16
+					}
+				},
+				{
+					"name": "Zoodiac Ramram",
+					"count": 53,
+					"copies": {
+						"1": 5,
+						"2": 21,
+						"3": 2
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 49,
+					"copies": {
+						"1": 1,
+						"2": 24
+					}
+				},
+				{
+					"name": "Gameciel, the Sea Turtle Kaiju",
+					"count": 40,
+					"copies": {
+						"1": 16,
+						"2": 9,
+						"3": 2
+					}
+				},
+				{
+					"name": "Heavy Storm Duster",
+					"count": 34,
+					"copies": {
+						"2": 2,
+						"3": 10
+					}
+				},
+				{
+					"name": "My Body as a Shield",
+					"count": 33,
+					"copies": {
+						"1": 1,
+						"2": 7,
+						"3": 6
+					}
+				},
+				{
+					"name": "Zoodiac Combo",
+					"count": 32,
+					"copies": {
+						"1": 18,
+						"2": 7
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 32,
+					"copies": {
+						"1": 1,
+						"2": 5,
+						"3": 7
+					}
+				},
+				{
+					"name": "Pianissimo",
+					"count": 31,
+					"copies": {
+						"2": 2,
+						"3": 9
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 27,
+					"copies": {
+						"1": 27
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 27,
+					"copies": {
+						"1": 27
+					}
+				},
+				{
+					"name": "Kumongous, the Sticky String Kaiju",
+					"count": 27,
+					"copies": {
+						"1": 21,
+						"2": 3
+					}
+				},
+				{
+					"name": "Solemn Strike",
+					"count": 26,
+					"copies": {
+						"2": 4,
+						"3": 6
+					}
+				},
+				{
+					"name": "Soul Charge",
+					"count": 22,
+					"copies": {
+						"1": 22
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 19,
+					"copies": {
+						"1": 19
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 17,
+					"copies": {
+						"1": 17
+					}
+				},
+				{
+					"name": "Mask of Restrict",
+					"count": 17,
+					"copies": {
+						"2": 1,
+						"3": 5
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 14,
+					"copies": {
+						"1": 14
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 13,
+					"copies": {
+						"1": 13
+					}
+				},
+				{
+					"name": "Interrupted Kaiju Slumber",
+					"count": 12,
+					"copies": {
+						"2": 6
+					}
+				},
+				{
+					"name": "Macro Cosmos",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Upstart Goblin",
+					"count": 7,
+					"copies": {
+						"1": 7
+					}
+				},
+				{
+					"name": "Appointer of the Red Lotus",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Forbidden Chalice",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Blind Obliteration",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Quaking Mirror Force",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Xyz Reborn",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Dogoran, the Mad Flame Kaiju",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Mind Control",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Jizukiru, the Star Destroying Kaiju",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Breakthrough Skill",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Thunder King, the Lightningstrike Kaiju",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Gadarla, the Mystery Dust Kaiju",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Gozen Match",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Abyss Dweller",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"True Draco Zoodiac": {
+			"count": 9,
+			"main": [
+				{
+					"name": "Dragonic Diagram",
+					"count": 27,
+					"copies": {
+						"3": 9
+					}
+				},
+				{
+					"name": "Zoodiac Barrage",
+					"count": 27,
+					"copies": {
+						"3": 9
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 26,
+					"copies": {
+						"2": 1,
+						"3": 8
+					}
+				},
+				{
+					"name": "True Draco Heritage",
+					"count": 26,
+					"copies": {
+						"2": 1,
+						"3": 8
+					}
+				},
+				{
+					"name": "Pot of Desires",
+					"count": 22,
+					"copies": {
+						"1": 1,
+						"2": 3,
+						"3": 5
+					}
+				},
+				{
+					"name": "Dinomight Knight, the True Dracofighter",
+					"count": 20,
+					"copies": {
+						"1": 1,
+						"2": 5,
+						"3": 3
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 20,
+					"copies": {
+						"2": 1,
+						"3": 6
+					}
+				},
+				{
+					"name": "True King's Return",
+					"count": 19,
+					"copies": {
+						"2": 8,
+						"3": 1
+					}
+				},
+				{
+					"name": "Master Peace, the True Dracoslaying King",
+					"count": 18,
+					"copies": {
+						"2": 9
+					}
+				},
+				{
+					"name": "Zoodiac Ramram",
+					"count": 18,
+					"copies": {
+						"2": 9
+					}
+				},
+				{
+					"name": "Zoodiac Ratpier",
+					"count": 18,
+					"copies": {
+						"2": 9
+					}
+				},
+				{
+					"name": "Zoodiac Whiptail",
+					"count": 17,
+					"copies": {
+						"1": 1,
+						"2": 8
+					}
+				},
+				{
+					"name": "Ignis Heat, the True Dracowarrior",
+					"count": 14,
+					"copies": {
+						"1": 1,
+						"2": 5,
+						"3": 1
+					}
+				},
+				{
+					"name": "Disciples of the True Dracophoenix",
+					"count": 14,
+					"copies": {
+						"1": 2,
+						"2": 6
+					}
+				},
+				{
+					"name": "Fire Formation - Tenki",
+					"count": 14,
+					"copies": {
+						"1": 1,
+						"2": 5,
+						"3": 1
+					}
+				},
+				{
+					"name": "Zoodiac Thoroughblade",
+					"count": 11,
+					"copies": {
+						"1": 7,
+						"2": 2
+					}
+				},
+				{
+					"name": "True Draco Apocalypse",
+					"count": 11,
+					"copies": {
+						"1": 7,
+						"2": 2
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 9,
+					"copies": {
+						"1": 9
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Soul Charge",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Shuffle Reborn",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Zoodiac Combo",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Magic Deflector",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Upstart Goblin",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 24,
+					"copies": {
+						"1": 1,
+						"2": 1,
+						"3": 7
+					}
+				},
+				{
+					"name": "Magic Deflector",
+					"count": 22,
+					"copies": {
+						"2": 2,
+						"3": 6
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 16,
+					"copies": {
+						"2": 2,
+						"3": 4
+					}
+				},
+				{
+					"name": "Kumongous, the Sticky String Kaiju",
+					"count": 10,
+					"copies": {
+						"1": 3,
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 9,
+					"copies": {
+						"1": 3,
+						"2": 3
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Gameciel, the Sea Turtle Kaiju",
+					"count": 7,
+					"copies": {
+						"1": 5,
+						"2": 1
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 7,
+					"copies": {
+						"1": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Solemn Strike",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Ignis Heat, the True Dracowarrior",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Appointer of the Red Lotus",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Enemy Controller",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Pianissimo",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Grand Horn of Heaven",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Zaphion, the Timelord",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Forbidden Apocrypha",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Floodgate Trap Hole",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Zoodiac Drident",
+					"count": 27,
+					"copies": {
+						"3": 9
+					}
+				},
+				{
+					"name": "Zoodiac Chakanine",
+					"count": 25,
+					"copies": {
+						"2": 2,
+						"3": 7
+					}
+				},
+				{
+					"name": "Zoodiac Broadbull",
+					"count": 18,
+					"copies": {
+						"2": 9
+					}
+				},
+				{
+					"name": "Zoodiac Tigermortar",
+					"count": 18,
+					"copies": {
+						"2": 9
+					}
+				},
+				{
+					"name": "Zoodiac Boarbow",
+					"count": 9,
+					"copies": {
+						"1": 9
+					}
+				},
+				{
+					"name": "Zoodiac Hammerkong",
+					"count": 9,
+					"copies": {
+						"1": 9
+					}
+				},
+				{
+					"name": "Missus Radiant",
+					"count": 9,
+					"copies": {
+						"1": 9
+					}
+				},
+				{
+					"name": "Abyss Dweller",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Daigusto Emeral",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Tornado Dragon",
+					"count": 4,
+					"copies": {
+						"1": 4
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Dragonic Diagram",
+					"count": 27,
+					"copies": {
+						"3": 9
+					}
+				},
+				{
+					"name": "Zoodiac Barrage",
+					"count": 27,
+					"copies": {
+						"3": 9
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 27,
+					"copies": {
+						"3": 9
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 26,
+					"copies": {
+						"2": 1,
+						"3": 8
+					}
+				},
+				{
+					"name": "True Draco Heritage",
+					"count": 26,
+					"copies": {
+						"2": 1,
+						"3": 8
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 26,
+					"copies": {
+						"2": 1,
+						"3": 8
+					}
+				},
+				{
+					"name": "Magic Deflector",
+					"count": 23,
+					"copies": {
+						"2": 1,
+						"3": 7
+					}
+				},
+				{
+					"name": "Pot of Desires",
+					"count": 22,
+					"copies": {
+						"1": 1,
+						"2": 3,
+						"3": 5
+					}
+				},
+				{
+					"name": "Dinomight Knight, the True Dracofighter",
+					"count": 20,
+					"copies": {
+						"1": 1,
+						"2": 5,
+						"3": 3
+					}
+				},
+				{
+					"name": "True King's Return",
+					"count": 19,
+					"copies": {
+						"2": 8,
+						"3": 1
+					}
+				},
+				{
+					"name": "Master Peace, the True Dracoslaying King",
+					"count": 18,
+					"copies": {
+						"2": 9
+					}
+				},
+				{
+					"name": "Zoodiac Ramram",
+					"count": 18,
+					"copies": {
+						"2": 9
+					}
+				},
+				{
+					"name": "Zoodiac Ratpier",
+					"count": 18,
+					"copies": {
+						"2": 9
+					}
+				},
+				{
+					"name": "Ignis Heat, the True Dracowarrior",
+					"count": 17,
+					"copies": {
+						"2": 7,
+						"3": 1
+					}
+				},
+				{
+					"name": "Zoodiac Whiptail",
+					"count": 17,
+					"copies": {
+						"1": 1,
+						"2": 8
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 16,
+					"copies": {
+						"2": 2,
+						"3": 4
+					}
+				},
+				{
+					"name": "Disciples of the True Dracophoenix",
+					"count": 14,
+					"copies": {
+						"1": 2,
+						"2": 6
+					}
+				},
+				{
+					"name": "Fire Formation - Tenki",
+					"count": 14,
+					"copies": {
+						"1": 1,
+						"2": 5,
+						"3": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 13,
+					"copies": {
+						"1": 3,
+						"2": 5
+					}
+				},
+				{
+					"name": "Zoodiac Thoroughblade",
+					"count": 11,
+					"copies": {
+						"1": 7,
+						"2": 2
+					}
+				},
+				{
+					"name": "True Draco Apocalypse",
+					"count": 11,
+					"copies": {
+						"1": 7,
+						"2": 2
+					}
+				},
+				{
+					"name": "Kumongous, the Sticky String Kaiju",
+					"count": 10,
+					"copies": {
+						"1": 3,
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 9,
+					"copies": {
+						"1": 9
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 9,
+					"copies": {
+						"1": 9
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 9,
+					"copies": {
+						"1": 1,
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 8,
+					"copies": {
+						"1": 8
+					}
+				},
+				{
+					"name": "Gameciel, the Sea Turtle Kaiju",
+					"count": 7,
+					"copies": {
+						"1": 5,
+						"2": 1
+					}
+				},
+				{
+					"name": "Soul Charge",
+					"count": 6,
+					"copies": {
+						"1": 6
+					}
+				},
+				{
+					"name": "Shuffle Reborn",
+					"count": 6,
+					"copies": {
+						"1": 2,
+						"2": 2
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 5,
+					"copies": {
+						"1": 1,
+						"2": 2
+					}
+				},
+				{
+					"name": "Zoodiac Combo",
+					"count": 5,
+					"copies": {
+						"1": 5
+					}
+				},
+				{
+					"name": "Solemn Strike",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Appointer of the Red Lotus",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Enemy Controller",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Pianissimo",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Grand Horn of Heaven",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Zaphion, the Timelord",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Forbidden Apocrypha",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Floodgate Trap Hole",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Torrential Tribute",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Upstart Goblin",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"True Draco": {
+			"count": 3,
+			"main": [
+				{
+					"name": "Dinomight Knight, the True Dracofighter",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Ignis Heat, the True Dracowarrior",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Card of Demise",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "True Draco Heritage",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "True Draco Apocalypse",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "True King's Return",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Dragonic Diagram",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Pot of Duality",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Pot of Desires",
+					"count": 7,
+					"copies": {
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Ghost Reaper & Winter Cherries",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Disciples of the True Dracophoenix",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Master Peace, the True Dracoslaying King",
+					"count": 4,
+					"copies": {
+						"1": 2,
+						"2": 1
+					}
+				},
+				{
+					"name": "Skill Drain",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Zoodiac Barrage",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "The Monarchs Erupt",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Waterfall of Dragon Souls",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Upstart Goblin",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Forbidden Chalice",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "The Monarchs Stormforth",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Magic Deflector",
+					"count": 7,
+					"copies": {
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Chalice",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Grisaille Prison",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Zaphion, the Timelord",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Master Peace, the True Dracoslaying King",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Breakthrough Skill",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Invoked Mechaba",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Beelze of the Diabolic Dragons",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Crystal Wing Synchro Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Denglong, First of the Yang Zing",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "PSY-Framelord Omega",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Trishula, Dragon of the Ice Barrier",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Vermillion Dragon Mech",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Zoodiac Broadbull",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Zoodiac Chakanine",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Zoodiac Drident",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Zoodiac Tigermortar",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Ancient Fairy Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Scrap Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Abyss Dweller",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Firewall Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Scarlight Red Dragon Archfiend",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Constellar Ptolemy M7",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Minerva, the Exalted Lightsworn",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Number 39: Utopia Beyond",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Dinomight Knight, the True Dracofighter",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Ignis Heat, the True Dracowarrior",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Card of Demise",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "True Draco Heritage",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "True Draco Apocalypse",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "True King's Return",
+					"count": 9,
+					"copies": {
+						"3": 3
+					}
+				},
+				{
+					"name": "Dragonic Diagram",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Pot of Duality",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 8,
+					"copies": {
+						"2": 1,
+						"3": 2
+					}
+				},
+				{
+					"name": "Pot of Desires",
+					"count": 7,
+					"copies": {
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Chalice",
+					"count": 7,
+					"copies": {
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Magic Deflector",
+					"count": 7,
+					"copies": {
+						"2": 2,
+						"3": 1
+					}
+				},
+				{
+					"name": "Ghost Reaper & Winter Cherries",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Master Peace, the True Dracoslaying King",
+					"count": 6,
+					"copies": {
+						"2": 3
+					}
+				},
+				{
+					"name": "Disciples of the True Dracophoenix",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 6,
+					"copies": {
+						"1": 1,
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Grisaille Prison",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Zaphion, the Timelord",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Skill Drain",
+					"count": 3,
+					"copies": {
+						"1": 3
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Zoodiac Barrage",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "The Monarchs Erupt",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Waterfall of Dragon Souls",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Breakthrough Skill",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Upstart Goblin",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Book of Moon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "The Monarchs Stormforth",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Trickstar": {
+			"count": 2,
+			"main": [
+				{
+					"name": "Droll & Lock Bird",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Trickstar Candina",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Trickstar Lycoris",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Trickstar Light Stage",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Trickstar Reincarnation",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Blackwing - Gofu the Vague Shadow",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Honest",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Instant Fusion",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Pot of Desires",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Trickstar Lilybell",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Book of Eclipse",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Disturbance Strategy",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Solemn Strike",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Storming Mirror Force",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "System Down",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Muko",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Artifact Lancea",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Solemn Scolding",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Unending Nightmare",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Hanewata",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Necrovalley",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gadarla, the Mystery Dust Kaiju",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gameciel, the Sea Turtle Kaiju",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Thunder King, the Lightningstrike Kaiju",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Interrupted Kaiju Slumber",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Heavy Storm Duster",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Link Spider",
+					"count": 3,
+					"copies": {
+						"1": 1,
+						"2": 1
+					}
+				},
+				{
+					"name": "Sea Monster of Theseus",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Beelze of the Diabolic Dragons",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "PSY-Framelord Omega",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Number 30: Acid Golem of Destruction",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Tornado Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Decode Talker",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Proxy Dragon",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Darkfire Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Thousand-Eyes Restrict",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Number 39: Utopia",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Number S39: Utopia the Lightning",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Missus Radiant",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ningirsu the World Chalice Warrior",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Black Rose Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Blood Mefist",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gagaga Cowboy",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Number 47: Nightmare Shark",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "The Phantom Knights of Break Sword",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Zoodiac Broadbull",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Zoodiac Drident",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Droll & Lock Bird",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Trickstar Candina",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Trickstar Lycoris",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Trickstar Light Stage",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Trickstar Reincarnation",
+					"count": 6,
+					"copies": {
+						"3": 2
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Blackwing - Gofu the Vague Shadow",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 5,
+					"copies": {
+						"2": 1,
+						"3": 1
+					}
+				},
+				{
+					"name": "Honest",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Instant Fusion",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "Pot of Desires",
+					"count": 4,
+					"copies": {
+						"2": 2
+					}
+				},
+				{
+					"name": "System Down",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Muko",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Trickstar Lilybell",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Artifact Lancea",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Solemn Scolding",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 2,
+					"copies": {
+						"1": 2
+					}
+				},
+				{
+					"name": "Unending Nightmare",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Book of Eclipse",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Disturbance Strategy",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Solemn Strike",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Storming Mirror Force",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Hanewata",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Necrovalley",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gadarla, the Mystery Dust Kaiju",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gameciel, the Sea Turtle Kaiju",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Thunder King, the Lightningstrike Kaiju",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Interrupted Kaiju Slumber",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Heavy Storm Duster",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Dinosaur FTK": {
+			"count": 1,
+			"main": [
+				{
+					"name": "Babycerasaurus",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Baobaboon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Miscellaneousaurus",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Souleating Oviraptor",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "True King Agnimazud, the Vanisher",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "True King Lithosagym, the Disaster",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dragonic Diagram",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fossil Dig",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Manticore of Darkness",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Petiteranodon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Alexandrite Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Carboneddon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Giant Rex",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Grandsoil the Elemental Lord",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ultimate Conductor Tyranno",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Soul Charge",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Upstart Goblin",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Droll & Lock Bird",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ghost Reaper & Winter Cherries",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Double Evolution Pill",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dogoran, the Mad Flame Kaiju",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ultimate Conductor Tyranno",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Evolzar Dolkka",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Evolzar Laggia",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Missus Radiant",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Skill Drain",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Firewall Dragon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Zoodiac Broadbull",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Beatrice, Lady of the Eternal",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Number 103: Ragnazero",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Phantom Fortress Enterblathnir",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Tornado Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "True King of All Calamities",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Zoodiac Chakanine",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Zoodiac Drident",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Decode Talker",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Imduk the World Chalice Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Proxy Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Babycerasaurus",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Baobaboon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Miscellaneousaurus",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Souleating Oviraptor",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "True King Agnimazud, the Vanisher",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "True King Lithosagym, the Disaster",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dragonic Diagram",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fossil Dig",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Manticore of Darkness",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Petiteranodon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ultimate Conductor Tyranno",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Droll & Lock Bird",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ghost Reaper & Winter Cherries",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Double Evolution Pill",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Alexandrite Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Carboneddon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Giant Rex",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Grandsoil the Elemental Lord",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Soul Charge",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Upstart Goblin",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dogoran, the Mad Flame Kaiju",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Evolzar Dolkka",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Evolzar Laggia",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Missus Radiant",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Skill Drain",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Windwitch True Draco": {
+			"count": 1,
+			"main": [
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dinomight Knight, the True Dracofighter",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Windwitch - Ice Bell",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dragonic Diagram",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "True Draco Heritage",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "True King's Return",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Master Peace, the True Dracoslaying King",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Spellbook Magician of Prophecy",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Windwitch - Glass Bell",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Forbidden Chalice",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Spellbook of Knowledge",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Spellbook of Secrets",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "True Draco Apocalypse",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Windwitch - Snow Bell",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Disciples of the True Dracophoenix",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Skill Drain",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Dimensional Barrier",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Solemn Strike",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Magic Deflector",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ignis Heat, the True Dracowarrior",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Clear Wing Synchro Dragon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Crystal Wing Synchro Dragon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Windwitch - Winter Bell",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Black Rose Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Leo, the Keeper of the Sacred Tree",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Stardust Charge Warrior",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Stardust Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Constellar Ptolemy M7",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Galaxy-Eyes Cipher Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Galaxy-Eyes Full Armor Photon Dragon",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Number 23: Lancelot, Dark Knight of the Underworld",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Number 39: Utopia",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dinomight Knight, the True Dracofighter",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Windwitch - Ice Bell",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dragonic Diagram",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "True Draco Heritage",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "True King's Return",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Solemn Strike",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Master Peace, the True Dracoslaying King",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Spellbook Magician of Prophecy",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Windwitch - Glass Bell",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Forbidden Chalice",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Spellbook of Knowledge",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Spellbook of Secrets",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "True Draco Apocalypse",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Magic Deflector",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Windwitch - Snow Bell",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Disciples of the True Dracophoenix",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Skill Drain",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ignis Heat, the True Dracowarrior",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Chain Burn": {
+			"count": 1,
+			"main": [
+				{
+					"name": "Card of Demise",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Pot of Duality",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Balance of Judgment",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Just Desserts",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Secret Barrel",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Secret Blast",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Threatening Roar",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Absolute King Back Jack",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Chain Strike",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Foolish Burial",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Pot of Desires",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dimension Wall",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ojama Trio",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Electromagnetic Turtle",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ghost Reaper & Winter Cherries",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "One Day of Peace",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Blazing Mirror Force",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ring of Destruction",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Lazion, the Timelord",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "D/D/D Rebel King Leonidas",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Blazing Mirror Force",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fairy Tail - Luna",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fairy Tail - Snow",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ghost Reaper & Winter Cherries",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Denglong, First of the Yang Zing",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Evolzar Laggia",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Tornado Dragon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Invoked Mechaba",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Trishula, Dragon of the Ice Barrier",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Lyrilusc - Assembled Nightingale",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Paleozoic Anomalocaris",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Paleozoic Opabinia",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Sylvan Princessprite",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Toadally Awesome",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Zoodiac Drident",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Zoodiac Hammerkong",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Card of Demise",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Pot of Duality",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Balance of Judgment",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Blazing Mirror Force",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Just Desserts",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Secret Barrel",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Secret Blast",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Threatening Roar",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Lazion, the Timelord",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Absolute King Back Jack",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ghost Reaper & Winter Cherries",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Chain Strike",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Foolish Burial",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Pot of Desires",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dimension Wall",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ojama Trio",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Waboku",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "D/D/D Rebel King Leonidas",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Electromagnetic Turtle",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Magician of Faith",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "One Day of Peace",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ring of Destruction",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Effect Veiler",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fairy Tail - Luna",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Fairy Tail - Snow",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"Kaiju Zoodiac": {
+			"count": 1,
+			"main": [
+				{
+					"name": "Zoodiac Whiptail",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fire Formation - Tenki",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Zoodiac Barrage",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Magic Deflector",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Zoodiac Ramram",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Zoodiac Ratpier",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Zoodiac Thoroughblade",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Interrupted Kaiju Slumber",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Pianissimo",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Pot of Desires",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Shuffle Reborn",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dogoran, the Mad Flame Kaiju",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gameciel, the Sea Turtle Kaiju",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Jizukiru, the Star Destroying Kaiju",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Kumongous, the Sticky String Kaiju",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Zoodiac Combo",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Solemn Strike",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "My Body as a Shield",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Zoodiac Chakanine",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Zoodiac Drident",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Zoodiac Broadbull",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Zoodiac Hammerkong",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Zoodiac Tigermortar",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Abyss Dweller",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Zoodiac Boarbow",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Missus Radiant",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Zoodiac Whiptail",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fire Formation - Tenki",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Zoodiac Barrage",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dimensional Barrier",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Magic Deflector",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Solemn Strike",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Zoodiac Ramram",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Zoodiac Ratpier",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Zoodiac Thoroughblade",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Interrupted Kaiju Slumber",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Pianissimo",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Pot of Desires",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Shuffle Reborn",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "My Body as a Shield",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dogoran, the Mad Flame Kaiju",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Gameciel, the Sea Turtle Kaiju",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Jizukiru, the Star Destroying Kaiju",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Kumongous, the Sticky String Kaiju",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Solemn Warning",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Zoodiac Combo",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Imperial Order",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		},
+		"True King Dinosaur": {
+			"count": 1,
+			"main": [
+				{
+					"name": "Babycerasaurus",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dogoran, the Mad Flame Kaiju",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Miscellaneousaurus",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Petiteranodon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Souleating Oviraptor",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "True King Lithosagym, the Disaster",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dragonic Diagram",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fossil Dig",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Jurrac Aeolo",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ultimate Conductor Tyranno",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Giant Rex",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "True King Agnimazud, the Vanisher",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"side": [
+				{
+					"name": "Cosmic Cyclone",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Chalice",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Magic Deflector",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"extra": [
+				{
+					"name": "Evolzar Dolkka",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Evolzar Laggia",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Tornado Dragon",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "True King of All Calamities",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Denglong, First of the Yang Zing",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Hi-Speedroid Chanbara",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Trishula, Dragon of the Ice Barrier",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Abyss Dweller",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Castel, the Skyblaster Musketeer",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Diamond Dire Wolf",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Phantom Fortress Enterblathnir",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			],
+			"total": [
+				{
+					"name": "Ash Blossom & Joyous Spring",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Babycerasaurus",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dogoran, the Mad Flame Kaiju",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Ghost Ogre & Snow Rabbit",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Miscellaneousaurus",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Petiteranodon",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Souleating Oviraptor",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "True King Lithosagym, the Disaster",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Dragonic Diagram",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Fossil Dig",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Terraforming",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Twin Twisters",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Cosmic Cyclone",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Forbidden Chalice",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Magic Deflector",
+					"count": 3,
+					"copies": {
+						"3": 1
+					}
+				},
+				{
+					"name": "Jurrac Aeolo",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Ultimate Conductor Tyranno",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Dark Hole",
+					"count": 2,
+					"copies": {
+						"2": 1
+					}
+				},
+				{
+					"name": "Giant Rex",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Maxx \"C\"",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "True King Agnimazud, the Vanisher",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				},
+				{
+					"name": "Raigeki",
+					"count": 1,
+					"copies": {
+						"1": 1
+					}
+				}
+			]
+		}
+	},
+	"main": [
+		{
+			"name": "Zoodiac Barrage",
+			"count": 117,
+			"copies": {
+				"3": 39
+			}
+		},
+		{
+			"name": "Pot of Desires",
+			"count": 106,
+			"copies": {
+				"1": 3,
+				"2": 17,
+				"3": 23
+			}
+		},
+		{
+			"name": "Zoodiac Whiptail",
+			"count": 104,
+			"copies": {
+				"1": 1,
+				"2": 8,
+				"3": 29
+			}
+		},
+		{
+			"name": "Dimensional Barrier",
+			"count": 101,
+			"copies": {
+				"2": 7,
+				"3": 29
+			}
+		},
+		{
+			"name": "Fire Formation - Tenki",
+			"count": 96,
+			"copies": {
+				"1": 1,
+				"2": 10,
+				"3": 25
+			}
+		},
+		{
+			"name": "Zoodiac Thoroughblade",
+			"count": 94,
+			"copies": {
+				"1": 7,
+				"2": 6,
+				"3": 25
+			}
+		},
+		{
+			"name": "Zoodiac Ratpier",
+			"count": 76,
+			"copies": {
+				"2": 38
+			}
+		},
+		{
+			"name": "Zoodiac Ramram",
+			"count": 73,
+			"copies": {
+				"1": 5,
+				"2": 31,
+				"3": 2
+			}
+		},
+		{
+			"name": "Shuffle Reborn",
+			"count": 71,
+			"copies": {
+				"1": 3,
+				"2": 16,
+				"3": 12
+			}
+		},
+		{
+			"name": "Ghost Ogre & Snow Rabbit",
+			"count": 52,
+			"copies": {
+				"1": 1,
+				"2": 6,
+				"3": 13
+			}
+		},
+		{
+			"name": "Dark Hole",
+			"count": 50,
+			"copies": {
+				"1": 4,
+				"2": 23
+			}
+		},
+		{
+			"name": "Dragonic Diagram",
+			"count": 44,
+			"copies": {
+				"2": 1,
+				"3": 14
+			}
+		},
+		{
+			"name": "Maxx \"C\"",
+			"count": 42,
+			"copies": {
+				"1": 42
+			}
+		},
+		{
+			"name": "Floodgate Trap Hole",
+			"count": 42,
+			"copies": {
+				"1": 1,
+				"2": 4,
+				"3": 11
+			}
+		},
+		{
+			"name": "Terraforming",
+			"count": 41,
+			"copies": {
+				"1": 1,
+				"2": 2,
+				"3": 12
+			}
+		},
+		{
+			"name": "Cosmic Cyclone",
+			"count": 41,
+			"copies": {
+				"1": 2,
+				"2": 3,
+				"3": 11
+			}
+		},
+		{
+			"name": "Raigeki",
+			"count": 40,
+			"copies": {
+				"1": 40
+			}
+		},
+		{
+			"name": "True Draco Heritage",
+			"count": 38,
+			"copies": {
+				"2": 1,
+				"3": 12
+			}
+		},
+		{
+			"name": "Zoodiac Combo",
+			"count": 38,
+			"copies": {
+				"1": 24,
+				"2": 7
+			}
+		},
+		{
+			"name": "My Body as a Shield",
+			"count": 33,
+			"copies": {
+				"1": 1,
+				"2": 7,
+				"3": 6
+			}
+		},
+		{
+			"name": "Dinomight Knight, the True Dracofighter",
+			"count": 32,
+			"copies": {
+				"1": 1,
+				"2": 5,
+				"3": 7
+			}
+		},
+		{
+			"name": "True King's Return",
+			"count": 31,
+			"copies": {
+				"2": 8,
+				"3": 5
+			}
+		},
+		{
+			"name": "Ash Blossom & Joyous Spring",
+			"count": 31,
+			"copies": {
+				"2": 5,
+				"3": 7
+			}
+		},
+		{
+			"name": "Pianissimo",
+			"count": 31,
+			"copies": {
+				"2": 2,
+				"3": 9
+			}
+		},
+		{
+			"name": "Soul Charge",
+			"count": 29,
+			"copies": {
+				"1": 29
+			}
+		},
+		{
+			"name": "Heavy Storm Duster",
+			"count": 26,
+			"copies": {
+				"1": 1,
+				"2": 2,
+				"3": 7
+			}
+		},
+		{
+			"name": "Master Peace, the True Dracoslaying King",
+			"count": 24,
+			"copies": {
+				"1": 2,
+				"2": 11
+			}
+		},
+		{
+			"name": "Twin Twisters",
+			"count": 24,
+			"copies": {
+				"2": 3,
+				"3": 6
+			}
+		},
+		{
+			"name": "Enemy Controller",
+			"count": 24,
+			"copies": {
+				"1": 1,
+				"2": 7,
+				"3": 3
+			}
+		},
+		{
+			"name": "Ignis Heat, the True Dracowarrior",
+			"count": 23,
+			"copies": {
+				"1": 1,
+				"2": 5,
+				"3": 4
+			}
+		},
+		{
+			"name": "True Draco Apocalypse",
+			"count": 22,
+			"copies": {
+				"1": 7,
+				"2": 3,
+				"3": 3
+			}
+		},
+		{
+			"name": "Solemn Strike",
+			"count": 22,
+			"copies": {
+				"2": 2,
+				"3": 6
+			}
+		},
+		{
+			"name": "Disciples of the True Dracophoenix",
+			"count": 21,
+			"copies": {
+				"1": 3,
+				"2": 6,
+				"3": 2
+			}
+		},
+		{
+			"name": "Book of Moon",
+			"count": 19,
+			"copies": {
+				"1": 19
+			}
+		},
+		{
+			"name": "Torrential Tribute",
+			"count": 18,
+			"copies": {
+				"1": 18
+			}
+		},
+		{
+			"name": "Solemn Warning",
+			"count": 13,
+			"copies": {
+				"1": 13
+			}
+		},
+		{
+			"name": "Card of Demise",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Upstart Goblin",
+			"count": 11,
+			"copies": {
+				"1": 11
+			}
+		},
+		{
+			"name": "Pot of Duality",
+			"count": 11,
+			"copies": {
+				"2": 1,
+				"3": 3
+			}
+		},
+		{
+			"name": "Gameciel, the Sea Turtle Kaiju",
+			"count": 7,
+			"copies": {
+				"1": 3,
+				"2": 2
+			}
+		},
+		{
+			"name": "Ghost Reaper & Winter Cherries",
+			"count": 7,
+			"copies": {
+				"1": 1,
+				"3": 2
+			}
+		},
+		{
+			"name": "Droll & Lock Bird",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Trickstar Candina",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Trickstar Lycoris",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Trickstar Light Stage",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Trickstar Reincarnation",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Babycerasaurus",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Miscellaneousaurus",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Souleating Oviraptor",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "True King Lithosagym, the Disaster",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Fossil Dig",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Forbidden Chalice",
+			"count": 6,
+			"copies": {
+				"1": 2,
+				"2": 2
+			}
+		},
+		{
+			"name": "Blackwing - Gofu the Vague Shadow",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Petiteranodon",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Imperial Order",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Honest",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Instant Fusion",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Kumongous, the Sticky String Kaiju",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Magic Deflector",
+			"count": 4,
+			"copies": {
+				"1": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "True King Agnimazud, the Vanisher",
+			"count": 4,
+			"copies": {
+				"1": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Skill Drain",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Dogoran, the Mad Flame Kaiju",
+			"count": 4,
+			"copies": {
+				"1": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Xyz Reborn",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Baobaboon",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Ultimate Conductor Tyranno",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Windwitch - Ice Bell",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Blind Obliteration",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Balance of Judgment",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Just Desserts",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Secret Barrel",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Secret Blast",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Threatening Roar",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "The Monarchs Erupt",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Trickstar Lilybell",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Breakthrough Skill",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Giant Rex",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Manticore of Darkness",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Spellbook Magician of Prophecy",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Windwitch - Glass Bell",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Spellbook of Knowledge",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Spellbook of Secrets",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Waterfall of Dragon Souls",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Quaking Mirror Force",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Absolute King Back Jack",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Chain Strike",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Foolish Burial",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Dimension Wall",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Ojama Trio",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Waboku",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Interrupted Kaiju Slumber",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Jurrac Aeolo",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Book of Eclipse",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Disturbance Strategy",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Storming Mirror Force",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Alexandrite Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Carboneddon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Grandsoil the Elemental Lord",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Windwitch - Snow Bell",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Electromagnetic Turtle",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Magician of Faith",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "One Day of Peace",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Blazing Mirror Force",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Ring of Destruction",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Jizukiru, the Star Destroying Kaiju",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "The Monarchs Stormforth",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	],
+	"side": [
+		{
+			"name": "Ash Blossom & Joyous Spring",
+			"count": 95,
+			"copies": {
+				"1": 4,
+				"2": 5,
+				"3": 27
+			}
+		},
+		{
+			"name": "Magic Deflector",
+			"count": 90,
+			"copies": {
+				"2": 9,
+				"3": 24
+			}
+		},
+		{
+			"name": "Cosmic Cyclone",
+			"count": 63,
+			"copies": {
+				"1": 1,
+				"2": 10,
+				"3": 14
+			}
+		},
+		{
+			"name": "Ghost Ogre & Snow Rabbit",
+			"count": 44,
+			"copies": {
+				"1": 2,
+				"2": 3,
+				"3": 12
+			}
+		},
+		{
+			"name": "Enemy Controller",
+			"count": 43,
+			"copies": {
+				"1": 1,
+				"2": 12,
+				"3": 6
+			}
+		},
+		{
+			"name": "Gameciel, the Sea Turtle Kaiju",
+			"count": 42,
+			"copies": {
+				"1": 21,
+				"2": 9,
+				"3": 1
+			}
+		},
+		{
+			"name": "Kumongous, the Sticky String Kaiju",
+			"count": 34,
+			"copies": {
+				"1": 21,
+				"2": 5,
+				"3": 1
+			}
+		},
+		{
+			"name": "Twin Twisters",
+			"count": 24,
+			"copies": {
+				"1": 4,
+				"2": 7,
+				"3": 2
+			}
+		},
+		{
+			"name": "Dark Hole",
+			"count": 23,
+			"copies": {
+				"1": 5,
+				"2": 9
+			}
+		},
+		{
+			"name": "Dimensional Barrier",
+			"count": 22,
+			"copies": {
+				"1": 5,
+				"2": 1,
+				"3": 5
+			}
+		},
+		{
+			"name": "Imperial Order",
+			"count": 21,
+			"copies": {
+				"1": 21
+			}
+		},
+		{
+			"name": "Floodgate Trap Hole",
+			"count": 17,
+			"copies": {
+				"1": 2,
+				"2": 3,
+				"3": 3
+			}
+		},
+		{
+			"name": "Mask of Restrict",
+			"count": 17,
+			"copies": {
+				"2": 1,
+				"3": 5
+			}
+		},
+		{
+			"name": "Solemn Strike",
+			"count": 16,
+			"copies": {
+				"2": 5,
+				"3": 2
+			}
+		},
+		{
+			"name": "Interrupted Kaiju Slumber",
+			"count": 13,
+			"copies": {
+				"1": 1,
+				"2": 6
+			}
+		},
+		{
+			"name": "Solemn Warning",
+			"count": 11,
+			"copies": {
+				"1": 11
+			}
+		},
+		{
+			"name": "Forbidden Chalice",
+			"count": 11,
+			"copies": {
+				"1": 1,
+				"2": 2,
+				"3": 2
+			}
+		},
+		{
+			"name": "Appointer of the Red Lotus",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Heavy Storm Duster",
+			"count": 9,
+			"copies": {
+				"1": 3,
+				"3": 2
+			}
+		},
+		{
+			"name": "Macro Cosmos",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Zaphion, the Timelord",
+			"count": 6,
+			"copies": {
+				"2": 3
+			}
+		},
+		{
+			"name": "Grisaille Prison",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Pianissimo",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Dogoran, the Mad Flame Kaiju",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Ignis Heat, the True Dracowarrior",
+			"count": 4,
+			"copies": {
+				"1": 2,
+				"2": 1
+			}
+		},
+		{
+			"name": "Raigeki",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "System Down",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Thunder King, the Lightningstrike Kaiju",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Gadarla, the Mystery Dust Kaiju",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Mind Control",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Jizukiru, the Star Destroying Kaiju",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Ghost Reaper & Winter Cherries",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Lazion, the Timelord",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Muko",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Artifact Lancea",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Solemn Scolding",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Unending Nightmare",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Grand Horn of Heaven",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Forbidden Apocrypha",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Droll & Lock Bird",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Double Evolution Pill",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Master Peace, the True Dracoslaying King",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Breakthrough Skill",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Gozen Match",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Blind Obliteration",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Quaking Mirror Force",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "D/D/D Rebel King Leonidas",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Blazing Mirror Force",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "My Body as a Shield",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Hanewata",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Necrovalley",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Shuffle Reborn",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Abyss Dweller",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Maxx \"C\"",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Ultimate Conductor Tyranno",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Evolzar Dolkka",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Evolzar Laggia",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Missus Radiant",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Skill Drain",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Effect Veiler",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Fairy Tail - Luna",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Fairy Tail - Snow",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	],
+	"extra": [
+		{
+			"name": "Zoodiac Drident",
+			"count": 119,
+			"copies": {
+				"1": 5,
+				"3": 38
+			}
+		},
+		{
+			"name": "Zoodiac Chakanine",
+			"count": 112,
+			"copies": {
+				"1": 3,
+				"2": 5,
+				"3": 33
+			}
+		},
+		{
+			"name": "Zoodiac Broadbull",
+			"count": 98,
+			"copies": {
+				"1": 3,
+				"2": 22,
+				"3": 17
+			}
+		},
+		{
+			"name": "Zoodiac Tigermortar",
+			"count": 85,
+			"copies": {
+				"1": 2,
+				"2": 31,
+				"3": 7
+			}
+		},
+		{
+			"name": "Zoodiac Hammerkong",
+			"count": 46,
+			"copies": {
+				"1": 32,
+				"2": 7
+			}
+		},
+		{
+			"name": "Zoodiac Boarbow",
+			"count": 42,
+			"copies": {
+				"1": 34,
+				"2": 4
+			}
+		},
+		{
+			"name": "Missus Radiant",
+			"count": 38,
+			"copies": {
+				"1": 38
+			}
+		},
+		{
+			"name": "Daigusto Emeral",
+			"count": 22,
+			"copies": {
+				"1": 20,
+				"2": 1
+			}
+		},
+		{
+			"name": "Abyss Dweller",
+			"count": 21,
+			"copies": {
+				"1": 21
+			}
+		},
+		{
+			"name": "Tornado Dragon",
+			"count": 12,
+			"copies": {
+				"1": 8,
+				"2": 2
+			}
+		},
+		{
+			"name": "Denglong, First of the Yang Zing",
+			"count": 5,
+			"copies": {
+				"1": 3,
+				"2": 1
+			}
+		},
+		{
+			"name": "Beelze of the Diabolic Dragons",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "PSY-Framelord Omega",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Firewall Dragon",
+			"count": 4,
+			"copies": {
+				"1": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Crystal Wing Synchro Dragon",
+			"count": 4,
+			"copies": {
+				"1": 2,
+				"2": 1
+			}
+		},
+		{
+			"name": "Trishula, Dragon of the Ice Barrier",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "Evolzar Laggia",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Decode Talker",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Link Spider",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Proxy Dragon",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "True King of All Calamities",
+			"count": 3,
+			"copies": {
+				"1": 1,
+				"2": 1
+			}
+		},
+		{
+			"name": "Invoked Mechaba",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Sea Monster of Theseus",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Number 30: Acid Golem of Destruction",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Number 39: Utopia",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Castel, the Skyblaster Musketeer",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Phantom Fortress Enterblathnir",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Black Rose Dragon",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Clear Wing Synchro Dragon",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Windwitch - Winter Bell",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Constellar Ptolemy M7",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Vermillion Dragon Mech",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Evolzar Dolkka",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Darkfire Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Thousand-Eyes Restrict",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Number S39: Utopia the Lightning",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Ningirsu the World Chalice Warrior",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Beatrice, Lady of the Eternal",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Number 103: Ragnazero",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Imduk the World Chalice Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Leo, the Keeper of the Sacred Tree",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Stardust Charge Warrior",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Stardust Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Galaxy-Eyes Cipher Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Galaxy-Eyes Full Armor Photon Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Number 23: Lancelot, Dark Knight of the Underworld",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Ancient Fairy Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Scrap Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Lyrilusc - Assembled Nightingale",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Paleozoic Anomalocaris",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Paleozoic Opabinia",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Sylvan Princessprite",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Toadally Awesome",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Hi-Speedroid Chanbara",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Diamond Dire Wolf",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Scarlight Red Dragon Archfiend",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Minerva, the Exalted Lightsworn",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Number 39: Utopia Beyond",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Blood Mefist",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Gagaga Cowboy",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Number 47: Nightmare Shark",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "The Phantom Knights of Break Sword",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	],
+	"total": [
+		{
+			"name": "Ash Blossom & Joyous Spring",
+			"count": 126,
+			"copies": {
+				"2": 6,
+				"3": 38
+			}
+		},
+		{
+			"name": "Dimensional Barrier",
+			"count": 123,
+			"copies": {
+				"2": 3,
+				"3": 39
+			}
+		},
+		{
+			"name": "Zoodiac Barrage",
+			"count": 117,
+			"copies": {
+				"3": 39
+			}
+		},
+		{
+			"name": "Pot of Desires",
+			"count": 106,
+			"copies": {
+				"1": 3,
+				"2": 17,
+				"3": 23
+			}
+		},
+		{
+			"name": "Zoodiac Whiptail",
+			"count": 104,
+			"copies": {
+				"1": 1,
+				"2": 8,
+				"3": 29
+			}
+		},
+		{
+			"name": "Cosmic Cyclone",
+			"count": 104,
+			"copies": {
+				"1": 1,
+				"2": 11,
+				"3": 27
+			}
+		},
+		{
+			"name": "Fire Formation - Tenki",
+			"count": 96,
+			"copies": {
+				"1": 1,
+				"2": 10,
+				"3": 25
+			}
+		},
+		{
+			"name": "Ghost Ogre & Snow Rabbit",
+			"count": 96,
+			"copies": {
+				"1": 2,
+				"2": 8,
+				"3": 26
+			}
+		},
+		{
+			"name": "Zoodiac Thoroughblade",
+			"count": 94,
+			"copies": {
+				"1": 7,
+				"2": 6,
+				"3": 25
+			}
+		},
+		{
+			"name": "Magic Deflector",
+			"count": 94,
+			"copies": {
+				"2": 8,
+				"3": 26
+			}
+		},
+		{
+			"name": "Zoodiac Ratpier",
+			"count": 76,
+			"copies": {
+				"2": 38
+			}
+		},
+		{
+			"name": "Zoodiac Ramram",
+			"count": 73,
+			"copies": {
+				"1": 5,
+				"2": 31,
+				"3": 2
+			}
+		},
+		{
+			"name": "Dark Hole",
+			"count": 73,
+			"copies": {
+				"1": 5,
+				"2": 34
+			}
+		},
+		{
+			"name": "Shuffle Reborn",
+			"count": 72,
+			"copies": {
+				"1": 2,
+				"2": 17,
+				"3": 12
+			}
+		},
+		{
+			"name": "Enemy Controller",
+			"count": 67,
+			"copies": {
+				"2": 17,
+				"3": 11
+			}
+		},
+		{
+			"name": "Floodgate Trap Hole",
+			"count": 59,
+			"copies": {
+				"2": 7,
+				"3": 15
+			}
+		},
+		{
+			"name": "Gameciel, the Sea Turtle Kaiju",
+			"count": 49,
+			"copies": {
+				"1": 23,
+				"2": 10,
+				"3": 2
+			}
+		},
+		{
+			"name": "Twin Twisters",
+			"count": 48,
+			"copies": {
+				"1": 2,
+				"2": 8,
+				"3": 10
+			}
+		},
+		{
+			"name": "Dragonic Diagram",
+			"count": 44,
+			"copies": {
+				"2": 1,
+				"3": 14
+			}
+		},
+		{
+			"name": "Maxx \"C\"",
+			"count": 43,
+			"copies": {
+				"1": 43
+			}
+		},
+		{
+			"name": "Raigeki",
+			"count": 43,
+			"copies": {
+				"1": 43
+			}
+		},
+		{
+			"name": "Terraforming",
+			"count": 41,
+			"copies": {
+				"1": 1,
+				"2": 2,
+				"3": 12
+			}
+		},
+		{
+			"name": "True Draco Heritage",
+			"count": 38,
+			"copies": {
+				"2": 1,
+				"3": 12
+			}
+		},
+		{
+			"name": "Kumongous, the Sticky String Kaiju",
+			"count": 38,
+			"copies": {
+				"1": 25,
+				"2": 5,
+				"3": 1
+			}
+		},
+		{
+			"name": "Solemn Strike",
+			"count": 38,
+			"copies": {
+				"2": 7,
+				"3": 8
+			}
+		},
+		{
+			"name": "Zoodiac Combo",
+			"count": 38,
+			"copies": {
+				"1": 24,
+				"2": 7
+			}
+		},
+		{
+			"name": "Pianissimo",
+			"count": 35,
+			"copies": {
+				"2": 4,
+				"3": 9
+			}
+		},
+		{
+			"name": "My Body as a Shield",
+			"count": 35,
+			"copies": {
+				"1": 1,
+				"2": 8,
+				"3": 6
+			}
+		},
+		{
+			"name": "Heavy Storm Duster",
+			"count": 35,
+			"copies": {
+				"1": 1,
+				"2": 2,
+				"3": 10
+			}
+		},
+		{
+			"name": "Dinomight Knight, the True Dracofighter",
+			"count": 32,
+			"copies": {
+				"1": 1,
+				"2": 5,
+				"3": 7
+			}
+		},
+		{
+			"name": "True King's Return",
+			"count": 31,
+			"copies": {
+				"2": 8,
+				"3": 5
+			}
+		},
+		{
+			"name": "Soul Charge",
+			"count": 29,
+			"copies": {
+				"1": 29
+			}
+		},
+		{
+			"name": "Ignis Heat, the True Dracowarrior",
+			"count": 27,
+			"copies": {
+				"1": 1,
+				"2": 7,
+				"3": 4
+			}
+		},
+		{
+			"name": "Master Peace, the True Dracoslaying King",
+			"count": 26,
+			"copies": {
+				"2": 13
+			}
+		},
+		{
+			"name": "Imperial Order",
+			"count": 26,
+			"copies": {
+				"1": 26
+			}
+		},
+		{
+			"name": "Solemn Warning",
+			"count": 24,
+			"copies": {
+				"1": 24
+			}
+		},
+		{
+			"name": "True Draco Apocalypse",
+			"count": 22,
+			"copies": {
+				"1": 7,
+				"2": 3,
+				"3": 3
+			}
+		},
+		{
+			"name": "Disciples of the True Dracophoenix",
+			"count": 21,
+			"copies": {
+				"1": 3,
+				"2": 6,
+				"3": 2
+			}
+		},
+		{
+			"name": "Book of Moon",
+			"count": 19,
+			"copies": {
+				"1": 19
+			}
+		},
+		{
+			"name": "Torrential Tribute",
+			"count": 18,
+			"copies": {
+				"1": 18
+			}
+		},
+		{
+			"name": "Forbidden Chalice",
+			"count": 17,
+			"copies": {
+				"1": 1,
+				"2": 5,
+				"3": 2
+			}
+		},
+		{
+			"name": "Mask of Restrict",
+			"count": 17,
+			"copies": {
+				"2": 1,
+				"3": 5
+			}
+		},
+		{
+			"name": "Interrupted Kaiju Slumber",
+			"count": 15,
+			"copies": {
+				"1": 1,
+				"2": 7
+			}
+		},
+		{
+			"name": "Card of Demise",
+			"count": 12,
+			"copies": {
+				"3": 4
+			}
+		},
+		{
+			"name": "Upstart Goblin",
+			"count": 11,
+			"copies": {
+				"1": 11
+			}
+		},
+		{
+			"name": "Pot of Duality",
+			"count": 11,
+			"copies": {
+				"2": 1,
+				"3": 3
+			}
+		},
+		{
+			"name": "Ghost Reaper & Winter Cherries",
+			"count": 10,
+			"copies": {
+				"2": 2,
+				"3": 2
+			}
+		},
+		{
+			"name": "Appointer of the Red Lotus",
+			"count": 9,
+			"copies": {
+				"3": 3
+			}
+		},
+		{
+			"name": "Droll & Lock Bird",
+			"count": 8,
+			"copies": {
+				"2": 1,
+				"3": 2
+			}
+		},
+		{
+			"name": "Dogoran, the Mad Flame Kaiju",
+			"count": 8,
+			"copies": {
+				"1": 5,
+				"3": 1
+			}
+		},
+		{
+			"name": "Macro Cosmos",
+			"count": 7,
+			"copies": {
+				"1": 7
+			}
+		},
+		{
+			"name": "Trickstar Candina",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Trickstar Lycoris",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Trickstar Light Stage",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Trickstar Reincarnation",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Zaphion, the Timelord",
+			"count": 6,
+			"copies": {
+				"2": 3
+			}
+		},
+		{
+			"name": "Babycerasaurus",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Miscellaneousaurus",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Souleating Oviraptor",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "True King Lithosagym, the Disaster",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Fossil Dig",
+			"count": 6,
+			"copies": {
+				"3": 2
+			}
+		},
+		{
+			"name": "Blackwing - Gofu the Vague Shadow",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Petiteranodon",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Skill Drain",
+			"count": 5,
+			"copies": {
+				"1": 5
+			}
+		},
+		{
+			"name": "Blind Obliteration",
+			"count": 5,
+			"copies": {
+				"1": 1,
+				"2": 2
+			}
+		},
+		{
+			"name": "Grisaille Prison",
+			"count": 5,
+			"copies": {
+				"2": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Honest",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Instant Fusion",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Breakthrough Skill",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Jizukiru, the Star Destroying Kaiju",
+			"count": 4,
+			"copies": {
+				"1": 4
+			}
+		},
+		{
+			"name": "True King Agnimazud, the Vanisher",
+			"count": 4,
+			"copies": {
+				"1": 1,
+				"3": 1
+			}
+		},
+		{
+			"name": "Ultimate Conductor Tyranno",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "Quaking Mirror Force",
+			"count": 4,
+			"copies": {
+				"2": 2
+			}
+		},
+		{
+			"name": "System Down",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Xyz Reborn",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Thunder King, the Lightningstrike Kaiju",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Gadarla, the Mystery Dust Kaiju",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Mind Control",
+			"count": 3,
+			"copies": {
+				"1": 3
+			}
+		},
+		{
+			"name": "Baobaboon",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Windwitch - Ice Bell",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Balance of Judgment",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Blazing Mirror Force",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Just Desserts",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Secret Barrel",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Secret Blast",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Threatening Roar",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Lazion, the Timelord",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "The Monarchs Erupt",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Muko",
+			"count": 3,
+			"copies": {
+				"3": 1
+			}
+		},
+		{
+			"name": "Trickstar Lilybell",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Artifact Lancea",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Solemn Scolding",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Unending Nightmare",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Grand Horn of Heaven",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Forbidden Apocrypha",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Giant Rex",
+			"count": 2,
+			"copies": {
+				"1": 2
+			}
+		},
+		{
+			"name": "Manticore of Darkness",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Double Evolution Pill",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Spellbook Magician of Prophecy",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Windwitch - Glass Bell",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Spellbook of Knowledge",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Spellbook of Secrets",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Waterfall of Dragon Souls",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Gozen Match",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Absolute King Back Jack",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Chain Strike",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Foolish Burial",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Dimension Wall",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Ojama Trio",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Waboku",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "D/D/D Rebel King Leonidas",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Jurrac Aeolo",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Book of Eclipse",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Disturbance Strategy",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Storming Mirror Force",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Hanewata",
+			"count": 2,
+			"copies": {
+				"2": 1
+			}
+		},
+		{
+			"name": "Necrovalley",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Abyss Dweller",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Alexandrite Dragon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Carboneddon",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Grandsoil the Elemental Lord",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Evolzar Dolkka",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Evolzar Laggia",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Missus Radiant",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Windwitch - Snow Bell",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Electromagnetic Turtle",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Magician of Faith",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "One Day of Peace",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Ring of Destruction",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Effect Veiler",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Fairy Tail - Luna",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "Fairy Tail - Snow",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		},
+		{
+			"name": "The Monarchs Stormforth",
+			"count": 1,
+			"copies": {
+				"1": 1
+			}
+		}
+	]
+}

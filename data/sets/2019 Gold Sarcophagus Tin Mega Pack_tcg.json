@@ -1,0 +1,812 @@
+{
+  "Prompthorn": [
+    "Common"
+  ],
+  "Backup Operator": [
+    "Common"
+  ],
+  "Link Streamer": [
+    "Common"
+  ],
+  "Trickstar Nightshade": [
+    "Common"
+  ],
+  "Trickstar Mandrake": [
+    "Common"
+  ],
+  "Gouki Octostretch": [
+    "Common"
+  ],
+  "Gouki Bearhug": [
+    "Common"
+  ],
+  "Background Dragon": [
+    "Common"
+  ],
+  "Altergeist Multifaker": [
+    "Prismatic Secret Rare"
+  ],
+  "Altergeist Pixiel": [
+    "Common"
+  ],
+  "Knightmare Corruptor Iblee": [
+    "Ultra Rare"
+  ],
+  "World Legacy - \"World Lance\"": [
+    "Super Rare"
+  ],
+  "Watch Cat": [
+    "Common"
+  ],
+  "Trancefamiliar": [
+    "Common"
+  ],
+  "Three Trolling Trolls": [
+    "Common"
+  ],
+  "Iron Dragon Tiamaton": [
+    "Prismatic Secret Rare"
+  ],
+  "Red Hared Hasty Horse": [
+    "Common"
+  ],
+  "Boycotton": [
+    "Common"
+  ],
+  "Topologic Trisbaena": [
+    "Ultra Rare"
+  ],
+  "Space Insulator": [
+    "Rare"
+  ],
+  "Trickstar Bella Madonna": [
+    "Super Rare"
+  ],
+  "Trickstar Bloom": [
+    "Rare"
+  ],
+  "Trickstar Delfiendium": [
+    "Common"
+  ],
+  "Altergeist Kidolga": [
+    "Rare"
+  ],
+  "Knightmare Mermaid": [
+    "Prismatic Secret Rare"
+  ],
+  "Knightmare Cerberus": [
+    "Ultra Rare"
+  ],
+  "Knightmare Phoenix": [
+    "Ultra Rare"
+  ],
+  "Knightmare Unicorn": [
+    "Ultra Rare"
+  ],
+  "Knightmare Gryphon": [
+    "Ultra Rare"
+  ],
+  "Vampire Sucker": [
+    "Ultra Rare"
+  ],
+  "Fire Fighting Daruma Doll": [
+    "Common"
+  ],
+  "Greatfly": [
+    "Super Rare"
+  ],
+  "Cybersal Cyclone": [
+    "Common"
+  ],
+  "Trickstar Light Arena": [
+    "Common"
+  ],
+  "Trickstar Bouquet": [
+    "Common"
+  ],
+  "Gouki Face Turn": [
+    "Common"
+  ],
+  "World Legacy's Corruption": [
+    "Common"
+  ],
+  "World Legacy Succession": [
+    "Prismatic Secret Rare"
+  ],
+  "World Legacy's Nightmare": [
+    "Common"
+  ],
+  "Restoration of the Monarchs": [
+    "Common"
+  ],
+  "Sekka's Light": [
+    "Prismatic Secret Rare"
+  ],
+  "Staring Contest": [
+    "Rare"
+  ],
+  "Called by the Grave": [
+    "Prismatic Secret Rare"
+  ],
+  "Monster Reborn Reborn": [
+    "Common"
+  ],
+  "Limit Code": [
+    "Common"
+  ],
+  "Red Reboot": [
+    "Prismatic Secret Rare"
+  ],
+  "Altergeist Emulatelf": [
+    "Common"
+  ],
+  "World Legacy Awakens": [
+    "Common"
+  ],
+  "World Legacy Struggle": [
+    "Common"
+  ],
+  "Network Trap Hole": [
+    "Rare"
+  ],
+  "Heartless Drop Off": [
+    "Common"
+  ],
+  "Mamemaki": [
+    "Common"
+  ],
+  "Waking the Dragon": [
+    "Common"
+  ],
+  "Super Team Buddy Force Unite!": [
+    "Common"
+  ],
+  "Revendread Executor": [
+    "Super Rare"
+  ],
+  "Vendread Anima": [
+    "Common"
+  ],
+  "Revendread Evolution": [
+    "Common"
+  ],
+  "Vendread Nightmare": [
+    "Common"
+  ],
+  "Vendread Daybreak": [
+    "Common"
+  ],
+  "F.A. Dark Dragster": [
+    "Common"
+  ],
+  "F.A. Dawn Dragster": [
+    "Super Rare"
+  ],
+  "F.A. Winners": [
+    "Common"
+  ],
+  "F.A. Dead Heat": [
+    "Common"
+  ],
+  "F.A. Overheat": [
+    "Common"
+  ],
+  "Crystal Master": [
+    "Common"
+  ],
+  "Crystal Keeper": [
+    "Common"
+  ],
+  "Inzektor Picofalena": [
+    "Common"
+  ],
+  "Madolche Fresh Sistart": [
+    "Common"
+  ],
+  "Rainbow Refraction": [
+    "Common"
+  ],
+  "Crystal Conclave": [
+    "Common"
+  ],
+  "Contact Gate": [
+    "Common"
+  ],
+  "SIMM Tablir": [
+    "Common"
+  ],
+  "Cluster Congester": [
+    "Common"
+  ],
+  "Gouki Moonsault": [
+    "Common"
+  ],
+  "Gouki Tagpartner": [
+    "Common"
+  ],
+  "Gouki Ringtrainer": [
+    "Common"
+  ],
+  "Crusadia Reclusia": [
+    "Ultra Rare"
+  ],
+  "Crusadia Arboria": [
+    "Super Rare"
+  ],
+  "Crusadia Leonis": [
+    "Common"
+  ],
+  "Crusadia Draco": [
+    "Super Rare"
+  ],
+  "Crusadia Maximus": [
+    "Prismatic Secret Rare"
+  ],
+  "World Legacy - \"World Crown\"": [
+    "Super Rare"
+  ],
+  "Impcantation Candoll": [
+    "Super Rare"
+  ],
+  "Impcantation Talismandra": [
+    "Super Rare"
+  ],
+  "Cyber Dragon Vier": [
+    "Common"
+  ],
+  "Cyber Dragon Herz": [
+    "Super Rare"
+  ],
+  "Dragunity Senatus": [
+    "Common"
+  ],
+  "Dragunity Couse": [
+    "Common"
+  ],
+  "Cosmo Brain": [
+    "Common"
+  ],
+  "Mana Dragon Zirnitron": [
+    "Prismatic Secret Rare"
+  ],
+  "Terrifying Toddler of Torment": [
+    "Common"
+  ],
+  "Psychic Ace": [
+    "Common"
+  ],
+  "Cupid Volley": [
+    "Common"
+  ],
+  "Centerfrog": [
+    "Rare"
+  ],
+  "Cyberse Magician": [
+    "Rare"
+  ],
+  "Paladin of Storm Dragon": [
+    "Common"
+  ],
+  "Borrelsword Dragon": [
+    "Ultra Rare"
+  ],
+  "Cyberse Witch": [
+    "Super Rare"
+  ],
+  "Link Devotee": [
+    "Common"
+  ],
+  "Restoration Point Guard": [
+    "Common"
+  ],
+  "Gouki Heel Ogre": [
+    "Common"
+  ],
+  "Gouki The Giant Ogre": [
+    "Common"
+  ],
+  "Miniborrel Dragon": [
+    "Common"
+  ],
+  "Vorticular Drumgon": [
+    "Common"
+  ],
+  "Crusadia Magius": [
+    "Prismatic Secret Rare"
+  ],
+  "Crusadia Regulex": [
+    "Common"
+  ],
+  "Crusadia Equimax": [
+    "Prismatic Secret Rare"
+  ],
+  "Cyber Dragon Sieger": [
+    "Prismatic Secret Rare"
+  ],
+  "Sky Striker Ace - Hayate": [
+    "Prismatic Secret Rare"
+  ],
+  "Reprodocus": [
+    "Ultra Rare"
+  ],
+  "Wee Witch's Apprentice": [
+    "Rare"
+  ],
+  "Hip Hoshiningen": [
+    "Rare"
+  ],
+  "Cynet Ritual": [
+    "Common"
+  ],
+  "Zero Extra Link": [
+    "Common"
+  ],
+  "Borrel Regenerator": [
+    "Common"
+  ],
+  "Crusadia Revival": [
+    "Rare"
+  ],
+  "Crusadia Power": [
+    "Common"
+  ],
+  "Cyber Revsystem": [
+    "Super Rare"
+  ],
+  "World Legacy Survivor": [
+    "Rare"
+  ],
+  "Mythical Institution": [
+    "Common"
+  ],
+  "Beast Magic Attack": [
+    "Common"
+  ],
+  "Celestial Observatory": [
+    "Rare"
+  ],
+  "Solitary Sword of Poison": [
+    "Common"
+  ],
+  "Cross Breed": [
+    "Super Rare"
+  ],
+  "Shield Handler": [
+    "Common"
+  ],
+  "Mirror Force Launcher": [
+    "Rare"
+  ],
+  "Link Turret": [
+    "Common"
+  ],
+  "Crusadia Vanguard": [
+    "Common"
+  ],
+  "Cybernetic Overflow": [
+    "Common"
+  ],
+  "Dragunity Legion": [
+    "Common"
+  ],
+  "World Legacy's Mind Meld": [
+    "Common"
+  ],
+  "Ballista Squad": [
+    "Common"
+  ],
+  "The Deep Grave": [
+    "Common"
+  ],
+  "Universal Adapter": [
+    "Common"
+  ],
+  "Dealer's Choice": [
+    "Common"
+  ],
+  "Danger! Bigfoot!": [
+    "Ultra Rare"
+  ],
+  "Danger! Nessie!": [
+    "Ultra Rare"
+  ],
+  "Danger! Chupacabra!": [
+    "Prismatic Secret Rare"
+  ],
+  "Danger!? Jackalope?": [
+    "Prismatic Secret Rare"
+  ],
+  "Realm of Danger!": [
+    "Rare"
+  ],
+  "Noble Knight Custennin": [
+    "Rare"
+  ],
+  "Sacred Noble Knight of King Custennin": [
+    "Rare"
+  ],
+  "Noble Knight Pellinore": [
+    "Rare"
+  ],
+  "Noble Arms - Clarent": [
+    "Common"
+  ],
+  "Performapal Handsamuraiger": [
+    "Common"
+  ],
+  "Performapal Lebellman": [
+    "Common"
+  ],
+  "Performapal Gold Fang": [
+    "Common"
+  ],
+  "White Stingray": [
+    "Common"
+  ],
+  "Interrupt Resistor": [
+    "Common"
+  ],
+  "Gladiator Beast Dragases": [
+    "Common"
+  ],
+  "Alviss of the Nordic Alfar": [
+    "Common"
+  ],
+  "Clock Wyvern": [
+    "Common"
+  ],
+  "Salamangreat Meer": [
+    "Common"
+  ],
+  "Salamangreat Foxy": [
+    "Prismatic Secret Rare"
+  ],
+  "Salamangreat Falco": [
+    "Common"
+  ],
+  "Salamangreat Jack Jaguar": [
+    "Common"
+  ],
+  "Dinowrestler Capoeiraptor": [
+    "Common"
+  ],
+  "Dinowrestler Capaptera": [
+    "Common"
+  ],
+  "Dinowrestler Systegosaur": [
+    "Common"
+  ],
+  "Dinowrestler Pankratops": [
+    "Ultra Rare"
+  ],
+  "Galaxy Cleric": [
+    "Common"
+  ],
+  "Galaxy Brave": [
+    "Common"
+  ],
+  "Gravekeeper's Headman": [
+    "Common"
+  ],
+  "Gravekeeper's Spiritualist": [
+    "Common"
+  ],
+  "World Legacy - \"World Wand\"": [
+    "Common"
+  ],
+  "Thunder Dragonmatrix": [
+    "Common"
+  ],
+  "Thunder Dragondark": [
+    "Prismatic Secret Rare"
+  ],
+  "Thunder Dragonhawk": [
+    "Prismatic Secret Rare"
+  ],
+  "Thunder Dragonroar": [
+    "Prismatic Secret Rare"
+  ],
+  "Thunder Dragonduo": [
+    "Ultra Rare"
+  ],
+  "Impcantation Penciplume": [
+    "Super Rare"
+  ],
+  "Impcantation Bookstone": [
+    "Super Rare"
+  ],
+  "Mystrick Hulder": [
+    "Common"
+  ],
+  "Diana the Light Spirit": [
+    "Common"
+  ],
+  "Bearblocker": [
+    "Common"
+  ],
+  "Gokipole": [
+    "Common"
+  ],
+  "Token Collector": [
+    "Common"
+  ],
+  "Two-for-One Team": [
+    "Common"
+  ],
+  "Salamangreat Emerald Eagle": [
+    "Common"
+  ],
+  "Cyberse Clock Dragon": [
+    "Rare"
+  ],
+  "Gravekeeper's Supernaturalist": [
+    "Common"
+  ],
+  "Thunder Dragon Titan": [
+    "Ultra Rare"
+  ],
+  "Thunder Dragon Colossus": [
+    "Ultra Rare"
+  ],
+  "Diplexer Chimera": [
+    "Common"
+  ],
+  "Clock Spartoi": [
+    "Common"
+  ],
+  "Salamangreat Heatleo": [
+    "Prismatic Secret Rare"
+  ],
+  "Dinowrestler King T Wrextle": [
+    "Common"
+  ],
+  "Galaxy-Eyes Solflare Dragon": [
+    "Prismatic Secret Rare"
+  ],
+  "Crusadia Spatha": [
+    "Common"
+  ],
+  "Folgo, Justice Fur Hire": [
+    "Rare"
+  ],
+  "Agave Dragon": [
+    "Common"
+  ],
+  "Some Summer Summoner": [
+    "Rare"
+  ],
+  "Cynet Fusion": [
+    "Common"
+  ],
+  "Salamangreat Sanctuary": [
+    "Common"
+  ],
+  "Rise of the Salamangreat": [
+    "Common"
+  ],
+  "Will of the Salamangreat": [
+    "Common"
+  ],
+  "World Dino Wrestling": [
+    "Common"
+  ],
+  "Galaxy Trance": [
+    "Common"
+  ],
+  "Thunder Dragon Fusion": [
+    "Super Rare"
+  ],
+  "Giant Ballpark": [
+    "Common"
+  ],
+  "Herald of the Abyss": [
+    "Ultra Rare"
+  ],
+  "Concentrating Current": [
+    "Common"
+  ],
+  "Parallel Panzer": [
+    "Common"
+  ],
+  "Salamangreat Gift": [
+    "Common"
+  ],
+  "Necrovalley Temple": [
+    "Common"
+  ],
+  "Eternal Galaxy": [
+    "Common"
+  ],
+  "Thunder Dragons' Hundred Thunders": [
+    "Common"
+  ],
+  "Thunder Dragon Discharge": [
+    "Common"
+  ],
+  "Crusadia Krawler": [
+    "Common"
+  ],
+  "Necro Fusion": [
+    "Common"
+  ],
+  "Invincibility Barrier": [
+    "Common"
+  ],
+  "Toll Hike": [
+    "Common"
+  ],
+  "Trap Trick": [
+    "Ultra Rare"
+  ],
+  "The Revenge of the Normal": [
+    "Common"
+  ],
+  "Subsurface Stage Divers": [
+    "Common"
+  ],
+  "Consolation Prize": [
+    "Common"
+  ],
+  "Danger! Thunderbird!": [
+    "Ultra Rare"
+  ],
+  "Danger! Dogman!": [
+    "Ultra Rare"
+  ],
+  "Danger! Mothman!": [
+    "Prismatic Secret Rare"
+  ],
+  "Danger!? Tsuchinoko?": [
+    "Ultra Rare"
+  ],
+  "Danger! Response Team": [
+    "Prismatic Secret Rare"
+  ],
+  "Noble Knight Iyvanne": [
+    "Rare"
+  ],
+  "Morgan, the Enchantress of Avalon": [
+    "Prismatic Secret Rare"
+  ],
+  "Heritage of the Chalice": [
+    "Prismatic Secret Rare"
+  ],
+  "Until Noble Arms are Needed Once Again": [
+    "Prismatic Secret Rare"
+  ],
+  "Patchwork Fluffal": [
+    "Common"
+  ],
+  "Edge Imp Cotton Eater": [
+    "Common"
+  ],
+  "Predaplant Dragostapelia": [
+    "Common"
+  ],
+  "D/D/D Flame High King Genghis": [
+    "Super Rare"
+  ],
+  "D/D/D Super Doom King Purple Armageddon": [
+    "Super Rare"
+  ],
+  "Predaplast": [
+    "Common"
+  ],
+  "Ostinato": [
+    "Common"
+  ],
+  "Vampire Familiar": [
+    "Common"
+  ],
+  "Vampire Retainer": [
+    "Common"
+  ],
+  "Vampire Fraulein": [
+    "Ultra Rare"
+  ],
+  "Vampire Grimson": [
+    "Common"
+  ],
+  "Vampire Scarlet Scourge": [
+    "Common"
+  ],
+  "Vampire Red Baron": [
+    "Common"
+  ],
+  "Dhampir Vampire Sheridan": [
+    "Common"
+  ],
+  "Vampire's Desire": [
+    "Common"
+  ],
+  "Vampire's Domain": [
+    "Common"
+  ],
+  "Vampire Awakening": [
+    "Common"
+  ],
+  "Vampire Domination": [
+    "Common"
+  ],
+  "Donpa, Marksman Fur Hire": [
+    "Common"
+  ],
+  "Recon, Scout Fur Hire": [
+    "Common"
+  ],
+  "Helmer, Helmsman Fur Hire": [
+    "Common"
+  ],
+  "Beat, Bladesman Fur Hire": [
+    "Ultra Rare"
+  ],
+  "Seal, Strategist Fur Hire": [
+    "Common"
+  ],
+  "Bravo, Fighter Fur Hire": [
+    "Common"
+  ],
+  "Sagitta, Maverick Fur Hire": [
+    "Common"
+  ],
+  "Dyna, Hero Fur Hire": [
+    "Common"
+  ],
+  "Wiz, Sage Fur Hire": [
+    "Common"
+  ],
+  "Rafale, Champion Fur Hire": [
+    "Common"
+  ],
+  "Fandora, the Flying Furtress": [
+    "Common"
+  ],
+  "Mayhem Fur Hire": [
+    "Common"
+  ],
+  "Training Fur Hire, Fur All Your Training Needs": [
+    "Common"
+  ],
+  "Sky Striker Ace - Kagari": [
+    "Prismatic Secret Rare"
+  ],
+  "Sky Striker Ace - Shizuku": [
+    "Prismatic Secret Rare"
+  ],
+  "Sky Striker Ace - Raye": [
+    "Prismatic Secret Rare"
+  ],
+  "Sky Striker Mobilize - Engage!": [
+    "Ultra Rare"
+  ],
+  "Sky Striker Maneuver - Afterburners!": [
+    "Super Rare"
+  ],
+  "Sky Striker Maneuver - Jamming Waves!": [
+    "Common"
+  ],
+  "Sky Striker Mecha - Hornet Drones": [
+    "Common"
+  ],
+  "Sky Striker Mecha - Widow Anchor": [
+    "Ultra Rare"
+  ],
+  "Sky Striker Mecha - Eagle Booster": [
+    "Common"
+  ],
+  "Sky Striker Mecha - Shark Cannon": [
+    "Common"
+  ],
+  "Sky Striker Mecharmory - Hercules Base": [
+    "Common"
+  ],
+  "Sky Striker Mecha Modules - Multirole": [
+    "Common"
+  ],
+  "Sky Striker Airspace - Area Zero": [
+    "Common"
+  ],
+  "Duelittle Chimera": [
+    "Super Rare"
+  ]
+}

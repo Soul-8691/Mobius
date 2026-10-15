@@ -1,0 +1,302 @@
+{
+  "Guardian of Order": [
+    "ScR"
+  ],
+  "Honest": [
+    "ScR,GR"
+  ],
+  "Cross Porter": [
+    "C"
+  ],
+  "Miracle Flipper": [
+    "C"
+  ],
+  "Destiny Hero - Dread Servant": [
+    "C"
+  ],
+  "Volcanic Queen": [
+    "C"
+  ],
+  "Jinzo - Returner": [
+    "R"
+  ],
+  "Jinzo - Lord": [
+    "SR"
+  ],
+  "Arcana Force 0 - The Fool": [
+    "C"
+  ],
+  "Arcana Force I - The Magician": [
+    "C"
+  ],
+  "Arcana Force III - The Empress": [
+    "C"
+  ],
+  "Arcana Force IV - The Emperor": [
+    "C"
+  ],
+  "Arcana Force VI - The Lovers": [
+    "C"
+  ],
+  "Arcana Force VII - The Chariot": [
+    "C"
+  ],
+  "Arcana Force XIV - Temperance": [
+    "R"
+  ],
+  "Arcana Force XVIII - The Moon": [
+    "C"
+  ],
+  "Arcana Force XXI - The World": [
+    "UR,UtR"
+  ],
+  "Arcana Force EX - The Dark Ruler": [
+    "ScR"
+  ],
+  "Jain, Lightsworn Paladin": [
+    "C"
+  ],
+  "Lyla, Lightsworn Sorceress": [
+    "UR,UtR"
+  ],
+  "Garoth, Lightsworn Warrior": [
+    "C"
+  ],
+  "Lumina, Lightsworn Summoner": [
+    "R"
+  ],
+  "Ryko, Lightsworn Hunter": [
+    "SR"
+  ],
+  "Wulf, Lightsworn Beast": [
+    "SR"
+  ],
+  "Celestia, Lightsworn Angel": [
+    "UR,UtR"
+  ],
+  "Gragonith, Lightsworn Dragon": [
+    "C"
+  ],
+  "Judgment Dragon": [
+    "ScR"
+  ],
+  "Dark Valkyria": [
+    "R"
+  ],
+  "Substitoad": [
+    "R"
+  ],
+  "Unifrog": [
+    "C"
+  ],
+  "Batteryman Charger": [
+    "C"
+  ],
+  "Batteryman Industrial Strength": [
+    "R"
+  ],
+  "Batteryman Micro-Cell": [
+    "C"
+  ],
+  "Goblin Recon Squad": [
+    "C"
+  ],
+  "Interplanetary Invader \"A\"": [
+    "C"
+  ],
+  "Diskblade Rider": [
+    "R"
+  ],
+  "Golden Ladybug": [
+    "R"
+  ],
+  "DUCKER Mobile Cannon": [
+    "SR"
+  ],
+  "The Lady in Wight": [
+    "C"
+  ],
+  "Simorgh, Bird of Ancestry": [
+    "R"
+  ],
+  "Cloudian - Storm Dragon": [
+    "C"
+  ],
+  "Phantom Dragon": [
+    "UR,UtR"
+  ],
+  "Destiny End Dragoon": [
+    "UR,UtR"
+  ],
+  "Ultimate Ancient Gear Golem": [
+    "UR,UtR"
+  ],
+  "Gladiator Beast Gyzarus": [
+    "SR"
+  ],
+  "Hero Mask": [
+    "C"
+  ],
+  "Space Gift": [
+    "C"
+  ],
+  "Demise of the Land": [
+    "C"
+  ],
+  "D - Formation": [
+    "C"
+  ],
+  "Spell Gear": [
+    "C"
+  ],
+  "Cup of Ace": [
+    "C"
+  ],
+  "Light Barrier": [
+    "R"
+  ],
+  "Solar Recharge": [
+    "UR,UtR"
+  ],
+  "Realm of Light": [
+    "C"
+  ],
+  "Wetlands": [
+    "C"
+  ],
+  "Quick Charger": [
+    "C"
+  ],
+  "Short Circuit": [
+    "C"
+  ],
+  "Light of Redemption": [
+    "SR"
+  ],
+  "Mystical Cards of Light": [
+    "C"
+  ],
+  "Level Tuning": [
+    "C"
+  ],
+  "Deck Lockdown": [
+    "R"
+  ],
+  "Ribbon of Rebirth": [
+    "R"
+  ],
+  "Golden Bamboo Sword": [
+    "C"
+  ],
+  "Limit Reverse": [
+    "C"
+  ],
+  "Hero Blast": [
+    "R"
+  ],
+  "Rainbow Gravity": [
+    "C"
+  ],
+  "D - Fortune": [
+    "C"
+  ],
+  "Reversal of Fate": [
+    "C"
+  ],
+  "Tour of Doom": [
+    "C"
+  ],
+  "Arcana Call": [
+    "C"
+  ],
+  "Light Spiral": [
+    "C"
+  ],
+  "Glorious Illusion": [
+    "R"
+  ],
+  "Destruction Jammer": [
+    "R"
+  ],
+  "Froggy Forcefield": [
+    "R"
+  ],
+  "Portable Battery Pack": [
+    "C"
+  ],
+  "Gladiator Lash": [
+    "C"
+  ],
+  "Raging Cloudian": [
+    "C"
+  ],
+  "Sanguine Swamp": [
+    "C"
+  ],
+  "Lucky Chance": [
+    "C"
+  ],
+  "Summon Limit": [
+    "C"
+  ],
+  "Dice Try!": [
+    "C"
+  ],
+  "Aurkus, Lightsworn Druid": [
+    "SR"
+  ],
+  "Ehren, Lightsworn Monk": [
+    "ScR"
+  ],
+  "Dark General Freed": [
+    "ScR"
+  ],
+  "Magical Exemplar": [
+    "SR"
+  ],
+  "Maniacal Servant": [
+    "R"
+  ],
+  "Nimble Musasabi": [
+    "R"
+  ],
+  "Flame Spirit Ignis": [
+    "R"
+  ],
+  "Super-Ancient Dinobeast": [
+    "UR,UtR"
+  ],
+  "Vanquishing Light": [
+    "SR"
+  ],
+  "Tualatin": [
+    "ScR"
+  ],
+  "Divine Knight Ishzark": [
+    "SR"
+  ],
+  "Angel O7": [
+    "ScR"
+  ],
+  "Union Attack": [
+    "SR"
+  ],
+  "Owner's Seal": [
+    "R"
+  ],
+  "Helios Trice Megistus": [
+    "SR"
+  ],
+  "Dangerous Machine Type-6": [
+    "UR,UtR"
+  ],
+  "Maximum Six": [
+    "UR,UtR"
+  ],
+  "Fog King": [
+    "ScR"
+  ],
+  "Fossil Dyna Pachycephalo": [
+    "ScR"
+  ]
+}

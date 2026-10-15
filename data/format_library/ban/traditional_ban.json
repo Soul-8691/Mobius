@@ -1,0 +1,3821 @@
+{
+	"id": "May 2026",
+	"forbidden": [
+		{
+			"id": 31776,
+			"cardName": "Agido the Ancient Sentinel",
+			"cardId": 12295,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 12295,
+				"name": "Agido the Ancient Sentinel",
+				"cleanName": "Agido the Ancient Sentinel",
+				"artworkId": "62320425",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31630,
+			"cardName": "Archnemeses Protos",
+			"cardId": 519,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 519,
+				"name": "Archnemeses Protos",
+				"cleanName": "Archnemeses Protos",
+				"artworkId": "6728559",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31624,
+			"cardName": "Artifact Mjollnir",
+			"cardId": 610,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 610,
+				"name": "Artifact Mjollnir",
+				"cleanName": "Artifact Mjollnir",
+				"artworkId": "80237445",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31746,
+			"cardName": "Artifact Scythe",
+			"cardId": 613,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 613,
+				"name": "Artifact Scythe",
+				"cleanName": "Artifact Scythe",
+				"artworkId": "20292186",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31625,
+			"cardName": "Barrier Statue of the Drought",
+			"cardId": 772,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 772,
+				"name": "Barrier Statue of the Drought",
+				"cleanName": "Barrier Statue of the Drought",
+				"artworkId": "19740112",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31626,
+			"cardName": "Barrier Statue of the Inferno",
+			"cardId": 774,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 774,
+				"name": "Barrier Statue of the Inferno",
+				"cleanName": "Barrier Statue of the Inferno",
+				"artworkId": "47961808",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31805,
+			"cardName": "Barrier Statue of the Stormwinds",
+			"cardId": 775,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 775,
+				"name": "Barrier Statue of the Stormwinds",
+				"cleanName": "Barrier Statue of the Stormwinds",
+				"artworkId": "73356503",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31665,
+			"cardName": "Blackwing - Gofu the Vague Shadow",
+			"cardId": 1004,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 1004,
+				"name": "Blackwing - Gofu the Vague Shadow",
+				"cleanName": "Blackwing Gofu the Vague Shadow",
+				"artworkId": "9929398",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31806,
+			"cardName": "Block Dragon",
+			"cardId": 1072,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 1072,
+				"name": "Block Dragon",
+				"cleanName": "Block Dragon",
+				"artworkId": "94689206",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31788,
+			"cardName": "Cyber-Stein",
+			"cardId": 1980,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 1980,
+				"name": "Cyber-Stein",
+				"cleanName": "Cyber Stein",
+				"artworkId": "69015963",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31755,
+			"cardName": "Dandylion",
+			"cardId": 2162,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 2162,
+				"name": "Dandylion",
+				"cleanName": "Dandylion",
+				"artworkId": "15341821",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31768,
+			"cardName": "Djinn Releaser of Rituals",
+			"cardId": 2674,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 2674,
+				"name": "Djinn Releaser of Rituals",
+				"cleanName": "Djinn Releaser of Rituals",
+				"artworkId": "8903700",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31757,
+			"cardName": "Eclipse Wyvern",
+			"cardId": 3013,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 3013,
+				"name": "Eclipse Wyvern",
+				"cleanName": "Eclipse Wyvern",
+				"artworkId": "51858306",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31685,
+			"cardName": "Fiber Jar",
+			"cardId": 3472,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 3472,
+				"name": "Fiber Jar",
+				"cleanName": "Fiber Jar",
+				"artworkId": "78706415",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31684,
+			"cardName": "Fishborg Blaster",
+			"cardId": 3563,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 3563,
+				"name": "Fishborg Blaster",
+				"cleanName": "Fishborg Blaster",
+				"artworkId": "93369354",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31628,
+			"cardName": "Fossil Dyna Pachycephalo",
+			"cardId": 3735,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 3735,
+				"name": "Fossil Dyna Pachycephalo",
+				"cleanName": "Fossil Dyna Pachycephalo",
+				"artworkId": "42009836",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31659,
+			"cardName": "Gimmick Puppet Nightmare",
+			"cardId": 4182,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 4182,
+				"name": "Gimmick Puppet Nightmare",
+				"cleanName": "Gimmick Puppet Nightmare",
+				"artworkId": "55204071",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31676,
+			"cardName": "Grinder Golem",
+			"cardId": 4510,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 4510,
+				"name": "Grinder Golem",
+				"cleanName": "Grinder Golem",
+				"artworkId": "75732622",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31660,
+			"cardName": "Jowgen the Spiritualist",
+			"cardId": 5211,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 5211,
+				"name": "Jowgen the Spiritualist",
+				"cleanName": "Jowgen the Spiritualist",
+				"artworkId": "41855169",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31777,
+			"cardName": "Kelbek the Ancient Vanguard",
+			"cardId": 11951,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 11951,
+				"name": "Kelbek the Ancient Vanguard",
+				"cleanName": "Kelbek the Ancient Vanguard",
+				"artworkId": "25926710",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31705,
+			"cardName": "Level Eater",
+			"cardId": 5612,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 5612,
+				"name": "Level Eater",
+				"cleanName": "Level Eater",
+				"artworkId": "57421866",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31666,
+			"cardName": "Magical Scientist",
+			"cardId": 5934,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 5934,
+				"name": "Magical Scientist",
+				"cleanName": "Magical Scientist",
+				"artworkId": "34206604",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31766,
+			"cardName": "Maxx \"C\"",
+			"cardId": 6189,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 6189,
+				"name": "Maxx \"C\"",
+				"cleanName": "Maxx C",
+				"artworkId": "23434538",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31671,
+			"cardName": "Mind Master",
+			"cardId": 6424,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 6424,
+				"name": "Mind Master",
+				"cleanName": "Mind Master",
+				"artworkId": "96782886",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31600,
+			"cardName": "Naturia Rosewhip",
+			"cardId": 6728,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "unlimited",
+			"category": "TCG",
+			"card": {
+				"id": 6728,
+				"name": "Naturia Rosewhip",
+				"cleanName": "Naturia Rosewhip",
+				"artworkId": "61049315",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31682,
+			"cardName": "Phoenixian Cluster Amaryllis",
+			"cardId": 7544,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 7544,
+				"name": "Phoenixian Cluster Amaryllis",
+				"cleanName": "Phoenixian Cluster Amaryllis",
+				"artworkId": "23558733",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31783,
+			"cardName": "Ronintoadin",
+			"cardId": 8342,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 8342,
+				"name": "Ronintoadin",
+				"cleanName": "Ronintoadin",
+				"artworkId": "1357146",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31770,
+			"cardName": "SPYRAL Master Plan",
+			"cardId": 8424,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 8424,
+				"name": "SPYRAL Master Plan",
+				"cleanName": "SPYRAL Master Plan",
+				"artworkId": "91258852",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31797,
+			"cardName": "The Tyrant Neptune",
+			"cardId": 9965,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 9965,
+				"name": "The Tyrant Neptune",
+				"cleanName": "The Tyrant Neptune",
+				"artworkId": "88071625",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31749,
+			"cardName": "Victory Dragon",
+			"cardId": 10660,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 10660,
+				"name": "Victory Dragon",
+				"cleanName": "Victory Dragon",
+				"artworkId": "44910027",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31796,
+			"cardName": "Elder Entity Norden",
+			"cardId": 3050,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 3050,
+				"name": "Elder Entity Norden",
+				"cleanName": "Elder Entity Norden",
+				"artworkId": "17412721",
+				"sortPriority": 6
+			}
+		},
+		{
+			"id": 31702,
+			"cardName": "Supreme King Dragon Starving Venom",
+			"cardId": 9561,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 9561,
+				"name": "Supreme King Dragon Starving Venom",
+				"cleanName": "Supreme King Dragon Starving Venom",
+				"artworkId": "43387895",
+				"sortPriority": 6
+			}
+		},
+		{
+			"id": 31753,
+			"cardName": "Tearlaments Kitkallos",
+			"cardId": 11762,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 11762,
+				"name": "Tearlaments Kitkallos",
+				"cleanName": "Tearlaments Kitkallos",
+				"artworkId": "92731385",
+				"sortPriority": 6
+			}
+		},
+		{
+			"id": 31695,
+			"cardName": "Baronne de Fleur",
+			"cardId": 762,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 762,
+				"name": "Baronne de Fleur",
+				"cleanName": "Baronne de Fleur",
+				"artworkId": "84815190",
+				"sortPriority": 7
+			}
+		},
+		{
+			"id": 31785,
+			"cardName": "Borreload Savage Dragon",
+			"cardId": 1158,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 1158,
+				"name": "Borreload Savage Dragon",
+				"cleanName": "Borreload Savage Dragon",
+				"artworkId": "27548199",
+				"sortPriority": 7
+			}
+		},
+		{
+			"id": 31709,
+			"cardName": "Chaos Ruler, the Chaotic Magical Dragon",
+			"cardId": 1491,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 1491,
+				"name": "Chaos Ruler, the Chaotic Magical Dragon",
+				"cleanName": "Chaos Ruler the Chaotic Magical Dragon",
+				"artworkId": "3040496",
+				"sortPriority": 7
+			}
+		},
+		{
+			"id": 31615,
+			"cardName": "Herald of the Arc Light",
+			"cardId": 4704,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 4704,
+				"name": "Herald of the Arc Light",
+				"cleanName": "Herald of the Arc Light",
+				"artworkId": "79606837",
+				"sortPriority": 7
+			}
+		},
+		{
+			"id": 31816,
+			"cardName": "Hot Red Dragon Archfiend King Calamity",
+			"cardId": 4839,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 4839,
+				"name": "Hot Red Dragon Archfiend King Calamity",
+				"cleanName": "Hot Red Dragon Archfiend King Calamity",
+				"artworkId": "62242678",
+				"sortPriority": 7
+			}
+		},
+		{
+			"id": 31750,
+			"cardName": "Tempest Magician",
+			"cardId": 9738,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 9738,
+				"name": "Tempest Magician",
+				"cleanName": "Tempest Magician",
+				"artworkId": "63101919",
+				"sortPriority": 7
+			}
+		},
+		{
+			"id": 31642,
+			"cardName": "Abyss Dweller",
+			"cardId": 69,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 69,
+				"name": "Abyss Dweller",
+				"cleanName": "Abyss Dweller",
+				"artworkId": "21044178",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31643,
+			"cardName": "Bahamut Shark",
+			"cardId": 742,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 742,
+				"name": "Bahamut Shark",
+				"cleanName": "Bahamut Shark",
+				"artworkId": "440556",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31691,
+			"cardName": "Beatrice, Lady of the Eternal",
+			"cardId": 866,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 866,
+				"name": "Beatrice, Lady of the Eternal",
+				"cleanName": "Beatrice Lady of the Eternal",
+				"artworkId": "27552504",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31598,
+			"cardName": "CXyz Gimmick Puppet Fanatix Machinix",
+			"cardId": 13429,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "unlimited",
+			"category": "TCG",
+			"card": {
+				"id": 13429,
+				"name": "CXyz Gimmick Puppet Fanatix Machinix",
+				"cleanName": "CXyz Gimmick Puppet Fanatix Machinix",
+				"artworkId": "3685372",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31627,
+			"cardName": "Evilswarm Ouroboros",
+			"cardId": 3284,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 3284,
+				"name": "Evilswarm Ouroboros",
+				"cleanName": "Evilswarm Ouroboros",
+				"artworkId": "38273745",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31745,
+			"cardName": "Kashtira Arise-Heart",
+			"cardId": 12197,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 12197,
+				"name": "Kashtira Arise-Heart",
+				"cleanName": "Kashtira Arise Heart",
+				"artworkId": "48626373",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31631,
+			"cardName": "King of the Feral Imps",
+			"cardId": 5366,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 5366,
+				"name": "King of the Feral Imps",
+				"cleanName": "King of the Feral Imps",
+				"artworkId": "11398059",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31793,
+			"cardName": "Lavalval Chain",
+			"cardId": 5552,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 5552,
+				"name": "Lavalval Chain",
+				"cleanName": "Lavalval Chain",
+				"artworkId": "34086406",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31706,
+			"cardName": "M-X-Saber Invoker",
+			"cardId": 5814,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 5814,
+				"name": "M-X-Saber Invoker",
+				"cleanName": "M X Saber Invoker",
+				"artworkId": "4423206",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31737,
+			"cardName": "Number 16: Shock Master",
+			"cardId": 6939,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 6939,
+				"name": "Number 16: Shock Master",
+				"cleanName": "Number 16 Shock Master",
+				"artworkId": "54719828",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31780,
+			"cardName": "Number 42: Galaxy Tomahawk",
+			"cardId": 6972,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 6972,
+				"name": "Number 42: Galaxy Tomahawk",
+				"cleanName": "Number 42 Galaxy Tomahawk",
+				"artworkId": "10389142",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31633,
+			"cardName": "Number 67: Pair-a-Dice Smasher",
+			"cardId": 7000,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 7000,
+				"name": "Number 67: Pair-a-Dice Smasher",
+				"cleanName": "Number 67 Pair a Dice Smasher",
+				"artworkId": "35772782",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31809,
+			"cardName": "Number 86: Heroic Champion - Rhongomyniad",
+			"cardId": 7021,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 7021,
+				"name": "Number 86: Heroic Champion - Rhongomyniad",
+				"cleanName": "Number 86 Heroic Champion Rhongomyniad",
+				"artworkId": "63504681",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31743,
+			"cardName": "Number 89: Diablosis the Mind Hacker",
+			"cardId": 7024,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 7024,
+				"name": "Number 89: Diablosis the Mind Hacker",
+				"cleanName": "Number 89 Diablosis the Mind Hacker",
+				"artworkId": "95474755",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31751,
+			"cardName": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+			"cardId": 7031,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 7031,
+				"name": "Number 95: Galaxy-Eyes Dark Matter Dragon",
+				"cleanName": "Number 95 Galaxy Eyes Dark Matter Dragon",
+				"artworkId": "58820923",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31712,
+			"cardName": "Number S0: Utopic ZEXAL",
+			"cardId": 7067,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 7067,
+				"name": "Number S0: Utopic ZEXAL",
+				"cleanName": "Number S0 Utopic ZEXAL",
+				"artworkId": "52653092",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31664,
+			"cardName": "Outer Entity Azathot",
+			"cardId": 7232,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 7232,
+				"name": "Outer Entity Azathot",
+				"cleanName": "Outer Entity Azathot",
+				"artworkId": "34945480",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31711,
+			"cardName": "True King of All Calamities",
+			"cardId": 10333,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 10333,
+				"name": "True King of All Calamities",
+				"cleanName": "True King of All Calamities",
+				"artworkId": "88581108",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31767,
+			"cardName": "Wind-Up Carrier Zenmaity",
+			"cardId": 10915,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 10915,
+				"name": "Wind-Up Carrier Zenmaity",
+				"cleanName": "Wind Up Carrier Zenmaity",
+				"artworkId": "81122844",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31791,
+			"cardName": "Zoodiac Broadbull",
+			"cardId": 11303,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 11303,
+				"name": "Zoodiac Broadbull",
+				"cleanName": "Zoodiac Broadbull",
+				"artworkId": "85115440",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31759,
+			"cardName": "Apollousa, Bow of the Goddess",
+			"cardId": 428,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 428,
+				"name": "Apollousa, Bow of the Goddess",
+				"cleanName": "Apollousa Bow of the Goddess",
+				"artworkId": "4280258",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31688,
+			"cardName": "Crystron Halqifibrax",
+			"cardId": 1872,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 1872,
+				"name": "Crystron Halqifibrax",
+				"cleanName": "Crystron Halqifibrax",
+				"artworkId": "50588353",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31754,
+			"cardName": "Curious, the Lightsworn Dominion",
+			"cardId": 1901,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 1901,
+				"name": "Curious, the Lightsworn Dominion",
+				"cleanName": "Curious the Lightsworn Dominion",
+				"artworkId": "98095162",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31744,
+			"cardName": "Guardragon Agarpain",
+			"cardId": 4547,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 4547,
+				"name": "Guardragon Agarpain",
+				"cleanName": "Guardragon Agarpain",
+				"artworkId": "59537380",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31786,
+			"cardName": "Guardragon Elpy",
+			"cardId": 4551,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 4551,
+				"name": "Guardragon Elpy",
+				"cleanName": "Guardragon Elpy",
+				"artworkId": "86148577",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31794,
+			"cardName": "Heavymetalfoes Electrumite",
+			"cardId": 4681,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 4681,
+				"name": "Heavymetalfoes Electrumite",
+				"cleanName": "Heavymetalfoes Electrumite",
+				"artworkId": "24094258",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31708,
+			"cardName": "Isolde, Two Tales of the Noble Knights",
+			"cardId": 5151,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 5151,
+				"name": "Isolde, Two Tales of the Noble Knights",
+				"cleanName": "Isolde Two Tales of the Noble Knights",
+				"artworkId": "59934749",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31747,
+			"cardName": "Knightmare Goblin",
+			"cardId": 5387,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 5387,
+				"name": "Knightmare Goblin",
+				"cleanName": "Knightmare Goblin",
+				"artworkId": "39064822",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31644,
+			"cardName": "Knightmare Gryphon",
+			"cardId": 5388,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 5388,
+				"name": "Knightmare Gryphon",
+				"cleanName": "Knightmare Gryphon",
+				"artworkId": "65330383",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31710,
+			"cardName": "Knightmare Mermaid",
+			"cardId": 5390,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 5390,
+				"name": "Knightmare Mermaid",
+				"cleanName": "Knightmare Mermaid",
+				"artworkId": "3679218",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31645,
+			"cardName": "Link Decoder",
+			"cardId": 12553,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 12553,
+				"name": "Link Decoder",
+				"cleanName": "Link Decoder",
+				"artworkId": "30342076",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31808,
+			"cardName": "Linkross",
+			"cardId": 5702,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 5702,
+				"name": "Linkross",
+				"cleanName": "Linkross",
+				"artworkId": "85243784",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31613,
+			"cardName": "Maliss <Q> White Binder",
+			"cardId": 13712,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 13712,
+				"name": "Maliss <Q> White Binder",
+				"cleanName": "Maliss Q White Binder",
+				"artworkId": "95454996",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31769,
+			"cardName": "Mecha Phantom Beast Auroradon",
+			"cardId": 6202,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 6202,
+				"name": "Mecha Phantom Beast Auroradon",
+				"cleanName": "Mecha Phantom Beast Auroradon",
+				"artworkId": "44097050",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31632,
+			"cardName": "Moon of the Closed Heaven",
+			"cardId": 13320,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 13320,
+				"name": "Moon of the Closed Heaven",
+				"cleanName": "Moon of the Closed Heaven",
+				"artworkId": "71818935",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31807,
+			"cardName": "Prank-Kids Meow-Meow-Mu",
+			"cardId": 7684,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 7684,
+				"name": "Prank-Kids Meow-Meow-Mu",
+				"cleanName": "Prank Kids Meow Meow Mu",
+				"artworkId": "25725326",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31677,
+			"cardName": "Predaplant Verte Anaconda",
+			"cardId": 7714,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 7714,
+				"name": "Predaplant Verte Anaconda",
+				"cleanName": "Predaplant Verte Anaconda",
+				"artworkId": "70369116",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31678,
+			"cardName": "Simorgh, Bird of Sovereignty",
+			"cardId": 8859,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 8859,
+				"name": "Simorgh, Bird of Sovereignty",
+				"cleanName": "Simorgh Bird of Sovereignty",
+				"artworkId": "72330894",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31634,
+			"cardName": "Splash Mage",
+			"cardId": 9210,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 9210,
+				"name": "Splash Mage",
+				"cleanName": "Splash Mage",
+				"artworkId": "59859086",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31772,
+			"cardName": "Spright Elf",
+			"cardId": 11909,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 11909,
+				"name": "Spright Elf",
+				"cleanName": "Spright Elf",
+				"artworkId": "27381364",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31679,
+			"cardName": "Superheavy Samurai Scarecrow",
+			"cardId": 9526,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 9526,
+				"name": "Superheavy Samurai Scarecrow",
+				"cleanName": "Superheavy Samurai Scarecrow",
+				"artworkId": "33918636",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31748,
+			"cardName": "Topologic Gumblar Dragon",
+			"cardId": 10154,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 10154,
+				"name": "Topologic Gumblar Dragon",
+				"cleanName": "Topologic Gumblar Dragon",
+				"artworkId": "22593417",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31801,
+			"cardName": "Union Carrier",
+			"cardId": 10503,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 10503,
+				"name": "Union Carrier",
+				"cleanName": "Union Carrier",
+				"artworkId": "83152482",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31738,
+			"cardName": "Butterfly Dagger - Elma",
+			"cardId": 1325,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 1325,
+				"name": "Butterfly Dagger - Elma",
+				"cleanName": "Butterfly Dagger Elma",
+				"artworkId": "69243953",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31739,
+			"cardName": "Card of Safe Return",
+			"cardId": 1387,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 1387,
+				"name": "Card of Safe Return",
+				"cleanName": "Card of Safe Return",
+				"artworkId": "57953380",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31703,
+			"cardName": "Cold Wave",
+			"cardId": 1661,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 1661,
+				"name": "Cold Wave",
+				"cleanName": "Cold Wave",
+				"artworkId": "60682203",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31687,
+			"cardName": "Confiscation",
+			"cardId": 1689,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 1689,
+				"name": "Confiscation",
+				"cleanName": "Confiscation",
+				"artworkId": "17375316",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31674,
+			"cardName": "Delinquent Duo",
+			"cardId": 2421,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 2421,
+				"name": "Delinquent Duo",
+				"cleanName": "Delinquent Duo",
+				"artworkId": "44763025",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31675,
+			"cardName": "Dimension Fusion",
+			"cardId": 2581,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 2581,
+				"name": "Dimension Fusion",
+				"cleanName": "Dimension Fusion",
+				"artworkId": "23557835",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31758,
+			"cardName": "Giant Trunade",
+			"cardId": 4149,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 4149,
+				"name": "Giant Trunade",
+				"cleanName": "Giant Trunade",
+				"artworkId": "42703248",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31795,
+			"cardName": "Graceful Charity",
+			"cardId": 4392,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 4392,
+				"name": "Graceful Charity",
+				"cleanName": "Graceful Charity",
+				"artworkId": "79571449",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31756,
+			"cardName": "Heavy Storm",
+			"cardId": 4677,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 4677,
+				"name": "Heavy Storm",
+				"cleanName": "Heavy Storm",
+				"artworkId": "19613556",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31686,
+			"cardName": "Kaiser Colosseum",
+			"cardId": 5290,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 5290,
+				"name": "Kaiser Colosseum",
+				"cleanName": "Kaiser Colosseum",
+				"artworkId": "35059553",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31704,
+			"cardName": "Last Will",
+			"cardId": 5524,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 5524,
+				"name": "Last Will",
+				"cleanName": "Last Will",
+				"artworkId": "85602018",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31668,
+			"cardName": "Mass Driver",
+			"cardId": 6149,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 6149,
+				"name": "Mass Driver",
+				"cleanName": "Mass Driver",
+				"artworkId": "34906152",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31779,
+			"cardName": "Mirage of Nightmare",
+			"cardId": 6463,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 6463,
+				"name": "Mirage of Nightmare",
+				"cleanName": "Mirage of Nightmare",
+				"artworkId": "41482598",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31689,
+			"cardName": "Mystic Mine",
+			"cardId": 6635,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 6635,
+				"name": "Mystic Mine",
+				"cleanName": "Mystic Mine",
+				"artworkId": "76375976",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31658,
+			"cardName": "Original Sinful Spoils - Snake-Eye",
+			"cardId": 12794,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 12794,
+				"name": "Original Sinful Spoils - Snake-Eye",
+				"cleanName": "Original Sinful Spoils Snake Eye",
+				"artworkId": "89023486",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31761,
+			"cardName": "Painful Choice",
+			"cardId": 7281,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 7281,
+				"name": "Painful Choice",
+				"cleanName": "Painful Choice",
+				"artworkId": "74191942",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31762,
+			"cardName": "Pot of Greed",
+			"cardId": 7643,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 7643,
+				"name": "Pot of Greed",
+				"cleanName": "Pot of Greed",
+				"artworkId": "55144522",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31771,
+			"cardName": "Smoke Grenade of the Thief",
+			"cardId": 8958,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 8958,
+				"name": "Smoke Grenade of the Thief",
+				"cleanName": "Smoke Grenade of the Thief",
+				"artworkId": "63789924",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31798,
+			"cardName": "Soul Charge",
+			"cardId": 9027,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 9027,
+				"name": "Soul Charge",
+				"cleanName": "Soul Charge",
+				"artworkId": "54447022",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31799,
+			"cardName": "The Forceful Sentry",
+			"cardId": 9858,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 9858,
+				"name": "The Forceful Sentry",
+				"cleanName": "The Forceful Sentry",
+				"artworkId": "42829885",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31681,
+			"cardName": "Appointer of the Red Lotus",
+			"cardId": 447,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 447,
+				"name": "Appointer of the Red Lotus",
+				"cleanName": "Appointer of the Red Lotus",
+				"artworkId": "43262273",
+				"sortPriority": 16
+			}
+		},
+		{
+			"id": 31680,
+			"cardName": "Branded Expulsion",
+			"cardId": 11811,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 11811,
+				"name": "Branded Expulsion",
+				"cleanName": "Branded Expulsion",
+				"artworkId": "1041278",
+				"sortPriority": 16
+			}
+		},
+		{
+			"id": 31629,
+			"cardName": "Dimensional Barrier",
+			"cardId": 2594,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 2594,
+				"name": "Dimensional Barrier",
+				"cleanName": "Dimensional Barrier",
+				"artworkId": "83326048",
+				"sortPriority": 16
+			}
+		},
+		{
+			"id": 31614,
+			"cardName": "Harpie's Feather Storm",
+			"cardId": 4637,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 4637,
+				"name": "Harpie's Feather Storm",
+				"cleanName": "Harpies Feather Storm",
+				"artworkId": "87639778",
+				"sortPriority": 16
+			}
+		},
+		{
+			"id": 31810,
+			"cardName": "Imperial Order",
+			"cardId": 4960,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 4960,
+				"name": "Imperial Order",
+				"cleanName": "Imperial Order",
+				"artworkId": "61740673",
+				"sortPriority": 16
+			}
+		},
+		{
+			"id": 31792,
+			"cardName": "Last Turn",
+			"cardId": 5523,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 5523,
+				"name": "Last Turn",
+				"cleanName": "Last Turn",
+				"artworkId": "28566710",
+				"sortPriority": 16
+			}
+		},
+		{
+			"id": 31752,
+			"cardName": "Red Reboot",
+			"cardId": 8084,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 8084,
+				"name": "Red Reboot",
+				"cleanName": "Red Reboot",
+				"artworkId": "23002292",
+				"sortPriority": 16
+			}
+		},
+		{
+			"id": 31763,
+			"cardName": "Return from the Different Dimension",
+			"cardId": 8211,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 8211,
+				"name": "Return from the Different Dimension",
+				"cleanName": "Return from the Different Dimension",
+				"artworkId": "27174286",
+				"sortPriority": 16
+			}
+		},
+		{
+			"id": 31764,
+			"cardName": "Royal Oppression",
+			"cardId": 8371,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 8371,
+				"name": "Royal Oppression",
+				"cleanName": "Royal Oppression",
+				"artworkId": "93016201",
+				"sortPriority": 16
+			}
+		},
+		{
+			"id": 31765,
+			"cardName": "Self-Destruct Button",
+			"cardId": 8659,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 8659,
+				"name": "Self-Destruct Button",
+				"cleanName": "Self Destruct Button",
+				"artworkId": "57585212",
+				"sortPriority": 16
+			}
+		},
+		{
+			"id": 31672,
+			"cardName": "Sixth Sense",
+			"cardId": 8875,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 8875,
+				"name": "Sixth Sense",
+				"cleanName": "Sixth Sense",
+				"artworkId": "3280747",
+				"sortPriority": 16
+			}
+		},
+		{
+			"id": 31819,
+			"cardName": "Summon Limit",
+			"cardId": 9415,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 9415,
+				"name": "Summon Limit",
+				"cleanName": "Summon Limit",
+				"artworkId": "23516703",
+				"sortPriority": 16
+			}
+		},
+		{
+			"id": 31800,
+			"cardName": "Trap Dustshoot",
+			"cardId": 10202,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 10202,
+				"name": "Trap Dustshoot",
+				"cleanName": "Trap Dustshoot",
+				"artworkId": "64697231",
+				"sortPriority": 16
+			}
+		},
+		{
+			"id": 31683,
+			"cardName": "Ultimate Offering",
+			"cardId": 10456,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 10456,
+				"name": "Ultimate Offering",
+				"cleanName": "Ultimate Offering",
+				"artworkId": "80604092",
+				"sortPriority": 16
+			}
+		},
+		{
+			"id": 31673,
+			"cardName": "Vanity's Emptiness",
+			"cardId": 10611,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 10611,
+				"name": "Vanity's Emptiness",
+				"cleanName": "Vanitys Emptiness",
+				"artworkId": "5851097",
+				"sortPriority": 16
+			}
+		},
+		{
+			"id": 31599,
+			"cardName": "K9-04 Noroi",
+			"cardId": 15582,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "forbidden",
+			"previous": "unlimited",
+			"category": "TCG",
+			"card": {
+				"id": 15582,
+				"name": "K9-04 Noroi",
+				"cleanName": "K9 04 Noroi",
+				"artworkId": "47960073",
+				"sortPriority": null
+			}
+		}
+	],
+	"limited": [
+		{
+			"id": 31721,
+			"cardName": "Left Arm of the Forbidden One",
+			"cardId": 5566,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 5566,
+				"name": "Left Arm of the Forbidden One",
+				"cleanName": "Left Arm of the Forbidden One",
+				"artworkId": "7902349",
+				"sortPriority": 1
+			}
+		},
+		{
+			"id": 31690,
+			"cardName": "Left Leg of the Forbidden One",
+			"cardId": 5567,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 5567,
+				"name": "Left Leg of the Forbidden One",
+				"cleanName": "Left Leg of the Forbidden One",
+				"artworkId": "44519536",
+				"sortPriority": 1
+			}
+		},
+		{
+			"id": 31774,
+			"cardName": "Right Arm of the Forbidden One",
+			"cardId": 8250,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 8250,
+				"name": "Right Arm of the Forbidden One",
+				"cleanName": "Right Arm of the Forbidden One",
+				"artworkId": "70903634",
+				"sortPriority": 1
+			}
+		},
+		{
+			"id": 31693,
+			"cardName": "Right Leg of the Forbidden One",
+			"cardId": 8251,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 8251,
+				"name": "Right Leg of the Forbidden One",
+				"cleanName": "Right Leg of the Forbidden One",
+				"artworkId": "8124921",
+				"sortPriority": 1
+			}
+		},
+		{
+			"id": 31646,
+			"cardName": "Bystial Druiswurm",
+			"cardId": 12247,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 12247,
+				"name": "Bystial Druiswurm",
+				"cleanName": "Bystial Druiswurm",
+				"artworkId": "6637331",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31716,
+			"cardName": "Bystial Magnamhut",
+			"cardId": 12248,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 12248,
+				"name": "Bystial Magnamhut",
+				"cleanName": "Bystial Magnamhut",
+				"artworkId": "33854624",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31601,
+			"cardName": "Cupsy☆Yummy",
+			"cardId": 15378,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "unlimited",
+			"category": "TCG",
+			"card": {
+				"id": 15378,
+				"name": "Cupsy☆Yummy",
+				"cleanName": "Cupsy Yummy",
+				"artworkId": "31425736",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31647,
+			"cardName": "Dimension Shifter",
+			"cardId": 2588,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 2588,
+				"name": "Dimension Shifter",
+				"cleanName": "Dimension Shifter",
+				"artworkId": "91800273",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31617,
+			"cardName": "Dracotail Mululu",
+			"cardId": 15351,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 15351,
+				"name": "Dracotail Mululu",
+				"cleanName": "Dracotail Mululu",
+				"artworkId": "7375867",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31733,
+			"cardName": "Exodia the Forbidden One",
+			"cardId": 3339,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 3339,
+				"name": "Exodia the Forbidden One",
+				"cleanName": "Exodia the Forbidden One",
+				"artworkId": "33396948",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31637,
+			"cardName": "Ext Ryzeal",
+			"cardId": 13702,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 13702,
+				"name": "Ext Ryzeal",
+				"cleanName": "Ext Ryzeal",
+				"artworkId": "34022970",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31608,
+			"cardName": "Fairy Tail - Snow",
+			"cardId": 3420,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 3420,
+				"name": "Fairy Tail - Snow",
+				"cleanName": "Fairy Tail Snow",
+				"artworkId": "55623480",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31618,
+			"cardName": "K9-66a Jokul",
+			"cardId": 15356,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 15356,
+				"name": "K9-66a Jokul",
+				"cleanName": "K9 66a Jokul",
+				"artworkId": "28642461",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31730,
+			"cardName": "Keldo the Sacred Protector",
+			"cardId": 12331,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 12331,
+				"name": "Keldo the Sacred Protector",
+				"cleanName": "Keldo the Sacred Protector",
+				"artworkId": "63542003",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31638,
+			"cardName": "Maliss Dormouse",
+			"cardId": 13709,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 13709,
+				"name": "Maliss Dormouse",
+				"cleanName": "Maliss Dormouse",
+				"artworkId": "32061192",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31606,
+			"cardName": "Maliss White Rabbit",
+			"cardId": 13710,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "semi-limited",
+			"category": "TCG",
+			"card": {
+				"id": 13710,
+				"name": "Maliss White Rabbit",
+				"cleanName": "Maliss White Rabbit",
+				"artworkId": "69272449",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31652,
+			"cardName": "Mathmech Circular",
+			"cardId": 11871,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 11871,
+				"name": "Mathmech Circular",
+				"cleanName": "Mathmech Circular",
+				"artworkId": "36521307",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31775,
+			"cardName": "Miscellaneousaurus",
+			"cardId": 6476,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 6476,
+				"name": "Miscellaneousaurus",
+				"cleanName": "Miscellaneousaurus",
+				"artworkId": "38572779",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31670,
+			"cardName": "Mudora the Sword Oracle",
+			"cardId": 12332,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 12332,
+				"name": "Mudora the Sword Oracle",
+				"cleanName": "Mudora the Sword Oracle",
+				"artworkId": "99937011",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31715,
+			"cardName": "PSY-Framegear Gamma",
+			"cardId": 7272,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 7272,
+				"name": "PSY-Framegear Gamma",
+				"cleanName": "PSY Framegear Gamma",
+				"artworkId": "38814750",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31781,
+			"cardName": "Substitoad",
+			"cardId": 9387,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 9387,
+				"name": "Substitoad",
+				"cleanName": "Substitoad",
+				"artworkId": "20663556",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31729,
+			"cardName": "Tearlaments Havnis",
+			"cardId": 11760,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 11760,
+				"name": "Tearlaments Havnis",
+				"cleanName": "Tearlaments Havnis",
+				"artworkId": "37961969",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31728,
+			"cardName": "Tearlaments Merrli",
+			"cardId": 11763,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 11763,
+				"name": "Tearlaments Merrli",
+				"cleanName": "Tearlaments Merrli",
+				"artworkId": "74078255",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31727,
+			"cardName": "Tearlaments Scheiren",
+			"cardId": 11767,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 11767,
+				"name": "Tearlaments Scheiren",
+				"cleanName": "Tearlaments Scheiren",
+				"artworkId": "572850",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31662,
+			"cardName": "Tenpai Dragon Chundra",
+			"cardId": 13293,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 13293,
+				"name": "Tenpai Dragon Chundra",
+				"cleanName": "Tenpai Dragon Chundra",
+				"artworkId": "91810826",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31736,
+			"cardName": "Zoodiac Ratpier",
+			"cardId": 11312,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 11312,
+				"name": "Zoodiac Ratpier",
+				"cleanName": "Zoodiac Ratpier",
+				"artworkId": "78872731",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31723,
+			"cardName": "Astrograph Sorcerer",
+			"cardId": 651,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 651,
+				"name": "Astrograph Sorcerer",
+				"cleanName": "Astrograph Sorcerer",
+				"artworkId": "76794549",
+				"sortPriority": 4
+			}
+		},
+		{
+			"id": 31639,
+			"cardName": "Fiendsmith's Lacrima",
+			"cardId": 13440,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 13440,
+				"name": "Fiendsmith's Lacrima",
+				"cleanName": "Fiendsmiths Lacrima",
+				"artworkId": "46640168",
+				"sortPriority": 6
+			}
+		},
+		{
+			"id": 31741,
+			"cardName": "Gem-Knight Master Diamond",
+			"cardId": 4002,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 4002,
+				"name": "Gem-Knight Master Diamond",
+				"cleanName": "Gem Knight Master Diamond",
+				"artworkId": "39512984",
+				"sortPriority": 6
+			}
+		},
+		{
+			"id": 31661,
+			"cardName": "Phantom of Yubel",
+			"cardId": 13419,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 13419,
+				"name": "Phantom of Yubel",
+				"cleanName": "Phantom of Yubel",
+				"artworkId": "80453041",
+				"sortPriority": 6
+			}
+		},
+		{
+			"id": 31602,
+			"cardName": "Cupsy★Yummy Way",
+			"cardId": 15377,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "unlimited",
+			"category": "TCG",
+			"card": {
+				"id": 15377,
+				"name": "Cupsy★Yummy Way",
+				"cleanName": "Cupsy Yummy Way",
+				"artworkId": "31603289",
+				"sortPriority": 7
+			}
+		},
+		{
+			"id": 31724,
+			"cardName": "PSY-Framelord Omega",
+			"cardId": 7274,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 7274,
+				"name": "PSY-Framelord Omega",
+				"cleanName": "PSY Framelord Omega",
+				"artworkId": "74586817",
+				"sortPriority": 7
+			}
+		},
+		{
+			"id": 31722,
+			"cardName": "T.G. Hyper Librarian",
+			"cardId": 9680,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 9680,
+				"name": "T.G. Hyper Librarian",
+				"cleanName": "T G Hyper Librarian",
+				"artworkId": "90953320",
+				"sortPriority": 7
+			}
+		},
+		{
+			"id": 31811,
+			"cardName": "Daigusto Emeral",
+			"cardId": 2141,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 2141,
+				"name": "Daigusto Emeral",
+				"cleanName": "Daigusto Emeral",
+				"artworkId": "581014",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31817,
+			"cardName": "Number 40: Gimmick Puppet of Strings",
+			"cardId": 6970,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 6970,
+				"name": "Number 40: Gimmick Puppet of Strings",
+				"cleanName": "Number 40 Gimmick Puppet of Strings",
+				"artworkId": "75433814",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31818,
+			"cardName": "Number C40: Gimmick Puppet of Dark Strings",
+			"cardId": 7052,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 7052,
+				"name": "Number C40: Gimmick Puppet of Dark Strings",
+				"cleanName": "Number C40 Gimmick Puppet of Dark Strings",
+				"artworkId": "69170557",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31648,
+			"cardName": "Ryzeal Detonator",
+			"cardId": 13721,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 13721,
+				"name": "Ryzeal Detonator",
+				"cleanName": "Ryzeal Detonator",
+				"artworkId": "34909328",
+				"sortPriority": 8
+			}
+		},
+		{
+			"id": 31640,
+			"cardName": "Linkuriboh",
+			"cardId": 5704,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 5704,
+				"name": "Linkuriboh",
+				"cleanName": "Linkuriboh",
+				"artworkId": "41999284",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31667,
+			"cardName": "Striker Dragon",
+			"cardId": 9371,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 9371,
+				"name": "Striker Dragon",
+				"cleanName": "Striker Dragon",
+				"artworkId": "73539069",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31641,
+			"cardName": "Summon Sorceress",
+			"cardId": 9419,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 9419,
+				"name": "Summon Sorceress",
+				"cleanName": "Summon Sorceress",
+				"artworkId": "61665245",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31696,
+			"cardName": "Sunavalon Dryas",
+			"cardId": 9433,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 9433,
+				"name": "Sunavalon Dryas",
+				"cleanName": "Sunavalon Dryas",
+				"artworkId": "93896655",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31697,
+			"cardName": "Sunvine Healer",
+			"cardId": 9443,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 9443,
+				"name": "Sunvine Healer",
+				"cleanName": "Sunvine Healer",
+				"artworkId": "65563871",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31620,
+			"cardName": "Yummy★Snatchy",
+			"cardId": 15371,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 15371,
+				"name": "Yummy★Snatchy",
+				"cleanName": "Yummy Snatchy",
+				"artworkId": "30581601",
+				"sortPriority": 13
+			}
+		},
+		{
+			"id": 31621,
+			"cardName": "\"A Case for K9\"",
+			"cardId": 15342,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 15342,
+				"name": "\"A Case for K9\"",
+				"cleanName": "A Case for K9",
+				"artworkId": "80181649",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31649,
+			"cardName": "Bonfire",
+			"cardId": 12746,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 12746,
+				"name": "Bonfire",
+				"cleanName": "Bonfire",
+				"artworkId": "85106525",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31607,
+			"cardName": "Branded Fusion",
+			"cardId": 11731,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "semi-limited",
+			"category": "TCG",
+			"card": {
+				"id": 11731,
+				"name": "Branded Fusion",
+				"cleanName": "Branded Fusion",
+				"artworkId": "44362883",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31653,
+			"cardName": "Brilliant Fusion",
+			"cardId": 1206,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 1206,
+				"name": "Brilliant Fusion",
+				"cleanName": "Brilliant Fusion",
+				"artworkId": "7394770",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31760,
+			"cardName": "Called by the Grave",
+			"cardId": 1359,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 1359,
+				"name": "Called by the Grave",
+				"cleanName": "Called by the Grave",
+				"artworkId": "24224830",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31726,
+			"cardName": "Card Destruction",
+			"cardId": 1377,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 1377,
+				"name": "Card Destruction",
+				"cleanName": "Card Destruction",
+				"artworkId": "72892473",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31782,
+			"cardName": "Card of Demise",
+			"cardId": 1384,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 1384,
+				"name": "Card of Demise",
+				"cleanName": "Card of Demise",
+				"artworkId": "59750328",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31778,
+			"cardName": "Chain Strike",
+			"cardId": 1457,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 1457,
+				"name": "Chain Strike",
+				"cleanName": "Chain Strike",
+				"artworkId": "91623717",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31740,
+			"cardName": "Chaos Space",
+			"cardId": 1495,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 1495,
+				"name": "Chaos Space",
+				"cleanName": "Chaos Space",
+				"artworkId": "99266988",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31773,
+			"cardName": "Chicken Game",
+			"cardId": 1523,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 1523,
+				"name": "Chicken Game",
+				"cleanName": "Chicken Game",
+				"artworkId": "67616300",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31650,
+			"cardName": "Crossout Designator",
+			"cardId": 1818,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 1818,
+				"name": "Crossout Designator",
+				"cleanName": "Crossout Designator",
+				"artworkId": "65681983",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31731,
+			"cardName": "Divine Wind of Mist Valley",
+			"cardId": 2665,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 2665,
+				"name": "Divine Wind of Mist Valley",
+				"cleanName": "Divine Wind of Mist Valley",
+				"artworkId": "15854426",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31734,
+			"cardName": "Final Countdown",
+			"cardId": 3497,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 3497,
+				"name": "Final Countdown",
+				"cleanName": "Final Countdown",
+				"artworkId": "95308449",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31735,
+			"cardName": "Foolish Burial",
+			"cardId": 3684,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 3684,
+				"name": "Foolish Burial",
+				"cleanName": "Foolish Burial",
+				"artworkId": "81439174",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31717,
+			"cardName": "Gateway of the Six",
+			"cardId": 3953,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 3953,
+				"name": "Gateway of the Six",
+				"cleanName": "Gateway of the Six",
+				"artworkId": "27970830",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31813,
+			"cardName": "Gold Sarcophagus",
+			"cardId": 4324,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 4324,
+				"name": "Gold Sarcophagus",
+				"cleanName": "Gold Sarcophagus",
+				"artworkId": "75500286",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31732,
+			"cardName": "Harpie's Feather Duster",
+			"cardId": 4635,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 4635,
+				"name": "Harpie's Feather Duster",
+				"cleanName": "Harpies Feather Duster",
+				"artworkId": "18144507",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31815,
+			"cardName": "Infernity Launcher",
+			"cardId": 4997,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 4997,
+				"name": "Infernity Launcher",
+				"cleanName": "Infernity Launcher",
+				"artworkId": "66957584",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31784,
+			"cardName": "Instant Fusion",
+			"cardId": 5075,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 5075,
+				"name": "Instant Fusion",
+				"cleanName": "Instant Fusion",
+				"artworkId": "1845204",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31701,
+			"cardName": "Into the Void",
+			"cardId": 5088,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 5088,
+				"name": "Into the Void",
+				"cleanName": "Into the Void",
+				"artworkId": "93946239",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31622,
+			"cardName": "Ketu Dracotail",
+			"cardId": 15364,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 15364,
+				"name": "Ketu Dracotail",
+				"cleanName": "Ketu Dracotail",
+				"artworkId": "6153210",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31803,
+			"cardName": "Magical Mid-Breaker Field",
+			"cardId": 5916,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 5916,
+				"name": "Magical Mid-Breaker Field",
+				"cleanName": "Magical Mid Breaker Field",
+				"artworkId": "71650854",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31609,
+			"cardName": "Metamorphosis",
+			"cardId": 6367,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 6367,
+				"name": "Metamorphosis",
+				"cleanName": "Metamorphosis",
+				"artworkId": "46411259",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31742,
+			"cardName": "Monster Gate",
+			"cardId": 6529,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 6529,
+				"name": "Monster Gate",
+				"cleanName": "Monster Gate",
+				"artworkId": "43040603",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31804,
+			"cardName": "Monster Reborn",
+			"cardId": 6531,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 6531,
+				"name": "Monster Reborn",
+				"cleanName": "Monster Reborn",
+				"artworkId": "83764719",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31635,
+			"cardName": "Obedience Schooled",
+			"cardId": 7092,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 7092,
+				"name": "Obedience Schooled",
+				"cleanName": "Obedience Schooled",
+				"artworkId": "72537897",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31718,
+			"cardName": "One Day of Peace",
+			"cardId": 7168,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 7168,
+				"name": "One Day of Peace",
+				"cleanName": "One Day of Peace",
+				"artworkId": "33782437",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31812,
+			"cardName": "One for One",
+			"cardId": 7171,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 7171,
+				"name": "One for One",
+				"cleanName": "One for One",
+				"artworkId": "2295440",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31790,
+			"cardName": "Pot of Prosperity",
+			"cardId": 7644,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 7644,
+				"name": "Pot of Prosperity",
+				"cleanName": "Pot of Prosperity",
+				"artworkId": "84211599",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31610,
+			"cardName": "Premature Burial",
+			"cardId": 7727,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "forbidden",
+			"category": "TCG",
+			"card": {
+				"id": 7727,
+				"name": "Premature Burial",
+				"cleanName": "Premature Burial",
+				"artworkId": "70828912",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31604,
+			"cardName": "Rahu Dracotail",
+			"cardId": 15368,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "unlimited",
+			"category": "TCG",
+			"card": {
+				"id": 15368,
+				"name": "Rahu Dracotail",
+				"cleanName": "Rahu Dracotail",
+				"artworkId": "32548318",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31669,
+			"cardName": "Reasoning",
+			"cardId": 8045,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 8045,
+				"name": "Reasoning",
+				"cleanName": "Reasoning",
+				"artworkId": "58577036",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31714,
+			"cardName": "Reinforcement of the Army",
+			"cardId": 8138,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 8138,
+				"name": "Reinforcement of the Army",
+				"cleanName": "Reinforcement of the Army",
+				"artworkId": "32807846",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31663,
+			"cardName": "Sangen Kaimen",
+			"cardId": 13296,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 13296,
+				"name": "Sangen Kaimen",
+				"cleanName": "Sangen Kaimen",
+				"artworkId": "66730191",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31707,
+			"cardName": "Sangen Summoning",
+			"cardId": 13302,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 13302,
+				"name": "Sangen Summoning",
+				"cleanName": "Sangen Summoning",
+				"artworkId": "30336082",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31719,
+			"cardName": "Sekka's Light",
+			"cardId": 8655,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 8655,
+				"name": "Sekka's Light",
+				"cleanName": "Sekkas Light",
+				"artworkId": "24940422",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31720,
+			"cardName": "Set Rotation",
+			"cardId": 8684,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 8684,
+				"name": "Set Rotation",
+				"cleanName": "Set Rotation",
+				"artworkId": "73468603",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31694,
+			"cardName": "Sky Striker Mecha - Hornet Drones",
+			"cardId": 8928,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 8928,
+				"name": "Sky Striker Mecha - Hornet Drones",
+				"cleanName": "Sky Striker Mecha Hornet Drones",
+				"artworkId": "52340444",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31725,
+			"cardName": "Slash Draw",
+			"cardId": 8940,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 8940,
+				"name": "Slash Draw",
+				"cleanName": "Slash Draw",
+				"artworkId": "71344451",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31605,
+			"cardName": "Synchro Overtake",
+			"cardId": 9659,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "unlimited",
+			"category": "TCG",
+			"card": {
+				"id": 9659,
+				"name": "Synchro Overtake",
+				"cleanName": "Synchro Overtake",
+				"artworkId": "99243014",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31802,
+			"cardName": "Terraforming",
+			"cardId": 9766,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 9766,
+				"name": "Terraforming",
+				"cleanName": "Terraforming",
+				"artworkId": "73628505",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31692,
+			"cardName": "That Grass Looks Greener",
+			"cardId": 9784,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 9784,
+				"name": "That Grass Looks Greener",
+				"cleanName": "That Grass Looks Greener",
+				"artworkId": "11110587",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31651,
+			"cardName": "Triple Tactics Talent",
+			"cardId": 10314,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 10314,
+				"name": "Triple Tactics Talent",
+				"cleanName": "Triple Tactics Talent",
+				"artworkId": "25311006",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31789,
+			"cardName": "Anti-Spell Fragrance",
+			"cardId": 423,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 423,
+				"name": "Anti-Spell Fragrance",
+				"cleanName": "Anti Spell Fragrance",
+				"artworkId": "58921041",
+				"sortPriority": 16
+			}
+		},
+		{
+			"id": 31698,
+			"cardName": "Gozen Match",
+			"cardId": 4390,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 4390,
+				"name": "Gozen Match",
+				"cleanName": "Gozen Match",
+				"artworkId": "53334471",
+				"sortPriority": 16
+			}
+		},
+		{
+			"id": 31787,
+			"cardName": "Magical Explosion",
+			"cardId": 5906,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 5906,
+				"name": "Magical Explosion",
+				"cleanName": "Magical Explosion",
+				"artworkId": "32723153",
+				"sortPriority": 16
+			}
+		},
+		{
+			"id": 31814,
+			"cardName": "Naturia Sacred Tree",
+			"cardId": 6729,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 6729,
+				"name": "Naturia Sacred Tree",
+				"cleanName": "Naturia Sacred Tree",
+				"artworkId": "3734202",
+				"sortPriority": 16
+			}
+		},
+		{
+			"id": 31699,
+			"cardName": "Rivalry of Warlords",
+			"cardId": 8306,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 8306,
+				"name": "Rivalry of Warlords",
+				"cleanName": "Rivalry of Warlords",
+				"artworkId": "90846359",
+				"sortPriority": 16
+			}
+		},
+		{
+			"id": 31636,
+			"cardName": "Solemn Judgment",
+			"cardId": 8991,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 8991,
+				"name": "Solemn Judgment",
+				"cleanName": "Solemn Judgment",
+				"artworkId": "41420027",
+				"sortPriority": 16
+			}
+		},
+		{
+			"id": 31700,
+			"cardName": "There Can Be Only One",
+			"cardId": 10001,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 10001,
+				"name": "There Can Be Only One",
+				"cleanName": "There Can Be Only One",
+				"artworkId": "24207889",
+				"sortPriority": 16
+			}
+		},
+		{
+			"id": 31616,
+			"cardName": "Ame no Habakiri no Mitsurugi",
+			"cardId": 15472,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 15472,
+				"name": "Ame no Habakiri no Mitsurugi",
+				"cleanName": "Ame no Habakiri no Mitsurugi",
+				"artworkId": "13332685",
+				"sortPriority": null
+			}
+		},
+		{
+			"id": 31603,
+			"cardName": "Radiant Typhoon Chant",
+			"cardId": 15502,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "unlimited",
+			"category": "TCG",
+			"card": {
+				"id": 15502,
+				"name": "Radiant Typhoon Chant",
+				"cleanName": "Radiant Typhoon Chant",
+				"artworkId": "67115133",
+				"sortPriority": null
+			}
+		},
+		{
+			"id": 31619,
+			"cardName": "Vanquish Soul Hollie Sue",
+			"cardId": 15466,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "limited",
+			"previous": "limited",
+			"category": "TCG",
+			"card": {
+				"id": 15466,
+				"name": "Vanquish Soul Hollie Sue",
+				"cleanName": "Vanquish Soul Hollie Sue",
+				"artworkId": "93156774",
+				"sortPriority": null
+			}
+		}
+	],
+	"semiLimited": [
+		{
+			"id": 31612,
+			"cardName": "Dracotail Lukias",
+			"cardId": 15350,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "semi-limited",
+			"previous": "unlimited",
+			"category": "TCG",
+			"card": {
+				"id": 15350,
+				"name": "Dracotail Lukias",
+				"cleanName": "Dracotail Lukias",
+				"artworkId": "75003700",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31623,
+			"cardName": "Droll & Lock Bird",
+			"cardId": 2918,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "semi-limited",
+			"previous": "semi-limited",
+			"category": "TCG",
+			"card": {
+				"id": 2918,
+				"name": "Droll & Lock Bird",
+				"cleanName": "Droll Lock Bird",
+				"artworkId": "94145021",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31654,
+			"cardName": "Ice Ryzeal",
+			"cardId": 13703,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "semi-limited",
+			"previous": "semi-limited",
+			"category": "TCG",
+			"card": {
+				"id": 13703,
+				"name": "Ice Ryzeal",
+				"cleanName": "Ice Ryzeal",
+				"artworkId": "8633261",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31655,
+			"cardName": "Sword Ryzeal",
+			"cardId": 13725,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "semi-limited",
+			"previous": "semi-limited",
+			"category": "TCG",
+			"card": {
+				"id": 13725,
+				"name": "Sword Ryzeal",
+				"cleanName": "Sword Ryzeal",
+				"artworkId": "35844557",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31656,
+			"cardName": "Unchained Soul of Sharvara",
+			"cardId": 12603,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "semi-limited",
+			"previous": "semi-limited",
+			"category": "TCG",
+			"card": {
+				"id": 12603,
+				"name": "Unchained Soul of Sharvara",
+				"cleanName": "Unchained Soul of Sharvara",
+				"artworkId": "41165831",
+				"sortPriority": 3
+			}
+		},
+		{
+			"id": 31611,
+			"cardName": "Dracotail Arthalion",
+			"cardId": 15345,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "semi-limited",
+			"previous": "unlimited",
+			"category": "TCG",
+			"card": {
+				"id": 15345,
+				"name": "Dracotail Arthalion",
+				"cleanName": "Dracotail Arthalion",
+				"artworkId": "33760966",
+				"sortPriority": 6
+			}
+		},
+		{
+			"id": 31657,
+			"cardName": "Maliss in Underground",
+			"cardId": 13707,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "semi-limited",
+			"previous": "semi-limited",
+			"category": "TCG",
+			"card": {
+				"id": 13707,
+				"name": "Maliss in Underground",
+				"cleanName": "Maliss in Underground",
+				"artworkId": "68337209",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31713,
+			"cardName": "Purrely Delicious Memory",
+			"cardId": 12156,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "semi-limited",
+			"previous": "semi-limited",
+			"category": "TCG",
+			"card": {
+				"id": 12156,
+				"name": "Purrely Delicious Memory",
+				"cleanName": "Purrely Delicious Memory",
+				"artworkId": "55584558",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31820,
+			"cardName": "Purrely Sleepy Memory",
+			"cardId": 12403,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "semi-limited",
+			"previous": "semi-limited",
+			"category": "TCG",
+			"card": {
+				"id": 12403,
+				"name": "Purrely Sleepy Memory",
+				"cleanName": "Purrely Sleepy Memory",
+				"artworkId": "21347668",
+				"sortPriority": 15
+			}
+		},
+		{
+			"id": 31821,
+			"cardName": "Runick Fountain",
+			"cardId": 11754,
+			"banlist": "May 2026",
+			"date": "2026-05-18",
+			"restriction": "semi-limited",
+			"previous": "semi-limited",
+			"category": "TCG",
+			"card": {
+				"id": 11754,
+				"name": "Runick Fountain",
+				"cleanName": "Runick Fountain",
+				"artworkId": "92107604",
+				"sortPriority": 15
+			}
+		}
+	],
+	"unlimited": [],
+	"limited1": [],
+	"limited2": [],
+	"limited3": []
+}
