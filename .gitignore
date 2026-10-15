@@ -219,3 +219,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 data/cache/ygopro/images/
+data/cache/ygopro/cards_by_name.json

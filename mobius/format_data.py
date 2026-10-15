@@ -8,6 +8,7 @@ from typing import Literal, Optional
 BanRestriction = Literal["", "limited", "semi-limited"]
 
 DEFAULT_FORMAT = "yugi-kaiba"
+ALL_DECKS_LABEL = "All decks"
 
 BAN_MULTIPLIER = {
     "": 1.0,
@@ -79,10 +80,30 @@ def load_pool_card_names(format_name: str) -> list[str]:
     return [line.strip() for line in lines if line.strip()]
 
 
-def load_usage_counts(format_name: str) -> dict[str, int]:
+def load_usage_file(format_name: str) -> dict:
     path = format_library_dir() / "usage" / f"{format_name}.json"
-    data = json.loads(path.read_text(encoding="utf-8"))
-    main = data.get("main") or []
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def list_deck_types(format_name: str) -> list[tuple[str, int]]:
+    """Deck type name and number of decks processed for that type."""
+    data = load_usage_file(format_name)
+    deck_types = data.get("deck_types") or {}
+    items: list[tuple[str, int]] = []
+    for name, info in deck_types.items():
+        items.append((str(name), int((info or {}).get("count") or 0)))
+    items.sort(key=lambda pair: (-pair[1], pair[0].casefold()))
+    return items
+
+
+def load_usage_counts(
+    format_name: str, deck_type: Optional[str] = None
+) -> dict[str, int]:
+    data = load_usage_file(format_name)
+    if deck_type:
+        main = (data.get("deck_types") or {}).get(deck_type, {}).get("main") or []
+    else:
+        main = data.get("main") or []
     counts: dict[str, int] = {}
     for entry in main:
         name = entry.get("name")
@@ -109,9 +130,11 @@ def load_ban_restrictions(format_name: str) -> dict[str, BanRestriction]:
     return result
 
 
-def build_format_rows(format_name: str) -> list[CardUsageRow]:
+def build_format_rows(
+    format_name: str, deck_type: Optional[str] = None
+) -> list[CardUsageRow]:
     pool = load_pool_card_names(format_name)
-    usage = load_usage_counts(format_name)
+    usage = load_usage_counts(format_name, deck_type)
     bans = load_ban_restrictions(format_name)
     rows: list[CardUsageRow] = []
     for name in pool:

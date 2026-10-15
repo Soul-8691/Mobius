@@ -6,10 +6,12 @@ from tkinter import messagebox, ttk
 from typing import Any, Callable, Dict, List, Optional, Tuple
 
 from mobius.format_data import (
+    ALL_DECKS_LABEL,
     BAN_MULTIPLIER,
     DEFAULT_FORMAT,
     CardUsageRow,
     build_format_rows,
+    list_deck_types,
     list_formats_with_usage,
 )
 from mobius.ygopro import CardInfo, YgoProDeckClient
@@ -99,6 +101,11 @@ class UsageStatsApp(tk.Tk):
         self._load_after_id: Optional[str] = None
         self._query_var = tk.StringVar()
         self._query_var.trace_add("write", lambda *_: self._on_query_change())
+        self._deck_type_var = tk.StringVar(value=ALL_DECKS_LABEL)
+        self._deck_type_labels: List[str] = [ALL_DECKS_LABEL]
+        self._deck_type_key_by_label: Dict[str, Optional[str]] = {
+            ALL_DECKS_LABEL: None
+        }
 
         self._build_ui()
         if self._formats:
@@ -130,6 +137,17 @@ class UsageStatsApp(tk.Tk):
         )
         combo.pack(side=tk.LEFT, padx=(4, 16))
         combo.bind("<<ComboboxSelected>>", self._on_format_change)
+
+        ttk.Label(top, text="Deck type:").pack(side=tk.LEFT)
+        self._deck_type_combo = ttk.Combobox(
+            top,
+            textvariable=self._deck_type_var,
+            values=self._deck_type_labels,
+            state="readonly",
+            width=26,
+        )
+        self._deck_type_combo.pack(side=tk.LEFT, padx=(4, 16))
+        self._deck_type_combo.bind("<<ComboboxSelected>>", self._on_deck_type_change)
 
         ttk.Label(top, text="Search name:").pack(side=tk.LEFT)
         ttk.Entry(top, textvariable=self._query_var, width=32).pack(
@@ -212,6 +230,25 @@ class UsageStatsApp(tk.Tk):
         if name:
             self._load_format(name)
 
+    def _on_deck_type_change(self, _event: object = None) -> None:
+        self._reload_usage_rows()
+
+    def _selected_deck_type(self) -> Optional[str]:
+        label = self._deck_type_var.get()
+        return self._deck_type_key_by_label.get(label)
+
+    def _refresh_deck_type_choices(self, format_name: str) -> None:
+        labels = [ALL_DECKS_LABEL]
+        key_by_label: Dict[str, Optional[str]] = {ALL_DECKS_LABEL: None}
+        for name, count in list_deck_types(format_name):
+            label = f"{name} ({count})"
+            labels.append(label)
+            key_by_label[label] = name
+        self._deck_type_labels = labels
+        self._deck_type_key_by_label = key_by_label
+        self._deck_type_combo.configure(values=labels)
+        self._deck_type_var.set(ALL_DECKS_LABEL)
+
     def _on_query_change(self) -> None:
         self._refresh_table()
         self._schedule_visible_load()
@@ -228,12 +265,30 @@ class UsageStatsApp(tk.Tk):
         self._status_var.set(f"Loading {format_name}…")
         self.update_idletasks()
 
-        self._rows = build_format_rows(format_name)
+        self._refresh_deck_type_choices(format_name)
+        self._reload_usage_rows(show_status=False)
+        self._update_status_line()
+        self._schedule_visible_load()
+
+    def _reload_usage_rows(self, show_status: bool = True) -> None:
+        format_name = self._format_var.get()
+        if not format_name:
+            return
+        deck_type = self._selected_deck_type()
+        self._rows = build_format_rows(format_name, deck_type)
         self._usage_by_name = {r.name: r for r in self._rows}
         self._rebuild_display_rows()
         self._refresh_table()
-        self._status_var.set(f"{format_name}: {len(self._rows)} pool cards")
+        if show_status:
+            self._update_status_line()
         self._schedule_visible_load()
+
+    def _update_status_line(self) -> None:
+        format_name = self._format_var.get()
+        deck_label = self._deck_type_var.get()
+        self._status_var.set(
+            f"{format_name} · {deck_label}: {len(self._rows)} pool cards"
+        )
 
     def _schedule_visible_load(self) -> None:
         if self._load_after_id is not None:
