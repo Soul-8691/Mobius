@@ -106,6 +106,9 @@ class UsageStatsApp(tk.Tk):
         self._deck_type_key_by_label: Dict[str, Optional[str]] = {
             ALL_DECKS_LABEL: None
         }
+        self._tooltip_win: Optional[tk.Toplevel] = None
+        self._tooltip_row: Optional[str] = None
+        self._tooltip_after_id: Optional[str] = None
 
         self._build_ui()
         if self._formats:
@@ -218,12 +221,87 @@ class UsageStatsApp(tk.Tk):
         tree_frame.rowconfigure(0, weight=1)
         tree_frame.columnconfigure(0, weight=1)
         self._tree.bind("<Configure>", lambda _e: self._schedule_visible_load())
+        self._tree.bind("<Motion>", self._on_tree_motion)
+        self._tree.bind("<Leave>", lambda _e: self._hide_desc_tooltip())
 
         self._placeholder = self._client.placeholder_photo(self)
 
     def _on_yscroll(self, first: str, last: str) -> None:
         self._vsb.set(first, last)
+        self._hide_desc_tooltip()
         self._schedule_visible_load()
+
+    def _hide_desc_tooltip(self) -> None:
+        if self._tooltip_after_id is not None:
+            self.after_cancel(self._tooltip_after_id)
+            self._tooltip_after_id = None
+        if self._tooltip_win is not None:
+            self._tooltip_win.destroy()
+            self._tooltip_win = None
+        self._tooltip_row = None
+
+    def _on_tree_motion(self, event: tk.Event) -> None:
+        row_id = self._tree.identify_row(event.y)
+        if not row_id or row_id == "none":
+            self._hide_desc_tooltip()
+            return
+        if row_id == self._tooltip_row and self._tooltip_win is not None:
+            return
+        self._hide_desc_tooltip()
+        self._tooltip_row = row_id
+        x, y = event.x_root, event.y_root
+
+        def show() -> None:
+            self._tooltip_after_id = None
+            if self._tooltip_row != row_id:
+                return
+            info = self._client.get_cached_info(row_id)
+            if not info or not info.desc.strip():
+                return
+            win = tk.Toplevel(self)
+            win.wm_overrideredirect(True)
+            win.attributes("-topmost", True)
+            frame = tk.Frame(
+                win,
+                background="#ffffe1",
+                highlightbackground="#666666",
+                highlightthickness=1,
+                padx=10,
+                pady=8,
+            )
+            frame.pack()
+            tk.Label(
+                frame,
+                text=info.name,
+                font=("Segoe UI", 9, "bold"),
+                background="#ffffe1",
+                anchor=tk.W,
+                justify=tk.LEFT,
+            ).pack(anchor=tk.W)
+            tk.Label(
+                frame,
+                text=info.desc,
+                font=("Segoe UI", 9),
+                background="#ffffe1",
+                wraplength=440,
+                anchor=tk.W,
+                justify=tk.LEFT,
+            ).pack(anchor=tk.W)
+            win.update_idletasks()
+            px = x + 16
+            py = y + 16
+            sw = win.winfo_screenwidth()
+            sh = win.winfo_screenheight()
+            ww = win.winfo_width()
+            wh = win.winfo_height()
+            if px + ww > sw:
+                px = max(0, sw - ww - 8)
+            if py + wh > sh:
+                py = max(0, y - wh - 8)
+            win.geometry(f"+{px}+{py}")
+            self._tooltip_win = win
+
+        self._tooltip_after_id = self.after(350, show)
 
     def _on_format_change(self, _event: object = None) -> None:
         name = self._format_var.get()
@@ -452,6 +530,7 @@ class UsageStatsApp(tk.Tk):
         return sorted(rows, key=key_fn, reverse=self._sort_reverse)
 
     def _refresh_table(self) -> None:
+        self._hide_desc_tooltip()
         for item in self._tree.get_children():
             self._tree.delete(item)
         for row in self._filtered_rows():

@@ -32,6 +32,7 @@ class CardInfo:
     race: str
     attribute: Optional[str]
     image_url_cropped: str
+    desc: str
 
     @classmethod
     def from_api(cls, raw: dict[str, Any]) -> CardInfo:
@@ -52,6 +53,7 @@ class CardInfo:
                 or img.get("image_url")
                 or ""
             ),
+            desc=str(raw.get("desc") or ""),
         )
 
 
