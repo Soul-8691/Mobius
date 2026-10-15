@@ -78,6 +78,14 @@ def _ban_sort_key(status: str) -> int:
     return order.get(status, 2)
 
 
+def _format_usage_cell(count: float, pct: float) -> str:
+    if count == int(count):
+        count_str = str(int(count))
+    else:
+        count_str = f"{count:.1f}"
+    return f"{count_str} ({pct:.2f}%)"
+
+
 class UsageStatsApp(tk.Tk):
     def __init__(self) -> None:
         super().__init__()
@@ -202,6 +210,8 @@ class UsageStatsApp(tk.Tk):
             width = 90
             if col == "name":
                 width = 220
+            elif col in ("weighted_usage", "raw_usage"):
+                width = 118
             elif col == "type":
                 width = 140
             self._tree.column(col, width=width, anchor=tk.W)
@@ -481,7 +491,9 @@ class UsageStatsApp(tk.Tk):
         return {
             "name": row.name,
             "raw_usage": row.raw_usage,
+            "raw_usage_pct": row.raw_usage_pct,
             "weighted_usage": row.weighted_usage,
+            "weighted_usage_pct": row.weighted_usage_pct,
             "ban": _ban_label(row.ban_status),
             "ban_status": row.ban_status,
             "ban_sort": _ban_sort_key(row.ban_status),
@@ -540,15 +552,14 @@ class UsageStatsApp(tk.Tk):
         level = row["level"] if row["level"] is not None else "—"
         atk = row["atk"] if row["atk"] is not None else "—"
         def_ = row["def"] if row["def"] is not None else "—"
-        weighted = row["weighted_usage"]
-        if weighted != int(weighted):
-            weighted_str = f"{weighted:.1f}"
-        else:
-            weighted_str = str(int(weighted))
+        weighted_str = _format_usage_cell(
+            row["weighted_usage"], row["weighted_usage_pct"]
+        )
+        raw_str = _format_usage_cell(row["raw_usage"], row["raw_usage_pct"])
         return (
             row["name"],
             weighted_str,
-            row["raw_usage"],
+            raw_str,
             row["ban"],
             row["type"] or "—",
             row["attribute"] or "—",

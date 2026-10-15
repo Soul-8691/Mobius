@@ -21,8 +21,10 @@ BAN_MULTIPLIER = {
 class CardUsageRow:
     name: str
     raw_usage: int
+    raw_usage_pct: float
     ban_status: BanRestriction
     weighted_usage: float
+    weighted_usage_pct: float
 
 
 def project_root() -> Path:
@@ -108,15 +110,22 @@ class CardFormatUsagePoint:
     deck_types: tuple[DeckTypeCardUsage, ...]
 
 
-def _format_usage_peaks(format_stem: str) -> tuple[dict[str, int], int, float]:
-    counts = load_usage_counts(format_stem)
-    bans = load_ban_restrictions(format_stem)
+def _usage_peaks_from_counts(
+    counts: dict[str, int], bans: dict[str, BanRestriction]
+) -> tuple[int, float]:
     peak_raw = max(counts.values()) if counts else 0
     peak_weighted = 0.0
     for name, raw in counts.items():
         weighted = raw * BAN_MULTIPLIER[bans.get(name, "")]
         if weighted > peak_weighted:
             peak_weighted = weighted
+    return peak_raw, peak_weighted
+
+
+def _format_usage_peaks(format_stem: str) -> tuple[dict[str, int], int, float]:
+    counts = load_usage_counts(format_stem)
+    bans = load_ban_restrictions(format_stem)
+    peak_raw, peak_weighted = _usage_peaks_from_counts(counts, bans)
     return counts, peak_raw, peak_weighted
 
 
@@ -281,17 +290,23 @@ def build_format_rows(
     pool = load_pool_card_names(format_name)
     usage = load_usage_counts(format_name, deck_type)
     bans = load_ban_restrictions(format_name)
+    peak_raw, peak_weighted = _usage_peaks_from_counts(usage, bans)
     rows: list[CardUsageRow] = []
     for name in pool:
         raw = usage.get(name, 0)
         ban_status: BanRestriction = bans.get(name, "")
         mult = BAN_MULTIPLIER[ban_status]
+        weighted = raw * mult
+        raw_pct = (raw / peak_raw * 100.0) if peak_raw else 0.0
+        weighted_pct = (weighted / peak_weighted * 100.0) if peak_weighted else 0.0
         rows.append(
             CardUsageRow(
                 name=name,
                 raw_usage=raw,
+                raw_usage_pct=raw_pct,
                 ban_status=ban_status,
-                weighted_usage=raw * mult,
+                weighted_usage=weighted,
+                weighted_usage_pct=weighted_pct,
             )
         )
     return rows
