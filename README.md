@@ -18,7 +18,7 @@ python main.py
 
 ### Card usage timeline graph
 
-Plot one card’s usage vs each format’s **top card** (line chart; **Y-axis** = ban-weighted count as % of that format’s highest weighted card — Limited ×3, Semi-Limited ×1.5; point color = ban status, shade = relative weighted usage). Hover a dot in the interactive window for raw/weighted counts vs peak, and per–deck-type usage.
+Plot one card’s usage across formats (line chart; **Y-axis** = ban-weighted count as % of that format’s **decks processed × 3**; point color = ban status, shade = relative weighted usage). Hover a dot for raw/weighted counts vs that cap and per–deck-type usage.
 
 ```bash
 py -3.9 graph_card_usage.py "Monster Reborn"

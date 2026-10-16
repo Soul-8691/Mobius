@@ -60,12 +60,12 @@ def _format_tooltip(point: CardFormatUsagePoint) -> str:
     lines = [
         point.format_label,
         (
-            f"Raw: {point.raw_usage:,} / {point.format_peak_raw:,} peak "
+            f"Raw: {point.raw_usage:,} / {point.pct_denominator:,} (decks×3) "
             f"({point.raw_usage_pct:.2f}%)"
         ),
         (
             f"Weighted (×{mult:g}): {point.weighted_usage:,.0f} / "
-            f"{point.format_peak_weighted:,.0f} peak ({point.weighted_usage_pct:.2f}%)"
+            f"{point.pct_denominator:,} (decks×3) ({point.weighted_usage_pct:.2f}%)"
         ),
         f"Ban: {ban}",
     ]
@@ -105,7 +105,7 @@ def plot_card_usage_timeline(
 
     ax.set_xticks(x)
     ax.set_xticklabels(labels, rotation=45, ha="right")
-    ax.set_ylabel("Weighted usage (% of format peak card)")
+    ax.set_ylabel("Weighted usage (% of decks × 3)")
     ax.set_xlabel("Format (chronological)")
     ax.set_title(f"{card_name} — usage across formats")
     ax.grid(axis="y", linestyle="--", alpha=0.35)
@@ -179,7 +179,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(
         description=(
             "Graph how often a card appears in tournament decks across formats, "
-            "as ban-weighted percentage of each format's most-used card."
+            "as ban-weighted percentage of each format's deck count × 3."
         )
     )
     parser.add_argument("card", help="Exact card name")

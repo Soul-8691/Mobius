@@ -10,6 +10,8 @@ from mobius.format_data import (
     BAN_MULTIPLIER,
     DEFAULT_FORMAT,
     CardUsageRow,
+    DECK_ZONE_LABELS,
+    DEFAULT_DECK_ZONE,
     build_format_rows,
     format_all_decks_label,
     list_deck_types,
@@ -150,6 +152,12 @@ class UsageStatsApp(tk.Tk):
         self._filter_max: Dict[str, tk.StringVar] = {}
         self._filter_text: Dict[str, tk.StringVar] = {}
         self._filter_ban_var = tk.StringVar(value="Any")
+        self._deck_zone_var = tk.StringVar(
+            value=DECK_ZONE_LABELS[DEFAULT_DECK_ZONE]
+        )
+        self._deck_zone_key_by_label = {
+            label: key for key, label in DECK_ZONE_LABELS.items()
+        }
 
         self._build_ui()
         if self._formats:
@@ -192,6 +200,17 @@ class UsageStatsApp(tk.Tk):
         )
         self._deck_type_combo.pack(side=tk.LEFT, padx=(4, 16))
         self._deck_type_combo.bind("<<ComboboxSelected>>", self._on_deck_type_change)
+
+        ttk.Label(top, text="Deck:").pack(side=tk.LEFT)
+        self._deck_zone_combo = ttk.Combobox(
+            top,
+            textvariable=self._deck_zone_var,
+            values=list(DECK_ZONE_LABELS.values()),
+            state="readonly",
+            width=14,
+        )
+        self._deck_zone_combo.pack(side=tk.LEFT, padx=(4, 16))
+        self._deck_zone_combo.bind("<<ComboboxSelected>>", self._on_deck_zone_change)
 
         ttk.Label(top, text="Search name:").pack(side=tk.LEFT)
         ttk.Entry(top, textvariable=self._query_var, width=32).pack(
@@ -456,6 +475,13 @@ class UsageStatsApp(tk.Tk):
     def _on_deck_type_change(self, _event: object = None) -> None:
         self._reload_usage_rows()
 
+    def _on_deck_zone_change(self, _event: object = None) -> None:
+        self._reload_usage_rows()
+
+    def _selected_deck_zone(self) -> str:
+        label = self._deck_zone_var.get()
+        return self._deck_zone_key_by_label.get(label, DEFAULT_DECK_ZONE)
+
     def _selected_deck_type(self) -> Optional[str]:
         label = self._deck_type_var.get()
         return self._deck_type_key_by_label.get(label)
@@ -472,6 +498,7 @@ class UsageStatsApp(tk.Tk):
         self._deck_type_key_by_label = key_by_label
         self._deck_type_combo.configure(values=labels)
         self._deck_type_var.set(all_label)
+        self._deck_zone_var.set(DECK_ZONE_LABELS[DEFAULT_DECK_ZONE])
 
     def _on_query_change(self) -> None:
         self._refresh_table()
@@ -499,7 +526,8 @@ class UsageStatsApp(tk.Tk):
         if not format_name:
             return
         deck_type = self._selected_deck_type()
-        self._rows = build_format_rows(format_name, deck_type)
+        deck_zone = self._selected_deck_zone()
+        self._rows = build_format_rows(format_name, deck_type, deck_zone)
         self._usage_by_name = {r.name: r for r in self._rows}
         self._rebuild_display_rows()
         self._refresh_table()
@@ -510,8 +538,9 @@ class UsageStatsApp(tk.Tk):
     def _update_status_line(self) -> None:
         format_name = self._format_var.get()
         deck_label = self._deck_type_var.get()
+        zone_label = self._deck_zone_var.get()
         self._status_var.set(
-            f"{format_name} · {deck_label}: {len(self._rows)} pool cards"
+            f"{format_name} · {deck_label} · {zone_label}: {len(self._rows)} pool cards"
         )
 
     def _schedule_visible_load(self) -> None:
