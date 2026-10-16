@@ -2,23 +2,20 @@ from __future__ import annotations
 
 import json
 import threading
-import time
 import urllib.error
-import urllib.parse
 import urllib.request
 from dataclasses import dataclass
 from io import BytesIO
 from pathlib import Path
-from typing import Any, Callable, Optional
+from typing import Any, Optional
 
 from PIL import Image, ImageTk
 
 from mobius.format_data import project_root
 
 CARDINFO_URL = "https://db.ygoprodeck.com/api/v7/cardinfo.php"
-BATCH_SIZE = 15
-REQUEST_INTERVAL = 0.12
 IMAGE_SIZE = (100, 100)
+USER_AGENT = "Mobius/1.0 (local usage visualizer)"
 
 
 @dataclass
@@ -57,7 +54,7 @@ class CardInfo:
         )
 
 
-def _optional_int(value: Any) -> int | None:
+def _optional_int(value: Any) -> Optional[int]:
     if value is None or value == "?":
         return None
     try:
@@ -69,29 +66,75 @@ def _optional_int(value: Any) -> int | None:
 class YgoProDeckClient:
     def __init__(self) -> None:
         root = project_root() / "data" / "cache" / "ygopro"
-        self._info_path = root / "cards_by_name.json"
+        self._cache_root = root
+        self._database_path = root / "card_database.json"
+        self._legacy_info_path = root / "cards_by_name.json"
         self._image_dir = root / "images"
         self._image_dir.mkdir(parents=True, exist_ok=True)
         self._lock = threading.Lock()
-        self._info_by_name: dict[str, dict[str, Any]] = self._load_info_cache()
+        self._info_by_name: dict[str, dict[str, Any]] = {}
+        self._database_loaded = False
         self._placeholder: Optional[ImageTk.PhotoImage] = None
 
-    def _load_info_cache(self) -> dict[str, dict[str, Any]]:
-        if not self._info_path.is_file():
-            return {}
-        try:
-            return json.loads(self._info_path.read_text(encoding="utf-8"))
-        except (json.JSONDecodeError, OSError):
-            return {}
+    @property
+    def database_loaded(self) -> bool:
+        return self._database_loaded
 
-    def _save_info_cache(self) -> None:
-        self._info_path.parent.mkdir(parents=True, exist_ok=True)
-        tmp = self._info_path.with_suffix(".tmp")
-        tmp.write_text(
-            json.dumps(self._info_by_name, ensure_ascii=False, indent=2),
-            encoding="utf-8",
+    @property
+    def database_path(self) -> Path:
+        return self._database_path
+
+    def ensure_card_database(self) -> int:
+        """Load or download the full YGOPRODeck card database. Returns card count."""
+        with self._lock:
+            if self._database_path.is_file():
+                count = self._load_database_file(self._database_path)
+                self._database_loaded = True
+                return count
+        payload = self._download_full_database()
+        with self._lock:
+            count = self._index_payload(payload)
+            self._database_loaded = True
+            return count
+
+    def _download_full_database(self) -> dict[str, Any]:
+        self._cache_root.mkdir(parents=True, exist_ok=True)
+        req = urllib.request.Request(
+            CARDINFO_URL,
+            headers={"User-Agent": USER_AGENT},
         )
-        tmp.replace(self._info_path)
+        with urllib.request.urlopen(req, timeout=300) as resp:
+            raw = resp.read()
+        payload = json.loads(raw.decode("utf-8"))
+        tmp = self._database_path.with_suffix(".tmp")
+        tmp.write_bytes(raw)
+        tmp.replace(self._database_path)
+        return payload
+
+    def _load_database_file(self, path: Path) -> int:
+        payload = json.loads(path.read_text(encoding="utf-8"))
+        count = self._index_payload(payload)
+        self._merge_legacy_cache()
+        return count
+
+    def _index_payload(self, payload: dict[str, Any]) -> int:
+        cards = payload.get("data") or []
+        self._info_by_name = {}
+        for raw in cards:
+            name = raw.get("name")
+            if name:
+                self._info_by_name[str(name)] = raw
+        return len(self._info_by_name)
+
+    def _merge_legacy_cache(self) -> None:
+        if not self._legacy_info_path.is_file():
+            return
+        try:
+            legacy = json.loads(self._legacy_info_path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            return
+        for name, raw in legacy.items():
+            self._info_by_name.setdefault(name, raw)
 
     def get_cached_info(self, name: str) -> Optional[CardInfo]:
         raw = self._info_by_name.get(name)
@@ -137,46 +180,7 @@ class YgoProDeckClient:
     def _http_get(self, url: str) -> bytes:
         req = urllib.request.Request(
             url,
-            headers={"User-Agent": "Mobius/1.0 (local usage visualizer)"},
+            headers={"User-Agent": USER_AGENT},
         )
         with urllib.request.urlopen(req, timeout=60) as resp:
             return resp.read()
-
-    def _fetch_cardinfo_batch(self, names: list[str]) -> list[dict[str, Any]]:
-        if not names:
-            return []
-        query = urllib.parse.urlencode({"name": "|".join(names)})
-        url = f"{CARDINFO_URL}?{query}"
-        req = urllib.request.Request(
-            url,
-            headers={"User-Agent": "Mobius/1.0 (local usage visualizer)"},
-        )
-        with urllib.request.urlopen(req, timeout=60) as resp:
-            payload = json.loads(resp.read().decode("utf-8"))
-        return list(payload.get("data") or [])
-
-    def ensure_cards(
-        self,
-        names: list[str],
-        on_batch: Optional[Callable[[list], None]] = None,
-        cancel_event: Optional[threading.Event] = None,
-    ) -> None:
-        missing = [n for n in names if n not in self._info_by_name]
-        if not missing:
-            return
-        for i in range(0, len(missing), BATCH_SIZE):
-            if cancel_event and cancel_event.is_set():
-                return
-            batch = missing[i : i + BATCH_SIZE]
-            try:
-                cards = self._fetch_cardinfo_batch(batch)
-            except (urllib.error.URLError, json.JSONDecodeError, TimeoutError):
-                time.sleep(1.0)
-                continue
-            with self._lock:
-                for raw in cards:
-                    self._info_by_name[str(raw["name"])] = raw
-                self._save_info_cache()
-            if on_batch:
-                on_batch([str(c["name"]) for c in cards])
-            time.sleep(REQUEST_INTERVAL)

@@ -220,3 +220,4 @@ __marimo__/
 .streamlit/secrets.toml
 data/cache/ygopro/images/
 data/cache/ygopro/cards_by_name.json
+data/cache/ygopro/card_database.json

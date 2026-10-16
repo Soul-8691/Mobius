@@ -132,11 +132,6 @@ class UsageStatsApp(tk.Tk):
         self._photo_refs: dict[str, tk.PhotoImage] = {}
         self._sort_column = "weighted_usage"
         self._sort_reverse = True
-        self._fetch_cancel = threading.Event()
-        self._fetch_thread: Optional[threading.Thread] = None
-        self._fetch_queue: set[str] = set()
-        self._fetch_queue_lock = threading.Lock()
-        self._load_gen = 0
         self._load_after_id: Optional[str] = None
         self._query_var = tk.StringVar()
         self._query_var.trace_add("write", lambda *_: self._on_query_change())
@@ -167,12 +162,12 @@ class UsageStatsApp(tk.Tk):
                 else self._formats[0]
             )
             self._format_var.set(initial)
-            self._load_format(initial)
         else:
             messagebox.showwarning(
                 "No formats",
                 "No formats found with both a pool file and usage data.",
             )
+        self._start_card_database_load()
 
     def _build_ui(self) -> None:
         top = ttk.Frame(self, padding=8)
@@ -504,15 +499,35 @@ class UsageStatsApp(tk.Tk):
         self._refresh_table()
         self._schedule_visible_load()
 
-    def _load_format(self, format_name: str) -> None:
-        self._load_gen += 1
-        self._fetch_cancel.set()
-        with self._fetch_queue_lock:
-            self._fetch_queue.clear()
-        if self._fetch_thread and self._fetch_thread.is_alive():
-            self._fetch_thread.join(timeout=0.5)
-        self._fetch_cancel = threading.Event()
+    def _start_card_database_load(self) -> None:
+        self._status_var.set("Loading YGOPRODeck card database…")
 
+        def worker() -> None:
+            try:
+                count = self._client.ensure_card_database()
+                self.after(0, lambda: self._on_card_database_ready(count))
+            except Exception as exc:
+                self.after(0, lambda: self._on_card_database_error(exc))
+
+        threading.Thread(target=worker, daemon=True).start()
+
+    def _on_card_database_ready(self, count: int) -> None:
+        if self._formats and not self._rows:
+            self._load_format(self._format_var.get())
+        else:
+            self._rebuild_display_rows()
+            self._refresh_table()
+            self._update_status_line()
+        self._schedule_visible_load()
+
+    def _on_card_database_error(self, exc: Exception) -> None:
+        messagebox.showerror(
+            "Card database",
+            f"Could not load YGOPRODeck card data:\n{exc}",
+        )
+        self._status_var.set("Card database unavailable")
+
+    def _load_format(self, format_name: str) -> None:
         self._status_var.set(f"Loading {format_name}…")
         self.update_idletasks()
 
@@ -568,67 +583,15 @@ class UsageStatsApp(tk.Tk):
 
     def _load_visible_cards(self) -> None:
         self._load_after_id = None
+        if not self._client.database_loaded:
+            return
         visible = self._visible_tree_iids()
+        for name in visible:
+            if self._client.get_cached_info(name):
+                self._sync_display_row(name)
+                if self._tree.exists(name):
+                    self._update_tree_row(name, download=True)
         self._refresh_visible_photos(visible, download=True)
-
-        to_fetch = [
-            name for name in visible if self._client.get_cached_info(name) is None
-        ]
-        if not to_fetch:
-            return
-
-        self._enqueue_card_fetch(to_fetch)
-
-    def _enqueue_card_fetch(self, names: List[str]) -> None:
-        with self._fetch_queue_lock:
-            for name in names:
-                if self._client.get_cached_info(name) is None:
-                    self._fetch_queue.add(name)
-            start_worker = self._fetch_thread is None or not self._fetch_thread.is_alive()
-
-        if start_worker:
-            gen = self._load_gen
-            self._fetch_cancel.clear()
-            self._fetch_thread = threading.Thread(
-                target=self._fetch_worker,
-                args=(gen,),
-                daemon=True,
-            )
-            self._fetch_thread.start()
-
-    def _fetch_worker(self, gen: int) -> None:
-        while not self._fetch_cancel.is_set() and gen == self._load_gen:
-            with self._fetch_queue_lock:
-                batch: List[str] = []
-                while self._fetch_queue and len(batch) < 15:
-                    batch.append(self._fetch_queue.pop())
-
-            if not batch:
-                break
-
-            def on_batch(fetched: List[str]) -> None:
-                self.after(0, lambda f=fetched: self._on_cards_fetched(f, gen))
-
-            self._client.ensure_cards(
-                batch,
-                on_batch=on_batch,
-                cancel_event=self._fetch_cancel,
-            )
-
-    def _on_cards_fetched(self, names: List[str], gen: int) -> None:
-        if gen != self._load_gen:
-            return
-        for name in names:
-            self._sync_display_row(name)
-        visible = set(self._visible_tree_iids())
-        for name in names:
-            if name in visible and self._tree.exists(name):
-                self._update_tree_row(name, download=True)
-        shown = len(self._filtered_rows())
-        self._status_var.set(
-            f"{self._format_var.get()}: {shown} shown — loaded details for visible rows"
-        )
-        self._schedule_visible_load()
 
     def _sync_display_row(self, name: str) -> None:
         usage = self._usage_by_name.get(name)
