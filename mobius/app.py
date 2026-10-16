@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import threading
 import tkinter as tk
-from tkinter import messagebox, ttk
+from tkinter import filedialog, messagebox, ttk
 from typing import Any, Callable, Dict, List, Optional, Tuple
 
 from mobius.format_data import (
@@ -336,6 +336,40 @@ class UsageStatsApp(tk.Tk):
 
         ttk.Button(row, text="Clear filters", command=self._clear_column_filters).pack(
             side=tk.LEFT, padx=(8, 0)
+        )
+        ttk.Button(row, text="Dump list…", command=self._dump_list_names).pack(
+            side=tk.LEFT, padx=(8, 0)
+        )
+
+    def _dump_list_names(self) -> None:
+        names = [row["name"] for row in self._filtered_rows()]
+        if not names:
+            messagebox.showinfo(
+                "Dump list",
+                "No cards match the current search and filters.",
+            )
+            return
+        format_stem = self._format_var.get()
+        path = filedialog.asksaveasfilename(
+            title="Save card names (current sort)",
+            defaultextension=".txt",
+            initialfile=f"{format_stem}-cards.txt",
+            filetypes=[("Text files", "*.txt"), ("All files", "*.*")],
+        )
+        if not path:
+            return
+        try:
+            with open(path, "w", encoding="utf-8", newline="\n") as handle:
+                handle.write("\n".join(names))
+                handle.write("\n")
+        except OSError as exc:
+            messagebox.showerror(
+                "Dump list",
+                f"Could not write file:\n{exc}",
+            )
+            return
+        self._status_var.set(
+            f"Wrote {len(names)} card name(s) to {path}"
         )
 
     def _clear_column_filters(self) -> None:
