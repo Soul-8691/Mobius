@@ -14,7 +14,9 @@ from mobius.format_data import (
     BAN_MULTIPLIER,
     BanRestriction,
     CardFormatUsagePoint,
+    card_copy_breakdown_all_zones_text,
     collect_card_usage_timeline,
+    format_zone_usage_lines,
 )
 
 BAN_BASE_RGB = {
@@ -54,7 +56,7 @@ def _point_colors(points: List[CardFormatUsagePoint]) -> List[Tuple[float, float
     ]
 
 
-def _format_tooltip(point: CardFormatUsagePoint) -> str:
+def _format_tooltip(point: CardFormatUsagePoint, card_name: str) -> str:
     mult = BAN_MULTIPLIER[point.ban_status]
     ban = BAN_LEGEND[point.ban_status]
     lines = [
@@ -79,6 +81,13 @@ def _format_tooltip(point: CardFormatUsagePoint) -> str:
     else:
         lines.append("")
         lines.append("Deck types: none")
+    lines.append("")
+    lines.extend(format_zone_usage_lines(point.format_stem, card_name))
+    lines.append("")
+    lines.append("Copy breakdown by deck zone:")
+    lines.append(
+        card_copy_breakdown_all_zones_text(point.format_stem, card_name)
+    )
     return "\n".join(lines)
 
 
@@ -162,7 +171,7 @@ def plot_card_usage_timeline(
             index = int(info["ind"][0])
             point = points[index]
             annot.xy = (x[index], y[index])
-            annot.set_text(_format_tooltip(point))
+            annot.set_text(_format_tooltip(point, card_name))
             annot.set_visible(True)
             fig.canvas.draw_idle()
 

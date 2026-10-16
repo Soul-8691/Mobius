@@ -13,7 +13,9 @@ from mobius.format_data import (
     DECK_ZONE_LABELS,
     DEFAULT_DECK_ZONE,
     build_format_rows,
+    card_copy_breakdown,
     format_all_decks_label,
+    format_copy_breakdown_block,
     list_deck_types,
     list_formats_with_usage,
     load_decks_processed,
@@ -22,6 +24,7 @@ from mobius.ygopro import CardInfo, YgoProDeckClient
 
 ROW_HEIGHT = 104
 VISIBLE_BUFFER = 4
+USAGE_HOVER_COLUMNS = frozenset({"#2", "#3"})
 
 COLUMNS = (
     "name",
@@ -142,6 +145,7 @@ class UsageStatsApp(tk.Tk):
         }
         self._tooltip_win: Optional[tk.Toplevel] = None
         self._tooltip_row: Optional[str] = None
+        self._tooltip_column: Optional[str] = None
         self._tooltip_after_id: Optional[str] = None
         self._filter_min: Dict[str, tk.StringVar] = {}
         self._filter_max: Dict[str, tk.StringVar] = {}
@@ -398,67 +402,95 @@ class UsageStatsApp(tk.Tk):
             self._tooltip_win.destroy()
             self._tooltip_win = None
         self._tooltip_row = None
+        self._tooltip_column = None
+
+    def _usage_hover_text(self, card_name: str) -> str:
+        format_name = self._format_var.get()
+        deck_type = self._selected_deck_type()
+        deck_zone = self._selected_deck_zone()
+        bd = card_copy_breakdown(
+            format_name,
+            card_name,
+            deck_type=deck_type,
+            deck_zone=deck_zone,
+        )
+        deck_label = self._deck_type_var.get()
+        zone_label = self._deck_zone_var.get()
+        lines = [card_name, f"{deck_label} · {zone_label}"]
+        lines.extend(
+            format_copy_breakdown_block(
+                bd, heading=f"Copy count ({bd.decks_total} decks):"
+            )
+        )
+        return "\n".join(lines)
+
+    def _show_hover_tooltip(self, text: str, x: int, y: int) -> None:
+        self._hide_desc_tooltip()
+        win = tk.Toplevel(self)
+        win.wm_overrideredirect(True)
+        win.attributes("-topmost", True)
+        frame = tk.Frame(
+            win,
+            background="#ffffe1",
+            highlightbackground="#666666",
+            highlightthickness=1,
+            padx=10,
+            pady=8,
+        )
+        frame.pack()
+        tk.Label(
+            frame,
+            text=text,
+            font=("Segoe UI", 9),
+            background="#ffffe1",
+            wraplength=440,
+            anchor=tk.W,
+            justify=tk.LEFT,
+        ).pack(anchor=tk.W)
+        win.update_idletasks()
+        px = x + 10
+        py = y
+        sw = win.winfo_screenwidth()
+        sh = win.winfo_screenheight()
+        ww = win.winfo_width()
+        wh = win.winfo_height()
+        if px + ww > sw:
+            px = max(0, sw - ww - 8)
+        if py + wh > sh:
+            py = max(0, y - wh - 8)
+        win.geometry(f"+{px}+{py}")
+        self._tooltip_win = win
 
     def _on_tree_motion(self, event: tk.Event) -> None:
         row_id = self._tree.identify_row(event.y)
+        column_id = self._tree.identify_column(event.x)
         if not row_id or row_id == "none":
             self._hide_desc_tooltip()
             return
-        if row_id == self._tooltip_row and self._tooltip_win is not None:
+        if (
+            row_id == self._tooltip_row
+            and column_id == self._tooltip_column
+            and self._tooltip_win is not None
+        ):
             return
         self._hide_desc_tooltip()
         self._tooltip_row = row_id
+        self._tooltip_column = column_id
         x, y = event.x_root, event.y_root
 
         def show() -> None:
             self._tooltip_after_id = None
-            if self._tooltip_row != row_id:
+            if self._tooltip_row != row_id or self._tooltip_column != column_id:
+                return
+            if column_id in USAGE_HOVER_COLUMNS:
+                text = self._usage_hover_text(row_id)
+                self._show_hover_tooltip(text, x, y)
                 return
             info = self._client.get_cached_info(row_id)
             if not info or not info.desc.strip():
                 return
-            win = tk.Toplevel(self)
-            win.wm_overrideredirect(True)
-            win.attributes("-topmost", True)
-            frame = tk.Frame(
-                win,
-                background="#ffffe1",
-                highlightbackground="#666666",
-                highlightthickness=1,
-                padx=10,
-                pady=8,
-            )
-            frame.pack()
-            tk.Label(
-                frame,
-                text=info.name,
-                font=("Segoe UI", 9, "bold"),
-                background="#ffffe1",
-                anchor=tk.W,
-                justify=tk.LEFT,
-            ).pack(anchor=tk.W)
-            tk.Label(
-                frame,
-                text=info.desc,
-                font=("Segoe UI", 9),
-                background="#ffffe1",
-                wraplength=440,
-                anchor=tk.W,
-                justify=tk.LEFT,
-            ).pack(anchor=tk.W)
-            win.update_idletasks()
-            px = x + 16
-            py = y + 16
-            sw = win.winfo_screenwidth()
-            sh = win.winfo_screenheight()
-            ww = win.winfo_width()
-            wh = win.winfo_height()
-            if px + ww > sw:
-                px = max(0, sw - ww - 8)
-            if py + wh > sh:
-                py = max(0, y - wh - 8)
-            win.geometry(f"+{px}+{py}")
-            self._tooltip_win = win
+            text = f"{info.name}\n\n{info.desc}"
+            self._show_hover_tooltip(text, x, y)
 
         self._tooltip_after_id = self.after(350, show)
 

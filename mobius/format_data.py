@@ -273,6 +273,119 @@ def _usage_section_lists(block: dict, deck_zone: DeckZone) -> list[list]:
     return [block.get("main") or [], block.get("side") or []]
 
 
+@dataclass(frozen=True)
+class CardCopyBreakdown:
+    decks_total: int
+    copy_0: int
+    copy_1: int
+    copy_2: int
+    copy_3: int
+
+    def pct(self, count: int) -> float:
+        if not self.decks_total:
+            return 0.0
+        return count / self.decks_total * 100.0
+
+
+def _merge_entry_copies(tallies: dict[int, int], entry: dict) -> None:
+    for key, value in (entry.get("copies") or {}).items():
+        copies = int(key)
+        if 0 <= copies <= 3:
+            tallies[copies] = tallies.get(copies, 0) + int(value or 0)
+
+
+def card_copy_breakdown(
+    format_name: str,
+    card_name: str,
+    *,
+    deck_type: Optional[str] = None,
+    deck_zone: DeckZone = DEFAULT_DECK_ZONE,
+) -> CardCopyBreakdown:
+    """How many decks ran 0–3 copies of the card in the selected zone view."""
+    decks_total = load_decks_processed(format_name, deck_type)
+    data = load_usage_file(format_name)
+    block = _usage_block(data, deck_type)
+    tallies = {0: 0, 1: 0, 2: 0, 3: 0}
+    found = False
+    for section in _usage_section_lists(block, deck_zone):
+        for entry in section:
+            if entry.get("name") != card_name:
+                continue
+            found = True
+            _merge_entry_copies(tallies, entry)
+    used = tallies[1] + tallies[2] + tallies[3]
+    if not found:
+        tallies[0] = decks_total
+    else:
+        tallies[0] = max(0, decks_total - used)
+    return CardCopyBreakdown(
+        decks_total=decks_total,
+        copy_0=tallies[0],
+        copy_1=tallies[1],
+        copy_2=tallies[2],
+        copy_3=tallies[3],
+    )
+
+
+def format_copy_breakdown_block(
+    breakdown: CardCopyBreakdown, *, heading: str
+) -> list[str]:
+    lines = [heading]
+    for copies in (0, 1, 2, 3):
+        count = (
+            breakdown.copy_0
+            if copies == 0
+            else breakdown.copy_1
+            if copies == 1
+            else breakdown.copy_2
+            if copies == 2
+            else breakdown.copy_3
+        )
+        lines.append(f"  {copies} copies: {count} ({breakdown.pct(count):.1f}%)")
+    return lines
+
+
+def card_copy_breakdown_all_zones_text(
+    format_name: str,
+    card_name: str,
+    *,
+    deck_type: Optional[str] = None,
+) -> str:
+    blocks: list[str] = []
+    for zone in ("main+side", "main", "extra", "side"):
+        bd = card_copy_breakdown(
+            format_name, card_name, deck_type=deck_type, deck_zone=zone
+        )
+        label = DECK_ZONE_LABELS[zone]
+        blocks.extend(
+            format_copy_breakdown_block(
+                bd, heading=f"{label} ({bd.decks_total} decks):"
+            )
+        )
+        blocks.append("")
+    return "\n".join(blocks).rstrip()
+
+
+def format_zone_usage_lines(
+    format_name: str,
+    card_name: str,
+    *,
+    deck_type: Optional[str] = None,
+) -> list[str]:
+    """Raw copy totals per deck zone (same % denominator as the main table)."""
+    denom = usage_pct_denominator(format_name, deck_type)
+    lines = ["Usage by deck zone (raw / decks×3):"]
+    for zone in ("main+side", "main", "extra", "side"):
+        raw = load_usage_counts(format_name, deck_type, deck_zone=zone).get(
+            card_name, 0
+        )
+        pct = (raw / denom * 100.0) if denom else 0.0
+        lines.append(
+            f"  {DECK_ZONE_LABELS[zone]}: {raw:,} ({pct:.2f}%)"
+        )
+    return lines
+
+
 def load_usage_counts(
     format_name: str,
     deck_type: Optional[str] = None,
