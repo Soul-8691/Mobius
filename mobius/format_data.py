@@ -10,6 +10,10 @@ BanRestriction = Literal["", "limited", "semi-limited"]
 DEFAULT_FORMAT = "yugi-kaiba"
 ALL_DECKS_LABEL = "All decks"
 
+
+def format_all_decks_label(deck_count: int) -> str:
+    return f"All decks ({deck_count})"
+
 BAN_MULTIPLIER = {
     "": 1.0,
     "limited": 3.0,
@@ -239,6 +243,14 @@ def load_usage_file(format_name: str) -> dict:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def load_decks_processed(format_name: str, deck_type: Optional[str] = None) -> int:
+    data = load_usage_file(format_name)
+    if deck_type:
+        info = (data.get("deck_types") or {}).get(deck_type) or {}
+        return int(info.get("count") or 0)
+    return int(data.get("decks_processed") or 0)
+
+
 def list_deck_types(format_name: str) -> list[tuple[str, int]]:
     """Deck type name and number of decks processed for that type."""
     data = load_usage_file(format_name)
@@ -290,14 +302,15 @@ def build_format_rows(
     pool = load_pool_card_names(format_name)
     usage = load_usage_counts(format_name, deck_type)
     bans = load_ban_restrictions(format_name)
-    peak_raw, peak_weighted = _usage_peaks_from_counts(usage, bans)
+    _peak_raw, peak_weighted = _usage_peaks_from_counts(usage, bans)
     rows: list[CardUsageRow] = []
     for name in pool:
         raw = usage.get(name, 0)
         ban_status: BanRestriction = bans.get(name, "")
         mult = BAN_MULTIPLIER[ban_status]
         weighted = raw * mult
-        raw_pct = (raw / peak_raw * 100.0) if peak_raw else 0.0
+        # Usage column shows raw count; % is raw vs peak weighted usage in this view.
+        raw_pct = (raw / peak_weighted * 100.0) if peak_weighted else 0.0
         weighted_pct = (weighted / peak_weighted * 100.0) if peak_weighted else 0.0
         rows.append(
             CardUsageRow(

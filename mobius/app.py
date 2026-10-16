@@ -11,8 +11,10 @@ from mobius.format_data import (
     DEFAULT_FORMAT,
     CardUsageRow,
     build_format_rows,
+    format_all_decks_label,
     list_deck_types,
     list_formats_with_usage,
+    load_decks_processed,
 )
 from mobius.ygopro import CardInfo, YgoProDeckClient
 
@@ -45,6 +47,23 @@ COLUMN_LABELS = {
     "def": "DEF",
 }
 
+NUMERIC_FILTER_COLUMNS = (
+    "weighted_usage",
+    "raw_usage",
+    "level",
+    "atk",
+    "def",
+)
+PCT_FILTER_FIELD = {
+    "weighted_usage": "weighted_usage_pct",
+    "raw_usage": "raw_usage_pct",
+}
+FILTER_COLUMN_LABELS = {
+    "weighted_usage": "Weighted %",
+    "raw_usage": "Usage %",
+}
+TEXT_FILTER_COLUMNS = ("type", "attribute", "race")
+
 SORT_KEYS: dict[str, Callable[[dict[str, Any]], Any]] = {
     "name": lambda r: r["name"].lower(),
     "weighted_usage": lambda r: (r["weighted_usage"], r["name"].lower()),
@@ -76,6 +95,16 @@ def _ban_label(status: str) -> str:
 def _ban_sort_key(status: str) -> int:
     order = {"limited": 0, "semi-limited": 1, "": 2}
     return order.get(status, 2)
+
+
+def _parse_optional_float(text: str) -> Optional[float]:
+    text = text.strip()
+    if not text:
+        return None
+    try:
+        return float(text)
+    except ValueError:
+        return None
 
 
 def _format_usage_cell(count: float, pct: float) -> str:
@@ -117,6 +146,10 @@ class UsageStatsApp(tk.Tk):
         self._tooltip_win: Optional[tk.Toplevel] = None
         self._tooltip_row: Optional[str] = None
         self._tooltip_after_id: Optional[str] = None
+        self._filter_min: Dict[str, tk.StringVar] = {}
+        self._filter_max: Dict[str, tk.StringVar] = {}
+        self._filter_text: Dict[str, tk.StringVar] = {}
+        self._filter_ban_var = tk.StringVar(value="Any")
 
         self._build_ui()
         if self._formats:
@@ -167,6 +200,8 @@ class UsageStatsApp(tk.Tk):
 
         self._status_var = tk.StringVar(value="Ready")
         ttk.Label(top, textvariable=self._status_var).pack(side=tk.LEFT)
+
+        self._build_filter_bar()
 
         style = ttk.Style(self)
         style.configure("Card.Treeview", rowheight=ROW_HEIGHT, indent=0)
@@ -235,6 +270,106 @@ class UsageStatsApp(tk.Tk):
         self._tree.bind("<Leave>", lambda _e: self._hide_desc_tooltip())
 
         self._placeholder = self._client.placeholder_photo(self)
+
+    def _build_filter_bar(self) -> None:
+        bar = ttk.LabelFrame(self, text="Column filters", padding=(8, 6))
+        bar.pack(fill=tk.X, padx=8, pady=(0, 4))
+
+        row = ttk.Frame(bar)
+        row.pack(fill=tk.X)
+
+        for col in NUMERIC_FILTER_COLUMNS:
+            label = FILTER_COLUMN_LABELS.get(col, COLUMN_LABELS.get(col, col))
+            frame = ttk.Frame(row)
+            frame.pack(side=tk.LEFT, padx=(0, 10))
+            ttk.Label(frame, text=f"{label}:").pack(side=tk.LEFT)
+            min_var = tk.StringVar()
+            max_var = tk.StringVar()
+            self._filter_min[col] = min_var
+            self._filter_max[col] = max_var
+            ttk.Entry(frame, width=5, textvariable=min_var).pack(side=tk.LEFT, padx=(2, 0))
+            ttk.Label(frame, text="–").pack(side=tk.LEFT)
+            ttk.Entry(frame, width=5, textvariable=max_var).pack(side=tk.LEFT, padx=(0, 0))
+            for var in (min_var, max_var):
+                var.trace_add("write", lambda *_: self._on_filter_change())
+
+        ban_frame = ttk.Frame(row)
+        ban_frame.pack(side=tk.LEFT, padx=(0, 10))
+        ttk.Label(ban_frame, text="Ban:").pack(side=tk.LEFT)
+        ban_combo = ttk.Combobox(
+            ban_frame,
+            textvariable=self._filter_ban_var,
+            values=("Any", "Unlimited", "Limited", "Semi-Limited"),
+            state="readonly",
+            width=12,
+        )
+        ban_combo.pack(side=tk.LEFT, padx=(2, 0))
+        ban_combo.bind("<<ComboboxSelected>>", lambda _e: self._on_filter_change())
+
+        for col in TEXT_FILTER_COLUMNS:
+            label = COLUMN_LABELS.get(col, col)
+            frame = ttk.Frame(row)
+            frame.pack(side=tk.LEFT, padx=(0, 10))
+            ttk.Label(frame, text=f"{label}:").pack(side=tk.LEFT)
+            var = tk.StringVar()
+            self._filter_text[col] = var
+            ttk.Entry(frame, width=10, textvariable=var).pack(side=tk.LEFT, padx=(2, 0))
+            var.trace_add("write", lambda *_: self._on_filter_change())
+
+        ttk.Button(row, text="Clear filters", command=self._clear_column_filters).pack(
+            side=tk.LEFT, padx=(8, 0)
+        )
+
+    def _clear_column_filters(self) -> None:
+        for var in self._filter_min.values():
+            var.set("")
+        for var in self._filter_max.values():
+            var.set("")
+        for var in self._filter_text.values():
+            var.set("")
+        self._filter_ban_var.set("Any")
+        self._on_filter_change()
+
+    def _on_filter_change(self) -> None:
+        self._refresh_table()
+        self._schedule_visible_load()
+
+    def _passes_column_filters(self, row: dict[str, Any]) -> bool:
+        for col in NUMERIC_FILTER_COLUMNS:
+            lo = _parse_optional_float(self._filter_min[col].get())
+            hi = _parse_optional_float(self._filter_max[col].get())
+            if lo is None and hi is None:
+                continue
+            if col in PCT_FILTER_FIELD:
+                value = float(row[PCT_FILTER_FIELD[col]])
+            else:
+                value = row.get(col)
+                if value is None:
+                    return False
+                value = float(value)
+            if lo is not None and value < lo:
+                return False
+            if hi is not None and value > hi:
+                return False
+
+        ban_sel = self._filter_ban_var.get()
+        if ban_sel != "Any":
+            status = row.get("ban_status", "")
+            if ban_sel == "Unlimited" and status != "":
+                return False
+            if ban_sel == "Limited" and status != "limited":
+                return False
+            if ban_sel == "Semi-Limited" and status != "semi-limited":
+                return False
+
+        for col in TEXT_FILTER_COLUMNS:
+            needle = self._filter_text[col].get().strip().casefold()
+            if not needle:
+                continue
+            hay = str(row.get(col) or "").casefold()
+            if needle not in hay:
+                return False
+        return True
 
     def _on_yscroll(self, first: str, last: str) -> None:
         self._vsb.set(first, last)
@@ -326,8 +461,9 @@ class UsageStatsApp(tk.Tk):
         return self._deck_type_key_by_label.get(label)
 
     def _refresh_deck_type_choices(self, format_name: str) -> None:
-        labels = [ALL_DECKS_LABEL]
-        key_by_label: Dict[str, Optional[str]] = {ALL_DECKS_LABEL: None}
+        all_label = format_all_decks_label(load_decks_processed(format_name))
+        labels = [all_label]
+        key_by_label: Dict[str, Optional[str]] = {all_label: None}
         for name, count in list_deck_types(format_name):
             label = f"{name} ({count})"
             labels.append(label)
@@ -335,7 +471,7 @@ class UsageStatsApp(tk.Tk):
         self._deck_type_labels = labels
         self._deck_type_key_by_label = key_by_label
         self._deck_type_combo.configure(values=labels)
-        self._deck_type_var.set(ALL_DECKS_LABEL)
+        self._deck_type_var.set(all_label)
 
     def _on_query_change(self) -> None:
         self._refresh_table()
@@ -538,6 +674,7 @@ class UsageStatsApp(tk.Tk):
         rows = self._display_rows
         if q:
             rows = [r for r in rows if q in r["name"].casefold()]
+        rows = [r for r in rows if self._passes_column_filters(r)]
         key_fn = SORT_KEYS[self._sort_column]
         return sorted(rows, key=key_fn, reverse=self._sort_reverse)
 
